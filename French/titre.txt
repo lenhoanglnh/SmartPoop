@@ -1,6 +1,6 @@
 ---
 title: L'IA, ça va chier !!
-author: Scott Chacon
+author: Lê Nguyên Hoang
 rights:  Creative Commons Attribution 4.0
 language: FR
 ...
