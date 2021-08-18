@@ -1,0 +1,6 @@
+---
+title: L'IA, ça va chier !!
+author: Scott Chacon
+rights:  Creative Commons Attribution 4.0
+language: FR
+...
