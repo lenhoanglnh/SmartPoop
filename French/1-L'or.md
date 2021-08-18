@@ -34,7 +34,7 @@ Finissant sa coupe de champagne, elle se demande qui est à l’origine du terme
 Une prise de sang « n'envahit » que rarement le corps de gens. 
 Parlant de corps, le sien lui rappelle soudain qu’il est temps d’aller faire ses besoins.
 
-## Eurêka
+### Eurêka
 
 Assise sur la cuvette, le clapotis de son urine résonnant au fond de la cuvette frappe alors son esprit. 
 Katia lève la tête, et son visage abattu se transforme tout à coup en un sourire radieux. 
@@ -83,7 +83,7 @@ La couleur donne aussi des informations sur le fonctionnement du foie ou la pré
 
 Katia n’écoutait déjà plus réfléchissant au type d’analyse colorimétrique qu’elle pourrait intégrer à leurs algorithmes. 
 
-## L'application est en ligne !
+### L'application est en ligne !
 
 En mars 2019, Katia défend sa thèse. 
 Une semaine plus tard, l’application SmartPoop est rendue disponible sur le Google Play Store et sur l’Apple Store. 
@@ -120,7 +120,7 @@ Et si ses collègues semblent approuver publiquement ses positions éthiques,
 à chaque fois que Katia émet des propositions concrètes, 
 ces propositions sont accueillies avec scepticisme ou avec silence.
 
-## Le ROVID-19
+### Le ROVID-19
 
 Fin novembre 2019, toutefois, 
 un événement va bouleverser le futur de l’humanité en général, 
@@ -155,58 +155,222 @@ alors que les tests médicaux se mettent en place petit à petit.
 Les estimations de janvier sont terrifiantes. 
 Des centaines de milliers de personnes à travers le monde semblent déjà affectées, et des dizaines de milliers de victimes ont déjà succombé.
 
-Une suspicion initiale prend petit à petit de l’ampleur dans la communauté scientifique, notamment suite à l’observation d’une montée fulgurante de cas chez les techniciens de traitement des eaux usées. De plus en plus de données, notamment issues d’analyses chimiques d’excréments des malades, suggèrent que le virus du ROVID-19 se propage principalement via les flatulences des personnes infectées. 
+Une suspicion initiale prend petit à petit de l’ampleur dans la communauté scientifique, 
+notamment suite à l’observation d’une montée fulgurante de cas chez les techniciens de traitement des eaux usées. 
+De plus en plus de données, 
+notamment issues d’analyses chimiques d’excréments des malades, 
+suggèrent que le virus du ROVID-19 se propage principalement via les flatulences des personnes infectées. 
 
-“Une très belle étude d’une équipe de Montpellier a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet”, précisait souvent Marc afin de détendre l’atmosphère angoissante qui régnait alors.Le port de couches filtrantes est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
+« Une très belle étude d’une équipe de Montpellier a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet », 
+précisait souvent Marc afin de détendre l’atmosphère angoissante qui régnait alors.
+Le port de couches filtrantes est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
 
-Et si SmartPoop pouvait aider ? Voilà une question que Marc pose à Katia peu de temps après le début du confinement. Katia répond qu’elle est malheureusement épuisée et débordée par la migration de nombreux produits de son entreprise vers des solutions adaptées au télétravail. Mais alors que Katia est encore en train de résoudre des bugs dans ses codes à 11 heures du soir, Marc insiste.
+### La quête de données
 
-« On sait que le virus du ROVID-19 est non seulement très présent, mais aussi très actif dans les selles. C’est même très certainement par là qu’il se diffuse le plus. Mais ça veut aussi dire qu’il y laisse des traces. Aujourd’hui, on détecte ces traces en cherchant directement des bouts d’ARN du virus avec des méthodes de biologie classiques. Mais si le virus est si présent, il est possible qu’il laisse une trace visible dans les selles ; qu’il rende les selles visuellement différentes. J’ai vu quelques photos de matières contaminée, et malheureusement, ça ne m’a pas sauté aux yeux. Mais s’il y existe une infime différence, peut-être qu’un algorithme, lui, sera capable de voir la différence. »
+Et si SmartPoop pouvait aider ? 
+Voilà une question que Marc pose à Katia peu de temps après le début du confinement. 
+Katia répond qu’elle est malheureusement épuisée et débordée par la migration de nombreux produits de son entreprise vers des solutions adaptées au télétravail. 
+Mais alors que Katia est encore en train de résoudre des bugs dans ses codes à 11 heures du soir, Marc insiste.
 
-Cette dernière phrase attire tout à coup l’attention de Katia. Et si SmartPoop pouvait diagnostiquer le ROVID-19, peut-être même avant que les symptômes ne se déclarent ? Et si, en utilisant SmartPoop, on pouvait ainsi demander l’isolation uniquement des personnes infectées par le ROVID-19 ? Ceci pourrait mettre fin à la pandémie sans même qu’on ait besoin de développer des traitements ou des vaccins efficaces. Le diagnostic précoce pourrait non seulement sauver des vies ; il pourrait éviter à l’humanité des confinements globaux, avec tous les risques que ceux-ci posent en termes d’économie, de politique et, peut-être surtout, de bien-être mental.
+> On sait que le virus du ROVID-19 est non seulement très présent, mais aussi très actif dans les selles. 
+> C’est même très certainement par là qu’il se diffuse le plus. Mais ça veut aussi dire qu’il y laisse des traces. 
+> Aujourd’hui, on détecte ces traces en cherchant directement des bouts d’ARN du virus avec des méthodes de biologie classiques. 
+> Mais si le virus est si présent, il est possible qu’il laisse une trace visible dans les selles ; 
+> qu’il rende les selles visuellement différentes. 
+> J’ai vu quelques photos de matières contaminée, et malheureusement, ça ne m’a pas sauté aux yeux. 
+> Mais s’il y existe une infime différence, peut-être qu’un algorithme, lui, sera capable de voir la différence.
 
-« Il nous faut des données de patients malades. Beaucoup de données de beaucoup de patients malades », s’exclame Katia. « Tu penses que tu peux nous avoir ça ? »
+Cette dernière phrase attire tout à coup l’attention de Katia. 
+Et si SmartPoop pouvait diagnostiquer le ROVID-19, peut-être même avant que les symptômes ne se déclarent ? 
+Et si, en utilisant SmartPoop, on pouvait ainsi demander l’isolation uniquement des personnes infectées par le ROVID-19 ? 
+Ceci pourrait mettre fin à la pandémie sans même qu’on ait besoin de développer des traitements ou des vaccins efficaces. 
+Le diagnostic précoce pourrait non seulement sauver des vies ; 
+il pourrait éviter à l’humanité des confinements globaux, avec tous les risques que ceux-ci posent en termes d’économie, de politique et, peut-être surtout, de bien-être mental.
 
-Marc passe alors des journées à contacter tous les collègues dans son carnet d’adresse, puis tous les médecins qu’il connaît sur Facebook, puis tous les médecins qu’il trouve sur Twitter, pour les supplier de photographier les déjections des malades dans les hôpitaux. La plupart ne répondent pas. Certains rétorquent avec des insultes. « Vous avez déjà été dans un hôpital ? On est déjà débordé pour sauver des vies. On n’est pas là pour alimenter un compte Instagram de merdes », commentent les plus agressifs. « Ils abusent… On ne peut mettre aucun filtre, et tu ne peux pas en faire de story », ironise Marc.
+> Il nous faut des données de patients malades, s’exclame Katia. 
+> Beaucoup de données de beaucoup de patients malades !
+> Tu penses que tu peux nous avoir ça ?
 
-Katia adapte alors le site web SmartPoop.com pour appeler les médecins, mais aussi le grand public à contribuer. Elle y demande aux utilisateurs d’utiliser SmartPoop pour prendre des photos de leurs excréments, et de renseigner sur la plateforme leur état de santé jour après jour. Elle supplie également les médecins d’encourager leurs patients à utiliser SmartPoop. 
+Marc passe alors des journées à contacter tous les collègues dans son carnet d’adresse, 
+puis tous les médecins qu’il connaît sur Facebook, puis tous les médecins qu’il trouve sur Twitter, 
+pour les supplier de photographier les déjections des malades dans les hôpitaux. 
+La plupart ne répondent pas. 
+Certains rétorquent avec des insultes. 
+« Vous avez déjà été dans un hôpital ? 
+On est déjà débordé pour sauver des vies. 
+On n’est pas là pour alimenter un compte Instagram de merdes », 
+commentent les plus agressifs. 
+« Ils abusent... On ne peut mettre aucun filtre, et tu ne peux pas en faire de story », ironise Marc.
 
-Katia contacte aussi des médiateurs scientifiques, sur Twitter et sur YouTube, pour qu’ils communiquent sur ce projet. Science4Alpha, une vidéaste scientifique avec 200 000 abonnés accepte de vulgariser le projet de Katia. La vidéo très pédagogique de Science4Alpha récolte 100 000 vues dès la première semaine, et conduit à l’adoption de SmartPoop par des dizaines de milliers d’utilisateurs.
+Katia adapte alors le site web SmartPoop.com pour appeler les médecins, 
+mais aussi le grand public à contribuer. 
+Elle y demande aux utilisateurs d’utiliser SmartPoop pour prendre des photos de leurs excréments, 
+et de renseigner sur la plateforme leur état de santé jour après jour. 
+Elle supplie également les médecins d’encourager leurs patients à utiliser SmartPoop. 
 
-En mai 2020, alors que les nombres de cas diminuent lentement, mais demeurent encore très élevés, SmartPoop récolte quotidiennement des centaines de milliers de photographies. Des dizaines de millions de photos d’excréments. Malheureusement, si les algorithmes de Katia distinguent aisément les diarrhées glairosanglantes des cas avancés, ils échouent encore à détecter une quelconque différence entre les cas infectés pré-symptomatiques et les cas sains.
+Katia contacte aussi des médiateurs scientifiques, sur Twitter et sur YouTube, 
+pour qu’ils communiquent sur ce projet. 
+Science4Alpha, une vidéaste scientifique avec 200 000 abonnés accepte de vulgariser le projet de Katia. 
+La vidéo très pédagogique de Science4Alpha récolte 100 000 vues dès la première semaine, 
+et conduit à l’adoption de SmartPoop par des dizaines de milliers d’utilisateurs.
 
-« Ça semble peine perdue », s’exaspère Katia auprès de Marc. « On s’est lancé dans un pari. On avait peu de chances de gagner. Mais si on gagnait, on aurait sauvé l’humanité. On n’a pas gagné… Mais je pense qu’on a bien fait d’essayer. » Déçu, Marc reconnaît que les confinements vont probablement s’éterniser, probablement pendant des années, le temps qu’un vaccin efficace soit développé, testé et déployé à très grande échelle — si tant est qu’il voit le jour un jour. Pendant ce temps, le ROVID-19 ne cessera de se diffuser. 
+En mai 2020, alors que les nombres de cas diminuent lentement, mais demeurent encore très élevés, 
+SmartPoop récolte quotidiennement des centaines de milliers de photographies. 
+Des dizaines de millions de photos d’excréments. 
+Malheureusement, si les algorithmes de Katia distinguent aisément les diarrhées glairosanglantes des cas avancés, 
+ils échouent encore à détecter une quelconque différence entre les cas infectés pré-symptomatiques et les cas sains.
 
-En entendant ces mots, Katia se lève, agitant son index droit qui illustre alors le bouillonnement intellectuel qui anime ses neurones. « Se diffuser… Mais oui ! C’est ça. » Katia se jette alors sur son ordinateur, et se met à coder. Marc la suit et demande des explications. Quelle est la nouvelle idée de Katia ?
+> Ça semble peine perdue, s’exaspère Katia auprès de Marc. 
+> On s’est lancé dans un pari. 
+> On avait peu de chances de gagner. 
+> Mais si on gagnait, on aurait sauvé l’humanité. 
+> On n’a pas gagné... 
+> Mais je pense qu’on a bien fait d’essayer. 
+> Il faut juger le pari. Pas le résultat.
 
-« Le virus du ROVID-19 se diffuse particulièrement bien à travers les flatulences. Mais de ce que je comprends, d’habitude, les flatulences ne diffusent pas très loin, car nous portons des culottes et des pantalons. Bon aussi des jupes et des robes... Mais oublions les jupes et les robes. Elles sont interdites depuis des mois maintenant ! Pour que le ROVID-19 se diffuse vraiment bien, il doit probablement affecter la manière dont les gaz sont produits et se diffusent. Mais ce gaz, il doit aussi être présent dans les excréments ! Et on devrait le voir. Mais pas dans une photo. Pour le voir, il faut une vidéo ! »
+Déçu, Marc reconnaît que les confinements vont probablement s’éterniser, probablement pendant des années, 
+le temps qu’un vaccin efficace soit développé, testé et déployé à très grande échelle — 
+si tant est qu’il voit le jour un jour. 
+Pendant ce temps, le ROVID-19 ne cessera de se diffuser. 
 
-C’est ainsi que SmartPoop propose désormais, non pas de photographier les excréments, mais de les filmer ! Quelques jours plus tards, des centaines de milliers de vidéos de quelques secondes sont collectées par SmartPoop. Katia, qui n’a pas dormi entre temps, est alors sur le point d’achever la conception des nouveaux algorithmes de SmartPoop, désormais adaptés à l’analyse de vidéos.
+En entendant ces mots, Katia se lève, 
+agitant son index droit qui illustre alors le bouillonnement intellectuel qui anime ses neurones. 
+« Se diffuser… Mais oui ! C’est ça. » 
+Katia se jette alors sur son ordinateur, et se met à coder. 
+Marc la suit et demande des explications. 
+Quelle est la nouvelle idée de Katia ?
 
-À 4 heures du matin, Katia rentre dans la chambre de Marc pour le réveiller. « J’ai fini l’algorithme. Il faut que tu vois ça. » Marc se réveille en sursaut, court aller chercher une bouteille de champagne et rejoint Katia dans le salon. Katia explique qu’elle a entraîné son algorithme avec 90% de la base de données de SmartPoop, et qu’elle s’apprête à tester les performances de l’algorithme sur les 10% restants. Katia explique que ces 10% restants ont été tirés au hasard, avec la simple contrainte qu’ils contiennent autant d’excréments infectés pré-symptomatiques que d’excréments sains. Si l’algorithme échoue, alors il aura un taux de reconnaissance d’excréments de 50%. S’il est parfait, sa précision sera de 100%. 
+### SmartPoop versus ROVID-19
 
-Il ne reste plus qu’à lancer le test de l’algorithme pour connaître sa performance. Katia et Marc se lancent dans un décompte. Cinq. Quatre. Trois. Deux. Un. Le test est lancé. Dix secondes plus tard, 10% du test est effectué. Il faudra donc attendre encore une minute et demi pour avoir les résultats. Pendant cette longue minute et demi, Katia et Marc ont le souffle coupé. Enfin, le résultat s’affiche. Le verdict : 52,4%.
+> Le virus du ROVID-19 se diffuse particulièrement bien à travers les flatulences. 
+> Mais de ce que je comprends, d’habitude, les flatulences ne diffusent pas très loin, car nous portons des culottes et des pantalons. 
+> Bon aussi des jupes et des robes... 
+> Mais oublions les jupes et les robes. 
+> Elles sont interdites depuis des mois maintenant ! 
+> Pour que le ROVID-19 se diffuse vraiment bien, il doit probablement affecter la manière dont les gaz sont produits et se diffusent. 
+> Mais ce gaz, il doit aussi être présent dans les excréments ! 
+> Et on devrait le voir. 
+> Mais pas dans une photo. 
+> Pour le voir, il faut une vidéo ! »
 
-Tête baissée, Marc se lève, et part remettre le champagne au réfrigérateur. Katia, elle, s’affale dans le canapé. Quand Marc revient dans le salon, Katia dort déjà. Il va lui chercher une couverture pour lui éviter de prendre froid. Puis il va se coucher à son tour. Le lendemain, Marc se réveille à 15 heures. Katia dort encore. En fait, Katia dormira vingt heures de suite.
+C’est ainsi que SmartPoop propose désormais, non pas de photographier les excréments, mais de les filmer ! 
+Quelques jours plus tards, des centaines de milliers de vidéos de quelques secondes sont collectées par SmartPoop. 
+Katia, qui n’a pas dormi entre temps, est alors sur le point d’achever la conception des nouveaux algorithmes de SmartPoop, désormais adaptés à l’analyse de vidéos.
 
-C’est encore au beau milieu de la nuit que Katia réveille tout à coup Marc. « Cinq écarts-types, cinq écart-types », répète-t-elle ! Le test n’a pas échoué. Il est en fait assez nettement au-dessus de 50%. « Mais un taux de succès de 52,4% ne nous aidera absolument pas à arrêter le ROVID-19 », questionne Marc. 
+À 4 heures du matin, Katia rentre dans la chambre de Marc pour le réveiller. 
+« J’ai fini l’algorithme. Il faut que tu vois ça. » 
+Marc se réveille en sursaut, court aller chercher une bouteille de champagne et rejoint Katia dans le salon. 
+Katia explique qu’elle a entraîné son algorithme avec 90% de la base de données de SmartPoop, 
+et qu’elle s’apprête à tester les performances de l’algorithme sur les 10% restants. 
+Katia explique que ces 10% restants ont été tirés au hasard, 
+avec la simple contrainte qu’ils contiennent autant d’excréments infectés pré-symptomatiques que d’excréments sains. 
+Si l’algorithme échoue, alors il aura un taux de reconnaissance d’excréments de 50%. 
+S’il est parfait, sa précision sera de 100%. 
 
-Katia explique alors que, en effet, l’algorithme actuel est très largement insuffisant. Cependant, la supériorité de 52,4% par rapport à 50%, cela suffit à suggérer que SmartPoop est bel et bien en train de relever un signal distinctif des excréments infectés. « Si SmartPoop ne détectait absolument rien, alors on s’attendrait à un taux d’erreur de 50% », explique Katia. « Mais pas exactement de 50%, à cause des fluctuations statistiques. Sachant que le test a été effectué sur des dizaines de milliers de vidéos d’excréments, on s’attendrait à obtenir 50% plus ou moins un erreur de l’ordre de 0,5%. Or, là, on est à 52,4%, soit 2,4% de plus que 50%. Un écart de 2,4%, c’est donc presque 5 fois la fluctuation de 0,5%. C’est beaucoup. Et ça veut dire que la distinction existe très probablement ! SmartPoop n’est simplement pas encore capable de l’identifier ! »
+Il ne reste plus qu’à lancer le test de l’algorithme pour connaître sa performance. 
+Katia et Marc se lancent dans un décompte. 
+Cinq. Quatre. Trois. Deux. Un. Le test est lancé. 
 
-Marc demande à Katia ce qu’il manque pour discerner ce signal. Katia répond : « Si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données. Et il va nous falloir aussi beaucoup de machines pour analyser toutes ces données ». 
+Dix secondes plus tard, 10% du test est effectué. 
+Il faudra donc attendre encore une minute et demi pour avoir les résultats. 
+Pendant cette longue minute et demi, Katia et Marc ont le souffle coupé. 
+Enfin, le résultat s’affiche. 
+Le verdict : 52,4%.
 
-Katia et Marc décident alors de se lancer à corps perdu dans le développement de SmartPoop. Katia démissionne de son entreprise, et passe désormais jour et nuit à améliorer les algorithmes de SmartPoop et à promouvoir l’application. Elle loue alors plus de puissances de calculs encore sur les serveurs d’Amazon Web Service, et appelle aussi ses anciens camarades de thèse, pour qu’ils l’aident dans le développement de SmartPoop.
+Tête baissée, Marc se lève, et part remettre le champagne au réfrigérateur. 
+Katia, elle, s’affale dans le canapé. 
+Quand Marc revient dans le salon, Katia dort déjà. 
+Il va lui chercher une couverture pour lui éviter de prendre froid. 
+Puis il va se coucher à son tour. 
+Le lendemain, Marc se réveille à 15 heures. 
+Katia dort encore. 
+En fait, Katia dormira vingt heures de suite.
 
-Marc, lui, passe son temps à tester SmartPoop, et à suggérer des améliorations de l’interface pour rendre son utilisation plus facile et compréhensible pour tous ces utilisateurs. Marc contacte également régulièrement différents médias, et les appelle à promouvoir SmartPoop pour recueillir davantage d’utilisateurs et de données. Science4Alpha parle régulièrement des progrès de SmartPoop dans ses vidéos YouTube, et encourage ses collègues du web à en faire de même.
+### Le réveil de SmartPoop
 
-Jour après jour, la performance de SmartPoop s’améliore. En juillet, elle passe à 55%. En août, elle passe à 60%. Katia et Marc sont désormais invités sur les plateaux de télévision, pour parler de SmartPoop. Les journaux nationaux titrent : « Filmez vos excréments pour sortir du confinement ! » 
+C’est encore au beau milieu de la nuit que Katia réveille tout à coup Marc. 
+« Cinq écarts-types, cinq écart-types », répète-t-elle ! 
+Le test n’a pas échoué. 
+Il est en fait assez nettement au-dessus de 50%. 
+« Mais un taux de succès de 52,4% ne nous aidera absolument pas à arrêter le ROVID-19 », questionne Marc. 
+Katia explique alors que, en effet, l’algorithme actuel est très largement insuffisant. 
+Cependant, la supériorité de 52,4% par rapport à 50%, 
+cela suffit à suggérer que SmartPoop est bel et bien en train de relever un signal distinctif des excréments infectés. 
 
-C’est alors qu’un investisseur, appelé Luc, décide d’investir 10 millions d’euros pour 10% de SmartPoop, dont Katia et Marc deviennent alors co-fondateurs. SmartPoop embauche ainsi ses premiers développeurs, chargés d’améliorer l’application et les algorithmes de SmartPoop, ainsi que des commerciaux pour encourager l’adoption massive de l’application. Cet argent permet aussi de payer les factures de plus en plus importantes des serveurs de calculs.
+> Si SmartPoop ne détectait absolument rien, alors on s’attendrait à un taux d’erreur de 50%, explique Katia. 
+> Mais pas exactement de 50%, à cause des fluctuations statistiques. 
+> Sachant que le test a été effectué sur des dizaines de milliers de vidéos d’excréments, 
+> on s’attendrait à obtenir 50% plus ou moins un erreur de l’ordre de 0,5%. 
+> Or, là, on est à 52,4%, soit 2,4% de plus que 50%. 
+> Un écart de 2,4%, c’est donc presque 5 fois la fluctuation de 0,5%. 
+> C’est beaucoup. 
+> Et ça veut dire que la distinction existe très probablement ! 
+> SmartPoop n’est simplement pas *encore* capable de l’identifier !
 
-En décembre 2020, SmartPoop possède désormais près de 100 millions d’utilisateurs réguliers, et plusieurs milliards de vidéos d’excréments atteignant un total de 135 000 années de vidéos. Mais surtout, les performances de SmartPoop atteignent alors 90%. L’application est alors auditée et approuvée par les autorités sanitaires, qui encouragent désormais son adoption massive. Après une année complète de confinement, en janvier 2021, celui-ci est enfin levé, et la population retrouve une vie plus normale.
+Marc demande à Katia ce qu’il manque pour discerner ce signal. 
+Katia répond : 
+« Si on veut diagnostiquer quoi que ce soit, il faut des données. 
+Beaucoup de données. 
+Et il va nous falloir aussi beaucoup de machines pour analyser toutes ces données ». 
 
-« C’est super », explique Marc à la télévision nationale. « Le taux de reproduction de base du ROVID-19 est autour de 8. Si on suppose que dès qu’un individu est diagnostiqué positif par SmartPoop, alors lui et ses colocataires s’isolent chez eux, sachant que le taux d’erreur est de 10%, on devrait ainsi diviser le taux de reproduction par 10, ce qui théoriquement nous ramène à 0,8. Comme 0,8 est en dessous de 1, cela nous donne une chance de contenir le ROVID-19, sans requérir de confinement global. Mais bien sûr, il ne s’agit là que d’estimations. Il reste crucial que l’on prenne encore soin de la distanciation physique, des gestes barrières et du port de couche, et de surveiller constamment le taux de reproduction effectif qui détermine comment la maladie se propage. »
+Katia et Marc décident alors de se lancer à corps perdu dans le développement de SmartPoop. 
+Katia démissionne de son entreprise, 
+et passe désormais jour et nuit à améliorer les algorithmes de SmartPoop et à promouvoir l’application. 
+Elle loue alors plus de puissances de calculs encore sur les serveurs d’Amazon Web Service, 
+et appelle aussi ses anciens camarades de thèse, 
+pour qu’ils l’aident dans le développement de SmartPoop.
 
-Petit à petit, tous les pays au monde adoptent SmartPoop, désormais utilisé par 3 milliards d’humains sur terre. Le ROVID-19 est alors contenu à quelques milliers de cas seulement par pays. Fin 2021, l’Organisation Mondiale de la Santé l’annonce publiquement. Grâce à SmartPoop, dont la précision atteint désormais 99%, le ROVID-19 est désormais déclaré contenu.
+Marc, lui, passe son temps à tester SmartPoop, 
+et à suggérer des améliorations de l’interface pour rendre son utilisation plus facile et compréhensible pour tous ces utilisateurs. 
+Marc contacte également régulièrement différents médias, 
+et les appelle à promouvoir SmartPoop pour recueillir davantage d’utilisateurs et de données. 
+Science4Alpha parle régulièrement des progrès de SmartPoop dans ses vidéos YouTube, 
+et encourage ses collègues du web à en faire de même.
+
+Jour après jour, la performance de SmartPoop s’améliore. 
+En juillet, elle passe à 55%. 
+En août, elle passe à 60%. 
+Katia et Marc sont désormais invités sur les plateaux de télévision, pour parler de SmartPoop. 
+Les journaux nationaux titrent : 
+« Filmez vos excréments pour sortir du confinement ! » 
+
+C’est alors qu’un investisseur, appelé Luc, décide d’investir 10 millions d’euros pour 10% de SmartPoop, 
+dont Katia et Marc deviennent alors co-fondateurs. 
+SmartPoop embauche ainsi ses premiers développeurs, 
+chargés d’améliorer l’application et les algorithmes de SmartPoop, 
+ainsi que des commerciaux pour encourager l’adoption massive de l’application. 
+Cet argent permet aussi de payer les factures de plus en plus importantes des serveurs de calculs.
+
+### Le triomphe de SmartPoop
+
+En décembre 2020, SmartPoop possède désormais près de 100 millions d’utilisateurs réguliers, 
+et plusieurs milliards de vidéos d’excréments atteignant un total de 135 000 années de vidéos. 
+Mais surtout, les performances de SmartPoop atteignent alors 90%. 
+L’application est alors auditée et approuvée par les autorités sanitaires, 
+qui encouragent désormais son adoption massive. 
+Après une année complète de confinement, en janvier 2021, celui-ci est enfin levé, 
+et la population retrouve une vie plus normale.
+
+> C’est super, explique Marc à la télévision nationale. 
+> Le taux de reproduction de base du ROVID-19 est autour de 8. 
+> Si on suppose que dès qu’un individu est diagnostiqué positif par SmartPoop, 
+> alors lui et ses colocataires s’isolent chez eux, sachant que le taux d’erreur est de 10%, 
+> on devrait ainsi diviser le taux de reproduction par 10, ce qui théoriquement nous ramène à 0,8. 
+> Comme 0,8 est en dessous de 1, cela nous donne une chance de contenir le ROVID-19, sans requérir de confinement global. 
+> Mais bien sûr, il ne s’agit là que d’estimations. 
+> Il reste crucial que l’on prenne encore soin de la distanciation physique, des gestes barrières et du port de couche, 
+> et de surveiller constamment le taux de reproduction effectif qui détermine comment la maladie se propage.
+
+Petit à petit, tous les pays au monde adoptent SmartPoop, 
+désormais utilisé par 3 milliards d’humains sur terre. 
+Le ROVID-19 est alors contenu à quelques milliers de cas seulement par pays. 
+Fin 2021, l’Organisation Mondiale de la Santé l’annonce publiquement. 
+Grâce à SmartPoop, dont la précision atteint désormais 99%, 
+le ROVID-19 est désormais déclaré contenu.
 
 
+## Pour aller plus loin 
+
+La suite du roman, c'est [par ici que ça se passe](2-Filtrer.md) !  
+Vous pouvez aussi accéder au [débrief scientifique du Chapitre 1](1-debrief.md).  
+Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !
