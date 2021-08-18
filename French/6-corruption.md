@@ -1,2 +1,1 @@
-# Chapitre 6
-## Les étrons contaminés
+# Chapitre 6 — Les étrons contaminés

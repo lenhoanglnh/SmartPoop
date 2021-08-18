@@ -1,2 +1,1 @@
-# Chapitre 4
-## Les fuites sanitaires
+# Chapitre 4 — Les fuites sanitaires

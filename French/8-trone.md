@@ -1,3 +1,2 @@
-# Chapitre 8
-## Sur le trône
+# Chapitre 8 — Sur le trône
 

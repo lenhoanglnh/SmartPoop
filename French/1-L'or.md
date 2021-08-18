@@ -1,48 +1,159 @@
-# Chapitre 1 
-## L'or marron
+# Chapitre 1 — L'or marron
 
-La bouteille de champagne ouverte, les verres enfin servis, Marc Rofstein demande l’attention des cinq invités de la soirée organisée par Katia Crapinski, dans leur colocation.
+La bouteille de champagne ouverte, les verres enfin servis, 
+Marc Rofstein demande l’attention des cinq invités de la soirée organisée par Katia Crapinski, dans leur colocation.
 
-« Chers amis, j’aimerais qu’on prenne quelques instants pour féliciter solennellement Katia. Son dernier article de recherche a été accepté pour publication, ce qui signifie que Katia a maintenant tout ce qu’il faut pour écrire et valider sa thèse de doctorat en machine learning. Donc si vous le voulez bien, je vous invite à lever vos verres, et à célébrer la bientôt Docteure Katia — même si, contrairement à moi, Katia ne sera pas une docteure qui sauve des vies. À la bientôt Docteure Katia ! »
+> Chers amis, j’aimerais qu’on prenne quelques instants pour féliciter solennellement Katia. 
+> Son dernier article de recherche a été accepté pour publication, 
+> ce qui signifie que Katia a maintenant tout ce qu’il faut pour écrire et valider sa thèse de doctorat en machine learning. 
+> Donc si vous le voulez bien, je vous invite à lever vos verres, et à célébrer la bientôt Docteure Katia — 
+> même si, contrairement à moi, Katia ne sera pas une docteure qui sauve des vies. 
+> À la bientôt Docteure Katia !
 
-Plus tard dans la soirée, après avoir souligné son appréciation de la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l’humanité. Sa recherche jusque-là se contente d’améliorer les performances d’algorithmes déjà existants. Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux et l’optimisation de la publicité ciblée sur ces plateformes. Cette même technologie ne peut-elle pas être davantage utilisée à sauver des vies et à améliorer le bien-être du plus grand nombre ?
+Plus tard dans la soirée, après avoir souligné son appréciation de la blague de son colocataire, 
+Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l’humanité. 
+Sa recherche jusque-là se contente d’améliorer les performances d’algorithmes déjà existants. 
+Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux et l’optimisation de la publicité ciblée sur ces plateformes. 
+Cette même technologie ne peut-elle pas être davantage utilisée à sauver des vies et à améliorer le bien-être du plus grand nombre ?
 
-Marc, encore étudiant en cancérologie, suggère alors l’utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chance d’être traité avec succès, et avec moins de risques et de complications. « Ça commence à se faire en plus », précise Marc. « L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter des cancers de peau sur des photos ». Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
+Marc, encore étudiant en cancérologie, suggère alors l’utilisation des algorithmes pour le diagnostic précoce. 
+Un cancer diagnostiqué tôt a plus de chance d’être traité avec succès, et avec moins de risques et de complications. 
+« Ça commence à se faire en plus », précise Marc. 
+« L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter des cancers de peau sur des photos ». 
+Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. 
+À ce stade, des soins risqués et coûteux sont nécessaires.
 
-« Si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données », fait remarquer Katia. Malheureusement, la simple collecte de données est une tâche laborieuse, délicate et intrusive pour le grand public, qui préfère ne pas se préoccuper des risques de cancer. « On n’arrive déjà pas à convaincre les gens de réduire leur consommation de tabac ou d’alcool », note Marc. « Si on veut avoir une chance quelconque d’effectuer des diagnostics précoces, il faut se concentrer sur des données très informatives. Mais ce genre de données sont généralement trop invasives à récupérer. Je ne connais pas beaucoup de volontaires pour se faire faire des prises de sang à répétition par exemple… » Katia se sent alors très abattue. Finissant sa coupe de champagne, elle se demande qui est à l’origine du terme « invasif » que Marc utilise souvent. Une prise de sang « n'envahit » que rarement le corps de gens. Parlant de corps, le sien lui rappelle soudain qu’il est temps d’aller faire ses besoins.
+Si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données », fait remarquer Katia. 
+Malheureusement, la simple collecte de données est une tâche laborieuse, délicate et intrusive pour le grand public, qui préfère ne pas se préoccuper des risques de cancer. 
+« On n’arrive déjà pas à convaincre les gens de réduire leur consommation de tabac ou d’alcool », note Marc. 
+« Si on veut avoir une chance quelconque d’effectuer des diagnostics précoces, il faut se concentrer sur des données très informatives. 
+Mais ce genre de données sont généralement trop invasives à récupérer. 
+Je ne connais pas beaucoup de volontaires pour se faire faire des prises de sang à répétition par exemple... » 
+Katia se sent alors très abattue. 
+Finissant sa coupe de champagne, elle se demande qui est à l’origine du terme « invasif » que Marc utilise souvent. 
+Une prise de sang « n'envahit » que rarement le corps de gens. 
+Parlant de corps, le sien lui rappelle soudain qu’il est temps d’aller faire ses besoins.
 
-Assise sur la cuvette, le clapotis de son urine résonnant au fond de la cuvette frappe alors son esprit. Katia lève la tête, et son visage abattu se transforme tout à coup en un sourire radieux. Archimède avait sa baignoire, Katia eut ses WC ! En sortant des toilettes, elle se lance alors dans un discours solennel qui, l’avenir le dira, marquera l’histoire de l’espèce humaine.
+## Eurêka
 
-« Marc, je viens de trouver l’idée du siècle. Je sais comment résoudre ce problème de diagnostic ! Tu l’as dit. Il nous faut des données. Beaucoup de données très informatives, mais aussi très simples à collecter. Des données qu’on n’aura pas besoin d’extraire violemment des corps humains ; parce que ces données sortent naturellement du corps humains. Ces données ont parcouru tout le corps humain, et contiennent en elles toutes sortes de traces de l’état de ce corps. Ces données, aujourd’hui, on les jette à chaque fois qu’on tire la chasse. Mais imagine tout ce qu’on pourrait diagnostiquer si, au lieu de les balancer dans les égouts, on collectait soigneusement ces données et on prenait le temps de les analyser ! Marc, il faut qu’on analyse le pipi et le caca ! » 
+Assise sur la cuvette, le clapotis de son urine résonnant au fond de la cuvette frappe alors son esprit. 
+Katia lève la tête, et son visage abattu se transforme tout à coup en un sourire radieux. 
+Archimède avait sa baignoire, Katia eut ses WC ! 
+En sortant des toilettes, elle se lance alors dans un discours solennel qui, l’avenir le dira, marquera l’histoire de l’espèce humaine.
 
-Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce projet d’analyse d’excréments. Ils concluent que le produit idéal serait des toilettes intelligentes, capables notamment de mesurer et d’analyser les excréments sous toutes leurs coutures avant leur périple dans les eaux usées. Cependant, un tel produit nécessiterait des années de recherche et développement, et donc un grand nombre d’investisseurs. Pour commencer, les deux amis penchent vers un projet moins ambitieux. Après tout, comme Katia le fait remarquer, le meilleur outil de collecte d’information moderne est le téléphone. Pourquoi ne pas l’utiliser pour prendre des photographies des excréments ? “Il faudra juste s’assurer que le logiciel ne confonde pas les selfies de certains avec leurs fèces…” précisa Marc.
+> Marc, je viens de trouver l’idée du siècle. 
+> Je sais comment résoudre ce problème de diagnostic ! 
+> Tu l’as dit. 
+> Il nous faut des données. 
+> Beaucoup de données très informatives, mais aussi très simples à collecter. 
+> Des données qu’on n’aura pas besoin d’extraire violemment des corps humains ; 
+> parce que ces données sortent naturellement du corps humains. 
+> Ces données ont parcouru tout le corps humain, et contiennent en elles toutes sortes de traces de l’état de ce corps. 
+> Ces données, aujourd’hui, on les jette à chaque fois qu’on tire la chasse. 
+> Mais imagine tout ce qu’on pourrait diagnostiquer si, au lieu de les balancer dans les égouts, 
+> on collectait soigneusement ces données et on prenait le temps de les analyser ! 
+> Marc, il faut qu’on analyse le pipi et le caca !
 
-C’est ainsi qu’est conçu petit à petit SmartPoop, destiné à être une application de collecte d’échantillons photographiques de matière fécale et d’analyse automatisée de ces images à l’aide d’algorithmes de machine learning. Pendant les mois qui suivent, Katia écrit sa thèse de doctorat le jour, et programme SmartPoop jusque tard dans la nuit. 
+Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce projet d’analyse d’excréments. 
+Ils concluent que le produit idéal serait des toilettes intelligentes, capables notamment de mesurer et d’analyser les excréments sous toutes leurs coutures avant leur périple dans les eaux usées. 
+Cependant, un tel produit nécessiterait des années de recherche et développement, et donc un grand nombre d’investisseurs. 
+Pour commencer, les deux amis penchent vers un projet moins ambitieux. 
+Après tout, comme Katia le fait remarquer, le meilleur outil de collecte d’information moderne est le téléphone. 
+Pourquoi ne pas l’utiliser pour prendre des photographies des excréments ? 
+« Il faudra juste s’assurer que le logiciel ne confonde pas les selfies de certains avec leurs fèces », précisa Marc.
 
-Pendant ce temps, Marc s’informe sur la coprologie. Il télécharge des bases de données publiques d’excréments, et prend le soin de vérifier leurs annotations. Certains excréments sont des petites boules solides ; une nette indication de constipation. D’autres sont une bouillie presque liquide ; une bonne grosse diarrhée. Certains étrons ont une forme parfaitement ondulée ; un signe de très bonne santé intestinale ! La couleur donne aussi des informations sur le fonctionnement du foie ou la présence de sang.
+C’est ainsi qu’est conçu petit à petit SmartPoop, 
+destiné à être une application de collecte d’échantillons photographiques de matière fécale et d’analyse automatisée de ces images à l’aide d’algorithmes de machine learning. 
+Pendant les mois qui suivent, Katia écrit sa thèse de doctorat le jour, et programme SmartPoop jusque tard dans la nuit. 
 
-- « Tu sais, en fait les selles devraient être incolores ou blanchâtres. Elles sont surtout composées d’eau et de fibres après tout », expliquait Marc à Katia lors de l’une de leurs soirées de travail. “Mais c’est un déchet des globules rouges, la bilirubine, qui les rend foncés. C’est le foie qui s’occupe de la traiter et de la “mettre” dans les excréments. »
-- « Je vois... et du coup quand le foie de fonctionne pas on devient marron ? »
-- « Nan, jaune, c’est ce qu’on appelle l’ictère. Ou “jaunisse” si tu préfères et les selles deviennent blanchâtres. Mais vois tu... »
+Pendant ce temps, Marc s’informe sur la coprologie. 
+Il télécharge des bases de données publiques d’excréments, et prend le soin de vérifier leurs annotations. 
+Certains excréments sont des petites boules solides ; une nette indication de constipation. 
+D’autres sont une bouillie presque liquide ; une bonne grosse diarrhée. 
+Certains étrons ont une forme parfaitement ondulée ; un signe de très bonne santé intestinale ! 
+La couleur donne aussi des informations sur le fonctionnement du foie ou la présence de sang.
+
+> - Tu sais, en fait, les selles devraient être incolores ou blanchâtres. 
+> Elles sont surtout composées d’eau et de fibres après tout, expliquait Marc à Katia lors de l’une de leurs soirées de travail. 
+> Mais c’est un déchet des globules rouges, la bilirubine, qui les rend foncés. 
+> C’est le foie qui s’occupe de la traiter et de la « mettre » dans les excréments.
+> - Je vois... et du coup quand le foie de fonctionne pas on devient marron ? »
+> - Nan, jaune, c’est ce qu’on appelle l’ictère. 
+> Ou « jaunisse » si tu préfères et les selles deviennent blanchâtres. Mais vois tu...
+
 Katia n’écoutait déjà plus réfléchissant au type d’analyse colorimétrique qu’elle pourrait intégrer à leurs algorithmes. 
 
-En mars 2019, Katia défend sa thèse. Une semaine plus tard, l’application SmartPoop est rendue disponible sur le Google Play Store et sur l’Apple Store. Dans sa version initiale, SmartPoop permet ainsi aux utilisateurs de créer une base de données dans les déjections solides, que Marc passe chaque soirée à analyser. “J’ai passé des soirées merdiques pendant ma médecine, à voir des trucs peu ragoûtants…  mais celles-là étaient presque les pires" dira plus tard Marc. SmartPoop dispose aussi de fonctionnalités d’intelligence artificielle. Elle apprend ainsi progressivement des données, quotidiennement étiquetées par Marc, et généralise ainsi les annotations de Marc pour prédire les risques de constipation ou de diarrhées chez les utilisateurs.
+## L'application est en ligne !
 
-Katia passe alors ces journées à améliorer son application la nuit, et à promouvoir SmartPoop le jour alors dans différents instituts. Elle intervient, en particulier, dans les instituts de recherche, dans les hôpitaux et dans les établissements d'hébergement pour personnes âgées dépendantes, mais aussi dans les réseaux d’entrepreneurs comme la Station F à Paris. Son TEDx à HEC lui vaut une ovation d’un public conquis par l’opportunité sanitaire.
+En mars 2019, Katia défend sa thèse. 
+Une semaine plus tard, l’application SmartPoop est rendue disponible sur le Google Play Store et sur l’Apple Store. 
+Dans sa version initiale, SmartPoop permet ainsi aux utilisateurs de créer une base de données dans les déjections solides, que Marc passe chaque soirée à analyser. 
+« J’ai passé des soirées merdiques pendant ma médecine, à voir des trucs peu ragoûtants...  
+mais celles-là étaient presque les pires », dira plus tard Marc. 
+SmartPoop dispose aussi de fonctionnalités d’intelligence artificielle. 
+Elle apprend ainsi progressivement des données, quotidiennement étiquetées par Marc, 
+et généralise ainsi les annotations de Marc pour prédire les risques de constipation ou de diarrhées chez les utilisateurs.
 
-Cependant, après des mois de promotions, SmartPoop ne décolle pas. Si l’application est téléchargée 1587 fois, elle n’est utilisée quotidiennement que par 75 utilisateurs (dont une vingtaine parmi les proches de Katia et Marc). En plein juillet 2019, Katia se rend à l’évidence : SmartPoop est un échec. 
+Katia passe alors ces journées à améliorer son application la nuit, 
+et à promouvoir SmartPoop le jour alors dans différents instituts. 
+Elle intervient, en particulier, dans les instituts de recherche, dans les hôpitaux et dans les établissements d'hébergement pour personnes âgées dépendantes, 
+mais aussi dans les réseaux d’entrepreneurs comme la Station F à Paris. 
+Son TEDx à HEC lui vaut une ovation d’un public conquis par l’opportunité sanitaire.
 
-« SmartPoop deviendrait incontournable si on avait beaucoup plus de données pour entraîner des algorithmes plus sophistiqués, pour ensuite prédire des maladies plus rares et plus dangereuses. Le potentiel sanitaire reste énorme », explique-t-elle à Marc. « Mais on a grandement sur-estimé la motivation des utilisateurs à soutenir un tel projet de santé public... Malheureusement, je ne vois pas comment acquérir plus de données. Même si on continue notre travail de promotion pendant des années, on risque de ne jamais dépasser 1000 utilisateurs réguliers. SmartPoop, c’est sans espoir. »
+Cependant, après des mois de promotions, SmartPoop ne décolle pas. 
+Si l’application est téléchargée 1587 fois, elle n’est utilisée quotidiennement que par 75 utilisateurs (dont une vingtaine parmi les proches de Katia et Marc). 
+En plein juillet 2019, Katia se rend à l’évidence : SmartPoop est un échec. 
 
-Katia décide alors de rentrer dans le rang, et accepte un emploi de développement informatique dans une grande entreprise, qu’elle débute en septembre. Malgré l’environnement de travail exceptionnel qui lui est offert, Katia est toutefois frustrée de travailler sur des algorithmes qui ne lui semblent pas profiter à l’humanité. Pire encore, ses nombreuses interrogations sur l’éthique des algorithmes qu’elle développe sont soit ignorées, soit adressées avec des belles paroles sans fondement concret ni réaliste. Et si ses collègues semblent approuver publiquement ses positions éthiques, à chaque fois que Katia émet des propositions concrètes, ces propositions sont accueillies avec scepticisme ou avec silence.
+> SmartPoop deviendrait incontournable si on avait beaucoup plus de données pour entraîner des algorithmes plus sophistiqués, pour ensuite prédire des maladies plus rares et plus dangereuses, explique-t-elle à Marc. 
+> Le potentiel sanitaire reste énorme. 
+> Mais on a grandement sur-estimé la motivation des utilisateurs à soutenir un tel projet de santé public... 
+> Malheureusement, je ne vois pas comment acquérir plus de données. 
+> Même si on continue notre travail de promotion pendant des années, on risque de ne jamais dépasser 1000 utilisateurs réguliers. 
+> SmartPoop, c’est sans espoir. 
 
-Fin novembre 2019, toutefois, un événement va bouleverser le futur de l’humanité en général, et celui de Katia en particulier. La Syldavie déclare une multiplication préoccupante d’une nouvelle pathologie très contagieuse et potentiellement mortelle, qui semble affecter des milliers de syldaves, et qui semble avoir déjà fait des centaines de victimes. Le mois suivant, en décembre 2019, des cas similaires sont observés en Sondonésie et, bientôt, dans de plus en plus de pays aux quatre coins du monde. L’Organisation Mondiale de la Santé déclare l’état d’urgence : une nouvelle pandémie est en train de sévir.
+Katia décide alors de rentrer dans le rang, 
+et accepte un emploi de développement informatique dans une grande entreprise, qu’elle débute en septembre. 
+Malgré l’environnement de travail exceptionnel qui lui est offert, 
+Katia est toutefois frustrée de travailler sur des algorithmes qui ne lui semblent pas profiter à l’humanité. 
+Pire encore, ses nombreuses interrogations sur l’éthique des algorithmes qu’elle développe sont soit ignorées, soit adressées avec des belles paroles sans fondement concret ni réaliste. 
+Et si ses collègues semblent approuver publiquement ses positions éthiques, 
+à chaque fois que Katia émet des propositions concrètes, 
+ces propositions sont accueillies avec scepticisme ou avec silence.
 
-On apprend alors que le coupable est un nouveau rotavirus, et la terrible maladie qu’il cause est baptisée « ROtaVIrus Disease 2019 », ou ROVID-19. Le ROVID-19 cause de nombreux symptômes dérangeants, comme des maux gastriques, des maux de têtes, une fatigue accrue, des lourdes diarrhées, des grosses fièvres, des vomissements et des tremblements, qui conduisent près de 10% des personnes infectées vers le décès. Cette terrible maladie semble particulièrement mortelle chez les jeunes de moins de 30 ans.
+## Le ROVID-19
 
-Mais ce qui rend le ROVID-19 extrêmement dangereux, c’est son extrême contagiosité. Pire encore, le traçage des cas d’infections montre que cette contagiosité est particulièrement grande deux ou trois jours avant que les premiers symptômes se déclarent. On parle de contaminations pré-symptomatiques. Les personnes contaminantes ne sont pas encore conscientes d’être malades quand elles transmettent la maladie aux autres. Le taux de reproduction de base du virus, c’est-à-dire le nombre moyen d’individus qu’une personne infectée va contaminer, est estimée être autour de 8. La croissance exponentielle de la pandémie terrifie rapidement toutes les agences sanitaires, tous les hôpitaux et tous les gouvernements du monde.
+Fin novembre 2019, toutefois, 
+un événement va bouleverser le futur de l’humanité en général, 
+et celui de Katia en particulier. 
+Le Bokistan déclare une multiplication préoccupante d’une nouvelle pathologie très contagieuse et potentiellement mortelle, 
+qui semble affecter des milliers de bokistanais, 
+et qui semble avoir déjà fait des centaines de victimes. 
+Le mois suivant, en décembre 2019, 
+des cas similaires sont observés en Kormique et, bientôt, 
+dans de plus en plus de pays aux quatre coins du monde. 
+L’Organisation Mondiale de la Santé déclare l’état d’urgence : 
+une nouvelle pandémie est en train de sévir.
 
-À partir de début janvier 2020, tous les pays à travers le globe entrent tour à tour dans des périodes de confinement, alors que les tests médicaux se mettent en place petit à petit. Les estimations de janvier sont terrifiantes. Des centaines de milliers de personnes à travers le monde semblent déjà affectées, et des dizaines de milliers de victimes ont déjà succombé.
+On apprend alors que le coupable est un nouveau rotavirus, 
+et la terrible maladie qu’il cause est baptisée « ROtaVIrus Disease 2019 », ou ROVID-19. 
+Le ROVID-19 cause de nombreux symptômes dérangeants, 
+comme des maux gastriques, des maux de têtes, une fatigue accrue, des lourdes diarrhées, des grosses fièvres, des vomissements et des tremblements, 
+qui conduisent près de 10% des personnes infectées vers le décès. 
+Cette terrible maladie semble particulièrement mortelle chez les jeunes de moins de 30 ans.
+
+Mais ce qui rend le ROVID-19 extrêmement dangereux, c’est son extrême contagiosité. 
+Pire encore, le traçage des cas d’infections montre que cette contagiosité est particulièrement grande deux ou trois jours avant que les premiers symptômes se déclarent. 
+On parle de contaminations *pré-symptomatiques*. 
+Les personnes contaminantes ne sont pas encore conscientes d’être malades quand elles transmettent la maladie aux autres. 
+Le taux de reproduction de base du virus, 
+c’est-à-dire le nombre moyen d’individus qu’une personne infectée va contaminer, 
+est estimée être autour de 8. 
+La croissance exponentielle de la pandémie terrifie rapidement toutes les agences sanitaires, tous les hôpitaux et tous les gouvernements du monde.
+
+À partir de début janvier 2020, tous les pays à travers le globe entrent tour à tour dans des périodes de confinement, 
+alors que les tests médicaux se mettent en place petit à petit. 
+Les estimations de janvier sont terrifiantes. 
+Des centaines de milliers de personnes à travers le monde semblent déjà affectées, et des dizaines de milliers de victimes ont déjà succombé.
 
 Une suspicion initiale prend petit à petit de l’ampleur dans la communauté scientifique, notamment suite à l’observation d’une montée fulgurante de cas chez les techniciens de traitement des eaux usées. De plus en plus de données, notamment issues d’analyses chimiques d’excréments des malades, suggèrent que le virus du ROVID-19 se propage principalement via les flatulences des personnes infectées. 
 

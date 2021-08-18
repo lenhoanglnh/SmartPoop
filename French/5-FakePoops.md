@@ -1,4 +1,3 @@
-# Chapitre 5
-## Les FakePoops
+# Chapitre 5 — Les FakePoops
 
 

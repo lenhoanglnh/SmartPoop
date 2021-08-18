@@ -1,2 +1,1 @@
-# Chapitre 3
-## Le biais étroniste
+# Chapitre 3 — Le biais étroniste

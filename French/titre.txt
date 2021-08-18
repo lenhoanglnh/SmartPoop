@@ -1,5 +1,6 @@
 ---
 title: L'IA, ça va chier !!
+subtitle: C'est l'histoire d'une IA merdique qui prit le trône
 author: Lê Nguyên Hoang
 rights:  Creative Commons Attribution 4.0
 language: FR

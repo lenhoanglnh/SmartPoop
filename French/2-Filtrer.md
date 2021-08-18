@@ -1,5 +1,4 @@
-# Chapitre 2
-## Filtrer les données fécales
+# Chapitre 2 — Filtrer les données fécales
 
 
 Le couple sort tremblant de l'hôpital, quelques mots épars prononcés par le cancérologue quelques minutes plus tôt résonnent encore dans leurs têtes. "Échappement thérapeutique”, “métastases osseuses”, “traitements expérimentaux”. Lucile, qui accompagnait son mari pour la consultation, connaît bien ces termes. Elle en a déjà lu les définitions sur internet, plusieurs fois et elle sait bien à quoi cela correspond pour celui qu’elle aime. "Ça va aller” dit-il en retenant ses larmes…. "Ça va aller”. Deux ans plus tard, malgré des séances de chimiothérapie intensive, le mari de Lucile meurt. 
