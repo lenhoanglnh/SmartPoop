@@ -73,12 +73,12 @@ D’autres sont une bouillie presque liquide ; une bonne grosse diarrhée.
 Certains étrons ont une forme parfaitement ondulée ; un signe de très bonne santé intestinale ! 
 La couleur donne aussi des informations sur le fonctionnement du foie ou la présence de sang.
 
-> - Tu sais, en fait, les selles devraient être incolores ou blanchâtres. 
+> — Tu sais, en fait, les selles devraient être incolores ou blanchâtres. 
 > Elles sont surtout composées d’eau et de fibres après tout, expliquait Marc à Katia lors de l’une de leurs soirées de travail. 
 > Mais c’est un déchet des globules rouges, la bilirubine, qui les rend foncés. 
 > C’est le foie qui s’occupe de la traiter et de la « mettre » dans les excréments.
-> - Je vois... et du coup quand le foie de fonctionne pas on devient marron ? »
-> - Nan, jaune, c’est ce qu’on appelle l’ictère. 
+> — Je vois... et du coup quand le foie de fonctionne pas on devient marron ? »
+> — Nan, jaune, c’est ce qu’on appelle l’ictère. 
 > Ou « jaunisse » si tu préfères et les selles deviennent blanchâtres. Mais vois tu...
 
 Katia n’écoutait déjà plus réfléchissant au type d’analyse colorimétrique qu’elle pourrait intégrer à leurs algorithmes. 
