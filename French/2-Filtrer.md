@@ -40,7 +40,7 @@ Elle y apprend que la banane moderne n’a rien de naturel.
 Selon l’auteur de la vidéo, la banane résulte de manipulations par des groupes agro-alimentaires. 
 La vidéo fait aussi intervenir un témoin masqué. 
 
-> Le potassium a été injecté dans les bananes naturelles pour en retirer les noyaux et pour qu’elles se vendent ainsi », affirme-t-il. 
+> Le potassium a été injecté dans les bananes naturelles pour en retirer les noyaux et pour qu’elles se vendent ainsi, affirme-t-il. 
 > Ça a rapporté des milliards d’euros aux exploitations industrielles. 
 > Quand j’ai démontré que le potassium était radioactif, j’ai reçu des menaces. 
 > Et quand j’ai insisté, j’ai été licencié.
@@ -320,7 +320,7 @@ un nouveau design de SmartPoop est établi.
 nous avons opté pour leur communiquer uniquement des informations très simples et très fiables, 
 tout en ajoutant des liens vers des informations plus complètes.
 
-> Vous avez notamment décidé d’embaucher un YouTubeur scientifique ?
+> Vous avez notamment décidé d’embaucher un YouTubeur scientifique ?
 
 > Oui en effet. Science4Alpha est une pédagogue exceptionnelle, 
 > qui nous a supporté très tôt dans notre démarche, 
