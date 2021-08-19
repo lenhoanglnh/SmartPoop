@@ -291,9 +291,8 @@ tout en ajoutant des liens vers des informations plus complètes.
 
 ## Pour aller plus loin 
 
-La suite du roman, c'est [par ici que ça se passe](3-Biais.md) !  
-Vous pouvez aussi accéder au [débrief scientifique du Chapitre 2](2-debrief.md).  
-Vous pouvez retrouver la [table des sommaires](README.md) du livre.
+Ne vous arrêtez pas en si bon chemin !
+Accédez au [débrief scientifique du chapitre](2-debrief.md), à [la suite du roman](3-Biais.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !
 
 

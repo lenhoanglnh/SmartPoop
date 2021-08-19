@@ -73,12 +73,14 @@ D’autres sont une bouillie presque liquide ; une bonne grosse diarrhée.
 Certains étrons ont une forme parfaitement ondulée ; un signe de très bonne santé intestinale ! 
 La couleur donne aussi des informations sur le fonctionnement du foie ou la présence de sang.
 
-> — Tu sais, en fait, les selles devraient être incolores ou blanchâtres. 
+> Tu sais, en fait, les selles devraient être incolores ou blanchâtres. 
 > Elles sont surtout composées d’eau et de fibres après tout, expliquait Marc à Katia lors de l’une de leurs soirées de travail. 
 > Mais c’est un déchet des globules rouges, la bilirubine, qui les rend foncés. 
 > C’est le foie qui s’occupe de la traiter et de la « mettre » dans les excréments.
-> — Je vois... et du coup quand le foie de fonctionne pas on devient marron ? »
-> — Nan, jaune, c’est ce qu’on appelle l’ictère. 
+
+> Je vois... et du coup quand le foie de fonctionne pas on devient marron ?
+
+> Nan, jaune, c’est ce qu’on appelle l’ictère. 
 > Ou « jaunisse » si tu préfères et les selles deviennent blanchâtres. Mais vois tu...
 
 Katia n’écoutait déjà plus réfléchissant au type d’analyse colorimétrique qu’elle pourrait intégrer à leurs algorithmes. 
@@ -371,6 +373,6 @@ le ROVID-19 est désormais déclaré contenu.
 
 ## Pour aller plus loin 
 
-La suite du roman, c'est [par ici que ça se passe](2-Filtrer.md) !  
-Vous pouvez aussi accéder au [débrief scientifique du Chapitre 1](1-debrief.md).  
+Ne vous arrêtez pas en si bon chemin !
+Accédez au [débrief scientifique du chapitre](1-debrief.md), à [la suite du roman](2-Filtrer.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !
