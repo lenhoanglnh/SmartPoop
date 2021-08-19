@@ -1,8 +1,22 @@
 # Chapitre 4 — Les fuites sanitaires
 
-C’est un séisme. Contre toute attente, le 4 septembre 2021, Jules Lartan, Président du Bokistan, décide de sortir son pays de la COP 27, la conférence internationale des parties sur les mesures à prendre pour lutter contre le changement climatique. Pâle et visiblement épuisé, il tient le discours suivant devant la presse.
+C’est un séisme. 
+Contre toute attente, le 4 septembre 2021, 
+Jules Lartan, Président du Bokistan, 
+décide de sortir son pays de la COP 27, 
+la conférence internationale des parties sur les mesures à prendre pour lutter contre le changement climatique. 
+Pâle et visiblement épuisé, il tient le discours suivant devant la presse.
 
-C’est une décision difficile. Le changement climatique est une menace sérieuse au futur de l’humanité. Cependant, les exigences de nos partenaires internationaux sont injustement disproportionnées. Notre succès économique a conduit beaucoup trop de ces partenaires à systématiquement nous identifier comme étant la seule cause du dérèglement climatique actuel. Les Bokistanais sont un peuple qui ne méritent pas un tel jugement, ni un tel mépris. J’ai ainsi préféré protéger les nôtres, plutôt que de succomber à la tyrannie pseudo-morale de nos partenaires internationaux. Nous persisterons à combattre le changement climatique. Cependant, nous le ferons avec calme et enthousiasme, et avec notre propre souveraineté ; pas selon le bon vouloir de nos partenaires. Vive le Bokistan libre.
+> C’est une décision difficile. 
+Le changement climatique est une menace sérieuse au futur de l’humanité. 
+Cependant, les exigences de nos partenaires internationaux sont injustement disproportionnées. 
+Notre succès économique a conduit beaucoup trop de ces partenaires à systématiquement nous identifier comme étant la seule cause du dérèglement climatique actuel. 
+Les Bokistanais sont un peuple qui ne méritent pas un tel jugement, ni un tel mépris. 
+J’ai ainsi préféré protéger les nôtres, plutôt que de succomber à la tyrannie pseudo-morale de nos partenaires internationaux. 
+Nous persisterons à combattre le changement climatique. 
+Cependant, nous le ferons avec calme et enthousiasme, et avec notre propre souveraineté ; 
+pas selon le bon vouloir de nos partenaires. 
+Vive le Bokistan libre.
 
 Devant sa télévision, Célia Keita n’en croit pas ses oreilles. Cette journaliste d’investigation a suivi de près les débats de la COP 27. Si le Président Lartan n’y a pas eu un rôle moteur, il semblait toutefois loin d’être réticent aux négociations pour lutter contre le changement climatique. Après tout, sa propre campagne présidentielle insistait beaucoup sur les valeurs familiales, et l’importance de préparer au mieux le futur des prochaines générations en luttant contre le changement climatique. Comment a-t-il pu en venir à un tel volte-face ? 
 
