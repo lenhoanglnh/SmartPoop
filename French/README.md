@@ -37,7 +37,8 @@ et trouver des solutions pour rendre leurs algorithmes sécurisés et éthiques.
 [Sa recherche](https://scholar.google.ch/citations?user=0ZADKSkAAAAJ&hl=en&oi=ao) porte sur la sécurité et l'éthique des algorithmes, notamment sur [la théorie de l'apprentissage](https://arxiv.org/abs/2008.00742) et [la conception participative](https://arxiv.org/abs/2106.02398).
 Lê est aussi YouTubeur, sur les chaînes [Science4All](https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A/), [Axiome](https://www.youtube.com/channel/UCNHFiyWgsnaSOsMtSoV_Q1A/), [Étincelles, EPFL](https://www.youtube.com/channel/UC0o_ULEdwva8ksC63qvxMAA), [Wandida, EPFL](https://www.youtube.com/channel/UCD_VizaraVT9yDy1egNlWCQ/) et [ZettaBytes, EPFL](https://www.youtube.com/channel/UCfY6ovyFMaw30NRs-KrxrWw/).
 Il est l'auteur de trois livres, intitulés *[La formule du savoir](https://laboutique.edpsciences.fr/produit/1035/9782759822614/La%20formule%20du%20savoir)*, *[Le fabuleux chantier](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)* et *[Turing à la plage](https://www.dunod.com/sciences-techniques/turing-plage-intelligence-artificielle-dans-un-transat)*.
-Il est aussi Président de [l'Association Tournesol](https://wiki.tournesol.app), dont [la plateforme](https://tournesol.app) vise à collecter une grande base de données, fiable et sécurisé, de jugements éthiques humains, [pour contribuer à résoudre l'éthique des algorithmes](https://arxiv.org/abs/2107.07334).
+Il est aussi membre du conseil d'éthique d'Orange. 
+Enfin, Lê est Président de [l'Association Tournesol](https://wiki.tournesol.app), dont [la plateforme](https://tournesol.app) vise à collecter une grande base de données, fiable et sécurisé, de jugements éthiques humains, [pour contribuer à résoudre l'éthique des algorithmes](https://arxiv.org/abs/2107.07334).
 
 ### Tristan Le Magoarou
 
