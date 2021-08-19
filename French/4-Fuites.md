@@ -97,7 +97,7 @@ avec des images de profil typiques du site de création d’images d’individus
 Il ne fait plus aucun doute. 
 Célia a été la cible d’une campagne de désinformation.
 
-## Le cas Paul Gremoux
+### Le cas Paul Gremoux
 
 Célia note alors des similarités entre certains des comptes qui l’ont harcelé, 
 avec par exemple, des fautes d’orthographes aux mêmes endroits. 
