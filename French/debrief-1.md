@@ -1,6 +1,6 @@
 # Débrief scientifique du Chapitre 1
 
-Ceci est le débrief scientifique du [chapitre 1](1-L'or.md) du roman de science-fiction *L'IA, ça va chier*.
+Ceci est le débrief scientifique du [chapitre 1](1-L'or.md) du roman de science-fiction *[L'IA, ça va chier](README.md)*.
 
 ## Application des IA
 
