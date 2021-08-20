@@ -13,22 +13,24 @@ Marc Rofstein demande l’attention des cinq invités de la soirée organisée p
 Plus tard dans la soirée, après avoir souligné son appréciation de la blague de son colocataire, 
 Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l’humanité. 
 Sa recherche jusque-là se contente d’améliorer les performances d’algorithmes déjà existants. 
-Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux et l’optimisation de la publicité ciblée sur ces plateformes. 
+Cependant, Katia est bien consciente que ces progrès alimentent principalement [la recommandation de contenus addictifs par les réseaux sociaux et l’optimisation de la publicité ciblée sur ces plateformes](debrief-1.md#Application_des_IA). 
 Cette même technologie ne peut-elle pas être davantage utilisée à sauver des vies et à améliorer le bien-être du plus grand nombre ?
 
 Marc, encore étudiant en cancérologie, suggère alors l’utilisation des algorithmes pour le diagnostic précoce. 
 Un cancer diagnostiqué tôt a plus de chance d’être traité avec succès, et avec moins de risques et de complications. 
 « Ça commence à se faire en plus », précise Marc. 
-« L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter [des cancers de peau sur des photos](debrief-1.mdCancer_de_la_peau) ». 
+« L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter [des cancers de peau sur des photos](debrief-1.md#Cancer_de_la_peau) ». 
 Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. 
 À ce stade, des soins risqués et coûteux sont nécessaires.
 
-Si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données », fait remarquer Katia. 
+« Si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données », fait remarquer Katia. 
 Malheureusement, la simple collecte de données est une tâche laborieuse, délicate et intrusive pour le grand public, qui préfère ne pas se préoccuper des risques de cancer. 
-« On n’arrive déjà pas à convaincre les gens de réduire leur consommation de tabac ou d’alcool », note Marc. 
-« Si on veut avoir une chance quelconque d’effectuer des diagnostics précoces, il faut se concentrer sur des données très informatives. 
+
+> On n’arrive déjà pas à convaincre les gens de réduire leur consommation de tabac ou d’alcool, note Marc. 
+Si on veut avoir une chance quelconque d’effectuer des diagnostics précoces, il faut se concentrer sur des données très informatives. 
 Mais ce genre de données sont généralement trop invasives à récupérer. 
-Je ne connais pas beaucoup de volontaires pour se faire faire des prises de sang à répétition par exemple... » 
+Je ne connais pas beaucoup de volontaires pour se faire faire des prises de sang à répétition par exemple... 
+
 Katia se sent alors très abattue. 
 Finissant sa coupe de champagne, elle se demande qui est à l’origine du terme « invasif » que Marc utilise souvent. 
 Une prise de sang « n'envahit » que rarement le corps de gens. 
