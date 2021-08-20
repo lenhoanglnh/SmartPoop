@@ -19,7 +19,7 @@ Cette même technologie ne peut-elle pas être davantage utilisée à sauver des
 Marc, encore étudiant en cancérologie, suggère alors l’utilisation des algorithmes pour le diagnostic précoce. 
 Un cancer diagnostiqué tôt a plus de chance d’être traité avec succès, et avec moins de risques et de complications. 
 « Ça commence à se faire en plus », précise Marc. 
-« L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter des cancers de peau sur des photos ». 
+« L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter [des cancers de peau sur des photos](debrief-1.mdCancer_de_la_peau) ». 
 Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. 
 À ce stade, des soins risqués et coûteux sont nécessaires.
 
@@ -374,5 +374,5 @@ le ROVID-19 est désormais déclaré contenu.
 ## Pour aller plus loin 
 
 Ne vous arrêtez pas en si bon chemin !
-Accédez au [débrief scientifique du chapitre](1-debrief.md), à [la suite du roman](2-Filtrer.md) ou au [sommaire](README.md).  
+Accédez au [débrief scientifique du chapitre](debrief-1.md), à [la suite du roman](2-Filtrer.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !

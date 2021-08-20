@@ -13,6 +13,6 @@ Elle présente le projet Girasol.
 ## Pour aller plus loin 
 
 Voilà, le roman est fini !
-Accédez au [débrief scientifique du chapitre](8-debrief.md) ou revenir au [sommaire](README.md).  
+Accédez au [débrief scientifique du chapitre](debrief-8.md) ou revenir au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous.
 Nous vous en serions très reconnaissants !

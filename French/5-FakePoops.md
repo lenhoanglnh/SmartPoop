@@ -357,5 +357,5 @@ Tant qu’on n’y sera pas, SmartPoop restera vulnérable aux FakePoops.
 ## Pour aller plus loin 
 
 Ne vous arrêtez pas en si bon chemin !
-Accédez au [débrief scientifique du chapitre](5-debrief.md), à [la suite du roman](6-Corruption.md) ou au [sommaire](README.md).  
+Accédez au [débrief scientifique du chapitre](debrief-5.md), à [la suite du roman](6-Corruption.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !

@@ -458,5 +458,5 @@ et les investissements massifs pour son audit interne et externe.
 ## Pour aller plus loin 
 
 Ne vous arrêtez pas en si bon chemin !
-Accédez au [débrief scientifique du chapitre](4-debrief.md), à [la suite du roman](5-FakePoops.md) ou au [sommaire](README.md).  
+Accédez au [débrief scientifique du chapitre](debrief-4.md), à [la suite du roman](5-FakePoops.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !
