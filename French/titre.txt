@@ -4,4 +4,5 @@ subtitle: C'est l'histoire d'une IA merdique qui prit le trône
 author: Lê Nguyên Hoang et Tristan Le Magoarou
 rights:  Creative Commons Attribution 4.0
 language: FR
+documentclass: book
 ...
