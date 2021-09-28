@@ -118,29 +118,29 @@ Les jours qui suivent, Katia parle très régulièrement avec Poo, parfois à pr
 
 Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et sa motivation. Enfin, armée de cette technique de l’auto-affirmation, Katia se sent armée pour se frotter à SmartPoop et ses nouveaux actionnaires. Katia réactive alors ses applications de messagerie, et se reconnecte avec ses comptes des réseaux sociaux. Elle tombe sur un message récent de Marc, avec un lien vers une curieuse pétition. Katia clique dessus, et découvre la lettre ouverte suivante.
 
-Nous, soussignés, reconnaissons avoir volé, chiffré et paralysé toute la base de données SmartPoop, ou avoir participé, encouragé et soutenu les auteurs de ces actes. Nous avons conscience des risques juridiques que ceci nous fait encourir. Cependant, l’éthique de SmartPoop nous semble être un enjeu prioritaire à notre bien-être individuel, sachant que la sécurité et la santé de milliards d’utilisateurs à travers le monde dépend des produits de l’entreprise. En particulier, nous sommes tous fiers de suivre la voie initiée par la Docteure Katia Carpinski, à notre humble échelle.
-
-Nous sommes conscients des risques que cette interruption de service implique pour les utilisateurs de SmartPoop, et nous leur avons envoyé un message d'excuses, qui explique la situation actuelle et notre méfiance envers nos dirigeants. Nous sommes désolés d'avoir dû recourir à de telles mesures. Mais le #SmartPoopGate nous semble justifier notre contre-attaque.
-
-Rappelons brièvement le #SmartPoopGate. Depuis plusieurs années, Dr. Carpinski a lancé des initiatives révolutionnaires pour la sécurité et l’éthique des algorithmes, en combattant la mésinformation et les biais discriminatoires, en sécurisant les algorithmes pour protéger les données personnelles et contre les attaques par empoisonnement, et en instaurant un audit systématique interne et externe des codes de SmartPoop. Malheureusement, de tels projets sont inéluctablement très coûteux. 
-
-Faute d’aides suffisantes, SmartPoop a été contraint de passer en bourse, ce qui a attiré des investisseurs bien plus intéressés par leurs retours sur investissement que par l’impact sociétal de ces investissements. Ils ont contraint SmartPoop à revendre des données personnelles à des publicitaires. Dr. Carpinski a eu le courage et l’honnêteté de le révéler publiquement. Mais elle a été licenciée, et risque désormais des années de prison, pour avoir privilégié l’éthique à la loi. 
-
-Il est ironique que, pour cette attaque, nous avons exploité les vulnérabilités de l’API de redistribution des données SmartPoop aux clients publicitaires, qui est le seul morceau de code de SmartPoop exempté d’audits internes et externes. En effectuant un déploiement précipité et secret de ses algorithmes, SmartPoop se sera exposé tout seul.
-
-Nous avons utilisé un chiffrement multi-partie pour rendre la base de données de SmartPoop inutilisable. Aucun des auteurs de cette lettre n’a les droits pour rétablir seul le fonctionnement de ces algorithmes. Notre solution algorithmique garantit que ces algorithmes pourront être remis en place uniquement si 200 des 325 membres autorisés, qui sont tous co-auteurs de cette lettre, donnent leur accord cryptographique pour un tel rétablissement.
-
-Nous refuserons toute coopération avec les dirigeants de SmartPoop, tant que les conditions suivantes ne seront pas toutes remplies.
-
-Le conseil d'administration de SmartPoop doit renoncer à tous les procès à l'encontre de la Docteure Katia Carpinski, et lui présenter ses plus sincères excuses pour la manière dont elle a été traitée depuis ses révélations à l'OMESA. Nous exigeons également qu’elle retrouve son poste ô combien mérité de Présidente Directrice Générale de SmartPoop. Nous ne ferons confiance qu’à elle pour ramener SmartPoop sur le droit chemin, au service avant tout du bien-être et de la sécurité des milliards d’utilisateurs de SmartPoop et de toute la société civile.
-
-Les membres du conseil d’administration qui ont voté pour le licenciement de la Docteure Katia Carpinski, ainsi que des avocats qui ont mené les procès à son encontre, doivent démissionner, sauf avis contraire de Dr. Carpinski. Nous pensons que SmartPoop doit absolument redémarrer sur de bonnes bases, et pour cela, Dr. Carpinski doit pouvoir faire confiance à tous ses collaborateurs.
- 
-Le conseil d’administration doit être augmenté de dix membres, représentants de la société civile et de la recherche académique en sécurité et en éthique des algorithmes. Ces dix membres seront nommés par l'OMESA, et renouvelés tous les 4 ans.
-
-Pour ajouter votre nom à la liste des signataires et soutiens académiques, de la société civile et de l’industrie des technologies, veuillez envoyer un email à StandWithKatia@gmail.com avec votre adresse email institutionnelle, et avec le sujet “support”. Veuillez inclure dans votre email votre nom et votre affiliation, comme vous souhaitez qu’ils apparaissent dans la liste des signataires.
-
-À ce jour, cette lettre ouverte a été signée par 8 215 employés de SmartPoop, et 36 215 académiques, collègues de l’industrie et membres de la société civile.
+> Nous, soussignés, reconnaissons avoir volé, chiffré et paralysé toute la base de données SmartPoop, ou avoir participé, encouragé et soutenu les auteurs de ces actes. Nous avons conscience des risques juridiques que ceci nous fait encourir. Cependant, l’éthique de SmartPoop nous semble être un enjeu prioritaire à notre bien-être individuel, sachant que la sécurité et la santé de milliards d’utilisateurs à travers le monde dépend des produits de l’entreprise. En particulier, nous sommes tous fiers de suivre la voie initiée par la Docteure Katia Carpinski, à notre humble échelle.
+> 
+> Nous sommes conscients des risques que cette interruption de service implique pour les utilisateurs de SmartPoop, et nous leur avons envoyé un message d'excuses, qui explique la situation actuelle et notre méfiance envers nos dirigeants. Nous sommes désolés d'avoir dû recourir à de telles mesures. Mais le #SmartPoopGate nous semble justifier notre contre-attaque.
+> 
+> Rappelons brièvement le #SmartPoopGate. Depuis plusieurs années, Dr. Carpinski a lancé des initiatives révolutionnaires pour la sécurité et l’éthique des algorithmes, en combattant la mésinformation et les biais discriminatoires, en sécurisant les algorithmes pour protéger les données personnelles et contre les attaques par empoisonnement, et en instaurant un audit systématique interne et externe des codes de SmartPoop. Malheureusement, de tels projets sont inéluctablement très coûteux. 
+> 
+> Faute d’aides suffisantes, SmartPoop a été contraint de passer en bourse, ce qui a attiré des investisseurs bien plus intéressés par leurs retours sur investissement que par l’impact sociétal de ces investissements. Ils ont contraint SmartPoop à revendre des données personnelles à des publicitaires. Dr. Carpinski a eu le courage et l’honnêteté de le révéler publiquement. Mais elle a été licenciée, et risque désormais des années de prison, pour avoir privilégié l’éthique à la loi. 
+> 
+> Il est ironique que, pour cette attaque, nous avons exploité les vulnérabilités de l’API de redistribution des données SmartPoop aux clients publicitaires, qui est le seul morceau de code de SmartPoop exempté d’audits internes et externes. En effectuant un déploiement précipité et secret de ses algorithmes, SmartPoop se sera exposé tout seul.
+> 
+> Nous avons utilisé un chiffrement multi-partie pour rendre la base de données de SmartPoop inutilisable. Aucun des auteurs de cette lettre n’a les droits pour rétablir seul le fonctionnement de ces algorithmes. Notre solution algorithmique garantit que ces algorithmes pourront être remis en place uniquement si 200 des 325 membres autorisés, qui sont tous co-auteurs de cette lettre, donnent leur accord cryptographique pour un tel rétablissement.
+> 
+> Nous refuserons toute coopération avec les dirigeants de SmartPoop, tant que les conditions suivantes ne seront pas toutes remplies.
+> 
+> 1. Le conseil d'administration de SmartPoop doit renoncer à tous les procès à l'encontre de la Docteure Katia Carpinski, et lui présenter ses plus sincères excuses pour la manière dont elle a été traitée depuis ses révélations à l'OMESA. Nous exigeons également qu’elle retrouve son poste ô combien mérité de Présidente Directrice Générale de SmartPoop. Nous ne ferons confiance qu’à elle pour ramener SmartPoop sur le droit chemin, au service avant tout du bien-être et de la sécurité des milliards d’utilisateurs de SmartPoop et de toute la société civile.
+> 
+> 2. Les membres du conseil d’administration qui ont voté pour le licenciement de la Docteure Katia Carpinski, ainsi que des avocats qui ont mené les procès à son encontre, doivent démissionner, sauf avis contraire de Dr. Carpinski. Nous pensons que SmartPoop doit absolument redémarrer sur de bonnes bases, et pour cela, Dr. Carpinski doit pouvoir faire confiance à tous ses collaborateurs.
+> 
+> 3. Le conseil d’administration doit être augmenté de dix membres, représentants de la société civile et de la recherche académique en sécurité et en éthique des algorithmes. Ces dix membres seront nommés par l'OMESA, et renouvelés tous les 4 ans.
+> 
+> Pour ajouter votre nom à la liste des signataires et soutiens académiques, de la société civile et de l’industrie des technologies, veuillez envoyer un email à StandWithKatia@gmail.com avec votre adresse email institutionnelle, et avec le sujet “support”. Veuillez inclure dans votre email votre nom et votre affiliation, comme vous souhaitez qu’ils apparaissent dans la liste des signataires.
+> 
+> À ce jour, cette lettre ouverte a été signée par 8 215 employés de SmartPoop, et 36 215 académiques, collègues de l’industrie et membres de la société civile.
 
 Katia pleure de joie à la lecture de cette lettre formidable. « Quels héros », s’exclame-t-elle dans un message à Marc. « Katia, c’est grâce à toi tout cela ; s’il y a un héros dans cette affaire, c’est bien toi », lui répond Marc.
 
