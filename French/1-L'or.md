@@ -4,7 +4,14 @@ La bouteille de champagne ouverte, les verres enfin servis, Marc Rofstein demand
 
 > Chers amis, j’aimerais qu’on prenne quelques instants pour féliciter solennellement Katia. Son dernier article de recherche a été accepté pour publication, ce qui signifie que Katia a maintenant tout ce qu’il faut pour écrire et valider sa thèse de doctorat en machine learning. Donc si vous le voulez bien, je vous invite à lever vos verres, et à célébrer la bientôt Docteure Katia pour ses accomplissements — même si, contrairement à moi, Katia ne sera pas une docteure qui sauve des vies. À la bientôt Docteure Katia !
 
-Plus tard dans la soirée, après avoir prétendu avoir apprécié la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l’humanité. Sa recherche jusque-là se contente d’améliorer les performances d’algorithmes déjà existants. Cependant, Katia est bien consciente que ces progrès alimentent principalement [la recommandation de contenus addictifs par les réseaux sociaux et l’optimisation de la publicité ciblée sur ces plateformes](debrief-1.md#application-des-ia). Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
+Plus tard dans la soirée, après avoir prétendu avoir apprécié la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l’humanité. Sa recherche jusque-là se contente d’améliorer les performances d’algorithmes déjà existants. Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux et l’optimisation de la publicité ciblée sur ces plateformes[^application-des-ia]. Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
+
+[^application-des-ia]: De nos jours, les « intelligence artificielles » les plus sophistiquées, celles qui reçoivent des milliards de dollars d'investissements en recherche et développement (si ce n'est plus !), ce sont bien les algorithmes du web, car l'enjeu économique et le besoin d'automatisation y sont monumentaux.
+Après tout, les chiffres d'affaire de Google, Apple, Facebook, Amazon et Microsoft, entre autres, se comptent en centaines de milliards d'euros.
+Toute amélioration du service de quelques pourcents représente donc des milliards d'euros.
+Or ces entreprises doivent gérer des données de milliards d'utilisateurs, qui génèrent chacun sans doute des méga-octets de données par semaine.
+Voilà qui représente des quantités monstrueuses de données, qui ne peuvent être traitées que par des machines.
+Or les tâches sont de plus en plus complexes, comme détecter des incitations à la haine dans une image ou identifier la désinformation dans des milliards de messages.
 
 Marc, encore étudiant en cancérologie, suggère alors l’utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chance d’être traité avec succès, et avec moins de risques et de complications.
 
