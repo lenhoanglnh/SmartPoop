@@ -33,12 +33,11 @@ Malheureusement, la simple collecte de données est une tâche laborieuse, déli
 En 2015, Theranos est évalué à 9 milliards de dollars.
 En 2018, Theranos est poursuivi pour « fraude massive ».
 La technologie de Theranos supposément révolutionnaire n'a en fait jamais fonctionné.
-Les employés de Theranos semble avoir exploité en cachette des techniques classiques d'analyse sanguine, dont la fiabilité était en fait discutable.
-[Elizabeth Holmes - la menteuse devenue milliardaire](https://www.youtube.com/watch?v=6kqCylsYtJM). La chaîne de P.A.U.L. (2020).
+Les employés de Theranos semble avoir exploité en cachette des techniques classiques d'analyse sanguine, dont la fiabilité était en fait discutable.  
+[Elizabeth Holmes - la menteuse devenue milliardaire](https://www.youtube.com/watch?v=6kqCylsYtJM). La chaîne de P.A.U.L. (2020).  
+[Elizabeth Holmes exposed: the $9 billion medical ‘miracle’ that never existed](https://www.youtube.com/watch?v=BgNfrDXr7uA). 60 Minutes Australia (2021).
 
-  [Elizabeth Holmes exposed: the $9 billion medical ‘miracle’ that never existed](https://www.youtube.com/watch?v=BgNfrDXr7uA). 60 Minutes Australia (2021).
-
-  Katia a le regard songeur. Comment acquérir des données de patients ? Ou, mieux encore, comment acquérir des données de non-patients ? Comment ne pas être « invasif » ? Katia se demande aussi qui est à l’origine du terme « invasif ». Une prise de sang « n'envahit » que rarement le corps de gens.
+Katia a le regard songeur. Comment acquérir des données de patients ? Ou, mieux encore, comment acquérir des données de non-patients ? Comment ne pas être « invasif » ? Katia se demande aussi qui est à l’origine du terme « invasif ». Une prise de sang « n'envahit » que rarement le corps de gens.
 
 C’est avec ses réflexions en tête que Katia se dirige vers les toilettes pour faire ses besoins.
 
