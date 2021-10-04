@@ -15,11 +15,10 @@ Or les tâches sont de plus en plus complexes, comme détecter des incitations �
 
 Marc, encore étudiant en cancérologie, suggère alors l’utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chance d’être traité avec succès, et avec moins de risques et de complications.
 
-> Ça commence à se faire en plus, précise Marc. L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter des cancers de peau sur des photos[^cancer-de-la-peau][^ia-medecine]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
+> Ça commence à se faire en plus, précise Marc. L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter des cancers de peau sur des photos[^cancer-de-la-peau]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
 
-[^cancer-de-la-peau]: [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9). Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).
-
-[^ia-medecine]: [L'IA sauvera des vies](https://www.youtube.com/watch?v=xU7LcNRkmfU) (ft. Primum Non Nocere). Intelligence artificielle 33. Science4All (2018).
+[^cancer-de-la-peau]: [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9). Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).  
+[L'IA sauvera des vies](https://www.youtube.com/watch?v=xU7LcNRkmfU) (ft. Primum Non Nocere). Intelligence artificielle 33. Science4All (2018).
 
 > Il y a clairement un besoin d’algorithmes d’apprentissage en médecine. Mais si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données[^data], fait remarquer Katia.
 
@@ -73,7 +72,9 @@ Katia passe alors ces journées à améliorer son application la nuit, et à pro
 
 Cependant, après des mois de promotions, SmartPoop ne décolle pas. Si l’application est téléchargée 1587 fois, elle n’est utilisée quotidiennement que par 75 utilisateurs (dont une vingtaine parmi les proches de Katia et Marc). En juillet 2019, quatre mois après la mise en ligne de l'application, Katia se rend à l’évidence : SmartPoop est un échec.
 
-> SmartPoop deviendrait incontournable si on avait beaucoup plus de données pour entraîner des algorithmes plus sophistiqués, pour ensuite prédire des maladies plus rares et plus dangereuses. Le potentiel sanitaire reste énorme, explique-t-elle à Marc. Mais on a grandement sur-estimé la motivation des utilisateurs []à soutenir un tel projet de santé public](debrief-1.md#foodvisor)… Avec le recul, je dirais qu’on a été beaucoup trop bisounours dans notre conception du projet. Les venture capitalists avaient raison. On aurait dû beaucoup plus réfléchir à la croissance, à l’acquisition d‘utilisateurs et au marketing du produit. On se serait peut-être rendu compte plus tôt que SmartPoop est une perte de temps. Même si on continue notre travail de promotion pendant des années, on risque de ne jamais dépasser 1000 utilisateurs réguliers. Et ça, ça ne suffira pas pour acquérir assez de données pour avoir un outil de diagnostic utile. SmartPoop, c’est sans espoir.
+> SmartPoop deviendrait incontournable si on avait beaucoup plus de données pour entraîner des algorithmes plus sophistiqués, pour ensuite prédire des maladies plus rares et plus dangereuses. Le potentiel sanitaire reste énorme, explique-t-elle à Marc. Mais on a grandement sur-estimé la motivation des utilisateurs à soutenir un tel projet de santé public[^foodvisor]… Avec le recul, je dirais qu’on a été beaucoup trop bisounours dans notre conception du projet. Les venture capitalists avaient raison. On aurait dû beaucoup plus réfléchir à la croissance, à l’acquisition d‘utilisateurs et au marketing du produit. On se serait peut-être rendu compte plus tôt que SmartPoop est une perte de temps. Même si on continue notre travail de promotion pendant des années, on risque de ne jamais dépasser 1000 utilisateurs réguliers. Et ça, ça ne suffira pas pour acquérir assez de données pour avoir un outil de diagnostic utile. SmartPoop, c’est sans espoir.
+
+[^foodvisor]: D'autres initiatives plus ludiques ont dès aujourd'hui un succès commercial, comme l'application [Foodvisor](https://www.foodvisor.io/) qui permet d'estimer les calories dans un repas à partir d'une photo.
 
 Katia décide alors de rentrer dans le rang, et accepte un emploi de développement informatique dans une grande entreprise, qu’elle débute en septembre. Cependant, malgré l’environnement de travail exceptionnel qui lui est offert, Katia n’est pas particulièrement enthousiasmée par son travail. Mais au moins, se dit-elle, celui-ci lui permet de payer son loyer.
 
@@ -83,13 +84,29 @@ Fin novembre 2019, toutefois, un événement va bouleverser le futur de l’huma
 
 On apprend ensuite que le coupable est un nouveau rotavirus, et la terrible maladie qu’il cause est baptisée « ROtaVIrus Disease 2019 », ou ROVID-19. Le ROVID-19 cause de nombreux symptômes dérangeants, comme des maux gastriques, des maux de têtes, une fatigue accrue, des lourdes diarrhées, des grosses fièvres, des vomissements et des tremblements, qui conduisent près de 10% des personnes infectées vers le décès. Cette terrible maladie semble particulièrement mortelle chez les jeunes de moins de 30 ans.
 
-Mais ce qui rend le ROVID-19 extrêmement dangereux, c’est son extrême contagiosité. Pire encore, le traçage des cas d’infections montre que cette contagiosité est particulièrement grande deux ou trois jours avant que les premiers symptômes se déclarent. On parle de contaminations pré-symptomatiques. Les personnes contaminantes ne sont pas encore conscientes d’être malades quand elles transmettent la maladie aux autres. Le [taux de reproduction de base](debrief-1.md#taux-de-reproduction) du virus, c’est-à-dire le nombre moyen d’individus qu’une personne infectée va contaminer, est estimé à environ 8. La croissance exponentielle de la pandémie terrifie rapidement toutes les agences sanitaires, tous les hôpitaux et tous les gouvernements du monde.
+Mais ce qui rend le ROVID-19 extrêmement dangereux, c’est son extrême contagiosité. Pire encore, le traçage des cas d’infections montre que cette contagiosité est particulièrement grande deux ou trois jours avant que les premiers symptômes se déclarent. On parle de contaminations pré-symptomatiques. Les personnes contaminantes ne sont pas encore conscientes d’être malades quand elles transmettent la maladie aux autres. Le taux de reproduction de base[^taux-de-reproduction] du virus, c’est-à-dire le nombre moyen d’individus qu’une personne infectée va contaminer, est estimé à environ 8. La croissance exponentielle de la pandémie terrifie rapidement toutes les agences sanitaires, tous les hôpitaux et tous les gouvernements du monde.
+
+[^taux-de-reproduction]: Le taux de reproduction de base est le nombre moyen d'individus qu'une personne infectée contaminera, en l'absence d'interventions pour contrôler la propagation d'une épidémie.
+On estime que le COVID-19 avait initialement un taux de reproduction de base autour de 3, et que le variant Delta a un taux bien plus élevé (mais difficile à estimer, vu qu'il est apparu à un moment où de nombreuses interventions étaient déjà en oeuvre).
+Il s'agit d'une grandeur importante car, si elle est supérieure à 1, alors l'épidémie se propagera exponentiellement en l'absence d'intervention.  
+Le taux de reproduction effectif est le nombre moyen d'individus qu'une personne infectée contaminera, sachant toutes les mesures sanitaires en place.
+C'est finalement la grandeur la plus importante.
+Si elle est supérieure à 1, alors l'épidémie se propagera exponentiellement.
+Si elle est inférieure à 1, alors l'épidémie disparaîtra exponentiellement vite.
+En pratique, à cause de relâchements des mesures sanitaires, dans le cas du COVID-19 notamment, ce taux fluctue autour de 1, ce qui fait de l'épidémie une *endémie*, c'est-à-dire une maladie qui persiste dans la population générale.  
+[Le futur dépend de ce nombre](https://www.youtube.com/watch?v=c_VGCnUWbWU). Science4All (2020).  
+[Epidemic, Endemic, and Eradication Simulations](https://www.youtube.com/watch?v=7OLpKqTriio). Primer (2020).
 
 À partir de début janvier 2020, tous les pays à travers le globe entrent tour à tour dans des périodes de confinement, alors que les tests médicaux se mettent en place petit à petit. Les estimations de janvier sont terrifiantes. Des centaines de milliers de personnes à travers le monde semblent déjà affectées, et des dizaines de milliers de victimes ont déjà succombé.
 
 Une suspicion initiale prend petit à petit de l’ampleur dans la communauté scientifique, notamment suite à l’observation d’une montée fulgurante de cas chez les techniciens de traitement des eaux usées. De plus en plus de données, notamment issues d’analyses chimiques d’excréments des malades, suggèrent que le virus du ROVID-19 se propage principalement via les flatulences des personnes infectées.
 
-« Une très belle étude d’une équipe de Montpellier a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet », précisait souvent Marc afin de détendre l’atmosphère angoissante qui régnait alors. Le [port de couches filtrantes](debrief-1.md#couches-filtrantes) est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
+« Une très belle étude d’une équipe de Montpellier a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet », précisait souvent Marc afin de détendre l’atmosphère angoissante qui régnait alors. Le port de couches filtrantes[^couches-filtrantes] est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
+
+[^couches-filtrantes]: La contagiosité du pet, mais aussi la capacité des vêtements à filtrer les pets, ont été testées et vérifiées par Dr Karl Kruszelnicki, suite à une expérience de pets dans des boîtes de Petri.  
+> Notre conclusion finale ? Ne pétez pas nu près de la nourriture.  
+[Hot air?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121900/). Michael Doyle. The Canberra Times, Reprinted on BMJ (2021).
+
 
 ### La quête de données
 
@@ -173,5 +190,5 @@ Petit à petit, tous les pays au monde adoptent SmartPoop, désormais utilisé p
 ## Pour aller plus loin
 
 Ne vous arrêtez pas en si bon chemin !
-Accédez au [débrief scientifique du chapitre](debrief-1.md), à [la suite du roman](2-Filtrer.md) ou au [sommaire](README.md).  
+Accédez à [la suite du roman](2-Filtrer.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !

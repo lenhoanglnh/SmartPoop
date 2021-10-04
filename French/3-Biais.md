@@ -8,23 +8,23 @@ Issa, ce grand sportif qui aime suivre son état de forme, clique alors sur l’
 
 ### Poo
 
-Quelques jours plus tard, les SmartToilet Deluxe de SmartPoop sont livrées et installées chez Issa. Le soir même, c’est avec un grand sourire, et quelques hésitations, qu’Issa va alors tester ses nouvelles toilettes. Alors qu’il se rapproche de celles-ci, le couvercle s’ouvre automatiquement. Issa s’assoit ensuite sur la cuvette. Une étrange sensation de chaleur accompagne alors son contact avec la cuvette. « C’est comme si j’utilisais les toilettes juste après quelqu’un d’autre… Pas très rassurant. Mais je dois sans doute juste m’y habituer », se dit-il. 
+Quelques jours plus tard, les SmartToilet Deluxe de SmartPoop sont livrées et installées chez Issa. Le soir même, c’est avec un grand sourire, et quelques hésitations, qu’Issa va alors tester ses nouvelles toilettes. Alors qu’il se rapproche de celles-ci, le couvercle s’ouvre automatiquement. Issa s’assoit ensuite sur la cuvette. Une étrange sensation de chaleur accompagne alors son contact avec la cuvette. « C’est comme si j’utilisais les toilettes juste après quelqu’un d’autre… Pas très rassurant. Mais je dois sans doute juste m’y habituer », se dit-il.
 
-> Bonjour Issa, dit alors une voix féminine. 
+> Bonjour Issa, dit alors une voix féminine.
 
-Issa sursaute. Les toilettes viennent de lui parler ! 
+Issa sursaute. Les toilettes viennent de lui parler !
 
 > Détendez-vous et profitez du confort des SmartToilet Deluxe, explique-t-elle. Je suis Poo, votre assistante vocale. Est-ce que vous préféreriez que j’adopte une voix masculine ?
 
 Issa est très perturbé. Après quelques secondes, il répond : « Non, non, cette voix me convient très bien. »
 
-> N’hésitez pas à me dire ce que vous ressentez pour que j’optimise votre confort. 
+> N’hésitez pas à me dire ce que vous ressentez pour que j’optimise votre confort.
 
-Perturbé, Issa reste silencieux pendant quelques autres secondes. Il finit par répondre : « On peut peut-être commencer par se tutoyer ». 
+Perturbé, Issa reste silencieux pendant quelques autres secondes. Il finit par répondre : « On peut peut-être commencer par se tutoyer ».
 
 > Avec plaisir, Issa. Je suis à ton service.
 
-Le téléphone d’Issa vibre tout à coup, Issa prend son téléphone, qui lui annonce alors « Félicitations ! Vous utilisez désormais nos SmartToilet Deluxe. Nous vous souhaitons une agréable expérience ». Encore tendu, Issa a alors du mal à se relâcher. 
+Le téléphone d’Issa vibre tout à coup, Issa prend son téléphone, qui lui annonce alors « Félicitations ! Vous utilisez désormais nos SmartToilet Deluxe. Nous vous souhaitons une agréable expérience ». Encore tendu, Issa a alors du mal à se relâcher.
 
 > Tu me sembles tendu. C’est normal. La première fois, ce n’est jamais simple. Mais détends-toi. Essaie de profiter de ton nouveau confort quotidien.
 
@@ -34,7 +34,7 @@ Issa trouvait la voix de synthèse un peu trop sensuelle à son goût. Un régla
 
 > Je comprends. Moi non plus, je n’ai pas encore l’habitude de parler aux utilisateurs dans les chiottes !
 
-L'humour de l'IA n'était malheureusement pas réglable, même dans les paramètres avancés. 
+L'humour de l'IA n'était malheureusement pas réglable, même dans les paramètres avancés.
 
 Petit à petit, toutefois, Issa perçoit de plus en plus ses SmartToilets comme un nouveau confort important. Après tout, mis bout à bout, les humains passent un temps faramineux assis sur des toilettes. Autant en faire un bon moment !
 
@@ -60,7 +60,7 @@ Quelques jours plus tard, alors qu’il vient de rentrer chez lui après une dur
 
 Terrifié, Issa ressort de chez lui, prend la voiture et va directement à l’hôpital. Arrivé aux urgences, il demande alors de consulter un médecin. « Pour quelles raisons ?», lui demande-t-on. « J’ai reçu une alerte de SmartPoop, qui m’a juste dit de venir aux urgence », explique Issa.
 
-Après une minute ou deux, Issa est pris en charge. 
+Après une minute ou deux, Issa est pris en charge.
 
 > Bonjour Issa, je suis Dr. Paola Marta. Sachez que nous avons l'habitude de gérer des urgences SmartPoop. Depuis deux ans, la plupart de nos patients sont venus suite à une alerte SmartPoop, et le rapport qu’ils nous envoient nous aide toujours beaucoup à soigner nos patients. Comment vous sentez-vous ?
 
@@ -74,21 +74,21 @@ Dr. Marta fuit alors Issa du regard. Clairement gênée, Dr. Marta paraît terri
 
 > Je vous promets qu’on fera de notre mieux.
 
-Après une prise de sang, Issa se retrouve enfin allongé dans un lit d’hôpital, seul, abandonné à sa propre imagination. Il craint le pire, et pense à tout ce qu’il aurait aimé avoir fait. Issa nourrit des regrets, et envisage sa postérité. Toute sa vie, Issa n’a fait que suivre l’appât du gain. On lui a dit que réussir en finance, c’est rouler sur l’or et triompher dans la vie. C’est ce qu’il a fait. Cela fait-il de lui une mauvaise personne ? 
+Après une prise de sang, Issa se retrouve enfin allongé dans un lit d’hôpital, seul, abandonné à sa propre imagination. Il craint le pire, et pense à tout ce qu’il aurait aimé avoir fait. Issa nourrit des regrets, et envisage sa postérité. Toute sa vie, Issa n’a fait que suivre l’appât du gain. On lui a dit que réussir en finance, c’est rouler sur l’or et triompher dans la vie. C’est ce qu’il a fait. Cela fait-il de lui une mauvaise personne ?
 
 Certes, sa carrière lui a au moins permis de s’offrir toutes sortes de matériel de luxe, comme les SmartToilets Deluxes. Preuve ultime de la réussite sociale. Mais Issa aura-t-il vraiment accompli quelque chose dans sa vie ? Qu’en est-il de toutes ces nombreuses autres personnes qui ont souffert à cause de lui ? De son ex-femme qu’il a délaissée ? De ses enfants avec qui il a passé si peu de temps ?
 
 Dr. Marta revient alors vers Issa. « Enfin », s’exclame intérieurement Issa, qui a l’impression d’avoir été abandonné depuis plusieurs heures. Pourtant, cela ne fait que dix minutes que Dr. Marta s’était absentée. Elle demande alors à Issa de l’accompagner pour passer une radiologie, et lui annonce qu’une coloscopie est aussi envisagée. En l’espace de quelques heures, Issa subira en fait toutes sortes d’analyses. En fin de journée, Dr. Marta lui dit qu’il restera en observation pendant la nuit. Elle l’encourage à essayer de manger le repas qui lui est servi, et à essayer de trouver le sommeil pour se reposer.
 
-Le lendemain matin, Dr. Marta arrive enfin dans la chambre d’Issa. Issa est épuisé. Terrifié, il n’a pas dormi de la nuit. 
+Le lendemain matin, Dr. Marta arrive enfin dans la chambre d’Issa. Issa est épuisé. Terrifié, il n’a pas dormi de la nuit.
 
-> Quelles sont les nouvelles, docteure ? 
+> Quelles sont les nouvelles, docteure ?
 
 > Vous avez clairement une fatigue très avancée et un haut niveau de stress, avec visiblement des troubles digestifs et des troubles du sommeil. Cependant, toutes nos mesures ne parviennent toujours pas à identifier l’origine de vos troubles. Nous avons appelé l’entreprise SmartPoop, dont le rapport de santé n’est pas vraiment en phase avec notre examen, et ils sont en train d’analyser manuellement vos données. Nous espérons qu'ensemble nous arriverons à cerner le problème. Mais ceci va nous prendre du temps. J’en suis désolée. Vraiment désolée.
 
 ### Alerte chez SmartPoop
 
-En fin de matinée, c’est au tour de Marc d’entrer dans le bureau de Katia. 
+En fin de matinée, c’est au tour de Marc d’entrer dans le bureau de Katia.
 
 > On a un problème, annonce-t-il.
 
@@ -226,13 +226,13 @@ Or, pour cela, pour vraiment arriver à prendre soin de tous les humains sur ter
 
 Alors, j’aimerais pouvoir vous dire que nous avons pris cette décision parce que nous avons toujours priorisé l’éthique. Mais pour être honnête avec vous, je dois bien avouer que cette décision vient avant tout du constat, malheureusement trop tardif, que l’une de nos technologies n’était pas à la hauteur de nos exigences éthiques. SmartPoop, appliqué aux SmartToilet Deluxe, a subi ce qu’on appelle un distributional shift, c’est-à-dire une divergence entre ses données d’entraînement et les cas d’application pratique, qui l’a malheureusement conduit à des erreurs de diagnostics pour certaines sous-populations. À tous nos utilisateurs victimes de ces erreurs, mais aussi à toutes ces sous-populations, nous présentons nos plus sincères excuses.
 
-Mais contrairement à certains de nos concurrents, nous ne souhaitons pas cacher ces erreurs sous le tapis. Il est grand temps que l’industrie des technologies cherche activement à comprendre les conséquences néfastes de leurs technologies. Nous nous engageons ainsi à soulever le moindre caillou, et à vous révéler de façon transparente les problèmes que nous rencontrerons. Sachez, néanmoins, que ce faisant, nous révèlerons des problèmes souvent omniprésents dans toute l’industrie des technologies. Si nous en sommes victimes, les autres entreprises le sont aussi. Quand vous ferez ainsi notre procès, pensez à faire celui de toute l’industrie des technologies, en vous disant que les entreprises qui révèleront le moins leurs problèmes sont en fait probablement celles qui en ont le plus. 
+Mais contrairement à certains de nos concurrents, nous ne souhaitons pas cacher ces erreurs sous le tapis. Il est grand temps que l’industrie des technologies cherche activement à comprendre les conséquences néfastes de leurs technologies. Nous nous engageons ainsi à soulever le moindre caillou, et à vous révéler de façon transparente les problèmes que nous rencontrerons. Sachez, néanmoins, que ce faisant, nous révèlerons des problèmes souvent omniprésents dans toute l’industrie des technologies. Si nous en sommes victimes, les autres entreprises le sont aussi. Quand vous ferez ainsi notre procès, pensez à faire celui de toute l’industrie des technologies, en vous disant que les entreprises qui révèleront le moins leurs problèmes sont en fait probablement celles qui en ont le plus.
 
 Et là, j’aimerais que vous pensiez à vous poser la question la plus importante de l’industrie des technologies : ma confiance en tel ou tel produit de telle ou telle entreprise est-elle justifiée ?
 
 
-## Pour aller plus loin 
+## Pour aller plus loin
 
 Ne vous arrêtez pas en si bon chemin !
-Accédez au [débrief scientifique du chapitre](debrief-3.md), à [la suite du roman](4-Fuites.md) ou au [sommaire](README.md).  
+Accédez à [la suite du roman](4-Fuites.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !

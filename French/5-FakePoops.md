@@ -24,7 +24,7 @@ Toutefois, certains observateurs font remarquer que ces audits sont freinés par
 
 Finalement, sous la pression du gouvernement Kormicain, Katia et Marc décident d’interrompre momentanément le chiffrement homomorphe, si l’utilisateur y consent. « Les données sont encore chiffrées entre l’utilisateur et SmartPoop. Mais avec le nouveau système, SmartPoop pourra déchiffrer les données, et les analyser, pour vérifier l’absence de dysfonctionnement dans notre système », précise Katia dans une interview télévisée.
 
-Petit à petit, suite à des vagues de communications du gouvernement Kormicain, de plus en plus de Kormicains consentent à partager leurs données SmartPoop avec l’entreprise SmartPoop. Étrangement, pendant longtemps, aucun cas de ROVID-19 n’est observé parmi ces données. Ce n’est qu’une semaine plus tard, alors que la moitié des Kormicains partagent désormais leurs données SmartPoop avec l’entreprise SmartPoop, que les premiers cas de ROVID-19 sont détectés dana ces données de volontaires. 
+Petit à petit, suite à des vagues de communications du gouvernement Kormicain, de plus en plus de Kormicains consentent à partager leurs données SmartPoop avec l’entreprise SmartPoop. Étrangement, pendant longtemps, aucun cas de ROVID-19 n’est observé parmi ces données. Ce n’est qu’une semaine plus tard, alors que la moitié des Kormicains partagent désormais leurs données SmartPoop avec l’entreprise SmartPoop, que les premiers cas de ROVID-19 sont détectés dana ces données de volontaires.
 
 Katia mène elle-même l’analyse de ces cas, et Marc assiste à cette analyse. Marc demande alors :
 
@@ -38,7 +38,7 @@ Katia mène elle-même l’analyse de ces cas, et Marc assiste à cette analyse.
 
 > As-tu l’adresse des victimes, pour qu’on puisse les consulter, ou effectuer des analyses post-mortem ?
 
-> Laisse-moi les imprimer. 
+> Laisse-moi les imprimer.
 
 Katia lance l’impression des analyses, et récupère les copies fraîchement sorties de la photocopieuse.
 
@@ -50,7 +50,7 @@ Katia lance l’impression des analyses, et récupère les copies fraîchement s
 
 > Que se passe-t-il ?
 
-> Laisse-moi voir leur date de création. Oui, c'est très bizarre ! Tous ces comptes ont été créés il y a moins de 7 mois. Ça pue les faux comptes ! 
+> Laisse-moi voir leur date de création. Oui, c'est très bizarre ! Tous ces comptes ont été créés il y a moins de 7 mois. Ça pue les faux comptes !
 
 > Mais qui aurait pu créer ces faux comptes et pourquoi ?
 
@@ -58,17 +58,17 @@ Katia lance l’impression des analyses, et récupère les copies fraîchement s
 
 > À qui profite cette alerte de ROVID-19 ?
 
-> Euh... 
+> Euh...
 
-> Au Bokistan bien sûr, s’exclame Marc. Ou au moins aux industries d’énergie renouvelable bokistanaises. 
+> Au Bokistan bien sûr, s’exclame Marc. Ou au moins aux industries d’énergie renouvelable bokistanaises.
 
 > Mais donc, tu penses qu’ils ont créé des faux profils ?
 
 > Probablement.
 
-> Et qu’ils nous ont ensuite envoyé des fausses données d’excréments ? Des... FakePoops? 
+> Et qu’ils nous ont ensuite envoyé des fausses données d’excréments ? Des... FakePoops?
 
-> Oui, probablement générés à partir des données publiques sur le profil scatologique du ROVID-19, et peut-être même en particulier des Kormicains. 
+> Oui, probablement générés à partir des données publiques sur le profil scatologique du ROVID-19, et peut-être même en particulier des Kormicains.
 
 > C’est brillant quand on y réfléchit. En renseignant des informations typiques des Kormicains, ils ont inséré des données qui ont été interprétées par notre système comme une nouvelle pandémie de ROVID-19 !
 
@@ -112,17 +112,17 @@ Après quelques minutes de réflexion, Katia en vient à une seconde épiphanie.
 
 ### L’OMESA
 
-Le lendemain, après avoir été prévenu par Katia et Marc, le Premier Ministre Kormicain annonce que la pandémie de ROVID-19 avait été fabriquée par une campagne de désinformation, probablement Bokistanaise, qui a exploité des vulnérabilités de SmartPoop. Il annonce surtout la fin du confinement, et le retour à la normale pour le pays. 
+Le lendemain, après avoir été prévenu par Katia et Marc, le Premier Ministre Kormicain annonce que la pandémie de ROVID-19 avait été fabriquée par une campagne de désinformation, probablement Bokistanaise, qui a exploité des vulnérabilités de SmartPoop. Il annonce surtout la fin du confinement, et le retour à la normale pour le pays.
 
 Le Bokistan nie toutefois avoir été impliqué dans cette attaque, et insiste sur l’impossibilité de retrouver les coupables. « La démocratisation des technologies de cyber-attaques, la complexité des systèmes informatiques modernes, et leur place devenue centrale rendent notre monde moderne extrêmement vulnérables à des groupuscules malveillants », explique le nouveau Président Bokistanais. « J’appelle tous les pays du monde, y compris nos amis Kormicains, à bannir ces technologies et toutes les entreprises qui développent de telles technologies, ainsi qu’à investir massivement dans des technologies de cyber-défense, et non pas de cyber-attaque. La sécurité et le bien-être de l’ensemble de la population mondiale est en jeu ».
 
 Dans les mois à venir, une nouvelle organisation internationale est lancée, sous le nom d’Organisme Mondial de l'Éthique et de la Sécurité des Algorithmes (OMESA). L’une des missions principales de l'OMESA est alors d’organiser, chaque année, un Groupe International d’Étude sur la Sécurité et l’Éthique du Numérique (GIESEN). Inspiré du GIEC, ce groupe d'études vise à faire un point, chaque année, sur les grandes menaces de sécurité informatique et les grands dilemmes algorithmiques à résoudre, et à faire le point sur la recherche, le développement et le déploiement des solutions proposées. Plus que jamais, la paix mondiale semble dépendre de cet énorme effort de gouvernance.
 
-Sans surprise, le premier rapport liste le problème des FakePoops comme étant l’une des plus grandes menaces pour le futur, et demande une audition publique de SmartPoop, et en particulier de Katia. Interrogée de cinq figures d’autorité sélectionnée par l'OMESA, Katia fait face aux caméras de télévision du monde entier. À l’écran, Katia est visiblement terrifiée. 
+Sans surprise, le premier rapport liste le problème des FakePoops comme étant l’une des plus grandes menaces pour le futur, et demande une audition publique de SmartPoop, et en particulier de Katia. Interrogée de cinq figures d’autorité sélectionnée par l'OMESA, Katia fait face aux caméras de télévision du monde entier. À l’écran, Katia est visiblement terrifiée.
 
 > Pouvez-vous vous présenter ?
 
-> Bonjour mesdames et messieurs de l'OMESA. Je m’appelle Katia Crapinski. Je suis Docteure en informatique, et désormais Présidente et Directrice Générale de l’entreprise SmartPoop. 
+> Bonjour mesdames et messieurs de l'OMESA. Je m’appelle Katia Crapinski. Je suis Docteure en informatique, et désormais Présidente et Directrice Générale de l’entreprise SmartPoop.
 
 > Bonjour Docteure Crapinski, ici Professeure Wang, chercheuse en machine learning. Pouvez-vous présenter le problème des FakePoops ?
 
@@ -138,11 +138,11 @@ Sans surprise, le premier rapport liste le problème des FakePoops comme étant 
 
 > En 2019 seulement, Facebook a retiré 6 milliards de faux comptes de leurs plateformes. En l’absence d’importants investissements dans la détection de faux comptes, l’écrasante majorité des comptes sur Facebook seraient des faux comptes. Chez SmartPoop, avez-vous des équipes de détection de faux comptes, et de leur impact sur les diagnostics SmartPoop ? Combien de faux comptes retirez-vous par an ?
 
-> Professeure Wang… on… nous… C’est… je ne sais pas… 
+> Professeure Wang… on… nous… C’est… je ne sais pas…
 
 > Quantifiez-vous la vulnérabilité de SmartPoop ? Avez-vous une estimation du nombre de décès potentiellement causés par les FakePoops ?
 
-> Professeure Wang… je… non… 
+> Professeure Wang… je… non…
 
 À l’écran, Katia est toute pâle et en sueur. Elle est paralysée par ces accusations. Ces images terribles feront le tour du monde, et deviendront des gifs abondamment partagés sur les réseaux sociaux.
 
@@ -183,8 +183,8 @@ L’audition se poursuit avec une longue discussion sur les conséquences socié
 > Professeur Raul, oui. SmartPoop a plus besoin de vous, que vous n’avez besoin d’auditer SmartPoop, je pense. Et ce, même s’il y a un besoin énorme à auditer SmartPoop. Le futur du monde numérique dépend de votre capacité à instaurer un Proof of Personhood. Et le futur du monde entier dépend de ce monde numérique. Tant qu’on n’y sera pas, SmartPoop restera vulnérable aux FakePoops.
 
 
-## Pour aller plus loin 
+## Pour aller plus loin
 
 Ne vous arrêtez pas en si bon chemin !
-Accédez au [débrief scientifique du chapitre](debrief-5.md), à [la suite du roman](6-Corruption.md) ou au [sommaire](README.md).  
+Accédez à [la suite du roman](6-Corruption.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !

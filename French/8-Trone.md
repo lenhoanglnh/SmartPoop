@@ -42,13 +42,13 @@ Le public crie en choeur « oui ».
 
 > Oui ! 44%. Désormais, la plupart des discussions avec Poo sont des discussions centrées sur l’environnement social plutôt que sur soi-même. Et alors, il faudrait se méfier de ce chiffre a priori. Initialement, la plupart des discussions hétérocentriques consistaient à se plaindre des autres, à moquer certains groupes, voire à attaquer certains groupes sociaux, plutôt qu’à célébrer les autres, à se réjouir de leurs succès et à réfléchir à comment leur venir en aide. Avant le lancement de Poo, 86% des discussions hétérocentriques étaient critiques, et pas bienveillantes. Comment a évolué cette statistique ?
 
-Le public crie alors de façon désorganisée « vers le bas ». Puis à force de se répéter, les cris se synchronisent, avant de répéter « vers le bas », « vers le bas », « vers le bas ». 
+Le public crie alors de façon désorganisée « vers le bas ». Puis à force de se répéter, les cris se synchronisent, avant de répéter « vers le bas », « vers le bas », « vers le bas ».
 
-> Voyons cela.. 
+> Voyons cela..
 
 L’écran géant montre l’évolution de cette courbe, qui en effet plonge vers le bas, jusqu’à atteindre 47%, sous les applaudissements du public.
 
-> Incroyable !! La société est devenue incroyablement plus bienveillante et altruiste en l’espace de deux ans seulement ! D’ailleurs, l’expression « les plus démunis » est utilisée aujourd’hui 3 fois plus souvent qu’il y a deux ans, tandis que l’expression « générations futures » est utilisée 4 fois plus souvent. Et d’après de nombreux psychiatres, cette progression est très probablement directement liée à Poo, et à l’amélioration de la santé mentale de nos utilisateurs. Quand on se porte mieux soi-même, on est tout de suite beaucoup plus prompt à souhaiter le bonheur des autres et à leur venir en aide ! 
+> Incroyable !! La société est devenue incroyablement plus bienveillante et altruiste en l’espace de deux ans seulement ! D’ailleurs, l’expression « les plus démunis » est utilisée aujourd’hui 3 fois plus souvent qu’il y a deux ans, tandis que l’expression « générations futures » est utilisée 4 fois plus souvent. Et d’après de nombreux psychiatres, cette progression est très probablement directement liée à Poo, et à l’amélioration de la santé mentale de nos utilisateurs. Quand on se porte mieux soi-même, on est tout de suite beaucoup plus prompt à souhaiter le bonheur des autres et à leur venir en aide !
 
 ### Les héros derrière Poo
 
@@ -60,7 +60,7 @@ Le public crie « succès » de manière désordonnée, mais néanmoins distingu
 
 Katia marque une pause, alors que le public applaudit.
 
-> Et ça, c’est grâce au travail formidable de tant de passionnés, tant de gens qui ont donné tellement de leur temps et de leur argent pour améliorer et sécuriser Poo. J’ai une pensée énorme bien sûr pour tous mes collègues à SmartPoop, et leur dévotion incroyable. Mais ils ne sont pas les seuls responsables de SmartPoop. Poo a été conçu grâce à une collaboration étroite et quotidienne avec des milliers de psychiatres et de psychologues à travers le monde, et grâce aux données de discussions de millions de psychiatres et patients volontaires. Rien n’aurait été possible sans eux. 
+> Et ça, c’est grâce au travail formidable de tant de passionnés, tant de gens qui ont donné tellement de leur temps et de leur argent pour améliorer et sécuriser Poo. J’ai une pensée énorme bien sûr pour tous mes collègues à SmartPoop, et leur dévotion incroyable. Mais ils ne sont pas les seuls responsables de SmartPoop. Poo a été conçu grâce à une collaboration étroite et quotidienne avec des milliers de psychiatres et de psychologues à travers le monde, et grâce aux données de discussions de millions de psychiatres et patients volontaires. Rien n’aurait été possible sans eux.
 
 Katia profite des applaudissements du public pour marquer une autre pause.
 
@@ -68,13 +68,13 @@ Katia profite des applaudissements du public pour marquer une autre pause.
 
 À nouveau, Katia marque une pause pendant les applaudissements du public.
 
-> Enfin, et surtout, je tiens à remercier chacun des acteurs et signataires de la lettre ouverte, ainsi qu’à chacun des journalistes et des influenceurs qui a couvert cette affaire, grâce à qui SmartPoop a pu se remettre dans le droit chemin. Ces femmes et ces hommes ont risqué leur vie, leur bien-être et leur sécurité individuels, pour venir en aide au plus grand nombre. Sans eux, qui sait ce que SmartPoop serait devenu ? Qui sait ce que je serais devenue ? 
+> Enfin, et surtout, je tiens à remercier chacun des acteurs et signataires de la lettre ouverte, ainsi qu’à chacun des journalistes et des influenceurs qui a couvert cette affaire, grâce à qui SmartPoop a pu se remettre dans le droit chemin. Ces femmes et ces hommes ont risqué leur vie, leur bien-être et leur sécurité individuels, pour venir en aide au plus grand nombre. Sans eux, qui sait ce que SmartPoop serait devenu ? Qui sait ce que je serais devenue ?
 
 Seule sur scène, Katia lâche une larme.
 
 > Merci à ces héros, dit-elle en pleurs.
 
-Le public applaudit ce moment très émouvant. 
+Le public applaudit ce moment très émouvant.
 
 ### Le défi de l’éthique de Poo
 
@@ -84,7 +84,7 @@ Katia a encore besoin de plusieurs secondes pour reprendre ses émotions. Finale
 
 Katia marque une pause, devant un public tout ouï.
 
-> Et ça, ça m’amène à la fameuse rumeur dont vous avez sans doute entendu parler. Comme quoi, on aurait un plan pour résoudre le problème de l’éthique de l’information… 
+> Et ça, ça m’amène à la fameuse rumeur dont vous avez sans doute entendu parler. Comme quoi, on aurait un plan pour résoudre le problème de l’éthique de l’information…
 
 Katia marque alors un silence, avant de rajouter sur un ton sarcastique.
 
@@ -92,7 +92,7 @@ Katia marque alors un silence, avant de rajouter sur un ton sarcastique.
 
 Le public rit en cœur.
 
-> Vous savez, il ne faut pas croire tout ce qu’on vous dit. 
+> Vous savez, il ne faut pas croire tout ce qu’on vous dit.
 
 Katia marque un autre silence.
 
@@ -112,7 +112,7 @@ Après un autre silence, Katia reprend son discours.
 
 Le public rit à nouveau.
 
-> Bien entendu, beaucoup de ces opérations devraient être largement configurables par les utilisateurs. Ceci étant dit, la plupart des utilisateurs ne voudront pas gérer toutes les configurations de tous leurs systèmes d’information, et vérifier, par exemple, que ces configurations respectent le règlement pour la protection des données personnelles, ou empêchent la diffusion massive de discours de haine. Non, la plupart des utilisateurs sont comme moi : ce sont des fainéants. 
+> Bien entendu, beaucoup de ces opérations devraient être largement configurables par les utilisateurs. Ceci étant dit, la plupart des utilisateurs ne voudront pas gérer toutes les configurations de tous leurs systèmes d’information, et vérifier, par exemple, que ces configurations respectent le règlement pour la protection des données personnelles, ou empêchent la diffusion massive de discours de haine. Non, la plupart des utilisateurs sont comme moi : ce sont des fainéants.
 
 Le rire du public permet alors à Katia de reprendre son souffle.
 
@@ -144,7 +144,7 @@ Katia marque une pause, comme si elle invitait sérieusement le public à y réf
 
 Encore une fois, cette question est posée comme si Katia n’en avait aucune réponse, et comme si elle attendait du public une réponse. Après de longues secondes, Katia offre sa réponse.
 
-> Eh bien, je propose que ce soit vous. Je propose que ce soit nous tous. Je propose que, ensemble, toute l’humanité décide collectivement de l’éthique de l’information. 
+> Eh bien, je propose que ce soit vous. Je propose que ce soit nous tous. Je propose que, ensemble, toute l’humanité décide collectivement de l’éthique de l’information.
 
 Le public applaudit.
 
@@ -193,9 +193,9 @@ Katia reprend son souffle pour conclure son discours.
 À ces mots, le public explose de joie et d’enthousiasme, alors que le vacarme laisse petit à petit place au nom de Katia, lequel est scandé en rythme par tout le stade. Seule sur scène, Katia profite de l’instant, avec un sourire radieux, et salue le public de la main. À ce moment, elle pense à tout ce que SmartPoop a accompli jusque là. Mais aussi et surtout, Katia est incroyablement enthousiasmée par la vision d’une civilisation humaine qui, grâce à Girasol, va enfin prendre le destin de sa civilisation entre ses mains. Ensemble.
 
 
-## Pour aller plus loin 
+## Pour aller plus loin
 
 Voilà, le roman est fini !
-Accédez au [débrief scientifique du chapitre](debrief-8.md) ou revenir au [sommaire](README.md).  
+Vous pouvez revenir au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous.
 Nous vous en serions très reconnaissants !

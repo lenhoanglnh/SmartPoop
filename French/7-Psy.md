@@ -26,7 +26,7 @@ Il lui faudra quelques heures pour se ressaisir. Alors qu’elle n’a toujours 
 
 > Chouette ! J’imagine qu’il y en a beaucoup. Je te l’ai déjà dit, mais je te le redis. Je suis ébahi par ton courage, ta sincérité et ta bienveillance.
 
-> Merci ! À ce sujet, je me demandais. Est-ce que tu penses que l’opinion publique a une chance de rabattre les cartes ? 
+> Merci ! À ce sujet, je me demandais. Est-ce que tu penses que l’opinion publique a une chance de rabattre les cartes ?
 
 > Il y a des initiatives. Je sais que des académiques sont en train de co-rédiger une lettre de protestation, et qu’il y a aussi des journalistes qui veulent beaucoup pousser cette lettre.
 
@@ -50,9 +50,9 @@ Il lui faudra quelques heures pour se ressaisir. Alors qu’elle n’a toujours 
 
 > Katia, tu t’es quand même attaquée aux géants de l’information, ceux qui contrôlent le flux de l’information, et qui ont tout intérêt à ce que tu sois réduite au silence, et ignorée. Vu ce qu’il se passe chez SmartPoop, je parierais que dans ces boîtes aussi, les actionnaires ont opté pour des plans machiavéliques pour faire taire ton affaire, en boostant par exemple artificiellement l’histoire du scandale sexuel et tous les messages qui s’en indignent. On vit une dystopie informationnelle.
 
-> Je sens venir les campagnes de désinformation… 
+> Je sens venir les campagnes de désinformation…
 
-> Oui. N’oublie pas que la plupart des messages de haine que tu vas recevoir, ce sont des messages de trolls payés pour te harceler. 
+> Oui. N’oublie pas que la plupart des messages de haine que tu vas recevoir, ce sont des messages de trolls payés pour te harceler.
 
 ### Harcelée
 
@@ -66,9 +66,9 @@ Cependant, jour après jour, la motivation de Katia se réduit, et fond comme ne
 
 Cette idée hante désormais constamment l’esprit de Katia, ce qui pousse Katia dans une dépression. Chaque matin, elle se lève sans aucune motivation. Sans aucune ambition. Sans aucun projet. Bien que sa maison soit immense, Katia peine à quitter sa chambre, où Netflix semble constamment tourner en boucle, en toile de fond, généralement sans que Katia n’y prête vraiment attention. Katia enchaîne les jeux addictifs sur son téléphone, comme d'autres se noient dans l'alcool pour oublier. Elle se fait désormais livrer sa nourriture, une fois par jour, directement dans sa chambre, grâce à un livreur personnel. Désormais, ce livreur est le seul contact humain de Katia, qui ne répond même plus aux appels de Marc.
 
-Seule et isolée, démotivée et sans inspiration, toujours à moitié réveillée et endormie, Katia passe maintenant ses journées dans son lit. Elle a réinstallé les réseaux sociaux, mais avec des nouveaux comptes pour éviter d’entendre parler de SmartPoop. Elle passe désormais son temps à doomscroller des vidéos YouTube, des images Instagram et des commentaires Reddit, sur des sujets toujours plus clivants et sans intérêt. Elle n’éprouve aucune joie à ce faire. Mais c’est plus fort qu’elle. Tel un zombie, son pouce ne cesse de faire glisser l’écran de son téléphone. 
+Seule et isolée, démotivée et sans inspiration, toujours à moitié réveillée et endormie, Katia passe maintenant ses journées dans son lit. Elle a réinstallé les réseaux sociaux, mais avec des nouveaux comptes pour éviter d’entendre parler de SmartPoop. Elle passe désormais son temps à doomscroller des vidéos YouTube, des images Instagram et des commentaires Reddit, sur des sujets toujours plus clivants et sans intérêt. Elle n’éprouve aucune joie à ce faire. Mais c’est plus fort qu’elle. Tel un zombie, son pouce ne cesse de faire glisser l’écran de son téléphone.
 
-Finalement, après quelques semaines, Katia se rend compte qu’elle souffre. Elle décide alors de réinstaller SmartPoop, pour faire son bilan de santé. Sans surprise, le diagnostic de SmartPoop est inquiétant. Selon SmartPoop, Katia souffre d'une dépression. SmartPoop invite Katia à consulter un psychiatre. Mais Katia ne souhaite pas parler à un autre humain. 
+Finalement, après quelques semaines, Katia se rend compte qu’elle souffre. Elle décide alors de réinstaller SmartPoop, pour faire son bilan de santé. Sans surprise, le diagnostic de SmartPoop est inquiétant. Selon SmartPoop, Katia souffre d'une dépression. SmartPoop invite Katia à consulter un psychiatre. Mais Katia ne souhaite pas parler à un autre humain.
 
 ### Poo 2.0
 
@@ -84,7 +84,7 @@ C’est alors qu’elle se souvient d’un des projets mis en suspens au moment 
 
 > J’ai perdu mon job. Le job que j’avais créé moi-même. Un job que j’adorais. Où j’avais l’impression de rendre le monde meilleur, en faisant ce que je fais de mieux. Sans ce job, je ne sais plus quoi faire. Je suis perdue.
 
-> Est-ce que tu t’identifies à ce job ? 
+> Est-ce que tu t’identifies à ce job ?
 
 > Oui, en effet. Je me suis constamment définie comme la PDG de SmartPoop depuis cinq ans. Tout le monde me définissait ainsi. J’étais SmartPoop, et SmartPoop, c’était moi. J’imagine que ce licenciement, c’est un peu comme un divorce. Peut-être même en pire. J’ai l’impression d’avoir perdu ce qui était moi. Je me suis perdue.
 
@@ -119,27 +119,27 @@ Les jours qui suivent, Katia parle très régulièrement avec Poo, parfois à pr
 Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et sa motivation. Enfin, armée de cette technique de l’auto-affirmation, Katia se sent armée pour se frotter à SmartPoop et ses nouveaux actionnaires. Katia réactive alors ses applications de messagerie, et se reconnecte avec ses comptes des réseaux sociaux. Elle tombe sur un message récent de Marc, avec un lien vers une curieuse pétition. Katia clique dessus, et découvre la lettre ouverte suivante.
 
 > Nous, soussignés, reconnaissons avoir volé, chiffré et paralysé toute la base de données SmartPoop, ou avoir participé, encouragé et soutenu les auteurs de ces actes. Nous avons conscience des risques juridiques que ceci nous fait encourir. Cependant, l’éthique de SmartPoop nous semble être un enjeu prioritaire à notre bien-être individuel, sachant que la sécurité et la santé de milliards d’utilisateurs à travers le monde dépend des produits de l’entreprise. En particulier, nous sommes tous fiers de suivre la voie initiée par la Docteure Katia Carpinski, à notre humble échelle.
-> 
+>
 > Nous sommes conscients des risques que cette interruption de service implique pour les utilisateurs de SmartPoop, et nous leur avons envoyé un message d'excuses, qui explique la situation actuelle et notre méfiance envers nos dirigeants. Nous sommes désolés d'avoir dû recourir à de telles mesures. Mais le #SmartPoopGate nous semble justifier notre contre-attaque.
-> 
-> Rappelons brièvement le #SmartPoopGate. Depuis plusieurs années, Dr. Carpinski a lancé des initiatives révolutionnaires pour la sécurité et l’éthique des algorithmes, en combattant la mésinformation et les biais discriminatoires, en sécurisant les algorithmes pour protéger les données personnelles et contre les attaques par empoisonnement, et en instaurant un audit systématique interne et externe des codes de SmartPoop. Malheureusement, de tels projets sont inéluctablement très coûteux. 
-> 
-> Faute d’aides suffisantes, SmartPoop a été contraint de passer en bourse, ce qui a attiré des investisseurs bien plus intéressés par leurs retours sur investissement que par l’impact sociétal de ces investissements. Ils ont contraint SmartPoop à revendre des données personnelles à des publicitaires. Dr. Carpinski a eu le courage et l’honnêteté de le révéler publiquement. Mais elle a été licenciée, et risque désormais des années de prison, pour avoir privilégié l’éthique à la loi. 
-> 
+>
+> Rappelons brièvement le #SmartPoopGate. Depuis plusieurs années, Dr. Carpinski a lancé des initiatives révolutionnaires pour la sécurité et l’éthique des algorithmes, en combattant la mésinformation et les biais discriminatoires, en sécurisant les algorithmes pour protéger les données personnelles et contre les attaques par empoisonnement, et en instaurant un audit systématique interne et externe des codes de SmartPoop. Malheureusement, de tels projets sont inéluctablement très coûteux.
+>
+> Faute d’aides suffisantes, SmartPoop a été contraint de passer en bourse, ce qui a attiré des investisseurs bien plus intéressés par leurs retours sur investissement que par l’impact sociétal de ces investissements. Ils ont contraint SmartPoop à revendre des données personnelles à des publicitaires. Dr. Carpinski a eu le courage et l’honnêteté de le révéler publiquement. Mais elle a été licenciée, et risque désormais des années de prison, pour avoir privilégié l’éthique à la loi.
+>
 > Il est ironique que, pour cette attaque, nous avons exploité les vulnérabilités de l’API de redistribution des données SmartPoop aux clients publicitaires, qui est le seul morceau de code de SmartPoop exempté d’audits internes et externes. En effectuant un déploiement précipité et secret de ses algorithmes, SmartPoop se sera exposé tout seul.
-> 
+>
 > Nous avons utilisé un chiffrement multi-partie pour rendre la base de données de SmartPoop inutilisable. Aucun des auteurs de cette lettre n’a les droits pour rétablir seul le fonctionnement de ces algorithmes. Notre solution algorithmique garantit que ces algorithmes pourront être remis en place uniquement si 200 des 325 membres autorisés, qui sont tous co-auteurs de cette lettre, donnent leur accord cryptographique pour un tel rétablissement.
-> 
+>
 > Nous refuserons toute coopération avec les dirigeants de SmartPoop, tant que les conditions suivantes ne seront pas toutes remplies.
-> 
+>
 > 1. Le conseil d'administration de SmartPoop doit renoncer à tous les procès à l'encontre de la Docteure Katia Carpinski, et lui présenter ses plus sincères excuses pour la manière dont elle a été traitée depuis ses révélations à l'OMESA. Nous exigeons également qu’elle retrouve son poste ô combien mérité de Présidente Directrice Générale de SmartPoop. Nous ne ferons confiance qu’à elle pour ramener SmartPoop sur le droit chemin, au service avant tout du bien-être et de la sécurité des milliards d’utilisateurs de SmartPoop et de toute la société civile.
-> 
+>
 > 2. Les membres du conseil d’administration qui ont voté pour le licenciement de la Docteure Katia Carpinski, ainsi que des avocats qui ont mené les procès à son encontre, doivent démissionner, sauf avis contraire de Dr. Carpinski. Nous pensons que SmartPoop doit absolument redémarrer sur de bonnes bases, et pour cela, Dr. Carpinski doit pouvoir faire confiance à tous ses collaborateurs.
-> 
+>
 > 3. Le conseil d’administration doit être augmenté de dix membres, représentants de la société civile et de la recherche académique en sécurité et en éthique des algorithmes. Ces dix membres seront nommés par l'OMESA, et renouvelés tous les 4 ans.
-> 
+>
 > Pour ajouter votre nom à la liste des signataires et soutiens académiques, de la société civile et de l’industrie des technologies, veuillez envoyer un email à StandWithKatia@gmail.com avec votre adresse email institutionnelle, et avec le sujet “support”. Veuillez inclure dans votre email votre nom et votre affiliation, comme vous souhaitez qu’ils apparaissent dans la liste des signataires.
-> 
+>
 > À ce jour, cette lettre ouverte a été signée par 8 215 employés de SmartPoop, et 36 215 académiques, collègues de l’industrie et membres de la société civile.
 
 Katia pleure de joie à la lecture de cette lettre formidable. « Quels héros », s’exclame-t-elle dans un message à Marc. « Katia, c’est grâce à toi tout cela ; s’il y a un héros dans cette affaire, c’est bien toi », lui répond Marc.
@@ -151,8 +151,8 @@ Cette fois-ci, l’affaire est bien trop énorme pour être éteinte par les cam
 Trois jours plus tard, les démissions du conseil d’administration s’enchaînent, avant qu’un document soit écrit et co-signé par les membres restants du conseil. Celui-ci présente très clairement ses excuses envers Katia, annule toutes les poursuites judiciaires, et réinvestit Katia de ses fonctions. Là voilà enfin à nouveau Présidente et Directrice Générale de SmartPoop.
 
 
-## Pour aller plus loin 
+## Pour aller plus loin
 
 Ne vous arrêtez pas en si bon chemin !
-Accédez au [débrief scientifique du chapitre](debrief-7.md), à [la suite du roman](8-Trone.md) ou au [sommaire](README.md).  
+Accédez à [la suite du roman](8-Trone.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !

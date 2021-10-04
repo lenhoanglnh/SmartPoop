@@ -16,16 +16,6 @@ Le livre est disponible en [epub](SmartPoop-fr.epub) et en [pdf](SmartPoop-fr.pd
 [Chapitre 7 — On se fait dessus](7-Psy.md)  
 [Chapitre 8 — Sur le trône](8-Trone.md)  
 
-Chaque chapitre s'accompagne d'un débrief scientifique.  
-[Débrief du chapitre 1](debrief-1.md)  
-[Débrief du chapitre 2](debrief-2.md)  
-[Débrief du chapitre 3](debrief-3.md)  
-[Débrief du chapitre 4](debrief-4.md)  
-[Débrief du chapitre 5](debrief-5.md)  
-[Débrief du chapitre 6](debrief-6.md)  
-[Débrief du chapitre 7](debrief-7.md)  
-[Débrief du chapitre 8](debrief-8.md)  
-
 ## Pourquoi ce livre ?
 
 *SmartPoop* est une science-fiction très réaliste,

@@ -138,5 +138,5 @@ Le soir même, les aveux de Katia font la une de tous les journaux télévisés.
 ## Pour aller plus loin
 
 Ne vous arrêtez pas en si bon chemin !
-Accédez au [débrief scientifique du chapitre](debrief-6.md), à [la suite du roman](7-Psy.md) ou au [sommaire](README.md).  
+Accédez à [la suite du roman](7-Psy.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !
