@@ -17,27 +17,30 @@ Selon les universités, les exigences pour voir sa thèse acceptée varient.
 Plus tard dans la soirée, après avoir prétendu avoir apprécié la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l’humanité. Sa recherche jusque-là se contente d’améliorer les performances d’algorithmes déjà existants[^performance-securite]. Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux et l’optimisation de la publicité ciblée sur ces plateformes[^application-des-ia]. Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
 
 [^performance-securite]: Beaucoup considèrent ainsi que, si le progrès technologique améliore grandement la qualité de vies du plus grand nombre, il conduit aussi au fait que le coût de causer une catastrophe monumentale diminue drastiquement.
-Si l'on accepte ce postulat, toute recherche sur la performance des algorithmes peut être vue comme la création potentiel de risques nouveaux et mal maîtrisés, et est en cela dangereuse.
+Si l'on accepte ce postulat, toute recherche sur la performance des algorithmes peut être vue comme la création potentielle de risques nouveaux et mal maîtrisés, et est en cela dangereuse.
 Pour caractériser ce phénomène, le philosophe Nick Bostrom parle de *l'hypothèse du monde vulnérable*.
 Il propose ainsi une métaphore, où la recherche scientifique consiste à tirer une boule dans une urne, contenant des boules blanches et des boules noires.
 Chaque boule blanche améliore le monde, mais tirer une boule noire revient à le mettre en grave danger, à l'instar de la découverte de la réaction nucléaire en chaîne.
-Selon Bostrom, la quête aveugle de la recherche poserait ainsi un risque existentiel, et serait donc immorale.
+Selon Bostrom, la quête aveugle de nouvelles connaissances poserait ainsi un risque existentiel, et serait donc immorale.
+Cela semble d'ailleurs d'autant plus le cas quand il s'agit de la quête d'algorithmes plus performants, dont le déploiement précipité a certainement des [effets secondaires difficilement prévisibles](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier).
 Dès lors, il semble urgent de guider la recherche vers la quête de « boules blanches », voire vers la quête de boules blanches qui nous protègent de boules noires qu'on pourrait tirer à l'avenir.  
-[The Vulnerable World Hypothesis](https://www.nickbostrom.com/papers/vulnerable.pdf). Nick Bostrom. Global Policy (2019).
+[:memo: The Vulnerable World Hypothesis. Nick Bostrom. Global Policy (2019).](https://www.nickbostrom.com/papers/vulnerable.pdf)
 
 [^application-des-ia]: De nos jours, les « intelligence artificielles » les plus sophistiquées, celles qui reçoivent des milliards de dollars d'investissements en recherche et développement (si ce n'est plus !), ce sont bien les algorithmes du web, car l'enjeu économique et le besoin d'automatisation y sont monumentaux.
 Après tout, les chiffres d'affaire de Google, Apple, Facebook, Amazon et Microsoft, entre autres, se comptent en centaines de milliards d'euros.
 Toute amélioration du service de quelques pourcents représente donc des milliards d'euros.
 Or ces entreprises doivent gérer des données de milliards d'utilisateurs, qui génèrent chacun sans doute des méga-octets de données par semaine.
+Ainsi, chaque heure, il y aurait plus de [30 000 heures de nouvelles vidéos mises en ligne sur YouTube](https://www.oberlo.com/blog/youtube-statistics).
 Voilà qui représente des quantités monstrueuses de données, qui ne peuvent être traitées que par des machines.
-Or les tâches sont de plus en plus complexes, comme détecter des incitations à la haine dans une image ou identifier la désinformation dans des milliards de messages.
+Or les tâches sont de plus en plus complexes, comme détecter des incitations à la haine dans une image ou identifier la désinformation dans des milliards de messages.  
+[YouTube's Blog](https://blog.youtube/press/).
 
 Marc, encore étudiant en cancérologie, suggère alors l’utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chance d’être traité avec succès, et avec moins de risques et de complications.
 
 > Ça commence à se faire en plus, précise Marc. L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter des cancers de peau sur des photos[^cancer-de-la-peau]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
 
-[^cancer-de-la-peau]: [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9). Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).  
-[L'IA sauvera des vies](https://www.youtube.com/watch?v=xU7LcNRkmfU) (ft. Primum Non Nocere). Intelligence artificielle 33. Science4All (2018).
+[^cancer-de-la-peau]: [:memo: Dermatologist-level classification of skin cancer with deep neural networks. Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9)  
+[:tv: L'IA sauvera des vies (ft. Primum Non Nocere). Intelligence artificielle 33. Science4All (2018).](https://www.youtube.com/watch?v=xU7LcNRkmfU)
 
 > Il y a clairement un besoin d’algorithmes d’apprentissage en médecine. Mais si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données[^data], fait remarquer Katia.
 
@@ -52,24 +55,43 @@ En 2015, Theranos est évalué à 9 milliards de dollars.
 En 2018, Theranos est poursuivi pour « fraude massive ».
 La technologie de Theranos supposément révolutionnaire n'a en fait jamais fonctionné.
 Les employés de Theranos semble avoir exploité en cachette des techniques classiques d'analyse sanguine, dont la fiabilité était en fait discutable.  
-[Elizabeth Holmes - la menteuse devenue milliardaire](https://www.youtube.com/watch?v=6kqCylsYtJM). La chaîne de P.A.U.L. (2020).  
-[Elizabeth Holmes exposed: the $9 billion medical ‘miracle’ that never existed](https://www.youtube.com/watch?v=BgNfrDXr7uA). 60 Minutes Australia (2021).
+[:tv: Elizabeth Holmes - la menteuse devenue milliardaire. La chaîne de P.A.U.L. (2020).](https://www.youtube.com/watch?v=6kqCylsYtJM)  
+[:tv: Elizabeth Holmes exposed: the $9 billion medical ‘miracle’ that never existed. 60 Minutes Australia (2021).](https://www.youtube.com/watch?v=BgNfrDXr7uA)
 
-Katia a le regard songeur. Comment acquérir des données de patients ? Ou, mieux encore, comment acquérir des données de non-patients ? Comment ne pas être « invasif » ? Katia se demande aussi qui est à l’origine du terme « invasif ». Une prise de sang « n'envahit » que rarement le corps de gens.
+Katia a le regard songeur. Comment acquérir des données de patients ? Ou, mieux encore, comment acquérir des données de non-patients ? Comment ne pas être « invasif » ? Katia se demande aussi qui est à l’origine du terme « invasif ». Une prise de sang « n'envahit » que rarement le corps de gens.
 
 C’est avec ses réflexions en tête que Katia se dirige vers les toilettes pour faire ses besoins.
 
 ### Eurêka
 
-Assise sur la cuvette, le clapotis de son urine résonnant au fond de la cuvette frappe alors son esprit. Katia lève la tête, et son visage abattu se transforme tout à coup en un sourire radieux. Archimède avait sa baignoire, Katia eut ses WC ! En sortant des toilettes, elle se lance alors dans un discours solennel qui, l’avenir le dira, marquera l’histoire de l’espèce humaine.
+Assise sur la cuvette, le clapotis de son urine résonnant au fond de la cuvette frappe alors son esprit. Katia lève la tête, et son visage abattu se transforme tout à coup en un sourire radieux. Archimède avait sa baignoire[^archimede], Katia eut ses WC ! En sortant des toilettes, elle se lance alors dans un discours solennel qui, l’avenir le dira, marquera l’histoire de l’espèce humaine.
 
-> Marc, je viens de trouver l’idée du siècle. Je sais comment résoudre ce problème de diagnostic ! Tu l’as dit. Il nous faut des données. Beaucoup de données très informatives, mais aussi très simples à collecter. Des données qu’on n’aura pas besoin d’extraire violemment des corps humains ; parce que ces données sortent naturellement du corps humains. Ces données ont parcouru tout le corps humain, et contiennent en elles toutes sortes de traces de l’état de ce corps. Ces données, aujourd’hui, on les jette à chaque fois qu’on tire la chasse. Mais imagine tout ce qu’on pourrait diagnostiquer si, au lieu de les balancer dans les égouts, on collectait soigneusement ces données et on prenait le temps de les analyser ! Marc, il faut qu’on analyse le pipi et le caca !
+[^archimede]: Selon la légende, pour déterminer si une couronne était vraiment en or, Archimède eut l'idée de mesurer son volume, en mesurant la quantité d'eau déplacée dans une baignoire pleine lorsque la couronne était déposée dans la baignoire.
+En combinant cette mesure à la mesure de la masse de la couronne, Archimède pouvait alors estimer si la couronne avait la densité d'une couronne en or.
+Quand il s'en rendit compte, selon la légende, Archimède était justement dans sa baignoire.
+Il s'écria « Eurêka », et sortit tout nu dans la rue pour partager l'enthousiasme de sa découverte.
 
-Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce projet d’analyse d’excréments. Ils concluent que le produit idéal serait des toilettes intelligentes, capables notamment de mesurer et d’analyser les excréments sous toutes leurs coutures avant leur périple dans les eaux usées. Cependant, un tel produit nécessiterait des années de recherche et développement, et donc un grand nombre d’investisseurs. Pour commencer, les deux amis penchent vers un projet moins ambitieux. Après tout, comme Katia le fait remarquer, le meilleur outil de collecte d’information moderne est le téléphone. Pourquoi ne pas l’utiliser pour prendre des photographies des excréments ?
+> Marc, je viens de trouver l’idée du siècle. Je sais comment résoudre ce problème de diagnostic ! Tu l’as dit. Il nous faut des données. Beaucoup de données très informatives, mais aussi très simples à collecter. Des données qu’on n’aura pas besoin d’extraire violemment des corps humains ; parce que ces données sortent naturellement du corps humains. Ces données ont parcouru tout le corps humain, et contiennent en elles toutes sortes de traces de l’état de ce corps. Ces données, aujourd’hui, on les jette à chaque fois qu’on tire la chasse. Mais imagine tout ce qu’on pourrait diagnostiquer si, au lieu de les balancer dans les égouts[^egouts], on collectait soigneusement ces données et on prenait le temps de les analyser ! Marc, il faut qu’on analyse le pipi et le caca !
+
+[^egouts]: En fait, il reste possible d'effectuer des diagnostics médicaux à partir d'analyses des égoûts. C'est d'ailleurs ce qui a été fait dans le cadre du suivi épidémiologique du COVID-19. La concentration d'ARN du Sars-CoV-2 dans les égouts permet en effet d'inférer l'incidence du virus dans une population parfois très localisée.  
+[:memo: How sewage could reveal true scale of coronavirus outbreak. Smriti Mallapaty. Nature (2020)](https://www.nature.com/articles/d41586-020-00973-x)  
+[:tv: Aux chiottes le virus ? Science4All (2020)](https://www.youtube.com/watch?v=B1VPbhpGzUE)
+
+Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce projet d’analyse d’excréments. Ils concluent que le produit idéal serait des toilettes intelligentes[^smart-toilet], capables notamment de mesurer et d’analyser les excréments sous toutes leurs coutures avant leur périple dans les eaux usées. Cependant, un tel produit nécessiterait des années de recherche et développement, et donc un grand nombre d’investisseurs. Pour commencer, les deux amis penchent vers un projet moins ambitieux. Après tout, comme Katia le fait remarquer, le meilleur outil de collecte d’information moderne est le téléphone[^poop-log]. Pourquoi ne pas l’utiliser pour prendre des photographies des excréments ?
+
+[^smart-toilet]: Il existe bel et bien des projets de toilettes intelligentes, ou *smart toilets*. Notamment une publication dans le prestigieux journal scientifique *Nature* sur un prototype, capable d'effectuer de la reconnaissance... anale !  
+[:memo: A mountable toilet system for personalized health monitoring via the analysis of excreta. Seung-min Park et al. Nature Biomedical Engineering (2020).](https://www.nature.com/articles/s41551-020-0534-9)
+
+[^poop-log]: Une brève recherche sur Google Play Store permet de se rendre compte qu'il existe déjà de nombreuses applications pour tracer ses selles, comme [Poop Tracker (4,5 étoiles, 100k+ téléchargements)](https://play.google.com/store/apps/details?id=com.appstronautstudios.pooplog), [PoopLog (4,2 étoiles, 100k+ téléchargements)](https://play.google.com/store/apps/details?id=com.kefsco.pooplog2) et [Poopify (4,6 étroiles, 10k+ téléchargements)](https://play.google.com/store/apps/details?id=com.etcho.poopify).
 
 C’est ainsi qu’est conçu petit à petit SmartPoop, destiné à être une application de collecte d’échantillons photographiques de matière fécale et d’analyse automatisée de ces images à l’aide d’algorithmes de machine learning. Pendant les mois qui suivent, Katia écrit sa thèse de doctorat le jour, et programme SmartPoop jusque tard dans la nuit.
 
-Pendant ce temps, Marc s’informe sur la coprologie. Il télécharge des bases de données publiques d’excréments, et prend le soin de vérifier leurs annotations. Certains excréments sont des petites boules solides ; une nette indication de constipation. D’autres sont une bouillie presque liquide ; une bonne grosse diarrhée. Certains étrons ont une forme parfaitement ondulée ; un signe de très bonne santé intestinale ! La couleur donne aussi des informations sur le fonctionnement du foie ou la présence de sang.
+Pendant ce temps, Marc s’informe sur la coprologie. Il télécharge des bases de données publiques d’excréments, et prend le soin de vérifier leurs annotations[^annotations]. Certains excréments sont des petites boules solides ; une nette indication de constipation. D’autres sont une bouillie presque liquide ; une bonne grosse diarrhée. Certains étrons ont une forme parfaitement ondulée ; un signe de très bonne santé intestinale[^etrons] ! La couleur donne aussi des informations sur le fonctionnement du foie ou la présence de sang.
+
+[^annotations]: La forme la plus développée de machine learning est ce qu'on appelle *l'apprentissage supervisé*. Il s'agit du problème de deviner des propriétés (appelées *étiquettes*) de données brutes comme des images. Typiquement, les images avec un chat peuvent être étiquetées avec l'étiquette « chat ». Dans le cas de SmartPoop, les images de constipation seront étiquetées « constipation ». L'algorithme d'apprentissage va alors cherché à identifier des caractéristiques que les images « constipation » ont, et que les images sans constipation n'ont pas. Si l'algorithme est un succès, il exploitera alors ces caractéristiques pour ensuite généraliser l'étiquetage « constipation » à des images non-étiquetées qui possèdent les caractéristiques des images « constipation ».  
+Une grande partie de la conception des algorithmes de machine learning par apprentissage supervisé se joue alors dans l'annotation des données. En fait, ce travail est si laborieux que les entreprises du web profitent souvent des utilisateurs de leurs plateformes pour effectuer ce travail à leur place, typiquement via des « CAPTCHA » qui permettent aussi de vérifier que l'utilisateur est humain.
+
+[^etrons]: [:books: Tout ce que vous devez savoir sur le plus tabou des sujets. Michel Lafond. Julien Ménielle (2018).](http://www.michel-lafon.fr/livre/2059-DANS_TON_CORPS.html)
 
 > Tu sais, en fait les selles devraient être incolores ou blanchâtres, explique Marc à Katia lors de l’une de leurs soirées de travail. Elles sont surtout composées d’eau et de fibres après tout. Mais c’est un déchet des globules rouges, la bilirubine, qui les rend foncés. C’est le foie qui s’occupe de la traiter et de la « mettre » dans les excréments.
 
@@ -77,15 +99,17 @@ Pendant ce temps, Marc s’informe sur la coprologie. Il télécharge des bases 
 
 > Presque. Jaune plutôt. C’est ce qu’on appelle l’ictère. Ou « jaunisse » si tu préfères et les selles deviennent blanchâtres. Mais vois-tu…
 
-Katia n’écoutait déjà plus réfléchissant au type d’analyse colorimétrique qu’elle pourrait intégrer à leurs algorithmes. « SmartPoop, ça va être trop cool », se dit-elle intérieurement.
+Katia n’écoutait déjà plus réfléchissant au type d’analyse colorimétrique qu’elle pourrait intégrer à leurs algorithmes. « SmartPoop, ça va être trop cool[^cool] », se dit-elle intérieurement.
+
+[^cool]: Le mot « cool » est souvent présent pour qualifier certaines technologies « dignes d'intérêt ». Il y a certainement une réflexion importante à avoir autour de ce qui rend une technologie ou une idée « cool ». En particulier, ceci peut parfois ne pas être directement relié à la capacité de la technologie ou de l'idée à vraiment rendre le monde meilleur. Typiquement, beaucoup de technologistes semblent trouver « cool » les cryptomonnaies décentralisées ou les performances des algorithmes de machine learning. Il semble toutefois que ceci puisse parfois les amener à ignorer ou à sous-estimer les dangers de ces technologies.
 
 ### L'application est en ligne !
 
-En mars 2019, Katia défend sa thèse. Une semaine plus tard, l’application SmartPoop est rendue disponible sur le Google Play Store et sur l’Apple Store. Dans sa version initiale, SmartPoop permet ainsi aux utilisateurs de créer une base de données dans les déjections solides, que Marc passe chaque soirée à analyser.
+En mars 2019, Katia défend sa thèse. Une semaine plus tard, l’application SmartPoop est rendue disponible sur le Google Play Store et sur l’Apple Store. Dans sa version initiale, SmartPoop permet ainsi aux utilisateurs de créer une base de données de leurs déjections solides, que Marc passe chaque soirée à analyser.
 
 > J’ai passé des soirées bien chiantes pendant mes années de médecine, à voir des trucs peu ragoûtants…  mais celles-là étaient presque les pires, dira plus tard Marc.
 
-SmartPoop dispose aussi de fonctionnalités d’intelligence artificielle. En particulier, elle apprend ainsi progressivement des données, quotidiennement étiquetées par Marc, et généralise ainsi les annotations de Marc pour prédire les risques de constipation ou de diarrhées chez les utilisateurs.
+SmartPoop dispose aussi de fonctionnalités d'apprentissage. En particulier, elle apprend ainsi progressivement des données, quotidiennement étiquetées par Marc, et généralise ainsi les annotations de Marc pour prédire les risques de constipation ou de diarrhées chez les utilisateurs.
 
 Katia passe alors ces journées à améliorer son application la nuit, et à promouvoir SmartPoop le jour. Elle intervient, en particulier, dans les instituts de recherche, dans les hôpitaux et dans les établissements d'hébergement pour personnes âgées dépendantes, mais aussi dans les réseaux d’entrepreneurs comme la Station F à Paris. Son TEDx à la London School of Economics lui vaut une ovation d’un public conquis par l’opportunité sanitaire.
 
@@ -99,9 +123,16 @@ Katia décide alors de rentrer dans le rang, et accepte un emploi de développem
 
 ### Le ROVID-19
 
-Fin novembre 2019, toutefois, un événement va bouleverser le futur de l’humanité en général, et celui de Katia en particulier. La Kormique déclare une multiplication préoccupante d’une nouvelle pathologie très contagieuse et potentiellement mortelle, qui semble affecter des milliers de kormicains, et qui semble avoir déjà fait des centaines de victimes. Le mois suivant, en décembre 2019, des cas similaires sont observés en Bokistan et, bientôt, dans de plus en plus de pays aux quatre coins du monde. L’Organisation Mondiale de la Santé déclare l’état d’urgence : une nouvelle pandémie est en train de sévir.
+Fin novembre 2019, toutefois, un événement va bouleverser le futur de l’humanité en général, et celui de Katia en particulier. La Kormique[^korm] déclare une multiplication préoccupante d’une nouvelle pathologie très contagieuse et potentiellement mortelle, qui semble affecter des milliers de kormicains, et qui semble avoir déjà fait des centaines de victimes. Le mois suivant, en décembre 2019, des cas similaires sont observés en Bokistan[^bok] et, bientôt, dans de plus en plus de pays aux quatre coins du monde. L’Organisation Mondiale de la Santé déclare l’état d’urgence : une nouvelle pandémie est en train de sévir.
 
-On apprend ensuite que le coupable est un nouveau rotavirus, et la terrible maladie qu’il cause est baptisée « ROtaVIrus Disease 2019 », ou ROVID-19. Le ROVID-19 cause de nombreux symptômes dérangeants, comme des maux gastriques, des maux de têtes, une fatigue accrue, des lourdes diarrhées, des grosses fièvres, des vomissements et des tremblements, qui conduisent près de 10% des personnes infectées vers le décès. Cette terrible maladie semble particulièrement mortelle chez les jeunes de moins de 30 ans.
+[^korm]: En octobre 2021, Google Translate traduisait « caca » en « корм » (ou korm) en ukrainien. Il se trouve toutefois que корм signifie « nourriture pour animal », et non pas « caca ».
+
+[^bok]: « Bok » signifie « caca » en turque.
+
+On apprend ensuite que le coupable est un nouveau rotavirus, et la terrible maladie qu’il cause est baptisée « ROtaVIrus Disease 2019 », ou ROVID-19[^rovid]. Le ROVID-19 cause de nombreux symptômes dérangeants, comme des maux gastriques, des maux de têtes, une fatigue accrue, des lourdes diarrhées, des grosses fièvres, des vomissements et des tremblements, qui conduisent près de 10% des personnes infectées vers le décès. Cette terrible maladie semble particulièrement mortelle chez les jeunes de moins de 30 ans.
+
+[^rovid]: Le ROVID-19 est bien sûr une maladie fictive, calquée sur le COVID-19 qui a frappé le monde en novembre-décembre 2019. Une collaboration exceptionnelle de vulgarisateurs scientifiques du web avait d'ailleurs produit une vidéo collective à ce moment là.  
+[:tv: Coronavirus : Chaque JOUR compte (2020)](https://www.youtube.com/watch?v=euk5FwYI1P4)
 
 Mais ce qui rend le ROVID-19 extrêmement dangereux, c’est son extrême contagiosité. Pire encore, le traçage des cas d’infections montre que cette contagiosité est particulièrement grande deux ou trois jours avant que les premiers symptômes se déclarent. On parle de contaminations pré-symptomatiques. Les personnes contaminantes ne sont pas encore conscientes d’être malades quand elles transmettent la maladie aux autres. Le taux de reproduction de base[^taux-de-reproduction] du virus, c’est-à-dire le nombre moyen d’individus qu’une personne infectée va contaminer, est estimé à environ 8. La croissance exponentielle de la pandémie terrifie rapidement toutes les agences sanitaires, tous les hôpitaux et tous les gouvernements du monde.
 
@@ -113,8 +144,8 @@ C'est finalement la grandeur la plus importante.
 Si elle est supérieure à 1, alors l'épidémie se propagera exponentiellement.
 Si elle est inférieure à 1, alors l'épidémie disparaîtra exponentiellement vite.
 En pratique, à cause de relâchements des mesures sanitaires, dans le cas du COVID-19 notamment, ce taux fluctue autour de 1, ce qui fait de l'épidémie une *endémie*, c'est-à-dire une maladie qui persiste dans la population générale.  
-[Le futur dépend de ce nombre](https://www.youtube.com/watch?v=c_VGCnUWbWU). Science4All (2020).  
-[Epidemic, Endemic, and Eradication Simulations](https://www.youtube.com/watch?v=7OLpKqTriio). Primer (2020).
+[:tv: Le futur dépend de ce nombre](https://www.youtube.com/watch?v=c_VGCnUWbWU). Science4All (2020).  
+[:tv: Epidemic, Endemic, and Eradication Simulations](https://www.youtube.com/watch?v=7OLpKqTriio). Primer (2020).
 
 À partir de début janvier 2020, tous les pays à travers le globe entrent tour à tour dans des périodes de confinement, alors que les tests médicaux se mettent en place petit à petit. Les estimations de janvier sont terrifiantes. Des centaines de milliers de personnes à travers le monde semblent déjà affectées, et des dizaines de milliers de victimes ont déjà succombé.
 
@@ -124,7 +155,7 @@ Une suspicion initiale prend petit à petit de l’ampleur dans la communauté s
 
 [^couches-filtrantes]: La contagiosité du pet, mais aussi la capacité des vêtements à filtrer les pets, ont été testées et vérifiées par Dr Karl Kruszelnicki, suite à une expérience de pets dans des boîtes de Petri.  
 « Notre conclusion finale ? Ne pétez pas nu près de la nourriture. »  
-[Hot air?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121900/). Michael Doyle. The Canberra Times, Reprinted on BMJ (2021).
+[:memo: Hot air?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121900/). Michael Doyle. The Canberra Times, Reprinted on BMJ (2021).
 
 
 ### La quête de données
