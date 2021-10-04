@@ -104,7 +104,7 @@ Une suspicion initiale prend petit à petit de l’ampleur dans la communauté s
 « Une très belle étude d’une équipe de Montpellier a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet », précisait souvent Marc afin de détendre l’atmosphère angoissante qui régnait alors. Le port de couches filtrantes[^couches-filtrantes] est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
 
 [^couches-filtrantes]: La contagiosité du pet, mais aussi la capacité des vêtements à filtrer les pets, ont été testées et vérifiées par Dr Karl Kruszelnicki, suite à une expérience de pets dans des boîtes de Petri.  
-> Notre conclusion finale ? Ne pétez pas nu près de la nourriture.  
+« Notre conclusion finale ? Ne pétez pas nu près de la nourriture. »  
 [Hot air?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121900/). Michael Doyle. The Canberra Times, Reprinted on BMJ (2021).
 
 
