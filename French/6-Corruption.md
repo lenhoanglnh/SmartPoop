@@ -1,6 +1,6 @@
-# Chapitre 6 — Les étrons contaminés
+# Chapitre 6 — Le marché marron
 
-Frédéric Partoli met un pied à terre. Terriblement frustré, il sort du terrain, la main sur le cœur, lequel bat très fort. Il est accompagné directement à l’hôpital. 
+Frédéric Partoli met un pied à terre. Terriblement frustré, il sort du terrain, la main sur le cœur, lequel bat très fort. Il est accompagné directement à l’hôpital.
 
 À l’hôpital, le médecin lui explique que Frédéric souffre d’une tachycardie, causée par une anémie. Frédéric le sait. Depuis quelques jours, SmartPoop lui a annoncé son déficit en fer. SmartPoop lui a conseillé d’éviter toute activité sportive. Mais le football était trop tentant pour Frédéric. Il a préféré jouer et s’y risquer.
 
@@ -10,7 +10,7 @@ Le médecin lui recommande alors de manger des lentilles vertes, des graines de 
 
 Les jours qui suivent, Frédéric suit les conseils du médecin et de SmartPoop, avec toutefois une appréhension vis-à-vis du boudin, du foie et de la viande rouge. Frédéric est en effet sensible à la cause animale, et ne supporte pas l’idée de contribuer à des tortures d’animaux sophistiqués. Il est aussi très préoccupés par les conséquences désastreuses de l’exploitation animale sur l’environnement et la biosécurité. Après tout, une proportion importante de scientifiques persistent à penser que le ROVID-19 pourrait être né d’interactions complexes entre des animaux sauvages, des animaux de bétail et des êtres humains.
 
-Néanmoins, notamment parce qu’il a du mal à s’identifier avec l’image qu’il se fait des vegans militants très virulents, Frédéric peine à s’identifier avec ce mouvement, et à devenir pleinement végétarien. Il hésite donc sérieusement à reprendre une consommation de viande rouge qu’il avait mise en pause. 
+Néanmoins, notamment parce qu’il a du mal à s’identifier avec l’image qu’il se fait des vegans militants très virulents, Frédéric peine à s’identifier avec ce mouvement, et à devenir pleinement végétarien. Il hésite donc sérieusement à reprendre une consommation de viande rouge qu’il avait mise en pause.
 
 C’est sans doute parce qu’il se pose des questions existentielles sur la viande rouge que Frédéric perçoit très distinctement une nette augmentation des publicités de viandes dans ses fils d’actualité des réseaux sociaux, et sur les différentes pages Web qu’il visite. Très clairement, les publicitaires savent que Frédéric est incité à prendre de la viande. Mais alors, comment le savent-ils, se demande Frédéric ?
 
@@ -34,7 +34,7 @@ Frédéric vérifie tous les messages qu’il a envoyés depuis l’annonce de S
 
 ### L'expérience de Partoli
 
-En bon scientifique, quoique habituellement confronté à des problèmes de psychologie, Frédéric Partoli monte un projet de sciences citoyennes, où des volontaires peuvent partager leurs données SmartPoop et les publicités qu’ils reçoivent sur leurs téléphones et leurs ordinateurs. Malgré tous ses efforts de promotion, notamment sur les réseaux sociaux, Frédéric peine toutefois à recruter. Seulement sept personnes participent — tous des amis proches ! 
+En bon scientifique, quoique habituellement confronté à des problèmes de psychologie, Frédéric Partoli monte un projet de sciences citoyennes, où des volontaires peuvent partager leurs données SmartPoop et les publicités qu’ils reçoivent sur leurs téléphones et leurs ordinateurs. Malgré tous ses efforts de promotion, notamment sur les réseaux sociaux, Frédéric peine toutefois à recruter. Seulement sept personnes participent — tous des amis proches !
 
 Pourtant, après 6 mois, certains déclencheurs semblent clairs. Juste après que SmartPoop a diagnostiqué un surpoids pour la sœur de Frédéric, elle s’est mise à recevoir des publicités de chaussures de sport. Juste après que le frère de Frédéric s’est fait mal au genou, il s’est mis à recevoir des publicités de trottinettes électriques. Juste après que SmartPoop a diagnostiqué une carence en vitamine A à la mère de Frédéric, celle-ci s’est mise à recevoir des publicités pour des chips de carottes. Enfin, juste après qu’une amie de Frédéric est devenue enceinte, elle s’est mise à recevoir des publicités pour des poussettes et des couches, tandis que son mari s’est mis à recevoir des publicités pour des SUV.
 
@@ -56,7 +56,7 @@ Il ne fallut qu’une petite semaine pour que l'OMESA contacte Katia, et exige u
 
 > Est-ce que cette API a toujours existé ? Pourquoi n’est-elle pas dans les rapports d’audits de sécurité informatique ?
 
-> Professeur Raul, cette API a été mise en production il y a 3 mois seulement. C’est pour cela qu’elle n’est pas dans les rapports de l’an dernier. 
+> Professeur Raul, cette API a été mise en production il y a 3 mois seulement. C’est pour cela qu’elle n’est pas dans les rapports de l’an dernier.
 
 > Sera-t-elle dans le prochain rapport ?
 
@@ -135,7 +135,7 @@ Le soir même, les aveux de Katia font la une de tous les journaux télévisés.
 > Et le mien, bien sûr.
 
 
-## Pour aller plus loin 
+## Pour aller plus loin
 
 Ne vous arrêtez pas en si bon chemin !
 Accédez au [débrief scientifique du chapitre](debrief-6.md), à [la suite du roman](7-Psy.md) ou au [sommaire](README.md).  

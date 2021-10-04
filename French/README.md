@@ -1,6 +1,6 @@
 # SmartPoop
 
-Bienvenue dans le github du livre *SmartPoop*, co-écrit par Lê Nguyên Hoang et Tristan Le Magoarou, 
+Bienvenue dans le github du livre *SmartPoop*, co-écrit par Lê Nguyên Hoang et Tristan Le Magoarou,
 publié sous [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (réutilisable librement à condition de citer les auteurs originaux).  
 Le livre est disponible en [epub](SmartPoop-fr.epub) et en [pdf](SmartPoop-fr.pdf).  
 **À ce jour, le livre n'est pas dans une version stable.**  
@@ -12,7 +12,7 @@ Le livre est disponible en [epub](SmartPoop-fr.epub) et en [pdf](SmartPoop-fr.pd
 [Chapitre 3 — Le biais étroniste](3-Biais.md)  
 [Chapitre 4 — Les fuites sanitaires](4-Fuites.md)  
 [Chapitre 5 — Les FakePoops](5-FakePoops.md)  
-[Chapitre 6 — Les étrons contaminés](6-Corruption.md)  
+[Chapitre 6 — Le marché marron](6-Corruption.md)  
 [Chapitre 7 — On se fait dessus](7-Psy.md)  
 [Chapitre 8 — Sur le trône](8-Trone.md)  
 
@@ -28,14 +28,14 @@ Chaque chapitre s'accompagne d'un débrief scientifique.
 
 ## Pourquoi ce livre ?
 
-*SmartPoop* est une science-fiction très réaliste, 
+*SmartPoop* est une science-fiction très réaliste,
 qui vise à sensibiliser au danger des algorithmes et aux défis de les rendres [robustement bénéfiques](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier).
 
 Elle raconte l'histoire d'une entreprise du numérique, *SmartPoop*, qui effectue des analyses automatisées d'excréments.
 Ceci lui permet des diagnostics médicaux ultra-personnalisés.
-Cependant, dans chaque chapitre, le déploiement de *SmartPoop* conduit à des *effets secondaires imprévus*, 
+Cependant, dans chaque chapitre, le déploiement de *SmartPoop* conduit à des *effets secondaires imprévus*,
 avec des conséquences médicales et sociales tragiques.
-Les co-fondateurs de *SmartPoop*, les héros de l'histoire, 
+Les co-fondateurs de *SmartPoop*, les héros de l'histoire,
 doivent alors prendre la responsabilité de leur technologie,
 en subir les conséquences,
 et trouver des solutions pour rendre leurs algorithmes sécurisés et éthiques.
@@ -48,12 +48,12 @@ et trouver des solutions pour rendre leurs algorithmes sécurisés et éthiques.
 [Sa recherche](https://scholar.google.ch/citations?user=0ZADKSkAAAAJ&hl=en&oi=ao) porte sur la sécurité et l'éthique des algorithmes, notamment sur [la théorie de l'apprentissage](https://arxiv.org/abs/2008.00742) et [la conception participative](https://arxiv.org/abs/2106.02398).
 Lê est aussi YouTubeur, sur les chaînes [Science4All](https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A/), [Axiome](https://www.youtube.com/channel/UCNHFiyWgsnaSOsMtSoV_Q1A/), [Étincelles, EPFL](https://www.youtube.com/channel/UC0o_ULEdwva8ksC63qvxMAA), [Wandida, EPFL](https://www.youtube.com/channel/UCD_VizaraVT9yDy1egNlWCQ/) et [ZettaBytes, EPFL](https://www.youtube.com/channel/UCfY6ovyFMaw30NRs-KrxrWw/).
 Il est l'auteur de trois livres, intitulés *[La formule du savoir](https://laboutique.edpsciences.fr/produit/1035/9782759822614/La%20formule%20du%20savoir)*, *[Le fabuleux chantier](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)* et *[Turing à la plage](https://www.dunod.com/sciences-techniques/turing-plage-intelligence-artificielle-dans-un-transat)*.
-Il est aussi membre du conseil d'éthique d'Orange. 
+Il est aussi membre du conseil d'éthique d'Orange.
 Enfin, Lê est Président de [l'Association Tournesol](https://wiki.tournesol.app), dont [la plateforme](https://tournesol.app) vise à collecter une grande base de données, fiable et sécurisé, de jugements éthiques humains, [pour contribuer à résoudre l'éthique des algorithmes](https://arxiv.org/abs/2107.07334).
 
 ### Tristan Le Magoarou
 
-Docteur en médecine, spécialiste en santé publique et médecine sociale, Tristan Le Magoarou est médecin d'information médicale et de santé publique dans un centre hospitalier de province. 
+Docteur en médecine, spécialiste en santé publique et médecine sociale, Tristan Le Magoarou est médecin d'information médicale et de santé publique dans un centre hospitalier de province.
 Il est également, depuis 2016, YouTubeur sur sa chaîne Risque Alpha qui possède 26 000 abonnés où il vulgarise l'épidémiologie et les statistiques.
 
 
@@ -83,6 +83,6 @@ Nous encourageons de tels efforts, et nous nous tenons à votre disposition pour
 7. [Les excréments sont-ils essentiels à la nature](https://www.youtube.com/watch?v=SZw-HMcZUiE). La boîte à curiosité (2020).
 
 8. [Les cacas fossilisés, les vrais trésors des archéologues](https://www.youtube.com/watch?v=rS7AvYdtA7E). C'est une autre histoire (2019).
- 
+
 9. [MinuteEarth Explains: Poop](https://www.youtube.com/watch?v=azYrI10CQr4). MinuteEarth (2020).
 

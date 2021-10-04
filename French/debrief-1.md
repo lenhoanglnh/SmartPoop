@@ -15,12 +15,50 @@ Or les tâches sont de plus en plus complexes, comme détecter des incitations �
 
 [L'IA sauvera des vies](https://www.youtube.com/watch?v=xU7LcNRkmfU) (ft. Primum Non Nocere). Intelligence artificielle 33. Science4All (2018).  
 
-## Bibliographie
-
 [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9). Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).
+
+### Theranos
+
+Fondée en 2003 par [Elizabeth Holmes](https://en.wikipedia.org/wiki/Elizabeth_Holmes), l'entreprise [Theranos](https://fr.wikipedia.org/wiki/Theranos) a longtemps prétendu permettre un bilan de santé général à partir d'une prise de sang minime.
+En 2015, Theranos est évalué à 9 milliards de dollars.
+En 2018, Theranos est poursuivi pour « fraude massive ».
+La technologie de Theranos supposément révolutionnaire n'a en fait jamais fonctionné.
+Les employés de Theranos semble avoir exploité en cachette des techniques classiques d'analyse sanguine, dont la fiabilité était en fait discutable.
+
+[Elizabeth Holmes - la menteuse devenue milliardaire](https://www.youtube.com/watch?v=6kqCylsYtJM). La chaîne de P.A.U.L. (2020).
+
+[Elizabeth Holmes exposed: the $9 billion medical ‘miracle’ that never existed](https://www.youtube.com/watch?v=BgNfrDXr7uA). 60 Minutes Australia (2021).
+
+### Foodvisor
+
+D'autres initiatives plus ludiques ont dès aujourd'hui un succès commercial, comme l'application [Foodvisor](https://www.foodvisor.io/) qui permet d'estimer les calories dans un repas à partir d'une photo.
+
+### Taux de reproduction
+
+Le taux de reproduction de base est le nombre moyen d'individus qu'une personne infectée contaminera, en l'absence d'interventions pour contrôler la propagation d'une épidémie.
+On estime que le COVID-19 avait initialement un taux de reproduction de base autour de 3, et que le variant Delta a un taux bien plus élevé (mais difficile à estimer, vu qu'il est apparu à un moment où de nombreuses interventions étaient déjà en oeuvre).
+Il s'agit d'une grandeur importante car, si elle est supérieure à 1, alors l'épidémie se propagera exponentiellement en l'absence d'intervention.
+
+Le taux de reproduction effectif est le nombre moyen d'individus qu'une personne infectée contaminera, sachant toutes les mesures sanitaires en place.
+C'est finalement la grandeur la plus importante.
+Si elle est supérieure à 1, alors l'épidémie se propagera exponentiellement.
+Si elle est inférieure à 1, alors l'épidémie disparaîtra exponentiellement vite.
+En pratique, à cause de relâchements des mesures sanitaires, dans le cas du COVID-19 notamment, ce taux fluctue autour de 1, ce qui fait de l'épidémie une *endémie*, c'est-à-dire une maladie qui persiste dans la population générale.
+
+[Le futur dépend de ce nombre](https://www.youtube.com/watch?v=c_VGCnUWbWU). Science4All (2020).
+
+[Epidemic, Endemic, and Eradication Simulations](https://www.youtube.com/watch?v=7OLpKqTriio). Primer (2020).
+
+### Couches filtrantes
+
+La contagiosité du pet, mais aussi la capacité des vêtements à filtrer les pets, ont été testées et vérifiées par Dr Karl Kruszelnicki, suite à une expérience de pets dans des boîtes de Petri.
+
+> Notre conclusion finale ? Ne pétez pas nu près de la nourriture.
+
+[Hot air?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121900/). Michael Doyle. The Canberra Times, Reprinted on BMJ (2021).
 
 ## Pour aller plus loin 
 
 Ne vous arrêtez pas en si bon chemin !
-Accédez au [débrief scientifique du chapitre](debrief-1.md), à [la suite du roman](2-Filtrer.md) ou au [sommaire](README.md).  
+Accédez à [la suite du roman](2-Filtrer.md) ou au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !

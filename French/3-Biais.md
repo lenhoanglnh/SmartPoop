@@ -70,7 +70,7 @@ Après une minute ou deux, Issa est pris en charge.
 
 > Oui. Docteure, est-ce que vous savez ce que j’ai et si ça va aller ?
 
-Dr. Marta fuit alors Issa du regard. Clairement gênée, Dr. Marta paraît terrifiée par le diagnostic de SmartPoop. Les quatre patients qu’elle a eus, et dont l’état de santé avait été jugé « très préoccupant » par SmartPoop, sont tous décédés. Après un silence interminable, Dr. Marta finit par répondre, avec visiblement un effort pour paraître aussi rassurante que possible, malgré les circonstances.
+Dr. Marta fuit alors Issa du regard. Clairement gênée, Dr. Marta paraît terrifiée par le diagnostic de SmartPoop. Les 27 patients qu’elle a eus, et dont l’état de santé avait été jugé « très préoccupant » par SmartPoop, sont tous décédés. Après un silence interminable, Dr. Marta finit par répondre, avec visiblement un effort pour paraître aussi rassurante que possible, malgré les circonstances.
 
 > Je vous promets qu’on fera de notre mieux.
 
