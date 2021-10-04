@@ -15,7 +15,11 @@ Or les tâches sont de plus en plus complexes, comme détecter des incitations �
 
 Marc, encore étudiant en cancérologie, suggère alors l’utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chance d’être traité avec succès, et avec moins de risques et de complications.
 
-> Ça commence à se faire en plus, précise Marc. L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter [des cancers de peau sur des photos](debrief-1.md#cancer-de-la-peau). Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
+> Ça commence à se faire en plus, précise Marc. L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter des cancers de peau sur des photos[^cancer-de-la-peau][^ia-medecine]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
+
+[^cancer-de-la-peau]: [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9). Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).
+
+[^ia-medecine]: [L'IA sauvera des vies](https://www.youtube.com/watch?v=xU7LcNRkmfU) (ft. Primum Non Nocere). Intelligence artificielle 33. Science4All (2018).
 
 > Il y a clairement un besoin d’algorithmes d’apprentissage en médecine. Mais si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données[^data], fait remarquer Katia.
 
@@ -23,9 +27,18 @@ Marc, encore étudiant en cancérologie, suggère alors l’utilisation des algo
 
 Malheureusement, la simple collecte de données est une tâche laborieuse, délicate et intrusive pour le grand public, qui préfère ne pas se préoccuper des risques de cancer.
 
-> On n’arrive déjà pas à convaincre les gens de réduire leur consommation de tabac ou d’alcool, note Marc. Si on veut avoir une chance quelconque d’effectuer des diagnostics précoces, il faut se concentrer sur des données très informatives. Mais ce genre de données sont généralement trop invasives à récupérer. Je ne connais pas beaucoup de volontaires pour se faire faire des [prises de sang](debrief-1.md#theranos) à répétition par exemple…
+> On n’arrive déjà pas à convaincre les gens de réduire leur consommation de tabac ou d’alcool, note Marc. Si on veut avoir une chance quelconque d’effectuer des diagnostics précoces, il faut se concentrer sur des données très informatives. Mais ce genre de données sont généralement trop invasives à récupérer. Je ne connais pas beaucoup de volontaires pour se faire faire des prises de sang[^theranos] à répétition par exemple…
 
-Katia a le regard songeur. Comment acquérir des données de patients ? Ou, mieux encore, comment acquérir des données de non-patients ? Comment ne pas être « invasif » ? Katia se demande aussi qui est à l’origine du terme « invasif ». Une prise de sang « n'envahit » que rarement le corps de gens.
+[^theranos]: Fondée en 2003 par [Elizabeth Holmes](https://en.wikipedia.org/wiki/Elizabeth_Holmes), l'entreprise [Theranos](https://fr.wikipedia.org/wiki/Theranos) a longtemps prétendu permettre un bilan de santé général à partir d'une prise de sang minime.
+En 2015, Theranos est évalué à 9 milliards de dollars.
+En 2018, Theranos est poursuivi pour « fraude massive ».
+La technologie de Theranos supposément révolutionnaire n'a en fait jamais fonctionné.
+Les employés de Theranos semble avoir exploité en cachette des techniques classiques d'analyse sanguine, dont la fiabilité était en fait discutable.
+[Elizabeth Holmes - la menteuse devenue milliardaire](https://www.youtube.com/watch?v=6kqCylsYtJM). La chaîne de P.A.U.L. (2020).
+
+  [Elizabeth Holmes exposed: the $9 billion medical ‘miracle’ that never existed](https://www.youtube.com/watch?v=BgNfrDXr7uA). 60 Minutes Australia (2021).
+
+  Katia a le regard songeur. Comment acquérir des données de patients ? Ou, mieux encore, comment acquérir des données de non-patients ? Comment ne pas être « invasif » ? Katia se demande aussi qui est à l’origine du terme « invasif ». Une prise de sang « n'envahit » que rarement le corps de gens.
 
 C’est avec ses réflexions en tête que Katia se dirige vers les toilettes pour faire ses besoins.
 
