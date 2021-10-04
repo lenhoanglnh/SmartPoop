@@ -2,9 +2,28 @@
 
 La bouteille de champagne ouverte, les verres enfin servis, Marc Rofstein demande l’attention des cinq invités de la soirée organisée par Katia Crapinski, dans leur colocation.
 
-> Chers amis, j’aimerais qu’on prenne quelques instants pour féliciter solennellement Katia. Son dernier article de recherche a été accepté pour publication, ce qui signifie que Katia a maintenant tout ce qu’il faut pour écrire et valider sa thèse de doctorat en machine learning. Donc si vous le voulez bien, je vous invite à lever vos verres, et à célébrer la bientôt Docteure Katia pour ses accomplissements — même si, contrairement à moi, Katia ne sera pas une docteure qui sauve des vies. À la bientôt Docteure Katia !
+> Chers amis, j’aimerais qu’on prenne quelques instants pour féliciter solennellement Katia. Son dernier article de recherche a été accepté pour publication[^publication], ce qui signifie que Katia a maintenant tout ce qu’il faut pour écrire et valider sa thèse de doctorat en machine learning[^these]. Donc si vous le voulez bien, je vous invite à lever vos verres, et à célébrer la bientôt Docteure Katia pour ses accomplissements — même si, contrairement à moi, Katia ne sera pas une docteure qui sauve des vies. À la bientôt Docteure Katia !
 
-Plus tard dans la soirée, après avoir prétendu avoir apprécié la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l’humanité. Sa recherche jusque-là se contente d’améliorer les performances d’algorithmes déjà existants. Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux et l’optimisation de la publicité ciblée sur ces plateformes[^application-des-ia]. Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
+[^publication]: La production scientifique repose beaucoup sur un système de publication dans des journaux ou des conférences scientifiques, où l'acceptation à publication dépend d'une revue par les pairs.
+Un article donné est ainsi étudié par deux à cinq relecteurs, qui émettent chacun un avis et exigent des corrections plus ou moins majeures.
+Les journaux et conférences scientifiques varient beaucoup selon leurs thèmes de prédilection et leur prestige.
+En informatique, les publications dans les conférences scientifiques sont très prestigieuses.
+En machine learning en particulier, les conférences les plus prestigieuses sont NeurIPS, ICML et ICLR, avec juste derrière des conférences comme COLT, AISTAT, UAI, et AAAI, parmi d'autres.
+
+[^these]: Une thèse en informatique est généralement une collection d'articles acceptés à publication.
+L'auteur de la thèse se doit généralement d'ajouter un résumé, une introduction générale, et une conclusion.
+Selon les universités, les exigences pour voir sa thèse acceptée varient.
+
+Plus tard dans la soirée, après avoir prétendu avoir apprécié la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l’humanité. Sa recherche jusque-là se contente d’améliorer les performances d’algorithmes déjà existants[^performance-securite]. Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux et l’optimisation de la publicité ciblée sur ces plateformes[^application-des-ia]. Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
+
+[^performance-securite]: Beaucoup considèrent ainsi que, si le progrès technologique améliore grandement la qualité de vies du plus grand nombre, il conduit aussi au fait que le coût de causer une catastrophe monumentale diminue drastiquement.
+Si l'on accepte ce postulat, toute recherche sur la performance des algorithmes peut être vue comme la création potentiel de risques nouveaux et mal maîtrisés, et est en cela dangereuse.
+Pour caractériser ce phénomène, le philosophe Nick Bostrom parle de *l'hypothèse du monde vulnérable*.
+Il propose ainsi une métaphore, où la recherche scientifique consiste à tirer une boule dans une urne, contenant des boules blanches et des boules noires.
+Chaque boule blanche améliore le monde, mais tirer une boule noire revient à le mettre en grave danger, à l'instar de la découverte de la réaction nucléaire en chaîne.
+Selon Bostrom, la quête aveugle de la recherche poserait ainsi un risque existentiel, et serait donc immorale.
+Dès lors, il semble urgent de guider la recherche vers la quête de « boules blanches », voire vers la quête de boules blanches qui nous protègent de boules noires qu'on pourrait tirer à l'avenir.  
+[The Vulnerable World Hypothesis](https://www.nickbostrom.com/papers/vulnerable.pdf). Nick Bostrom. Global Policy (2019).
 
 [^application-des-ia]: De nos jours, les « intelligence artificielles » les plus sophistiquées, celles qui reçoivent des milliards de dollars d'investissements en recherche et développement (si ce n'est plus !), ce sont bien les algorithmes du web, car l'enjeu économique et le besoin d'automatisation y sont monumentaux.
 Après tout, les chiffres d'affaire de Google, Apple, Facebook, Amazon et Microsoft, entre autres, se comptent en centaines de milliards d'euros.
