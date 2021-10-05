@@ -138,7 +138,7 @@ Katia décide alors de rentrer dans le rang, et accepte un emploi de développem
 
 Fin novembre 2019, toutefois, un événement va bouleverser le futur de l’humanité en général, et celui de Katia en particulier. La Kormique[^korm] déclare une multiplication préoccupante d’une nouvelle pathologie très contagieuse et potentiellement mortelle, qui semble affecter des milliers de kormicains, et qui semble avoir déjà fait des centaines de victimes. Le mois suivant, en décembre 2019, des cas similaires sont observés en Bokistan[^bok] et, bientôt, dans de plus en plus de pays aux quatre coins du monde. L’Organisation Mondiale de la Santé déclare l’état d’urgence : une nouvelle pandémie est en train de sévir.
 
-[^korm]: En octobre 2021, Google Translate traduisait « caca » en « корм » (ou korm) en ukrainien. Il se trouve toutefois que корм signifie « nourriture pour animal », et non pas « caca ».
+[^korm]: En octobre 2021, Google Translate traduisait « caca » en « korm » en ukrainien. Il se trouve toutefois que korm signifie « nourriture pour animal », et non pas « caca ».
 
 [^bok]: « Bok » signifie « caca » en turque.
 
@@ -162,7 +162,7 @@ En pratique, à cause de relâchements des mesures sanitaires, dans le cas du CO
 
 [^exponentielle]: La croissance exponentielle intervient lorsque le nombre de cas est multiplié chaque semaine par une constante supérieure à 1. Le danger d'une telle croissance, c'est qu'elle paraît insignifiante les premières semaines, mais devient tout à coup hors de contrôle après quelques semaines ou mois.  
 [:tv: Aller sur la lune avec une feuille de papier et l'échiquier de Sissa. Fabien Olicard (2016).](https://www.youtube.com/watch?v=u5Hq6F_PvXk)  
-[Des nombres grands, TRÈS grands. Mickaël Launay (2014)](https://www.youtube.com/watch?v=oqMYAVV-hsA)
+[:tv: Des nombres grands, TRÈS grands. Mickaël Launay (2014)](https://www.youtube.com/watch?v=oqMYAVV-hsA)
 
 À partir de début janvier 2020, tous les pays à travers le globe entrent tour à tour dans des périodes de confinement, alors que les tests médicaux se mettent en place petit à petit[^tests-medicaux], notamment des tests groupés[^tests-groupes]. Les estimations de janvier sont terrifiantes. Des centaines de milliers de personnes à travers le monde semblent déjà affectées, et des dizaines de milliers de victimes ont déjà succombé.
 
@@ -211,7 +211,7 @@ Katia contacte aussi des médiateurs scientifiques, sur Twitter et sur YouTube, 
 [^collaborations-vulga]: « Sans nos médiateurs scientifiques, qui informent, expliquent, enseignent, décodent, combattent la désinformation et débattent des questions scientifiques, beaucoup resteraient dans un espace où ils ne disposent pas des informations dont ils ont besoin, ce qui les conduirait à faire de mauvais choix à des moments vraiment cruciaux, » [affirmait Jacinda Arden](https://medium.com/scicomm/what-jacinda-arden-can-teach-us-about-science-communication-6f8fc42712b4), Première Ministre de la Nouvelle-Zélande, en juillet 2020. 
 Malheureusement, les collaborations avec le monde de la vulgarisation, pendant la crise du COVID-19 et autour de sujets comme le changement climatique ou l'éthique des algorithmes, ont sans doute été très déficientes à travers le monde, avec plus généralement un très probable manque d'investissements dans la communication scientifique.
 Elles sont aussi souvent très délicates, pour les autorités et pour les vulgarisateurs, surtout dans le climat de défiance actuel. Par exemple, la vidéo de Science4All sur les vaccins, en collaboration avec le Ministère de la Santé en France, a causé un lever de bouclier (sans doute accentué par une campagne de désinformation organisée), recevant plus de dislikes que de likes sur YouTube (ce qui est extrêmement rare !).  
-[Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE)
+[:tv: Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE)
 
 En mai 2020, alors que les nombres de cas diminuent lentement, mais demeurent encore très élevés, SmartPoop récolte quotidiennement des centaines de milliers de photographies. Au total, SmartPoop dispose alors de dizaines de millions de photos d’excréments. Malheureusement, si les algorithmes de Katia distinguent aisément les diarrhées glairosanglantes des cas avancés, ils échouent encore à détecter une quelconque différence entre les cas infectés pré-symptomatiques[^pre-symptomatiques] et les cas sains. Katia est frustrée.
 
@@ -245,9 +245,17 @@ Katia se jette alors sur son ordinateur, et se met à coder. Marc la suit et dem
 
 C’est ainsi que SmartPoop propose désormais, non pas de photographier les excréments, mais de les filmer ! Quelques jours plus tards, des centaines de milliers de vidéos de quelques secondes sont collectées par SmartPoop. Katia, qui n’a pas dormi entre temps, est alors sur le point d’achever la conception des nouveaux algorithmes de SmartPoop, désormais adaptés à l’analyse de vidéos.
 
-À 4 heures du matin, Katia rentre dans la chambre de Marc pour le réveiller. « J’ai fini l’algorithme. Il faut que tu vois ça. » Marc se réveille en sursaut, court chercher une bouteille de champagne et rejoint Katia dans le salon. Katia explique qu’elle a entraîné son algorithme avec 90% de la base de données de SmartPoop, et qu’elle s’apprête à tester les performances de l’algorithme sur les 10% restants. Katia explique que ces 10% restants ont été tirés au hasard, avec la simple contrainte qu’ils contiennent autant d’excréments infectés pré-symptomatiques que d’excréments sains. Si l’algorithme échoue, alors il aura un taux de reconnaissance d’excréments de 50%. S’il est parfait, sa précision sera de 100%.
+À 4 heures du matin, Katia rentre dans la chambre de Marc pour le réveiller. « J’ai fini l’algorithme. Il faut que tu vois ça. » Marc se réveille en sursaut, court chercher une bouteille de champagne et rejoint Katia dans le salon. Katia explique qu’elle a entraîné son algorithme avec 90% de la base de données de SmartPoop, et qu’elle s’apprête à tester les performances de l’algorithme sur les 10% restants[^donnees-test]. Katia explique que ces 10% restants ont été tirés au hasard, avec la simple contrainte qu’ils contiennent autant d’excréments infectés pré-symptomatiques que d’excréments sains[^accuracy]. Si l’algorithme échoue, alors il aura un taux de reconnaissance d’excréments de 50%. S’il est parfait, sa précision sera de 100%.
 
-Il ne reste plus qu’à lancer le test de l’algorithme pour connaître sa performance. Katia et Marc se lancent dans un décompte. Cinq. Quatre. Trois. Deux. Un. Le test est lancé.
+[^donnes-test]: Ce qui est décrit là est la séparation du jeu de données en un jeu de données d'entraînement (*training set*) et un jeu de données de test (*test set*), qui est une technique classique en machine learning pour valider un algorithme après apprentissage. On parle alors de *validation croisée*, qui peut prendre des formes plus sophistiquées.  
+[:tv: La validation croisée | Intelligence Artificielle 13 (ft.@La statistique expliquée à mon chat). Science4All (2018)](https://www.youtube.com/watch?v=ymRSxSY1nak)
+
+[^accuracy]: Notez que le taux de succès de prédiction d'un algorithme dépend fortement du taux de choses à détecter dans les données (ici, le taux d'excréments infectés pré-symptomatiques). En effet, si 99% des données ne sont pas des excréments infectés pré-symptomatiques, alors un algorithme idiot qui systématiquement prédit « cet excrément n'est pas infecté pré-symptomatique » permet d'avoir un 99% de précision ! De façon plus générale, pour estimer le succès d'un algorithme prédictif dans une tâche de prédiction binaire (infecté versus pas infecté), il est nécessaire de préciser deux statistiques (par exemple le taux de base et la précision, ou par exemple le taux de faux positif et le taux de faux négatif).  
+[:tv: Les grands scientifiques veulent se tromper. Science4All (2019)](https://www.youtube.com/watch?v=zbUZnspdQRU)
+
+Il ne reste plus qu’à lancer le test de l’algorithme pour connaître sa performance. Katia et Marc se lancent dans un décompte. Cinq. Quatre. Trois. Deux. Un. Le test est lancé[^suspense].
+
+[^suspense]: Cet instant est bien sûr très romantisé. En pratique, les datascientistes doivent souvent lancer et relancer les calculs un grand nombre de fois, en essayant d'ajuster les paramètres de l'apprentissage pour trouver une configuration qui marche bien. Par exemple, dans ce cas, Katia pourrait tester plusieurs architectures de réseaux de neurones, des astuces de « normalisation de batchs », différents optimiseurs (SGD, Adam...) avec différentes paramétrisations, et ainsi de suite. Le datascientiste finit souvent par progresser petit à petit, ou par se résigner. Mais ce travail laborieux est aussi bien sûr moins spectaculaire.
 
 Dix secondes plus tard, 10% du test est effectué. Il faudra donc attendre encore une minute et demie pour avoir les résultats. Pendant cette longue minute et demie, Katia et Marc ont le souffle coupé. Enfin, le résultat s’affiche. Le verdict : 52,4%.
 
@@ -257,13 +265,19 @@ Tête baissée, Marc se lève, et part remettre le champagne au réfrigérateur.
 
 C’est encore au beau milieu de la nuit que Katia réveille tout à coup Marc.
 
-> Cinq écarts-types, cinq écart-types, répète-t-elle ! Le test n’a pas échoué. Il est en fait assez nettement au-dessus de 50%.
+> Cinq écarts-types, cinq écart-types[^cinq-sigmas], répète-t-elle ! Le test n’a pas échoué. Il est en fait assez nettement au-dessus de 50%.
+
+[^cinq-sigmas]: En sciences, et notamment en physique en particulier, on parle parfois de « 5 sigmas ». Il s'agit du signal considéré suffisamment marquant pour être parfois qualifié de « découverte scientifique », quoique son interprétation exacte est en fait complexe, voire très trompeuse. En particulier, l'utilisation de tels signaux est très critiqués, notamment par les statistiques dites *bayésiennes*.
+[:tv: La plus grosse confusion des sciences : la p-value !! :hot_pepper: Science4All (2019).](https://www.youtube.com/watch?v=jy9b1HSqtSk)
 
 > Mais un taux de succès de 52,4% ne nous aidera absolument pas à arrêter le ROVID-19.
 
 Katia explique alors que, en effet, l’algorithme actuel est très largement insuffisant. Cependant, la supériorité de 52,4% par rapport à 50%, cela suffit à suggérer que SmartPoop est bel et bien en train de relever un signal distinctif des excréments infectés.
 
-> Si SmartPoop ne détectait absolument rien, alors on s’attendrait à un taux d’erreur de 50%, explique Katia. Mais pas exactement de 50%, à cause des fluctuations statistiques. Sachant que le test a été effectué sur des dizaines de milliers de vidéos d’excréments, on s’attendrait à obtenir 50% plus ou moins un erreur de l’ordre de 0,5%. Or, là, on est à 52,4%, soit 2,4% de plus que 50%. Un écart de 2,4%, c’est donc presque 5 fois la fluctuation de 0,5%. C’est beaucoup. Et ça veut dire que la distinction existe très probablement ! SmartPoop n’est simplement pas encore capable de l’identifier !
+> Si SmartPoop ne détectait absolument rien, alors on s’attendrait à un taux d’erreur de 50%, explique Katia. Mais pas exactement de 50%, à cause des fluctuations statistiques. Sachant que le test a été effectué sur des dizaines de milliers de vidéos d’excréments, on s’attendrait à obtenir 50% plus ou moins un erreur de l’ordre de 0,5%. Or, là, on est à 52,4%, soit 2,4% de plus que 50%. Un écart de 2,4%, c’est donc presque 5 fois la fluctuation de 0,5%[^fluctuation]. C’est beaucoup. Et ça veut dire que la distinction existe très probablement ! SmartPoop n’est simplement pas encore capable de l’identifier !
+
+[^fluctuation]: Notez que Katia fait bien attention à parler d'intervalle de *fluctuation*, et non pas d'intervalle de *confiance*. Ces deux notions sont souvent confondues à tort, alors qu'elles décrivent des objets assez distincts. Dans le premier cas, il s'agit d'une incertitude sur les données à observer, alors que, dans le second cas, il s'agit d'un intervalle qui estime les valeurs d'un paramètre d'un modèle, à partir des données observées. Cependant, cet intervalle de confiance doit aussi ne pas être confondu avec un troisième type d'intervalles, appelé intervalle de *crédence* (ou de *crédibilité*). Contrairement à l'intervalle de confiance, l'intervalle de crédence prend aussi en compte l'état global des connaissances scientifiques avant d'avoir observé les données collectées.  
+[:tv: Peut-on faire confiance aux intervalles de confiance ? :hot_pepper: Science4All (2019)](https://www.youtube.com/watch?v=PVb7aSOqx0Q)
 
 Marc demande à Katia ce qu’il manque pour discerner ce signal. Katia répond :
 
@@ -271,7 +285,9 @@ Marc demande à Katia ce qu’il manque pour discerner ce signal. Katia répond 
 
 Katia et Marc décident alors de se lancer à corps perdu dans le développement de SmartPoop. Katia démissionne de son entreprise, et passe désormais jour et nuit à améliorer les algorithmes de SmartPoop, à promouvoir l’application et à chercher des investisseurs. Elle loue alors plus de puissances de calculs encore sur les serveurs d’Amazon Web Service, et appelle aussi ses anciens camarades de thèse, pour qu’ils l’aident dans le développement de SmartPoop.
 
-Marc, lui, passe son temps à tester SmartPoop, et à suggérer des améliorations de l’interface pour rendre son utilisation plus facile et compréhensible pour tous ces utilisateurs. Marc contacte également régulièrement différents médias, et les appelle à promouvoir SmartPoop pour recueillir davantage d’utilisateurs et de données. Science4Alpha parle régulièrement des progrès de SmartPoop dans ses vidéos YouTube, et encourage ses collègues du web à en faire de même.
+Marc, lui, passe son temps à tester SmartPoop, et à suggérer des améliorations de l’interface pour rendre son utilisation plus facile et compréhensible pour tous ces utilisateurs[^ux-ui]. Marc contacte également régulièrement différents médias, et les appelle à promouvoir SmartPoop pour recueillir davantage d’utilisateurs et de données. Science4Alpha parle régulièrement des progrès de SmartPoop dans ses vidéos YouTube, et encourage ses collègues du web à en faire de même.
+
+[^ux-ui]: En informatique, on parle de UX/UI design, pour expérience utilisateur et interface utilisateur.
 
 Jour après jour, la performance de SmartPoop s’améliore. En juillet 2020, elle passe à 55%. En août, elle passe à 60%. Katia et Marc sont désormais invités sur les plateaux de télévision, pour parler de SmartPoop. Les journaux nationaux titrent : « Filmez vos excréments pour sortir du confinement ! »
 
@@ -279,7 +295,9 @@ C’est alors qu’un investisseur, appelé Luc, décide d’investir 10 million
 
 ### Le triomphe de SmartPoop
 
-En décembre 2020, SmartPoop possède désormais près de 100 millions d’utilisateurs réguliers, et plusieurs milliards de vidéos d’excréments atteignant un total de 135 000 années de vidéos. Mais surtout, les performances de SmartPoop atteignent alors 90%. L’application est alors auditée et approuvée par les autorités sanitaires, qui encouragent désormais son adoption massive. Après une année complète de confinement, en janvier 2021, celui-ci est enfin levé, et la population retrouve une vie plus normale.
+En décembre 2020, SmartPoop possède désormais près de 100 millions d’utilisateurs réguliers, et plusieurs milliards de vidéos d’excréments atteignant un total de 320 années de vidéos[^calcul]. Mais surtout, les performances de SmartPoop atteignent alors 90%. L’application est alors auditée et approuvée par les autorités sanitaires, qui encouragent désormais son adoption massive. Après une année complète de confinement, en janvier 2021, celui-ci est enfin levé, et la population retrouve une vie plus normale.
+
+[^calcul]: Chaque utilisateur régulier met en ligne une vidéo par jour, depuis plusieurs mois, d'où les milliards de vidéos. Chaque vidéo fait quelques secondes, ce qui représente environ 10 milliards de secondes de vidéos, soit environ 320 années de vidéos.
 
 > C’est super, explique Marc, invité à paraître sur Science4Alpha. Le taux de reproduction de base du ROVID-19 est autour de 8. Si on suppose que dès qu’un individu est diagnostiqué positif par SmartPoop, alors lui et ses colocataires s’isolent chez eux, sachant que le taux d’erreur est de 10%, on devrait ainsi diviser le taux de reproduction par 10, ce qui théoriquement nous ramène à 0,8. Comme 0,8 est en dessous de 1, cela nous donne une chance de contenir le ROVID-19, sans requérir de confinement global. Mais bien sûr, il ne s’agit là que d’estimations. Il reste crucial que l’on prenne encore soin de la distanciation physique, des gestes barrières et du port de couche, et de surveiller constamment le taux de reproduction effectif qui détermine comment la maladie se propage.
 
