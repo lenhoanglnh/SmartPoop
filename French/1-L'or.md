@@ -267,7 +267,7 @@ C’est encore au beau milieu de la nuit que Katia réveille tout à coup Marc.
 
 > Cinq écarts-types, cinq écart-types[^cinq-sigmas], répète-t-elle ! Le test n’a pas échoué. Il est en fait assez nettement au-dessus de 50%.
 
-[^cinq-sigmas]: En sciences, et notamment en physique en particulier, on parle parfois de « 5 sigmas ». Il s'agit du signal considéré suffisamment marquant pour être parfois qualifié de « découverte scientifique », quoique son interprétation exacte est en fait complexe, voire très trompeuse. En particulier, l'utilisation de tels signaux est très critiqués, notamment par les statistiques dites *bayésiennes*.
+[^cinq-sigmas]: En sciences, et notamment en physique en particulier, on parle parfois de « 5 sigmas ». Il s'agit du signal considéré suffisamment marquant pour être parfois qualifié de « découverte scientifique », quoique son interprétation exacte est en fait complexe, voire très trompeuse. En particulier, l'utilisation de tels signaux est très critiqués, notamment par les statistiques dites *bayésiennes*.  
 [:tv: La plus grosse confusion des sciences : la p-value !! :hot_pepper: Science4All (2019).](https://www.youtube.com/watch?v=jy9b1HSqtSk)
 
 > Mais un taux de succès de 52,4% ne nous aidera absolument pas à arrêter le ROVID-19.

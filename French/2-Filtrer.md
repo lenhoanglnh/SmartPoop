@@ -1,11 +1,15 @@
 # Chapitre 2 — Filtrer les données fécales
 
 
-Le couple sort tremblant de l'hôpital. Quelques mots épars prononcés par le cancérologue quelques minutes plus tôt résonnent encore dans leurs têtes. « Échappement thérapeutique », « métastases osseuses », « traitements expérimentaux ». Lucile Polmon, qui accompagnait son mari pour la consultation, connaît bien ces termes. Elle en a déjà lu les définitions sur internet, plusieurs fois et elle sait bien à quoi cela correspond pour celui qu’elle aime.
+Le couple sort tremblant de l'hôpital. Quelques mots épars prononcés par le cancérologue[^cancer] quelques minutes plus tôt résonnent encore dans leurs têtes. « Échappement thérapeutique », « métastases osseuses », « traitements expérimentaux ». Lucile Polmon, qui accompagnait son mari pour la consultation, connaît bien ces termes. Elle en a déjà lu les définitions sur internet, plusieurs fois et elle sait bien à quoi cela correspond pour celui qu’elle aime.
+
+[^cancer]: [:tv: Le cancer. Science Étonnante (2017).](https://www.youtube.com/watch?v=gxtqGhhomQE)
 
 > Ça va aller, dit-il en retenant ses larmes... Ça va aller.
 
-Malheureusement, l'optimisme de façade du mari de Lucile ne suffira pas. Deux ans plus tard, malgré des séances de chimiothérapie intensive, le mari décède, à seulement 42 ans. Il abandonne ainsi Lucile avec leur fille unique.
+Malheureusement, l'optimisme de façade du mari de Lucile ne suffira pas. Deux ans plus tard, malgré des séances de chimiothérapie intensive[^chimiotherapie], le mari décède, à seulement 42 ans. Il abandonne ainsi Lucile avec leur fille unique.
+
+[^chimiotherapie]: [:tv: Chimiothérapie. Geneva University Hospitals (2019).])https://www.youtube.com/watch?v=eZT8Hgsyh1Q)
 
 Depuis lors, Lucile, profondément traumatisée par le cancer de son mari, dévore toutes les informations de santé qu’elle peut trouver. Le jour où SmartPoop était sorti, elle avait aussitôt téléchargé l’application. Elle était l’une des premières à adopter l’application quotidiennement. Très rapidement, elle a forcé sa fille de douze ans, Jeanne, à utiliser SmartPoop elle aussi. Tous les soirs, désormais, elle analyse ses propres données SmartPoop et celles de sa fille, à la recherche de toute anomalie.
 
@@ -15,15 +19,37 @@ Depuis lors, Lucile, profondément traumatisée par le cancer de son mari, dévo
 
 > Personne n’en ri, maman. Je me fais juste du souci pour toi.
 
-Mais l’obsession de Lucile ne se limite toutefois pas à SmartPoop. Elle passe ses journées à lire toutes sortes de blogs de santé du web, à regarder des vidéos YouTube sur de la médecine alternative et à fréquenter des groupes Facebook où des inconnus partagent leurs expériences personnelles.
+Mais l’obsession de Lucile ne se limite toutefois pas à SmartPoop. Elle passe ses journées à lire toutes sortes de blogs de santé du web, à regarder des vidéos YouTube sur de la médecine alternative et à fréquenter des groupes Facebook où des inconnus partagent leurs expériences personnelles[^mesinformation-sante-mentale].
+
+[^mesinformation-sante-mentale]: Quelques études scientifiques suggèrent un lien étroit entre détresse mentale et croyances en la médecine alternative.  
+[:memo: Are modern health worries associated with medical conspiracy theories? Journal of Psychosomatic Research. Y Lahrach and A Furnham (2017).](https://www.sciencedirect.com/science/article/pii/S0022399917301757)  
+[:memo: Belief in a COVID-19 Conspiracy Theory as a Predictor of Mental Health and Well-Being of Health Care Workers in Ecuador: Cross-Sectional Survey Study. Xi Chen,  Stephen X Zhang,  Asghar Afshar Jahanshahi,  Aldo Alvarez-Risco,  Huiyang Dai, Jizhen Li et Verónica García Ibarra. JMIR Public Health and Surveillance (2020).](https://publichealth.jmir.org/2020/3/e20737)
 
 ### La radioactivité des bananes
 
-Un soir, sur son téléphone, Lucile tombe sur une vidéo YouTube sur les impacts sanitaires de la radioactivité, et qui affirme que le potassium est radioactif. Même si la vidéo affirme que cette radioactivité n’est pas préoccupante, l’algorithme de YouTube recommande alors une autre vidéo intitulée « Les bananes, un OGM conçu pour exterminer la population ». Curieuse d’un tel titre, Lucile clique sur la vidéo. Elle y apprend que la banane moderne n’a rien de naturel. Selon l’auteur de la vidéo, la banane résulte de manipulations par des groupes agro-alimentaires. La vidéo fait aussi intervenir un témoin masqué.
+Un soir, sur son téléphone, Lucile tombe sur une vidéo YouTube sur les impacts sanitaires de la radioactivité, et qui affirme que le potassium est radioactif. Même si la vidéo affirme que cette radioactivité n’est pas préoccupante[^radioactivite], l’algorithme de YouTube recommande[^recommandation-youtube] alors une autre vidéo intitulée « Les bananes, un OGM conçu pour exterminer la population ». Curieuse d’un tel titre, Lucile clique sur la vidéo. Elle y apprend que la banane moderne n’a rien de naturel. Selon l’auteur de la vidéo, la banane résulte de manipulations par des groupes agro-alimentaires[^banane]. La vidéo fait aussi intervenir un témoin masqué.
+
+[^radioactivite]: La radioactivité est en fait omniprésente. Ce qui la rend dangereux n'est pas sa présence, mais la dose de la radioactivité. Bien sûr, celle de la banane est beaucoup trop faible pour être préoccupante pour la santé.  
+[:tv: La radioactivité et notre exposition aux rayonnements ionisants.. Le Réveilleur (2019).](https://www.youtube.com/watch?v=0tlx_JJkHWc)  
+[:tv: The Most Radioactive Places on Earth. Veritasium (2014)](https://www.youtube.com/watch?v=TRL7o2kPqw00)
+
+[^recommandation-youtube]: Cet algorithme de recommandation est devenu l'une des entités les plus influentes au monde. Pour s'en rendre compte, il est utile de constater quelques statistiques. Depuis 2016, il y a plus de vues sur YouTube que de recherches sur Google. En 2019 (avant le COVID-19 !), les vues sur YouTube représentaient un milliard d'heures de visionnage pour deux milliards d'humains sur terre, soit une moyenne d'une demi-heure par jour. Or l'algorithme de recommandation de YouTube est responsable de 2 vues sur 3. Après tout, à chaque fois qu'un utilisateur va sur [YouTube.com](https://www.youtube.com) ou clique sur l'application YouTube sur son téléphone, c'est cet algorithme qui décide quelles vidéos seront proposées à l'utilisateur, sans parler de l'auto-play ou de la barre de proposition à droite sur le site. Dans leur livre [Le Fabuleux Chantier](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier), El Mahdi El Mhamdi et Lê Nguyên Hoang affirment que ceci fait de l'algorithme de YouTube l'entité la plus puissante au monde, car il est capable d'enfermer certaines populations dans leurs convictions, ou de réduire au silence certaines informations en ne les recommandant jamais.  
+[:tv: L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA)  
+[:books: Le fabuleux chantier : Rendre l’intelligence artificielle robustement bénéfique. Lê Nguyên Hoang et El Mahdi El Mhamdi. EDP Sciences (2019)](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
+[YouTube (Wiki Tournesol).](https://wiki.tournesol.app/wiki/YouTube)
+
+[^banane]: [:tv: 4 Histoires Terrifiantes sur les BANANES. Trash (2020).](https://www.youtube.com/watch?v=DE7Kz0kJu_k)
 
 > Le potassium a été injecté dans les bananes naturelles pour en retirer les noyaux et pour qu’elles se vendent ainsi, affirme-t-il. Ça a rapporté des milliards d’euros aux exploitations industrielles. Quand j’ai démontré que le potassium était radioactif, j’ai reçu des menaces. Et quand j’ai insisté, j’ai été licencié.
 
-Deux heures plus tard, Lucile est encore sur son téléphone. Elle découvre désormais des groupes Facebook qui dénoncent le « scandale du potassium », et qui exigent l’interdiction de tous les produits contenant du potassium, à commencer par la banane. Ces sites expliquent également que la consommation de gélules de magnésium réduit le taux de potassium. « Le magnésium détruit les particules de potassium », affirment certains messages.
+Deux heures plus tard, Lucile est encore sur son téléphone[^attention]. Elle découvre désormais des groupes Facebook qui dénoncent le « scandale du potassium », et qui exigent l’interdiction de tous les produits contenant du potassium, à commencer par la banane. Ces sites expliquent également que la consommation de gélules de magnésium réduit le taux de potassium. « Le magnésium détruit les particules de potassium », affirment certains messages.
+
+[^attention]: Les plateformes du web ont des intérêts économiques énormes à rendre leurs produits addictifs pour que les utilisateurs restent sur leurs plateformes. On parle parfois de *l'économie de l'attention*. En 2021, les *Facebook files*, ainsi que la lanceuse d'alerte Frances Haugen, ont révélé le fait que, depuis plusieurs années, Facebook a sciemment et systématiquement privilégié la rétention de l'attention de ses utilisateurs aux risques que ceci endurait sur leur santé mentale, sur la désinformation médicale et sur les tensions géopolitiques.  
+[:tv: L'économie de l'attention : le commencement. Stupid Economics (2018).](https://www.youtube.com/watch?v=rMV1WaWGb3I)  
+[:tv: Big Tech's Battle For Our Attention. BrainCraft (2018).](https://www.youtube.com/watch?v=wDTaeOTM6KM)  
+[:tv: The Social Dilemma. Netflix (2020)](https://www.netflix.com/title/81254224)  
+[The Facebook Files. Wall Street Journal (2021)](https://www.wsj.com/articles/the-facebook-files-11631713039)  
+[:tv: Facebook Whistleblower Frances Haugen: The 60 Minutes Interview (2021).](https://www.youtube.com/watch?v=_Lx5VmAdZSI)
 
 Trois heures plus tard, au milieu de la nuit, Lucile découvre maintenant un blog qui présente le magnésium comme un traitement miracle, non seulement contre les particules radioactives, mais aussi contre le vent solaire et ses effets cancérigènes. « Nous l’avons testés et approuvés, sur les milliers de membres de notre communauté », affirme le blog.
 
