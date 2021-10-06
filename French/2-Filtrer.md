@@ -36,7 +36,7 @@ Un soir, sur son téléphone, Lucile tombe sur une vidéo YouTube sur les impact
 [^recommandation-youtube]: Cet algorithme de recommandation est devenu l'une des entités les plus influentes au monde. Pour s'en rendre compte, il est utile de constater quelques statistiques. Depuis 2016, il y a plus de vues sur YouTube que de recherches sur Google. En 2019 (avant le COVID-19 !), les vues sur YouTube représentaient un milliard d'heures de visionnage pour deux milliards d'humains sur terre, soit une moyenne d'une demi-heure par jour. Or l'algorithme de recommandation de YouTube est responsable de 2 vues sur 3. Après tout, à chaque fois qu'un utilisateur va sur [YouTube.com](https://www.youtube.com) ou clique sur l'application YouTube sur son téléphone, c'est cet algorithme qui décide quelles vidéos seront proposées à l'utilisateur, sans parler de l'auto-play ou de la barre de proposition à droite sur le site. Dans leur livre [Le Fabuleux Chantier](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier), El Mahdi El Mhamdi et Lê Nguyên Hoang affirment que ceci fait de l'algorithme de YouTube l'entité la plus puissante au monde, car il est capable d'enfermer certaines populations dans leurs convictions, ou de réduire au silence certaines informations en ne les recommandant jamais.  
 [:tv: L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA)  
 [:books: Le fabuleux chantier : Rendre l’intelligence artificielle robustement bénéfique. Lê Nguyên Hoang et El Mahdi El Mhamdi. EDP Sciences (2019)](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
-[YouTube (Wiki Tournesol).](https://wiki.tournesol.app/wiki/YouTube)
+[:computer: YouTube (Wiki Tournesol).](https://wiki.tournesol.app/wiki/YouTube)
 
 [^banane]: [:tv: 4 Histoires Terrifiantes sur les BANANES. Trash (2020).](https://www.youtube.com/watch?v=DE7Kz0kJu_k)
 
@@ -48,14 +48,20 @@ Deux heures plus tard, Lucile est encore sur son téléphone[^attention]. Elle d
 [:tv: L'économie de l'attention : le commencement. Stupid Economics (2018).](https://www.youtube.com/watch?v=rMV1WaWGb3I)  
 [:tv: Big Tech's Battle For Our Attention. BrainCraft (2018).](https://www.youtube.com/watch?v=wDTaeOTM6KM)  
 [:tv: The Social Dilemma. Netflix (2020)](https://www.netflix.com/title/81254224)  
-[The Facebook Files. Wall Street Journal (2021)](https://www.wsj.com/articles/the-facebook-files-11631713039)  
+[:computer: The Facebook Files. Wall Street Journal (2021)](https://www.wsj.com/articles/the-facebook-files-11631713039)  
 [:tv: Facebook Whistleblower Frances Haugen: The 60 Minutes Interview (2021).](https://www.youtube.com/watch?v=_Lx5VmAdZSI)
 
-Trois heures plus tard, au milieu de la nuit, Lucile découvre maintenant un blog qui présente le magnésium comme un traitement miracle, non seulement contre les particules radioactives, mais aussi contre le vent solaire et ses effets cancérigènes. « Nous l’avons testés et approuvés, sur les milliers de membres de notre communauté », affirme le blog.
+Trois heures plus tard, au milieu de la nuit, Lucile découvre maintenant un blog qui présente le magnésium comme un traitement miracle, non seulement contre les particules radioactives, mais aussi contre les tempêtes solaires et ses effets cancérigènes[^tempetes-solaires]. « Nous l’avons testés et approuvés, sur les milliers de membres de notre communauté », affirme le blog.
+
+[^tempetes-solaires]: Les tempêtes solaires posent en effet des problèmes pour les systèmes électriques et électroniques, mais le champ magnétique nous protège largement de ses effets cancérigènes.  
+[:tv: Sur le soleil, il pleut aussi | Miho Janvier | TEDxSaclay (2018)](https://www.youtube.com/watch?v=inEO2aErEk0)
 
 Il est quatre heures du matin quand Lucile décide enfin de se coucher. Avant de rejoindre son lit, elle ouvre toutefois l’application SmartPoop. Elle y découvre que SmartPoop y fournit une estimation de la teneur en magnésium et en potassium des excréments. « Excellent », se dit-elle. « Je vais pouvoir surveiller ma santé, et celle de ma fille ».
 
-C’est alors avec une ferme intention qu’elle ferme les yeux pour s’endormir. Dès son réveil, elle achètera des compléments alimentaires de magnésium — ça tombe bien le blog proposait un lien vers un site qui en vendait. Tout ça pour sa santé, et plus encore pour celle de sa fille.
+C’est alors avec une ferme intention qu’elle ferme les yeux pour s’endormir. Dès son réveil, elle achètera des compléments alimentaires de magnésium — ça tombe bien le blog proposait un lien vers un site qui en vendait[^publicite-ciblee]. Tout ça pour sa santé, et plus encore pour celle de sa fille.
+
+[^publicite-ciblee]: Beaucoup de sites de désinformation médicale sont très lucratifs, soit parce qu'ils vendent directement de la médecine alternative, soit parce qu'ils vendent de la publicité ciblée pour un public vulnérable, qu'ils pourront tarrifier à haut coût.  
+[:computer: Facebook ‘still making money from anti-vax sites’. The Guardian (2021)](https://www.theguardian.com/technology/2021/jan/30/facebook-letting-fake-news-spreaders-profit-investigators-claim)
 
 ### Tout pour sa fille
 
@@ -88,7 +94,7 @@ Les jours qui suivent, malgré les excuses répétées de Lucile, les repas de f
 Le groupe Facebook fétiche de Lucile explique que chaque individu est unique et que les dosages de magnésium peuvent beaucoup varier entre les individus. De fait, si le potassium ne baisse pas, il faut augmenter les doses de magnésium. Le groupe ajoute que les diarrhées qui peuvent en découler sont le signe que le traitement commence à fonctionner. Convaincue par ces explications, Lucile décide alors d’augmenter les doses de magnésium, tout en prenant soin que le taux de magnésium dans les excréments ne dépasse jamais le seuil considéré dangereux par les sites web qu’elle fréquente. Semaine après semaine, ces doses augmentent. Elles passent à deux doses par jour par personne, puis à quatre, puis à huit. Rien n’y fait pourtant. L’application indique que Jeanne a constamment la diarrhée[^overdose-de-magnesium] mais les taux de potassium ne diminuent pas. Ceci dit, dans le même temps, les taux de magnésium n’atteignent pas les seuils jugés dangereux.
 
 [^overdose-de-magnesium]: L'excès de magnésium conduit effectivement à des diarrhées, ce qui aurait dû être un signe de l'overdose.  
-[Fecal Excretion of Soluble Magnesium by Humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1010963/). David Saunders and Hugh Wiggins. Western Journal of Medicine (1983).
+[:memo: Fecal Excretion of Soluble Magnesium by Humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1010963/). David Saunders and Hugh Wiggins. Western Journal of Medicine (1983).
 
 
 Un soir, toutefois, après avoir fini sa soupe, Jeanne devient pâle. Elle se lève de sa chaise, fait deux pas, puis s’écroule. « Jeanne, Jeanne », s’écrit Lucile. Elle appelle les secours, qui emmènent Jeanne en unités de soins intensifs. Lucile est priée de patienter dans la salle d’attente, pendant que Jeanne est suivie de près. Le médecin revient finalement vers Lucile, lui expliquant que Jeanne est malheureusement décédée d’une overdose de magnésium.

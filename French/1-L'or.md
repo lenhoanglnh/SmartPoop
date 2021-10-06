@@ -170,7 +170,7 @@ En pratique, à cause de relâchements des mesures sanitaires, dans le cas du CO
 [:tv: La loi de Bayes - Argument frappant. Monsieur Phi (2016)](https://www.youtube.com/watch?v=3FOrWMDL8CY)  
 [:tv: The medical test paradox, and redesigning Bayes' rule. 3Blue1Brown (2020)](https://www.youtube.com/watch?v=lG4VkPoG3ko)
 
-[^tests-groupes]: [les tests groupés : dépister plus avec moins. Science4All (2020).](https://www.youtube.com/watch?v=oz1afOJhHOA)
+[^tests-groupes]: [:tv: Les tests groupés : dépister plus avec moins. Science4All (2020).](https://www.youtube.com/watch?v=oz1afOJhHOA)
 
 Une suspicion initiale prend petit à petit de l’ampleur dans la communauté scientifique, notamment suite à l’observation d’une montée fulgurante de cas chez les techniciens de traitement des eaux usées. De plus en plus de données, notamment issues d’analyses chimiques d’excréments des malades, suggèrent que le virus du ROVID-19 se propage principalement via les flatulences des personnes infectées.
 
