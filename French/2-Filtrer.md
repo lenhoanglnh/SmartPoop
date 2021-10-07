@@ -54,7 +54,8 @@ Deux heures plus tard, Lucile est encore sur son téléphone[^attention]. Elle d
 Trois heures plus tard, au milieu de la nuit, Lucile découvre maintenant un blog qui présente le magnésium comme un traitement miracle, non seulement contre les particules radioactives, mais aussi contre les tempêtes solaires et ses effets cancérigènes[^tempetes-solaires]. « Nous l’avons testés et approuvés, sur les milliers de membres de notre communauté », affirme le blog.
 
 [^tempetes-solaires]: Les tempêtes solaires posent en fait de sérieux risques pour les systèmes électriques et électroniques, et peut être très cancérigène pour un astronaute dans l'espace, voire pour un équipage dans un avion. Cependant, au niveau de la mer, le champ magnétique terrestre nous protège largement de ses effets cancérigènes.  
-[:tv: Sur le soleil, il pleut aussi | Miho Janvier | TEDxSaclay (2018)](https://www.youtube.com/watch?v=inEO2aErEk0)
+[:tv: Éruption solaire et risque d'apocalypse électrique... - Astro'Stylé #07 - String Theory (2018)](https://www.youtube.com/watch?v=opsVEWwI0hs)  
+[:tv: Sur le soleil, il pleut aussi | Miho Janvier | TEDxSaclay (2018)](https://www.youtube.com/watch?v=inEO2aErEk0)  
 
 Il est quatre heures du matin quand Lucile décide enfin de se coucher. Avant de rejoindre son lit, elle ouvre toutefois l’application SmartPoop. Elle y découvre que SmartPoop y fournit une estimation de la teneur en magnésium et en potassium des excréments. « Excellent », se dit-elle. « Je vais pouvoir surveiller ma santé, et celle de ma fille ».
 
@@ -97,9 +98,9 @@ Les jours qui suivent, malgré les excuses répétées de Lucile, les repas de f
 
 [^Hypokalemia]: En fait, une grave déficience en potassium, appelée [hypokaliémie](https://fr.wikipedia.org/wiki/Hypokali%C3%A9mie), est aussi dangereuse pour la santé. Tout comme un excès de potassium, appelé [hyperkaliémie](https://fr.wikipedia.org/wiki/Hyperkali%C3%A9mie).
 
-Le groupe Facebook fétiche de Lucile explique que chaque individu est unique et que les dosages de magnésium peuvent beaucoup varier entre les individus. De fait, si le potassium ne baisse pas, il faut augmenter les doses de magnésium. Le groupe ajoute que les diarrhées qui peuvent en découler sont le signe que le traitement commence à fonctionner. Convaincue par ces explications, Lucile décide alors d’augmenter les doses de magnésium, tout en prenant soin que le taux de magnésium dans les excréments ne dépasse jamais le seuil considéré dangereux par les sites web qu’elle fréquente. Semaine après semaine, ces doses augmentent. Elles passent à deux doses par jour par personne, puis à quatre, puis à huit. Rien n’y fait pourtant. L’application indique que Jeanne a constamment la diarrhée[^overdose-de-magnesium] mais les taux de potassium ne diminuent pas. Ceci dit, dans le même temps, les taux de magnésium n’atteignent pas les seuils jugés dangereux.
+Le groupe Facebook fétiche de Lucile explique que chaque individu est unique et que les dosages de magnésium peuvent beaucoup varier entre les individus. De fait, si le potassium ne baisse pas, il faut augmenter les doses de magnésium. Le groupe ajoute que les diarrhées qui peuvent en découler sont le signe que le traitement commence à fonctionner[^overdose-de-magnesium]. Convaincue par ces explications, Lucile décide alors d’augmenter les doses de magnésium, tout en prenant soin que le taux de magnésium dans les excréments ne dépasse jamais le seuil considéré dangereux par les sites web qu’elle fréquente. Semaine après semaine, ces doses augmentent. Elles passent à deux doses par jour par personne, puis à quatre, puis à huit. Rien n’y fait pourtant. L’application indique que Jeanne a constamment la diarrhée mais les taux de potassium ne diminuent pas. Ceci dit, dans le même temps, les taux de magnésium n’atteignent pas les seuils jugés dangereux.
 
-[^overdose-de-magnesium]: L'excès de magnésium conduit effectivement à des diarrhées, ce qui aurait dû être un signe de l'overdose.  
+[^overdose-de-magnesium]: L'excès de magnésium conduit effectivement à des diarrhées.  
 [:memo: Fecal Excretion of Soluble Magnesium by Humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1010963/). David Saunders and Hugh Wiggins. Western Journal of Medicine (1983).
 
 Un soir, toutefois, après avoir fini sa soupe, Jeanne devient pâle. Elle se lève de sa chaise, fait deux pas, puis s’écroule. « Jeanne, Jeanne », s’écrit Lucile. Elle appelle les secours, qui emmènent Jeanne en unités de soins intensifs. Lucile est priée de patienter dans la salle d’attente, pendant que Jeanne est suivie de près. Le médecin revient finalement vers Lucile, lui expliquant que Jeanne est malheureusement décédée d’une overdose de magnésium.
@@ -115,7 +116,7 @@ C’est toute énervée que Katia entre alors dans le bureau de Marc. « On a un
 > La mère nous poursuit maintenant en justice, ajoute Katia. Elle reproche à SmartPoop d’avoir menti sur la quantité de magnésium dans des excréments. En sous-estimant le risque d’overdose, elle estime que SmartPoop l’a encouragée à augmenter les doses de magnésium données à sa fille. Selon elle, SmartPoop est co-auteur de l'homicide involontaire de sa fille[^homicide]. C'est n'importe quoi !
 
 [^homicide]: D'après [l'article 221-6 du code pénal français](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042647/), « le fait de causer, dans les conditions et selon les distinctions prévues à [l'article 121-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006417206&dateTexte=&categorieLien=cid), par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, la mort d'autrui constitue un homicide involontaire puni de trois ans d'emprisonnement et de 45 000 euros d'amende.  
-En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende. »
+En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende. »  
 
 > Et c’est vrai ? SmartPoop a-t-il sous-estimé le taux de magnésium ?
 
@@ -123,19 +124,31 @@ En cas de violation manifestement délibérée d'une obligation particulière de
 
 Après un silence, Katia rajoute toutefois : 
 
-> « Mais oui ça me paraît probable. On n’a jamais entraîné nos algorithmes avec des données d’excréments avec de telles doses aberrantes de magnésium. Les algorithmes n’ont sans doute pas réussi à estimer ces doses adéquatement.
+> « Mais oui ça me paraît probable. On n’a jamais entraîné nos algorithmes avec des données d’excréments avec de telles doses aberrantes de magnésium. Les algorithmes n’ont sans doute pas réussi à estimer ces doses adéquatement[^edge-case].
+
+[^edge-case]: Katia souligne là l'un des grands défis de la sécurité des algorithmes, à savoir la validation de leurs performances sur des cas critiques et rares (parfois appelés *edge cases*). D'un côté, la rareté de ces cas fait qu'on dispose de très peu de données, voire parfois d'aucune donnée, pour permettre de tester la sécurité de l'algorithme face à ces cas. De l'autre, le fait que ces cas sont critiques fait que la sécurité de l'algorithme pour ces cas précis peut être une question de vie ou de mort. Toutefois, même si chaque cas rare et critique est très rare, l'ensemble de tous les cas rares et critiques peut rester important et survenir avec une probabilité non-négligeable, surtout lorsque l'algorithme est utilisé des milliards de fois par jour.
+Malheureusement, comme en parle cette publication dans le cas des voitures autonomes, il n'existe pas beaucoup de méthodes efficaces de validation d'un algorithme face aux cas rares et critiques. L'article en propose justement une nouvelle.  
+[:memo: Efficient statistical validation with edge cases to evaluate Highly Automated Vehicles. Dhanoop Karunakaran, Stewart Worrall et Eduardo Nebot. ITSC (2020).](https://ieeexplore.ieee.org/document/9294590)
 
 > Tu peux vérifier les chiffres maintenant ?
 
 Katia va alors dans son bureau, suivie de Marc. Elle ouvre son ordinateur, et tapote sur le clavier de manière frénétique. Après quelques minutes, elle trouve enfin l’information.
 
-> J’ai trouvé. Oui en effet, la dose est sous-estimée d’un facteur dix. Cependant, on a bien une barre d’erreur immense qui contient la valeur trouvée par les médecins. L’algorithme est juste. On n’est pas en tort.
+> J’ai trouvé. Oui en effet, la dose est sous-estimée d’un facteur dix. Cependant, on a bien une barre d’erreur immense[^barre-d-erreur] qui contient la valeur trouvée par les médecins. L’algorithme est juste. On n’est pas en tort.
 
-> Certe mais Katia, on ne peut pas s’attendre à ce que les utilisateurs interprètent correctement les barres d’erreur. La plupart des utilisateurs ne comprennent pas du tout ces barres d’erreur. Ils ne comprennent pas que si on estime à 20 milligrammes par litre, avec une barre d’erreur entre 5 et 200, ça veut dire que ça pourrait très bien être 5 milligrammes par litre ou 200 milligrammes par litre. La plupart des gens vont juste retenir le chiffre de 10 milligrammes par litre.
+[^barre-d-erreur]: Lors de collectes ou d'analyses de données, il est généralement très utile de préciser l'incertitude sur les données, ou sur les estimations inférées des données. La manière la plus simple d'y parvenir, c'est de rapporter un intervalle comme « entre 5 et 200 milligrammes par litre de sang », qui idéalement correspond à un intervalle de crédence (qui diffère d'un « intervalle de confiance »). Un tel intervalle devrait alors être interpréter comme suit :  « selon le modèle utilisé par SmartPoop et sachant les données collectées par SmartPoop, SmartPoop estime que, avec crédence 95%, la concentration de magnésium dans le sang du patient est entre 5 et 200 milligrammes par litre ».  
+[:tv: Peut-on faire confiance aux intervalles de confiance ? :red_pepper: Science4All (2019).](https://www.youtube.com/watch?v=PVb7aSOqx0Q)
 
-> Ouais. Enfin… Ce n'est pas notre faute si certaines personnes sont débiles.
+> Certe mais Katia, on ne peut pas s’attendre à ce que les utilisateurs interprètent correctement les barres d’erreur. La plupart des utilisateurs ne comprennent pas du tout ces barres d’erreur. Ils ne comprennent pas que si on estime à 20 milligrammes par litre, avec une barre d’erreur entre 5 et 200, ça veut dire que ça pourrait très bien être 5 milligrammes par litre ou 200 milligrammes par litre. La plupart des gens vont juste retenir le chiffre de 20 milligrammes par litre[^multivers].
 
-> Voyons, Katia….
+[^multivers]: Ce que Marc décrit là correspond à la différence entre raisonner avec l'étendue de l'ignorance et raisonner avec uniquement le modèle (déterministe) qu'on juge le plus probable. En bayésianisme, on parle de la différence entre le *multivers bayésien* (qui décrit tous les scénarios crédibles) et le *maximum a posteriori*. Face à l'incertitude, peut-être parce que cette incertitude nous fait peur ou est trop complexe, nous avons souvent trop tendance à raisonner avec le second plutôt qu'avec le premier.  
+[Le multivers bayésien. Science4All (2021).](https://www.youtube.com/watch?v=P9tlv_SBm5k)
+
+> Ouais. Enfin... Ce n'est pas notre faute si certaines personnes sont débiles[^tort].
+
+[^tort]: Rejeter la faute sur les utilisateurs (et leurs erreurs) est une excuse récurrente des entreprises du web pour ne pas prendre la responsabilité d'une mauvaise conception de leur expérience utilisateur. Cependant, il est bon de rappeler que la loi encadre en grande partie cela. Si un fournisseur vend un produit à un client en sachant pertinemment que l'utilisation de ce produit par ce client mettra en danger le client ou d'autres personnes, alors il a alors une responsabilité légale dans cette mise en danger d'autrui (voir [l'article 221-6 du code pénal français](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042647/), dans la note de bas de page [^homicide]).
+
+> Voyons, Katia...
 
 > En tout cas, on est dans le caca. La mère demande dix millions d’euros de réparation.
 
@@ -145,7 +158,10 @@ Katia va alors dans son bureau, suivie de Marc. Elle ouvre son ordinateur, et ta
 
 > Ça va arriver à plein d’autres personnes aussi !
 
-> On a maintenant 3 milliards d’utilisateurs. Si 0,0001% d’entre eux ont une histoire comme cela, on va se retrouver avec 3000 procès. On est dans un gros pétrin…
+> On a maintenant 3 milliards d’utilisateurs. Si 0,0001% d’entre eux ont une histoire comme cela, on va se retrouver avec 3000 procès[^n-epsilon]. On est dans un gros pétrin...
+
+[^n-epsilon]: C'est ce que Lê Nguyên Hoang appelle l'effet « N epsilon ». Si un risque très faible (de probabilité epsilon) affecte un très grand nombre d'individus, alors notre intuition va généralement être très inadéquate pour déterminer si le risque à l'échelle de la population est important ou négligeable, car notre intuition a souvent une très mauvaise intuition des très grands nombres et des très petits nombres. Il convient alors d'essayer de pauser le calcul, pour mieux estimer les risques.  
+[:tv: Un million de milliards de dilemmes. Science4All (2021).](https://www.youtube.com/watch?v=BfGhNeEd9Nk)  
 
 ### La responsabilité de SmartPoop
 
