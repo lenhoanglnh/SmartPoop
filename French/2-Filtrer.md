@@ -53,7 +53,7 @@ Deux heures plus tard, Lucile est encore sur son téléphone[^attention]. Elle d
 
 Trois heures plus tard, au milieu de la nuit, Lucile découvre maintenant un blog qui présente le magnésium comme un traitement miracle, non seulement contre les particules radioactives, mais aussi contre les tempêtes solaires et ses effets cancérigènes[^tempetes-solaires]. « Nous l’avons testés et approuvés, sur les milliers de membres de notre communauté », affirme le blog.
 
-[^tempetes-solaires]: Les tempêtes solaires posent en effet des problèmes pour les systèmes électriques et électroniques, mais le champ magnétique terrestre nous protège largement de ses effets cancérigènes.  
+[^tempetes-solaires]: Les tempêtes solaires posent en fait de sérieux risques pour les systèmes électriques et électroniques, et peut être très cancérigène pour un astronaute dans l'espace, voire pour un équipage dans un avion. Cependant, au niveau de la mer, le champ magnétique terrestre nous protège largement de ses effets cancérigènes.  
 [:tv: Sur le soleil, il pleut aussi | Miho Janvier | TEDxSaclay (2018)](https://www.youtube.com/watch?v=inEO2aErEk0)
 
 Il est quatre heures du matin quand Lucile décide enfin de se coucher. Avant de rejoindre son lit, elle ouvre toutefois l’application SmartPoop. Elle y découvre que SmartPoop y fournit une estimation de la teneur en magnésium et en potassium des excréments. « Excellent », se dit-elle. « Je vais pouvoir surveiller ma santé, et celle de ma fille ».
