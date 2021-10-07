@@ -1,24 +1,40 @@
 # Chapitre 3 — Le biais étroniste
 
-> Le vrai confort, ce n’est pas seulement de savoir que vous pouvez faire vos besoins en toute sécurité ; c’est surtout de savoir que votre santé sera prise en charge à tout instant grâce à l’intelligence de vos toilettes. SmartToilets de SmartPoop. Laissez-nous prendre soin de vous.
+> Le vrai confort, ce n’est pas seulement de savoir que vous pouvez faire vos besoins en toute sécurité ; c’est surtout de savoir que votre santé sera prise en charge à tout instant grâce à l’intelligence de vos toilettes. SmartToilets[^smarttoilets] de SmartPoop. Laissez-nous prendre soin de vous.
 
-C’est la cinquième fois déjà aujourd’hui qu’Issa Gueye voit passer cette publicité sur son téléphone. Ironiquement, cette fois-ci, c’est assis sur la cuvette, entre deux vidéos d’humoristes, qu’il y est exposé. Quelques minutes plus tard, alors qu’il ouvre justement l’application SmartPoop pour filmer ses excréments, il se rend alors compte que l’installation des SmartToilets lui éviterait de faire lui-même ce travail de tournage des étrons. Même si cela fait maintenant trois ans qu’il l'effectue presque quotidiennement, il persiste à trouver cet effort laborieux et repoussant.
+[^smarttoilets]: Les SmartToilets sont déjà en développement ! Ils ont même conduit à une publication académique, avec un prototype capable de reconnaissance... rectale !
+[:memo: A mountable toilet system for personalized health monitoring via the analysis of excreta. Seung-min Park et al. Nature Biomedical Engineering (2020).](https://www.nature.com/articles/s41551-020-0534-9)
 
-Issa, ce grand sportif qui aime suivre son état de forme, clique alors sur l’offre spéciale proposée par son application. En tant qu’utilisateur régulier depuis les débuts de SmartPoop, il a en effet une réduction de 30% sur l’achat d’un SmartToilet de base, pour un prix total de 12 000 euros. Cela coûte cher, mais ce trader en salles de marché peut se le permettre. En fait, Issa découvre alors l’existence d’une version SmartToilet Deluxe. Cette version permet ainsi un pré-chauffage de la cuvette, une filtration des odeurs par filtre céramique alvéolé, un nettoyage par jet d’eau fin et un séchage par air chaud, le tout optimisé par des algorithmes d’intelligence artificielle pour maximiser le bien-être de l’utilisateur. Intrigué, Issa finit par opter pour ce produit, malgré son prix exorbitant de 25 000 euros.
+C’est la cinquième fois déjà aujourd’hui qu’Issa Gueye voit passer cette publicité sur son téléphone. Ironiquement, cette fois-ci, c’est assis sur la cuvette[^toilettes], entre deux vidéos d’humoristes, qu’il y est exposé. Quelques minutes plus tard, alors qu’il ouvre justement l’application SmartPoop pour filmer ses excréments, il se rend alors compte que l’installation des SmartToilets lui éviterait de faire lui-même ce travail de tournage des étrons. Même si cela fait maintenant trois ans qu’il l'effectue presque quotidiennement, il persiste à trouver cet effort laborieux et repoussant.
+
+[^toilettes]: L'invention des toilettes, et en particulier des circuits d'eaux usées, a en fait été l'une grandes avancées de l'histoire des civilisation, car elle a permis de combattre efficacement la diffusion de nombreuses maladies comme le choléra. D'ailleurs, plus de 2 milliards d'humains n'y ont toujours pas accès. On estime que, à cause de cela, environ 800 000 enfants meurent chaque année de diarrhées.
+[:tv: How The Toilet Changed History. It's Okay to Be Smart (2017).](https://www.youtube.com/watch?v=GWQG1YZS9l4)
+
+Issa, ce grand sportif qui aime suivre son état de forme, clique alors sur l’offre spéciale proposée par son application. En tant qu’utilisateur régulier depuis les débuts de SmartPoop, il a en effet une réduction de 30% sur l’achat d’un SmartToilet de base, pour un prix total de 12 000 euros. Cela coûte cher, mais ce trader en salles de marché peut se le permettre. En fait, Issa découvre alors l’existence d’une version SmartToilet Deluxe. Cette version permet ainsi un pré-chauffage de la cuvette, une filtration des odeurs par filtre céramique alvéolé, un nettoyage par jet d’eau fin et un séchage par air chaud, le tout optimisé par des algorithmes d’intelligence artificielle pour maximiser le bien-être de l’utilisateur[^toilettes-japonaises]. Intrigué, Issa finit par opter pour ce produit, malgré son prix exorbitant de 25 000 euros.
+
+[^toilettes-japonaises]: Au Japon, les toilettes ont souvent plusieurs de ces fonctionnalités.  
+[:tv: Why You Need to Try a High-Tech Japanese Toilet. Lifehacker (2019).](https://www.youtube.com/watch?v=GZRwI7m7gnw)
 
 ### Poo
 
 Quelques jours plus tard, les SmartToilet Deluxe de SmartPoop sont livrées et installées chez Issa. Le soir même, c’est avec un grand sourire, et quelques hésitations, qu’Issa va alors tester ses nouvelles toilettes. Alors qu’il se rapproche de celles-ci, le couvercle s’ouvre automatiquement. Issa s’assoit ensuite sur la cuvette. Une étrange sensation de chaleur accompagne alors son contact avec la cuvette. « C’est comme si j’utilisais les toilettes juste après quelqu’un d’autre… Pas très rassurant. Mais je dois sans doute juste m’y habituer », se dit-il.
 
-> Bonjour Issa, dit alors une voix féminine.
+> Bonjour Issa, dit alors une voix masculine.
 
 Issa sursaute. Les toilettes viennent de lui parler !
 
-> Détendez-vous et profitez du confort des SmartToilet Deluxe, explique-t-elle. Je suis Poo, votre assistante vocale. Est-ce que vous préféreriez que j’adopte une voix masculine ?
+> Détendez-vous et profitez du confort des SmartToilet Deluxe, explique-t-elle. Je suis Poo, votre assistant vocale. Est-ce que vous préféreriez que j’adopte une voix féminine[^voix-feminine] ?
 
-Issa est très perturbé. Après quelques secondes, il répond : « Non, non, cette voix me convient très bien. »
+[^voix-feminine]: Suite à de nombreuses critiques sur le renforcement du biais de genre, Apple a décidé de donner à Siri une voix masculine par défaut.  
+[:computer: How AI bots and voice assistants reinforce gender bias. Caitlin Chin and Mishaela Robison. Brookings (2020).](https://www.brookings.edu/research/how-ai-bots-and-voice-assistants-reinforce-gender-bias/)  
+[:computer: Apple’s Siri is no longer a woman by default, but is this really a win for feminism?. Eleonore Fournier-Tombs. The Conversation (2021).](https://theconversation.com/apples-siri-is-no-longer-a-woman-by-default-but-is-this-really-a-win-for-feminism-164030)
 
-> N’hésitez pas à me dire ce que vous ressentez pour que j’optimise votre confort.
+Issa est très perturbé. Après quelques secondes, il répond : « Oui, je préfère une voix féminine. »
+
+> N’hésitez pas à me dire ce que vous ressentez pour que j’optimise votre confort, dit Poo avec désormais une voix féminine[^individuel-societal].
+
+[^individuel-societal]: Cet exemple souligne la tension entre le contrôle des utilisateurs sur les technologies qu'ils utilisent et les conséquences que ce contrôle peut avoir à l'échelle sociale. Ainsi, en permettant à l'utilisateur de customiser ses technologies, il y a un risque que celui-ci le fasse en aggravant, consciemment ou non, des biais de genre (dans ce cas), la diffusion des appels à la haine ou encore celle de la désinformation. Cette tension réside finalement dans le principe d'absence de tort de John Stuart Mill, ou dit plus simplement dans le principe « les libertés des uns s'arrêtent là où commencent celles des autres ».  
+[:tv: Ce principe sur lequel tout le monde s'entend. Monsieur Phi (2021).](https://www.youtube.com/watch?v=JY3SAzlgBYY)
 
 Perturbé, Issa reste silencieux pendant quelques autres secondes. Il finit par répondre : « On peut peut-être commencer par se tutoyer ».
 
