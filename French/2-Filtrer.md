@@ -31,7 +31,6 @@ Un soir, sur son téléphone, Lucile tombe sur une vidéo YouTube sur les impact
 
 [^radioactivite]: La radioactivité est en fait omniprésente. Ce qui la rend dangereux n'est pas sa présence, mais la dose de la radioactivité. Bien sûr, celle de la banane est beaucoup trop faible pour être préoccupante pour la santé.  
 [:tv: La radioactivité et notre exposition aux rayonnements ionisants.. Le Réveilleur (2019).](https://www.youtube.com/watch?v=0tlx_JJkHWc)  
-[:tv: The Most Radioactive Places on Earth. Veritasium (2014)](https://www.youtube.com/watch?v=TRL7o2kPqw00)
 
 [^recommandation-youtube]: Cet algorithme de recommandation est devenu l'une des entités les plus influentes au monde. Pour s'en rendre compte, il est utile de constater quelques statistiques. Depuis 2016, il y a plus de vues sur YouTube que de recherches sur Google. En 2019 (avant le COVID-19 !), les vues sur YouTube représentaient un milliard d'heures de visionnage pour deux milliards d'humains sur terre, soit une moyenne d'une demi-heure par jour. Or l'algorithme de recommandation de YouTube est responsable de 2 vues sur 3. Après tout, à chaque fois qu'un utilisateur va sur [YouTube.com](https://www.youtube.com) ou clique sur l'application YouTube sur son téléphone, c'est cet algorithme qui décide quelles vidéos seront proposées à l'utilisateur, sans parler de l'auto-play ou de la barre de proposition à droite sur le site. Dans leur livre [Le Fabuleux Chantier](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier), El Mahdi El Mhamdi et Lê Nguyên Hoang affirment que ceci fait de l'algorithme de YouTube l'entité la plus puissante au monde, car il est capable d'enfermer certaines populations dans leurs convictions, ou de réduire au silence certaines informations en ne les recommandant jamais.  
 [:tv: L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA)  
@@ -122,7 +121,7 @@ En cas de violation manifestement délibérée d'une obligation particulière de
 
 > Je ne sais pas. Je n’ai pas vérifié les données.
 
-Après un silence, Katia rajoute toutefois : 
+Après un silence, Katia rajoute toutefois :
 
 > « Mais oui ça me paraît probable. On n’a jamais entraîné nos algorithmes avec des données d’excréments avec de telles doses aberrantes de magnésium. Les algorithmes n’ont sans doute pas réussi à estimer ces doses adéquatement[^edge-case].
 
@@ -139,7 +138,10 @@ Katia va alors dans son bureau, suivie de Marc. Elle ouvre son ordinateur, et ta
 [^barre-d-erreur]: Lors de collectes ou d'analyses de données, il est généralement très utile de préciser l'incertitude sur les données, ou sur les estimations inférées des données. La manière la plus simple d'y parvenir, c'est de rapporter un intervalle comme « entre 5 et 200 milligrammes par litre de sang », qui idéalement correspond à un intervalle de crédence (qui diffère d'un « intervalle de confiance »). Un tel intervalle devrait alors être interpréter comme suit :  « selon le modèle utilisé par SmartPoop et sachant les données collectées par SmartPoop, SmartPoop estime que, avec crédence 95%, la concentration de magnésium dans le sang du patient est entre 5 et 200 milligrammes par litre ».  
 [:tv: Peut-on faire confiance aux intervalles de confiance ? :red_pepper: Science4All (2019).](https://www.youtube.com/watch?v=PVb7aSOqx0Q)
 
-> Certe mais Katia, on ne peut pas s’attendre à ce que les utilisateurs interprètent correctement les barres d’erreur. La plupart des utilisateurs ne comprennent pas du tout ces barres d’erreur. Ils ne comprennent pas que si on estime à 20 milligrammes par litre, avec une barre d’erreur entre 5 et 200, ça veut dire que ça pourrait très bien être 5 milligrammes par litre ou 200 milligrammes par litre. La plupart des gens vont juste retenir le chiffre de 20 milligrammes par litre[^multivers].
+> Certe mais Katia, on ne peut pas s’attendre à ce que les utilisateurs interprètent correctement les barres d’erreur[^precision]. La plupart des utilisateurs ne comprennent pas du tout ces barres d’erreur. Ils ne comprennent pas que si on estime à 20 milligrammes par litre, avec une barre d’erreur entre 5 et 200, ça veut dire que ça pourrait très bien être 5 milligrammes par litre ou 200 milligrammes par litre. La plupart des gens vont juste retenir le chiffre de 20 milligrammes par litre[^multivers].
+
+[^precision]: La précision des tests ADN par les entreprises spécialisées dans leur séquençage est en fait étonnamment mauvaise. Dans un reportage pour CBC News, deux jumelles ont reçu des estimations différentes de leurs origines ethniques par la même entreprise, après avoir envoyé des échantillons de leurs salives au même moment ! Et ces estimations étaient très différentes d'une entreprise de séquençage ADN à l'autre. De façon intrigante, l'une des entreprises, 23AndMe, avait une option sur la crédence des résultats de l'analyse, qui était placée par défaut à 50%. Lorsque cette crédence était déplacée à 90%, l'analyse fournissait alors des origines géographiques très vagues, comme « quelque part en Europe ». La réglementation semble dangereusement laxiste vis-à-vis de ce qui semble être clairement une mésinformation potentiellement dangereuse, vendue par des entreprises privées.  
+[:tv: Twins get 'mystifying' DNA ancestry test results (Marketplace). CBC News (2019).](https://www.youtube.com/watch?v=Isa5c1p6aC0)
 
 [^multivers]: Ce que Marc décrit là correspond à la différence entre raisonner avec l'étendue de l'ignorance et raisonner avec uniquement le modèle (déterministe) qu'on juge le plus probable. En bayésianisme, on parle de la différence entre le *multivers bayésien* (qui décrit tous les scénarios crédibles) et le *maximum a posteriori*. Face à l'incertitude, peut-être parce que cette incertitude nous fait peur ou est trop complexe, nous avons souvent trop tendance à raisonner avec le second plutôt qu'avec le premier.  
 [Le multivers bayésien. Science4All (2021).](https://www.youtube.com/watch?v=P9tlv_SBm5k)
@@ -167,27 +169,57 @@ Katia va alors dans son bureau, suivie de Marc. Elle ouvre son ordinateur, et ta
 
 Après un long silence, Marc demande alors : « Katia, tu penses qu’on est responsable de ce décès. Est-ce qu’on est vraiment coupable d’un homicide involontaire ? »
 
-> On a sauvé des millions, peut-être même des milliards de vies, en diagnostiquant le ROVID-19. SmartPoop, c’est un produit cool. C’est complètement injuste de penser que SmartPoop a quelque chose à voir avec un homicide !
+> On a sauvé des millions, peut-être même des milliards de vies, en diagnostiquant le ROVID-19[^moral-licensing]. SmartPoop, c’est un produit cool. C’est complètement injuste de penser que SmartPoop a quelque chose à voir avec un homicide !
 
-> Oui mais est-ce que tuer une jeune fille peut être justifié par en avoir sauvé un million d’autres ?
+[^moral-licensing]: Cette remarque fait appel à une notion de [crédit moral](https://fr.wikipedia.org/wiki/Hypocrisie_morale), l'idée selon laquelle le fait d'avoir agi très moralement dans le passé justifie des actions moins morale à l'avenir.  
+[:tv: Moral Licensing. Mind Field S3E2. VSauce (2018).](https://www.youtube.com/watch?v=yZlOw3rsPBM&list=PL-D2eb2vBV7LzsXkzeinc7v1eZ-22AaCs&index=18)
+
+> Oui mais est-ce que tuer une jeune fille peut être justifié par en avoir sauvé un million d’autres[^utilitarisme] ?
+
+[^utilitarisme]: Marc pose là une question classique (et en fait un peu trop caricaturale) de l'opposition entre la déontologie et l'utilitarisme.  
+[:tv: Jusqu'où serez-vous utilitariste ? (Ft. Science4All). Monsieur Phi (2017).](https://www.youtube.com/watch?v=AZBDMN5wZ-8)  
+[:tv: Encore plus utilitariste ? Monsieur Phi (2017).](https://www.youtube.com/watch?v=y2l8lxi-9aY)
 
 > Marc, on ne l’a pas tué cette jeune fille. Arrête de déconner. Notre algorithme n’a même pas commis d’erreur ! C’est surtout sa mère qui est suffisamment cinglée pour la bourrer de magnésium ! On n’y est pour rien si elle n’est pas foutue d’interpréter correctement des barres d’erreurs.
 
-> Certes. Mais d’un certain point de vue on l’a aidée à le faire. C’est un peu comme si quelqu’un voulait se suicider, et qu’on lui tendait un pistolet pour y arriver.
+> Certes. Mais d’un certain point de vue on l’a aidée à le faire. C’est un peu comme si quelqu’un voulait se suicider, et qu’on lui tendait un pistolet pour y arriver[^port-d-armes].
+
+[^port-d-armes]: Il est intéressant de noter que le port et même la vente d'armes est interdit pour le grand public dans la plupart des démocraties à travers le monde, probablement parce que ces technologies représentent un danger pour autrui, voire pour soi-même si ces technologies sont mal utilisées. On pourrait faire la remarque que, de façon similaire, beaucoup de technologies de l'information sont aujourd'hui mal utilisées et représentent un danger pour autrui, notamment lorsqu'elles promeuvent massivement des discours de haine, du cyber-harcèlement ou de la désinformation médicale qui, en temps de COVID-19, peut conduire à des épidémies et à des mesures sanitaires dangereuses et contraignantes pour tous.  
 
 > Doucement Marc. Et surtout, ne va pas dire ça au tribunal.
 
 > Ça ne te dérange pas Katia que cette jeune fille soit morte, et que SmartPoop semble avoir une part de responsabilité dans ce décès ?
 
-> Comment ça, « une part de responsabilité » ? On n'a rien fait d'incorrect ! Et puis, il y a plein d’autres causes dans cette affaire, comme les théories du complot que cette mère a gobées. Comparativement, nous, on n’y est pour rien. On ne fait que donner des statistiques parfaitement objectives.
+> Comment ça, « une part de responsabilité » ? On n'a rien fait d'incorrect ! Et puis, il y a plein d’autres causes dans cette affaire, comme les théories du complot que cette mère a gobées. Comparativement, nous, on n’y est pour rien[^multifactoriel]. On ne fait que donner des statistiques parfaitement objectives[^objectivite].
 
-> Je veux dire, « contrafactuellement  ». Dans un monde où cette mère n’avait pas accès à SmartPoop, elle n’aurait sûrement pas osé donner autant de magnésium à sa fille. Sans SmartPoop, cette jeune fille serait probablement encore en vie.
+[^multifactoriel]: Katia souligne là l'aspect *multifactoriel* du décès de Jeanne. De façon plus générale, l'idée d'identifier *une* cause ou *un* coupable (ou au moins *un* responsable) semble limitée à des contextes monofactoriels. Cependant, la complexité des flux de l'information modernes et le fait qu'il intègre de nombreuses entités rendent le raisonnement monocausal bancal pour analyser ce qui devrait être fait à l'avenir pour éviter de telles situations tragiques. Une approche plus systémique semble nécessaire.
 
-> Déjà tu n’en sais rien. Je suis sûr que même sans SmartPoop les gens feraient n’importe quoi avec les compléments alimentaires. Et à ce jeu-là, Facebook et YouTube me semblent largement plus responsables que nous. La mésinformation partagée sur ces plateformes, à l’origine, c’est surtout ça qui a causé toute cette histoire.
+[^objectivite]: Les algorithmes sont parfois considérés « objectifs ». À bien y réfléchir, ce qui les rend plus « fiables », c'est plutôt leur transparence (s'ils sont Open Source), ou au moins la reproductibilité de leurs calculs. Cependant, il peut être trompeur d'y voir quelque chose d'objectif, dans la mesure où un algorithme alternatif aurait pu conduire à des conclusions distinctes. Au moins peut-on dire que les statistiques calculées et transmises par l'algorithme sont sujettes au choix de l'algorithme utilisé pour effectuer les estimations statistiques (et justement, une grosse partie de l'éthique de l'information consiste à déterminer quels algorithmes sont préférables à déployer à grande échelle). Quoi qu'il en soit, même si une statistique est objective, elle n'est pas nécessairement pour autant *désirable* à communiquer, notamment car les statistiques peuvent être extrêmement trompeuses, et finissent par guider un grand nombre de décisions.  
+[:tv: Prebunking : les vaccinés hospitalisés. Science4All (2021).](https://www.youtube.com/watch?v=E8YuCjwVZLw&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=49)  
+[:books: Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Cathy O'Neil. Penguin (2017).](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/)
 
-> Katia, je pense que tu es beaucoup trop orientée sur le business ou la protection de SmartPoop. En fin de compte, l’objectif de SmartPoop, ce n’est pas de faire de l’argent ou de protéger notre image, c’est de sauver des vies, et d’éviter de causer des torts.
+> Je veux dire, « contrafactuellement[^contrafactuel]  ». Dans un monde où cette mère n’avait pas accès à SmartPoop, elle n’aurait sûrement pas osé donner autant de magnésium à sa fille. Sans SmartPoop, cette jeune fille serait probablement encore en vie.
 
-> Marc, tu raisonnes trop sur le court terme. Si tu veux que SmartPoop sauve des vies, il faut que SmartPoop continue de vivre. Le jour où SmartPoop est démantelé ou fait faillite, s’il y a une nouvelle pandémie de ROVID-19, ce n’est pas la vie d’une fille d’une cinglée qui va y passer ; ce seront des millions, voire des milliards de vies.
+[^contrafactuel]: Au moment de juger une décision X, le raisonnement contrafactuel consiste à comparer les conséquences probables de faire X, aux conséquences probables de ne pas faire X (ou de faire une alternative à X). Il s'agit de l'approche souvent privilégiée par la théorie de la décision, surtout en présence d'incertitude.  
+[:tv: Fallait-il confiner ? La pensée contrafactuelle. Science4All (2020).](https://www.youtube.com/watch?v=6_-UpcHdHk4)  
+[:books: How to Decide: Simple Tools for Making Better Choices. Annie Duke. Portfolio (2020).](https://www.annieduke.com/books/)
+
+> Déjà tu n’en sais rien. Je suis sûr que même sans SmartPoop les gens feraient n’importe quoi avec les compléments alimentaires. Et à ce jeu-là, Facebook et YouTube me semblent largement plus responsables que nous. La mésinformation partagée sur ces plateformes, à l’origine, c’est surtout ça qui a causé toute cette histoire[^mesinformation].
+
+[^mesinformation]: Le rôle central de ces plateformes, et en particulier des algorithmes de ces plateformes, dans la crise de la mésinformation actuelle est le sujet central d'un livre précédent de Lê Nguyên Hoang, co-écrit avec le chercheur El Mahdi El Mhamdi, et d'articles publiés en sociologie et en philosophie.  
+[:books: Le Fabuleux Chantier : Rendre l'Intelligence Artificielle Robustement Bénéfique. Lê Nguyên Hoang & El Mahdi El Mhamdi. EDP Sciencess (2019).](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
+[:memo: Science Communication Desperately Needs More Aligned Recommendation Algorithms. Lê Nguyên Hoang. Frontiers in Communication (2020).](https://www.frontiersin.org/articles/10.3389/fcomm.2020.598454/full)  
+[:memo: Recommendation Algorithms, a Neglected Opportunity for Public Health. Lê Nguyên Hoang, Louis Faucon & El-Mahdi El-Mhamdi. Revue Médecine et Philosophie (2021).](https://philpapers.org/rec/HOARAA)
+
+> Katia, je pense que tu es beaucoup trop orientée sur le business ou la protection de SmartPoop. En fin de compte, l’objectif de SmartPoop, ce n’est pas de faire de l’argent ou de protéger notre image, c’est de sauver des vies, et d’éviter de causer des torts[^facebook-files].
+
+[^facebook-files]: Cette remarque fait écho aux *facebook files*, qui révèlent que, à de nombreuses reprises, la direction de Facebook a privilégié les profits et l'image de l'entreprise aux tragédies que sa plateforme aggravait.  
+[:computer: The facebook files. Wall Street Journal (2021).](https://www.wsj.com/articles/the-facebook-files-11631713039)
+
+> Marc, tu raisonnes trop sur le court terme. Si tu veux que SmartPoop sauve des vies, il faut que SmartPoop continue de vivre. Le jour où SmartPoop est démantelé ou fait faillite, s’il y a une nouvelle pandémie de ROVID-19, ce n’est pas la vie d’une fille d’une cinglée qui va y passer ; ce seront des millions, voire des milliards de vies[^demantelement].
+
+[^demantelement]: Alors que certains appellent au démantèlement des grandes entreprises du numérique, d'autres soulignent le fait que ce démantèlement court le risque de conduire à des effets secondaires imprévus beaucoup plus préoccupants encore, comme l'impossibilité de modérer le flux de l'information, y compris les informations dangereuses et compromettantes, comme les images pédo-pornographiques, les appels à la haine raciale ou le cyber-harcèlement. C'est le cas par exemple de Sinan Aral, professeur du MIT, qui a beaucoup étudié la désinformation sur les réseaux sociaux.  
+[:books: The Hype Machine : How Social Media Disrupts Our Elections, Our Economy, And Our Health–and How We Must Adapt. Sinan Aral. Penguin (2021).](https://www.penguinrandomhouse.com/books/570128/the-hype-machine-by-sinan-aral/)
 
 Visiblement tous deux frustrés, Katia et Marc marquent un silence dans leur discussion.
 
@@ -195,9 +227,11 @@ Visiblement tous deux frustrés, Katia et Marc marquent un silence dans leur dis
 
 Marc reste pensif. Après quelques secondes, il reprend la parole.
 
-> C’est peut-être une défense envisageable. On peut accepter quelques dommages, mais à condition que les poursuites soient aussi engagées à l’encontre de Facebook et YouTube, ou tout autre réseau social utilisé par la mère.
+> C’est peut-être une défense envisageable. On peut accepter quelques dommages, mais à condition que les poursuites soient aussi engagées à l’encontre de Facebook et YouTube, ou tout autre réseau social utilisé par la mère[^concurrence].
 
-### Le procès de SmartPoop
+[^concurrence]: Ce que suggèrent là Katia pourrait être une solution de mieux aligner les intérêts des employés des entreprises pour promouvoir l'éthique. Au lieu de leur demander de souligner les dilemmes éthiques de leurs propres entreprises (ce qui semble néanmoins important et désirable, mais est en pratique affecté par *l'ethics washing*), ces employés pourraient être payés pour souligner les problèmes éthiques avec les produits de leurs concurrents. En pratique, un frein énorme à cela est l'accès aux données des concurrents, sans lesquels l'identification des problèmes éthiques est souvent impossible.
+
+### L’engagement de SmartPoop
 
 Katia et Marc organisent alors une réunion avec leurs avocats pour préparer un plan d’action selon cette ligne directrice. Ils rajoutent qu’en réponse au procès, et pour éviter d’autres procès futurs, SmartPoop s’engage à être un acteur majeur dans la lutte contre la mésinformation.
 
@@ -207,19 +241,35 @@ Katia et Marc organisent alors une réunion avec leurs avocats pour préparer un
 
 Des mois plus tard, le procès a lieu. Le verdict tombe. SmartPoop est reconnu co-auteur de l’homicide involontaire de Jeanne. Cependant, les co-auteurs sont nombreux, puisqu’ils incluent de nombreux réseaux sociaux qui ont propagé d’énormes quantités de mésinformations médicales dangereuses. Une compensation d’un million d’euros est exigée de la part de SmartPoop. De plus, le tribunal demande à SmartPoop de prendre la responsabilité des mésinformations publiées dans l’application, mais aussi des risques de mécompréhension par un public qui n’est pas formé à comprendre les données médicales.
 
-### L’engagement de SmartPoop
+En réponse à la demande du tribunal, Katia et Mark s’engagent alors à embaucher Lucile en tant que consultante, et de travailler avec des médecins, des psychologues et des infographistes, pour améliorer le design de l’application SmartPoop et pour y proposer des bilans de santé simples, sécurisés et aisément compréhensibles[^psychologie]. Après des semaines de discussions parfois tendues, et de travail laborieux, un nouveau design de SmartPoop est établi. Science4Alpha invite alors Marc à présenter le nouveau de design de SmartPoop sur sa chaîne YouTube.
 
-En réponse à la demande du tribunal, Katia et Mark s’engagent alors à embaucher Lucile en tant que consultante, et de travailler avec des médecins, des psychologues et des infographistes, pour améliorer le design de l’application SmartPoop et pour y proposer des bilans de santé simples, sécurisés et aisément compréhensibles. Après des semaines de discussions parfois tendues, et de travail laborieux, un nouveau design de SmartPoop est établi. Science4Alpha invite alors Marc à présenter le nouveau de design de SmartPoop sur sa chaîne YouTube.
+[^psychologie]: On peut insister sur ce que cette phrase implique. En pratique, le fait qu'une information soit une mésinformation ou non est une question très complexe, qui nécessite de comprendre la psychologie du public, et en particulier ses erreurs d'interprétation probables. Une entreprise qui souhaite y parvenir se doit alors d'engager des équipes sérieuses capables de répondre à cette tâche délicate. Cependant, on peut noter que les entreprises du numériques investissent souvent déjà beaucoup pour optimiser l'expérience utilisateur, voire l'addiction des utilisateurs à leurs produits.  
+[:tv: How a handful of tech companies control billions of minds every day | Tristan Harris. TED (2017)](https://www.youtube.com/watch?v=C74amJRp730)  
+[:tv: The Social Dilemma. Netflix (2020)](https://www.thesocialdilemma.com/)
 
-> SmartPoop se transforme en une application d’alerte d’anomalie, et de recommandations médicales sécurisées, explique Marc. Plutôt que de noyer l’utilisateur dans un océan de données dans lequel il pourrait se perdre, l’application va maintenant accompagner les utilisateurs. En cas de risques très bien identifiés, comme dans le cas des constipations et des diarrhées, ou pour certaines carences comme les carences en vitamine A qu’on arrive maintenant très bien à détecter, SmartPoop va notifier l’utilisateur et lui fournir une recommandation médicale, conformément à ce qui a été décidé avec l’Ordre des médecins. Typiquement, ce sera une recommandation de la forme « veuillez boire davantage d’eau » ou « pensez à manger des carottes ».
+> SmartPoop se transforme en une application d’alerte d’anomalie, et de recommandations médicales sécurisées, explique Marc. Plutôt que de noyer l’utilisateur dans un océan de données dans lequel il pourrait se perdre, l’application va maintenant accompagner les utilisateurs. En cas de risques très bien identifiés, comme dans le cas des constipations et des diarrhées, ou pour certaines carences comme les carences en vitamine A qu’on arrive maintenant très bien à détecter, SmartPoop va notifier l’utilisateur[^23-and-me] et lui fournir une recommandation médicale, conformément à ce qui a été décidé avec l’Ordre des médecins. Typiquement, ce sera une recommandation de la forme « veuillez boire davantage d’eau » ou « pensez à manger des carottes ».
+
+[^23-and-me]:  En 2013, la *Food and Drug Admnistration* (FDA) des États-Unis a interdit l'entreprise de séquençage d'ADN 23AndMe de communiquer les résultats de leurs tests génétiques avec leurs patients, faute d'études convaincantes sur la fiabilité de ces tests.  
+[:computer: FDA bans 23andme personal genetic tests. BBC (2013).](https://www.bbc.com/news/technology-25100878)
 
 > Que se passe-t-il si une anomalie mal identifiée est repérée ?
 
-> Excellente question ! Dans ce cas, SmartPoop recommandera simplement de consulter un médecin. Ce qu’on veut avant tout, c’est ne pas causer de mal. Primum non nocere, dit-on en médecine. Autrement dit, la priorité, c’est de ne pas nuire. SmartPoop implémente désormais ce principe avec beaucoup de rigueur.
+> Excellente question ! Dans ce cas, SmartPoop recommandera simplement de consulter un médecin[^23-and-me-report]. Ce qu’on veut avant tout, c’est ne pas causer de mal. Primum non nocere, dit-on en médecine. Autrement dit, la priorité, c’est de ne pas nuire. SmartPoop implémente désormais ce principe avec beaucoup de rigueur.
+
+[^23-and-me-report]: Sur son site web, l'entreprise 23AndMe insiste désormais beaucoup sur la nécessité de consulter un médecin avec les résultats de leur analyse, et même avant de décider de séquencer son ADN.
+En octobre 2021, ils écrivaient : « **Ces rapports ne remplacent pas les visites chez un professionnel de la santé**. Consultez un professionnel de la santé pour vous aider à interpréter et à utiliser les résultats génétiques. Les résultats ne doivent **pas** être utilisés pour prendre des décisions médicales. »
+Et rajoutaient : « Nous vous encourageons à parler à un conseiller en génétique. »  
+[:computer: 23andMe Genetic Health Risk Reports: What you should know.](https://www.23andme.com/test-info/genetic-health/)
 
 > Les données brutes de SmartPoop sont-elles encore accessibles ?
 
-> Oui. Conformément au Règlement Générale pour la Protection des Données, le fameux RGPD, toutes les données collectées par SmartPoop demeurent accessibles à l'utilisateur. Mais on a décidé de faire très attention à la manière dont elles sont présentées, pour que les utilisateurs se méfient plus, en particulier des erreurs de mesure inévitables de notre dispositif. Nos algorithmes d’apprentissage sont encore en train d’améliorer leurs estimations des propriétés physico-chimiques des excréments à partir de photographies, et nous sommes bien conscients que, sur de nombreuses tâches, la fiabilité de ces algorithmes n’est pas encore au rendez-vous. C’est pour cela que nous faisons très attention à ce que de telles données soient présentées avec beaucoup de barres d’erreurs. Nous préférons que les utilisateurs prennent conscience de l’incertitude de nos modèles avant qu’ils ne lisent les résultats de l’analyse de ces modèles.
+> Oui. Conformément au Règlement Générale pour la Protection des Données, le fameux RGPD, toutes les données collectées par SmartPoop demeurent accessibles à l'utilisateur. Mais on a décidé de faire très attention à la manière dont elles sont présentées, pour que les utilisateurs se méfient plus, en particulier des erreurs de mesure inévitables de notre dispositif. Nos algorithmes d’apprentissage sont encore en train d’améliorer leurs estimations des propriétés physico-chimiques des excréments à partir de photographies, et nous sommes bien conscients que, sur de nombreuses tâches, la fiabilité de ces algorithmes n’est pas encore au rendez-vous. C’est pour cela que nous faisons très attention à ce que de telles données soient présentées avec beaucoup de barres d’erreurs. Nous préférons que les utilisateurs prennent conscience de l’incertitude de nos modèles avant qu’ils ne lisent les résultats de l’analyse de ces modèles[^incertitude].
+
+[^incertitude]: De façon plus générale, la recherche en sécurité des algorithmes insiste beaucoup sur l'importance de permettre aux algorithmes de mesurer leur propre incertitude sur les résultats qu'ils calculent.  
+[:memo: Benchmarking Uncertainty Estimation Methods for Deep Learning With Safety-Related Metrics. Maximilian Henne, Adrian Schwaiger, Karsten Roscher, Gereon Weiss. SafeAI@AAAI (2020)](ceur-ws.org/Vol-2560/paper35.pdf)  
+[:books: Human Compatible: Artificial Intelligence and the Problem of Control. Stuart Russell. Penguin (2019)](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/)  
+Cette remarque semble aussi primordiale pour les humains, y compris les experts qui pêchent souvent par excès de confiance.  
+[:tv: L'excès de confiance tue. Science4All (2020).](https://www.youtube.com/watch?v=zGhrYMRAoCs)
 
 > Marc, tu dis aussi prendre des mesures contre la mésinformation ?
 
@@ -227,26 +277,52 @@ En réponse à la demande du tribunal, Katia et Mark s’engagent alors à embau
 
 > Mais qu’est-ce que la mésinformation ? Est-ce que dire que les bananes ne sont pas naturelles et qu’elles sont radioactives, est une mésinformation ?
 
-> Ce qu’on a découvert avec l’histoire de Lucile, c’est que la notion de mésinformation est en fait très délicate. D’un côté, non, ce n’est pas tout à fait une fausse information, ou une fake news comme diraient certains. Mais d’un autre côté, dite dans un mauvais contexte, cette phrase peut être trompeuse pour certains publics, si ceux-ci sont ensuite amenés à croire que les bananes sont du coup dangereuses, ou qu’il vaut mieux s’en éloigner.
-Pour être clair, oui, les bananes ont été modifiées par l’agriculture. Cela fait 7000 ans que l’on sélectionne les variétés de bananes qui nous arrangent, ce n'est pas naturel du tout. Mais c’est le cas de quasiment toute la nourriture qu’on mange, du blé au bœuf, en passant par les pommes, les oranges et oui, les bananes aussi. Et oui aussi, la banane est radioactive. Mais la radioactivité d’une banane est deux cents fois moindre que ce que vous subissez si vous prenez l’avion pour un trajet de 6 heures, juste parce que l’avion vole un peu haut dans le ciel. Si vous avez peur de la radioactivité de la banane, vous devriez être terrifié par l’avion. D’ailleurs il existe une unité, la DEB, pour « dose équivalente en banane », qui sert de façon didactique à présenter certaines exposition très faible à de la radioactivité.
+> Ce qu’on a découvert avec l’histoire de Lucile, c’est que la notion de mésinformation est en fait très délicate[^reality-game]. D’un côté, non, ce n’est pas tout à fait une fausse information, ou une fake news comme diraient certains. Mais d’un autre côté, dite dans un mauvais contexte, cette phrase peut être trompeuse pour certains publics, si ceux-ci sont ensuite amenés à croire que les bananes sont du coup dangereuses, ou qu’il vaut mieux s’en éloigner[^fake-problem].
+Pour être clair, oui, les bananes ont été modifiées par l’agriculture. Cela fait 7000 ans que l’on sélectionne les variétés de bananes qui nous arrangent, ce n'est pas naturel du tout. Mais c’est le cas de quasiment toute la nourriture qu’on mange, du blé au bœuf, en passant par les pommes, les oranges et oui, les bananes aussi. Et oui aussi, la banane est radioactive. Mais la radioactivité d’une banane est deux cents fois moindre que ce que vous subissez si vous prenez l’avion pour un trajet de 6 heures, juste parce que l’avion vole un peu haut dans le ciel. Si vous avez peur de la radioactivité de la banane, vous devriez être terrifié par l’avion. D’ailleurs il existe une unité, la DEB, pour « dose équivalente en banane », qui sert de façon didactique à présenter certaines exposition très faible à de la radioactivité[^radioactivite-veritasium].
 
-> Malheureusement, en tant que YouTubeur éducatif, je peux te certifier qu’expliquer tout cela prend du temps…
+[^reality-game]: [:books: The Reality Game How the Next Wave of Technology Will Break the Truth. Samuel Woolley. PublicAffairs (2020).](https://www.publicaffairsbooks.com/titles/samuel-woolley/the-reality-game/9781541768253/)
+
+[^fake-problem]: [:tv: Les Fake News, un Fake Problem ? Science4All (2021).](https://www.youtube.com/watch?v=GWyrwG_QGeI)
+
+[^radioactivite-veritasium]: [:tv: The Most Radioactive Places on Earth. Veritasium (2014)](https://www.youtube.com/watch?v=TRL7o2kPqw00)
+
+> Malheureusement, en tant que YouTubeur éducatif, je peux te certifier qu’expliquer tout cela prend du temps[^brandolini]...
+
+[^brandolini]: On parle parfois de la « loi de Brandolini », ou de le principe d'asymétrie des idioties, selon quoi le coût de déconstruire une croyance erronée est beaucoup plus grand que celui de la défendre. Voilà qui rend la rectification de croyances erronées extrêmement ardue, lorsqu'elle est confrontée au « mille-feuille argumentaire », qui correspond à enchaîner des arguments bancals défendant une croyance.  
+[:tv: Comment réagir au bullshit ? Philoxime](https://www.youtube.com/watch?v=x_aA8HLCQsk)
 
 > Oui et l’attention du public est très limitée. C’est pourquoi, plutôt que d’inonder les utilisateurs de SmartPoop d’informations complexes, nous avons opté pour leur communiquer uniquement des informations très simples et très fiables, tout en ajoutant des liens vers des informations plus complètes.
 
 > On en vient à la grande annonce de cette vidéo. Marc, tu es maintenant mon boss.
 
-> Oui en effet. Science4Alpha, tu es une pédagogue exceptionnelle, qui nous a supporté très tôt dans notre démarche, et qui est toi-même très préoccupée par les enjeux de santé publique. Nous avons décidé de soutenir officiellement ton travail en te garantissant un revenu stable. Et nous avons conclu des accords similaires avec neuf autres YouTubeurs scientifiques. Nous sommes très excités par ces partenariats car nous pensons que l’information de qualité est une priorité pour la santé publique.
+> Oui en effet. Science4Alpha, tu es une pédagogue exceptionnelle, qui nous a supporté très tôt dans notre démarche, et qui est toi-même très préoccupée par les enjeux de santé publique. Nous avons décidé de soutenir officiellement ton travail en te garantissant un revenu stable. Et nous avons conclu des accords similaires avec neuf autres YouTubeurs scientifiques. Nous sommes très excités par ces partenariats car nous pensons que l’information de qualité est une priorité pour la santé publique[^partenariat].
+
+[^partenariat]: La pertinence de telles collaborations, avec le privé ou avec des institutions gouvernementales, est un dilemme permanent pour la communication scientifique, surtout sachant le peu de financement qu'elle reçoit pour l'instant, et la difficulté d'accéder aux informations internes à des grandes entreprises. On peut citer l'exemple de cette collaboration entre le YouTubeur scientifique SmarterEveryDay et 23AndMe, qui est un cadre de collaboration jugé satisfaisant par le YouTubeur scientifique.  
+[:tv: DNA Testing and Privacy (Behind the scenes at the 23andMe Lab) - Smarter Every Day (2017).](https://www.youtube.com/watch?v=U3EEmVfbKNs)  
+En particulier, sur des sujets controversés, de telles collaborations peuvent avoir des effets contreproductifs sur la confiance envers les communicateurs scientifiques.  
+[:memo: Trust in scientists in times of pandemic: Panel evidence from 12 countries. Yann Algan, Daniel Cohen, Eva Davoine, Martial Foucault & Stefanie Stantcheva. PNAS (2021)](https://www.pnas.org/content/118/40/e2108576118.abstract)  
+Lê Nguyên Hoang a par exemple produit une vidéo en collaboration avec le Ministère de la Santé en France, qui aura reçu plus de dislikes que de likes, questionnant ainsi la pertinence d'une telle collaboration.  
+[:tv: Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE)
 
 > Mais, Marc, comme certains sont d’ailleurs probablement en train de l’écrire dans les commentaires, n’y a-t-il pas des risques de conflits d’intérêt ?
 
-> Toujours. Nous avons fait de notre mieux pour trouver un système qui te permette de nous surveiller de près et de vivre confortablement, tout en te garantissant la liberté qu’exige le travail de communication scientifique, en particulier sur des sujets sensibles comme la santé publique. En particulier, nous nous sommes engagés à garantir un an de revenu en cas de rupture de contrat avec toi ou tes collègues, et nous n’avons aucun droit de regard sur les contenus que vous publiez.
+> Toujours. Nous avons fait de notre mieux pour trouver un système qui te permette de nous surveiller de près et de vivre confortablement, tout en te garantissant la liberté qu’exige le travail de communication scientifique, en particulier sur des sujets sensibles comme la santé publique. En particulier, nous nous sommes engagés à garantir un an de revenu en cas de rupture de contrat avec toi ou tes collègues[^google-ethics], et nous n’avons aucun droit de regard sur les contenus que vous publiez[^google-approval].
+
+[^google-ethics]: Les employés de l'équipe d'éthique des IA de Google n'a pas eu ce luxe. En particulier, Timnit Gebru a été licencié pendant ses vacances, sans préavis, peu de temps après celle-ci a critiqué dans un article de recherche les algorithmes de langage dans lesquels Google avait beaucoup investi.  
+[:tv: L'éthique des algorithmes en sérieux danger. Science4All (2020).](https://www.youtube.com/watch?v=Ddr-BZ9W180)
+
+[^google-approval]: Notez que cela n'est pas le cas des chercheurs en éthiques des IA de Google, dont les publications sont soumis à une approbation en interne par des managers haut placés de Google. Comme on l'a vu suite aux licenciements de Timnit Gebru et Margarett Mitchell, ce manque d'indépendance entre l'éthique et la direction de Google est un sérieux risque pour l'intégrité de la recherche de Google.  
+[:tv: Google démantèle son éthique (et tout le monde s'en fout...). Science4All (2021).](https://www.youtube.com/watch?v=HbFadtOxs4k)
 
 > Vous entendez cela, chers vieweurs ? Promis, je resterai libre dans ce que je dis. Si SmartPoop chie son produit ou son interface, je serai le premier à le signaler.
 
-> J’espère bien, oui. Notre relation avec toi va beaucoup s’appuyer sur une relation de confiance. Nous avons confiance en toi, et en ta volonté de prioriser la santé publique dans tes vidéos. Et nous espérons que toi, Science4Alpha, ainsi que le grand public et nos différents partenaires, feront confiance en notre engagement pour la santé publique avant tout.
+> J’espère bien, oui. Notre relation avec toi va beaucoup s’appuyer sur une relation de confiance. Nous avons confiance en toi, et en ta volonté de prioriser la santé publique dans tes vidéos. Et nous espérons que toi, Science4Alpha, ainsi que le grand public et nos différents partenaires, feront confiance en notre engagement pour la santé publique avant tout[^confiance].
 
-> On se fait un petit selfie avec un check pour finir cette vidéo ? Et oui on évite de se serrer les mains, parce qu’on n’a pas encore la garantie que le ROVID-19 est complètement parti. Voilà, merci Marc, et à vous vieweurs, j’espère que vous êtes excité comme moi à l’idée d’avoir une vue de l’intérieur de SmartPoop. Je ne pourrai bien sûr pas tout vous dire, car certains sujets sont sensibles, et il y a même des histoires de délits d’initiés que je préfère éviter. Mais promis, on ne sera pas tendre avec Marc et Katia, surtout s’ils dérapent.
+[^confiance]: L'une des grandes difficultés d'un tel partenariat, notamment pour les entreprises ou les gouvernements, c'est la confiance en le communicateur scientifique. Celui-ci pourrait être payé par des concurrents pour produire une désinformations nocives. Malheureusement, mettre en place de tels partenariats, c'est compliqué...
+
+> On se fait un petit selfie avec un check pour finir cette vidéo ? Et oui on évite de se serrer les mains, parce qu’on n’a pas encore la garantie que le ROVID-19 est complètement parti. Voilà, merci Marc, et à vous vieweurs, j’espère que vous êtes excité comme moi à l’idée d’avoir une vue de l’intérieur de SmartPoop. Je ne pourrai bien sûr pas tout vous dire, car certains sujets sont sensibles, et il y a même des histoires de délits d’initiés que je préfère éviter[^transparence]. Mais promis, on ne sera pas tendre avec Marc et Katia, surtout s’ils dérapent.
+
+[^transparence]: La transparence, c'est un sujet compliqué aussi...
 
 > On essaiera de ne pas trop déraper alors !
 
