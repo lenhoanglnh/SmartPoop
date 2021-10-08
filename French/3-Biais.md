@@ -2,7 +2,7 @@
 
 > Le vrai confort, ce n’est pas seulement de savoir que vous pouvez faire vos besoins en toute sécurité ; c’est surtout de savoir que votre santé sera prise en charge à tout instant grâce à l’intelligence de vos toilettes. SmartToilets[^smarttoilets] de SmartPoop. Laissez-nous prendre soin de vous.
 
-[^smarttoilets]: Les SmartToilets sont déjà en développement ! Ils ont même conduit à une publication académique, avec un prototype capable de reconnaissance... rectale !
+[^smarttoilets]: Les SmartToilets sont déjà en développement ! Ils ont même conduit à une publication académique, avec un prototype capable de reconnaissance... rectale !  
 [:memo: A mountable toilet system for personalized health monitoring via the analysis of excreta. Seung-min Park et al. Nature Biomedical Engineering (2020).](https://www.nature.com/articles/s41551-020-0534-9)
 
 C’est la cinquième fois déjà aujourd’hui qu’Issa Gueye voit passer cette publicité sur son téléphone. Ironiquement, cette fois-ci, c’est assis sur la cuvette[^toilettes], entre deux vidéos d’humoristes, qu’il y est exposé. Quelques minutes plus tard, alors qu’il ouvre justement l’application SmartPoop pour filmer ses excréments, il se rend alors compte que l’installation des SmartToilets lui éviterait de faire lui-même ce travail de tournage des étrons. Même si cela fait maintenant trois ans qu’il l'effectue presque quotidiennement, il persiste à trouver cet effort laborieux et repoussant.
@@ -44,25 +44,34 @@ Le téléphone d’Issa vibre tout à coup, Issa prend son téléphone, qui lui 
 
 > Tu me sembles tendu. C’est normal. La première fois, ce n’est jamais simple. Mais détends-toi. Essaie de profiter de ton nouveau confort quotidien.
 
-Issa trouvait la voix de synthèse un peu trop sensuelle à son goût. Un réglage qu'il faudra penser à corriger.
-
 > Je n’ai pas l’habitude de parler avec un assistant vocal dans les chiottes !
 
 > Je comprends. Moi non plus, je n’ai pas encore l’habitude de parler aux utilisateurs dans les chiottes !
 
-L'humour de l'IA n'était malheureusement pas réglable, même dans les paramètres avancés.
+Petit à petit, toutefois, Issa perçoit de plus en plus ses SmartToilets comme un nouveau confort important[^new-toilets]. Après tout, mis bout à bout, les humains passent un temps faramineux assis sur des toilettes. Autant en faire un bon moment !
 
-Petit à petit, toutefois, Issa perçoit de plus en plus ses SmartToilets comme un nouveau confort important. Après tout, mis bout à bout, les humains passent un temps faramineux assis sur des toilettes. Autant en faire un bon moment !
+[^new-toilets]: Des milliards d'humains sur terre n'ont pas accès à ce confort. Comme on l'a vu, ceci pose de sérieux problèmes sanitaires.  
+[:tv: 6 Toilets From History, and What They Taught Us. SciShow (2021).](https://www.youtube.com/watch?v=kTqDmkTh0IY)
+Mais la recherche est en train de développer des solutions pour rendre ce confort accessible à plus de monde, en innovant notamment dans le traitement des excréments.  
+[:tv: 3 Groundbreaking New Toilets. SciShow (2018).](https://www.youtube.com/watch?v=FaLZUJAAgnk)
 
 Enfin, Issa avance dans sa tâche.
 
-> Euh… dit Issa, avec une certaine hésitation. Est-ce que tu… l’analyses ?
+> Euh… dit Issa, avec une certaine hésitation. Est-ce que tu... l’analyses ?
 
-> Oui Issa, je suis en train de filmer les matières sous différents angles, et de mettre les vidéos sur ton compte en ligne. J’effectue aussi d’autres prélèvements pour une analyse plus fine. Est-ce que tu veux en savoir plus ?
+> Oui Issa, je suis en train de filmer tes « données » sous différents angles, et de mettre les vidéos sur ton compte en ligne. J’effectue aussi d’autres prélèvements pour une analyse plus fine. Est-ce que tu veux en savoir plus ?
 
 > Oui, dis-en moi plus.
 
-> Avec plaisir. L’eau dans laquelle baignent les excréments est aussi constamment prélevée et analysée en spectroscopie. Autrement dit, on étudie la manière dont cette eau absorbe différentes couleurs du spectre lumineux, de manière très précise. Ceci nous permet d’identifier certaines molécules à l’intérieur de tes excréments, ce qui va nous permettre un bilan de santé beaucoup plus précis. On effectue aussi des mesures chimiques, par exemple de l’acidité de cette eau.
+> Avec plaisir. L’eau dans laquelle baignent les excréments est aussi constamment prélevée et analysée en spectroscopie. Autrement dit, on étudie la manière dont cette eau absorbe différentes couleurs du spectre lumineux, de manière très précise. Ceci nous permet d’identifier certaines molécules à l’intérieur de tes excréments, ce qui va nous permettre un bilan de santé beaucoup plus précis[^spectroscopie]. On effectue aussi de la spectrométrie de masse[^spectrometrie], et des mesures chimiques, par exemple de l’acidité de cette eau[^pH].
+
+[^spectroscopie]: [:tv: Spectrophotometry and Beer's Law. Professor Dave Explains (2019).](https://www.youtube.com/watch?v=zuUvQN8KXOk)
+
+[^spectrometrie]: La spectrométrie de masse consiste à découper une molécule à analyser en sous-molécules chargées, par exemple à l'aide d'une ionisation par électrons, et à mesurer la capacité d'un champ magnétique à dévier la trajectoire de sous-molécules. Puisque les sous-molécules plus lourdes sont plus dures à dévier, ceci nous renseigne sur la masse de ces sous-molécules, et donc sur la masse et la composition de la molécule à analyser.  
+[:tv: IR Spectroscopy and Mass Spectrometry: Crash Course Organic Chemistry #5 (2020).](https://www.youtube.com/watch?v=xMa1BQ8z9C0)
+
+[^pH]: L'acidité d'un liquide est mesurée par son pH, via par exemple des mesures électriques.  
+[:tv: How a pH meter works! pH Professor (2017).](https://www.youtube.com/watch?v=PBTn4gTEbkU)
 
 > Quand est-ce que j’aurais des résultats ?
 
@@ -74,11 +83,16 @@ Quelques jours plus tard, alors qu’il vient de rentrer chez lui après une dur
 
 > J’ai fait des analyses très préoccupantes. Issa, je pense que tu devrais aller en urgence à l’hôpital.
 
-Terrifié, Issa ressort de chez lui, prend la voiture et va directement à l’hôpital. Arrivé aux urgences, il demande alors de consulter un médecin. « Pour quelles raisons ?», lui demande-t-on. « J’ai reçu une alerte de SmartPoop, qui m’a juste dit de venir aux urgence », explique Issa.
+Terrifié, Issa ressort de chez lui, prend la voiture et va directement à l’hôpital. Arrivé aux urgences, il demande alors de consulter un médecin. « Pour quelles raisons ? », lui demande-t-on. « J’ai reçu une alerte de SmartPoop, qui m’a juste dit de venir aux urgence », explique Issa.
 
 Après une minute ou deux, Issa est pris en charge.
 
-> Bonjour Issa, je suis Dr. Paola Marta. Sachez que nous avons l'habitude de gérer des urgences SmartPoop. Depuis deux ans, la plupart de nos patients sont venus suite à une alerte SmartPoop, et le rapport qu’ils nous envoient nous aide toujours beaucoup à soigner nos patients. Comment vous sentez-vous ?
+> Bonjour Issa, je suis Dr. Paola Marta. Sachez que nous avons l'habitude de gérer des urgences SmartPoop. Depuis deux ans, la plupart de nos patients sont venus suite à une alerte SmartPoop, et le rapport qu’ils nous envoient nous aide toujours beaucoup à soigner nos patients[^familiarite]. Comment vous sentez-vous ?
+
+[^familiarite]: D'après une étude récente, la plupart des gens semblent faire en effet davantage confiance aux jugements d'un algorithme que d'un humain, au moins pour certaines prédictions comme le succès de Tesla, des sanctions européennes contre la cyber-guerre ou le futur du Brexit. De façon toutefois perturbante, les professionnels expérimentés, eux, font moins confiance aux algorithmes, ce qui les conduit à de moins bons jugements que les non-professionnels !  
+[:memo: Algorithm appreciation: People prefer algorithmic to human judgment. Jennifer Logg, Julia Minsona & Don Moore. Organizational Behavior and Human Decision Processes (2019).](https://www.sciencedirect.com/science/article/abs/pii/S0749597818303388)  
+Cependant, la recherche en psychologie suggère également que ce qui nous est familier nous paraît plus crédible, et ce de manière parfois troublante. On parle de *biais de familiarité*. Par exemple, un sujet exposé à de multiples reprises à la phrase « la température corporelle d'une poule » a une plus grande probabilité de juger la phrase « la température corporelle d'une poule est de 34°C » vraie. Le fait que Dr. Paola Marta interagit quotidiennement avec des rapports SmartPoop, qui en plus sont efficaces pour la guider dans le traitement de ses patients, pourrait alors expliquer pourquoi la docteur Paola Marta fait confiance à SmartPoop.  
+[:tv: The Illusion of Truth. Veritasium (2016).](https://www.youtube.com/watch?v=cebFWOlx848)
 
 > Pour l’instant, je n’ai que des maux gastriques. Mais je suis assez terrifié. SmartPoop dit que mon état de santé est « très préoccupant ».
 
@@ -86,21 +100,35 @@ Après une minute ou deux, Issa est pris en charge.
 
 > Oui. Docteure, est-ce que vous savez ce que j’ai et si ça va aller ?
 
-Dr. Marta fuit alors Issa du regard. Clairement gênée, Dr. Marta paraît terrifiée par le diagnostic de SmartPoop. Les 27 patients qu’elle a eus, et dont l’état de santé avait été jugé « très préoccupant » par SmartPoop, sont tous décédés. Après un silence interminable, Dr. Marta finit par répondre, avec visiblement un effort pour paraître aussi rassurante que possible, malgré les circonstances.
+Dr. Marta fuit alors Issa du regard. Clairement gênée, Dr. Marta paraît terrifiée par le diagnostic de SmartPoop. Les 27 patients qu’elle a eus, et dont l’état de santé avait été jugé « très préoccupant » par SmartPoop, sont tous décédés[^laplace-succession]. Après un silence interminable, Dr. Marta finit par répondre, avec visiblement un effort pour paraître aussi rassurante que possible, malgré les circonstances.
+
+[^laplace-succession]: La loi de succession de Laplace suggère que, si on avait a priori une incertitude initiale totale sur le fait qu'un diagnostic « très préoccupant » de SmartPoop conduisait à un danger de mort, alors, sachant que les 27 premiers patients avec ce diagnostic sont tous morts, la probabilité qu'Issa meurt à son tour serait alors de 28/29. Voilà qui justifie pleinement la peur de Dr. Marta.  
+[:tv: Binomial distributions | Probabilities of probabilities, part 1. 3Blue1Brown (2020).](https://www.youtube.com/watch?v=8idr1WZ1A7Q)
 
 > Je vous promets qu’on fera de notre mieux.
 
-Après une prise de sang, Issa se retrouve enfin allongé dans un lit d’hôpital, seul, abandonné à sa propre imagination. Il craint le pire, et pense à tout ce qu’il aurait aimé avoir fait. Issa nourrit des regrets, et envisage sa postérité. Toute sa vie, Issa n’a fait que suivre l’appât du gain. On lui a dit que réussir en finance, c’est rouler sur l’or et triompher dans la vie. C’est ce qu’il a fait. Cela fait-il de lui une mauvaise personne ?
+Après une prise de sang, Issa se retrouve enfin allongé dans un lit d’hôpital, seul, abandonné à sa propre imagination. Il craint le pire, et pense à tout ce qu’il aurait aimé avoir fait. Issa nourrit des regrets, et envisage sa postérité. Toute sa vie, Issa n’a fait que suivre l’appât du gain. On lui a dit que réussir en finance, c’est rouler sur l’or et triompher dans la vie. C’est ce qu’il a fait. Cela fait-il de lui une mauvaise personne[^growth-mindset] ?
 
-Certes, sa carrière lui a au moins permis de s’offrir toutes sortes de matériel de luxe, comme les SmartToilets Deluxes. Preuve ultime de la réussite sociale. Mais Issa aura-t-il vraiment accompli quelque chose dans sa vie ? Qu’en est-il de toutes ces nombreuses autres personnes qui ont souffert à cause de lui ? De son ex-femme qu’il a délaissée ? De ses enfants avec qui il a passé si peu de temps ?
+[^growth-mindset]: La psychologie empirique suggère que s'auto-qualifier avec des adjectifs peut donner une impression de permanence de certaines de nos propriétés, qui peut ensuite être très néfaste à notre développement personnel. On parle de *fixed mindset* (mode d'esprit fixe). Par opposition, les personnes qui pensent pouvoir progresser (*growth mindset*, mode d'esprit de croissance) semblent beaucoup plus épanouie. Dès lors, plutôt que de se qualifier de « mauvaise personne », il semblerait plus judicieux de se qualifier de « personne ayant potentiellement fait certaines mauvaises choses », voire de « personne qui aspire à faire de meilleures actions ».  
+[:tv: The power of believing that you can improve | Carol Dweck. TED (2014).](https://www.youtube.com/watch?v=_X0mgOOSpLU)  
+[:books: Mindset: The New Psychology of Success. carol Dweck. Penguin (2007).](https://www.penguinrandomhouse.com/books/44330/mindset-by-carol-s-dweck-phd/)
 
-Dr. Marta revient alors vers Issa. « Enfin », s’exclame intérieurement Issa, qui a l’impression d’avoir été abandonné depuis plusieurs heures. Pourtant, cela ne fait que dix minutes que Dr. Marta s’était absentée. Elle demande alors à Issa de l’accompagner pour passer une radiologie, et lui annonce qu’une coloscopie est aussi envisagée. En l’espace de quelques heures, Issa subira en fait toutes sortes d’analyses. En fin de journée, Dr. Marta lui dit qu’il restera en observation pendant la nuit. Elle l’encourage à essayer de manger le repas qui lui est servi, et à essayer de trouver le sommeil pour se reposer.
+Certes, sa carrière lui a au moins permis de s’offrir toutes sortes de matériel de luxe, comme les SmartToilets Deluxes. Preuve ultime de la réussite sociale. Mais Issa aura-t-il vraiment accompli quelque chose dans sa vie ? Qu’en est-il de toutes ces nombreuses autres personnes qui ont souffert à cause de lui ? De son ex-femme qu’il a délaissée ? De ses enfants avec qui il a passé si peu de temps[^goal-factoring] ?
+
+[^goal-factoring]: Ces questions renvoient à ce que certains appellent le *goal factoring* (reconstruction des objectifs) ou le *self alignment* (auto-alignement), qui consistent à se demander si les buts que nous nous sommes fixés sont vraiment les buts que nous devrions nous fixer, voire que nous voudrions vraiment nous fixer.  
+[:computer: Goal Factoring. LessWrong (2018).](https://www.lesswrong.com/posts/Cu5C5KhkoXhrPMLFN/goal-factoring)  
+Il semble en effet souvent être le cas que ces buts sont des *croyances orphelines*, c'est-à-dire des buts qu'on s'est fixé suite à des motivations fondamentales, et qu'on persiste à se fixer alors même que ces motivations fondamentales ont disparu. Typiquement, on pouvait vouloir plaire à ses parents, à une époque où la fierté de nos parents nous importait énormément ; mais en y réfléchissant, on a fini par se rendre compte que d'autres motivations fondamentales prévalaient sur cela.  
+[:tv: La croyance orpheline d'Einstein. Science4All (2019).](https://www.youtube.com/watch?v=3jtKDWJsvEo)
+
+Dr. Marta revient alors vers Issa. « Enfin », s’exclame intérieurement Issa, qui a l’impression d’avoir été abandonné depuis plusieurs heures. Pourtant, cela ne fait que dix minutes que Dr. Marta s’était absentée[^temps-subjectif]. Elle demande alors à Issa de l’accompagner pour passer une radiologie, et lui annonce qu’une coloscopie est aussi envisagée. En l’espace de quelques heures, Issa subira en fait toutes sortes d’analyses. En fin de journée, Dr. Marta lui dit qu’il restera en observation pendant la nuit. Elle l’encourage à essayer de manger le repas qui lui est servi, et à essayer de trouver le sommeil pour se reposer.
+
+[^temps-subjectif]: [:tv: How Your Brain Makes Time Pass Fast or Slow. It's Okay To Be Smart (2020).](https://www.youtube.com/watch?v=NSy0Z7XCF3E)
 
 Le lendemain matin, Dr. Marta arrive enfin dans la chambre d’Issa. Issa est épuisé. Terrifié, il n’a pas dormi de la nuit.
 
 > Quelles sont les nouvelles, docteure ?
 
-> Vous avez clairement une fatigue très avancée et un haut niveau de stress, avec visiblement des troubles digestifs et des troubles du sommeil. Cependant, toutes nos mesures ne parviennent toujours pas à identifier l’origine de vos troubles. Nous avons appelé l’entreprise SmartPoop, dont le rapport de santé n’est pas vraiment en phase avec notre examen, et ils sont en train d’analyser manuellement vos données. Nous espérons qu'ensemble nous arriverons à cerner le problème. Mais ceci va nous prendre du temps. J’en suis désolée. Vraiment désolée.
+> Vous avez clairement une fatigue très avancée et un haut niveau de stress, avec visiblement des troubles digestifs et des troubles du sommeil. Quelque chose ne va pas. Cependant, toutes nos mesures ne parviennent toujours pas à identifier l’origine de vos troubles. Nous avons appelé l’entreprise SmartPoop, dont le rapport de santé n’est pas vraiment en phase avec notre examen, et ils sont en train d’analyser manuellement vos données. Nous espérons qu'ensemble nous arriverons à cerner le problème. Mais ceci va nous prendre du temps. J’en suis désolée. Vraiment désolée.
 
 ### Alerte chez SmartPoop
 
