@@ -66,7 +66,7 @@ Katia lance l’impression des analyses, et récupère les copies fraîchement s
 
 > Probablement.
 
-> Et qu’ils nous ont ensuite envoyé des fausses données d’excréments ? Des... FakePoops?
+> Et qu’ils nous ont ensuite envoyé des fausses données d’excréments ? Des... FakePoops ?
 
 > Oui, probablement générés à partir des données publiques sur le profil scatologique du ROVID-19, et peut-être même en particulier des Kormicains.
 

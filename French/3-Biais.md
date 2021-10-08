@@ -152,7 +152,16 @@ En fin de matinée, c’est au tour de Marc d’entrer dans le bureau de Katia.
 
 > C’est déjà fait.
 
-Katia ouvre alors son client email, qui lui dit qu’elle a 25 251 messages non-lus. Elle trie ses messages par destinataire et trouve celui de Marc. Katia copie-colle les références du cas, et lance des requêtes à la base de données de SmartPoop. Elle récupère alors les données d’Issa, et analyse les statistiques de ses excréments. Katia exécute quelques commandes, qui génèrent alors toutes sortes de graphes. Après avoir vu une quinzaine de graphes, Katia s’exclame : « Oh non ! Issa est hors distribution ».
+Katia ouvre alors son client email, qui lui dit qu’elle a 25 251 messages non-lus. Elle trie ses messages par destinataire et trouve celui de Marc[^externalisation-memoire]. Katia copie-colle les références du cas, et lance des requêtes à la base de données de SmartPoop. Elle récupère alors les données d’Issa, et analyse les statistiques de ses excréments. Katia exécute quelques commandes, qui génèrent alors toutes sortes de graphes. Après avoir vu une quinzaine de graphes, Katia s’exclame : « Oh non ! Issa est hors distribution[^hors-distribution] ».
+
+[^externalisation-memoire]: Le philosophe Michel Serres aimait insister sur l'impact des technologies de l'information, comme le papier, l'imprimerie ou les ordinateurs, sur *l'externalisation* de notre cognition. Il est ainsi remarquable de constater à quel point nos boîtes emails sont parvenues à externaliser une grosse partie de notre mémoire. En un sens, nos boîtes emails nous connaissent beaucoup mieux que nous nous connaissons nous-mêmes, non pas car elles sont « intelligentes », mais simplement car leur mémoire est beaucoup plus fiable que la mémoire humaine, et car rechercher dans ces boîtes emails est beaucoup plus efficace que rechercher dans ntore mémoire.  
+[:tv: Michel Serres - Les nouvelles technologies : révolution culturelle et cognitive. I Moved to Diaspora (2012).](https://www.youtube.com/watch?v=ZCBB0QEmT5g)
+
+[^hors-distribution]: Les données dites « hors distribution » sont des données très distinctes de l'ensemble des autres données. Elles sont souvent considérées erronées, voire adversariales, si bien que beaucoup d'algorithmes d'apprentissage cherchent à les éliminer.  
+[:memo: Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent. Peva Blanchard, El Mahdi El Mhamdi, Rachid Guerraoui & Julien Stainer. NIPS (2017)](https://proceedings.neurips.cc/paper/2017/hash/f4b9ec30ad9f68f89b29639786cb62ef-Abstract.html)  
+[:memo: A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks. Kimin Lee, Kibok Lee, Honglak Lee & Jinwoo Shin. NeurIPS (2018).](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf)  
+Les algorithmes qui prévilégient la sécurité sont alors conduits à ignorer les données hors distribution, qui ignorent donc minorités. En fait, comme en parle l'article suivant, il existe une tension fondamentale entre inclusion et sécurité. Pour résoudre cette tension, il est critique de mieux comprendre la distribution, et de mieux sécuriser et authemtifier les sources des données, ou d'être beaucoup plus modeste dans la conception des algorithmes.  
+[:memo: Collaborative learning in the jungle. El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui, Arsany Guirguis, Lê Nguyên Hoang & Sébastien Rouault. NeurIPS (2021).](https://arxiv.org/abs/2008.00742)
 
 > Qu’est-ce que tu veux dire ?
 
@@ -180,9 +189,11 @@ Marc compose le numéro de Dr. Marta.
 
 > Un effet nocebo, demande Katia, qu’est-ce que c’est ?
 
-> Lorsqu’un patient pense qu’il lui arrive quelque chose d’horrible, il peut arriver qu’il développe les symptômes qu’il craint, explique Marc. Des symptômes digestifs par exemple, c'est tout à fait probable. Issa a sans doute une confiance telle en SmartPoop que, lorsque SmartPoop lui a dit que son état de santé était très préoccupant, son état de santé est devenu très préoccupant.
+> Lorsqu’un patient pense qu’il lui arrive quelque chose d’horrible, il peut arriver qu’il développe les symptômes qu’il craint, explique Marc. Des symptômes digestifs par exemple, c'est tout à fait probable. Issa a sans doute une confiance telle en SmartPoop que, lorsque SmartPoop lui a dit que son état de santé était très préoccupant, son état de santé est devenu très préoccupant[^nocebo].
 
-> Mais expliquez-moi, demande Dr. Marta, pourquoi y a-t-il eu ce cas de faux positif ? Jusque là, à chaque fois que SmartPoop a déclaré un cas « très préoccupant », dans notre hôpital, ça avait toujours terminé en unité de soin intensif. C’est pour ça que j’ai moi-même était paniquée pour Issa — ce qui a sans doute malheureusement contribué à son nocebo.
+[^nocebo]: [:tv: This Video Will Hurt. CGP Grey (2013).](https://www.youtube.com/watch?v=O2hO4_UEe-4)
+
+> Mais expliquez-moi, demande Dr. Marta, pourquoi y a-t-il eu ce cas de faux positif ? Jusque là, à chaque fois que SmartPoop a déclaré un cas « très préoccupant », dans notre hôpital, ça avait toujours terminé en unité de soin intensif, puis en décès. C’est pour ça que j’ai moi-même était paniquée pour Issa — ce qui a sans doute malheureusement contribué à son nocebo.
 
 > On vient de déployer les SmartToilets et les SmartToilets Deluxe, explique Katia. Je pense que les SmartToilets ont des diagnostics relativement fiables. Mais la version Deluxe a des capteurs encore plus avancés, qui n’ont pas été aussi utilisés que ceux des SmartToilets de base. Et c’est pour cette raison qu’elle n’est pas aussi fiable.
 
@@ -200,7 +211,7 @@ Katia raccroche deux fois, pour vérifier que Dr. Marta n’est plus connectée.
 
 > Marc, je pense que tu ne réalises pas encore à quel point on est dans la merde.
 
-> Je commence à ne plus supporter cette expression… Le problème n’est pas résolu ?
+> Je commence à ne plus supporter cette expression.. Le problème n’est pas résolu ?
 
 > Je vais faire les mises à jour cet après-midi pour éviter d’autres alertes de faux positifs. Mais le mal est déjà fait. SmartPoop a lancé 163 alertes de faux positifs pour des utilisateurs de SmartToilet Deluxe.
 
@@ -214,33 +225,49 @@ Katia raccroche deux fois, pour vérifier que Dr. Marta n’est plus connectée.
 
 > Que se passe-t-il ?
 
-> SmartPoop est... raciste, affirme Katia avec ton grave.
+> SmartPoop est... raciste[^ia-raciste], affirme Katia avec ton grave.
+
+[^ia-raciste]: [:tv: L'IA est raciste (mais vous aussi !). Science4All (2018).](https://www.youtube.com/watch?v=GdIfDV7FvzQ)
 
 > Raciste ? Que racontes-tu ? C’est un algorithme, pas un humain ?
 
-> Ce que je veux dire, c’est qu’il est dangereux pour les noirs africains. Et du coup, on va subir une énorme shitstorm dans les semaines à venir, pour avoir déployé une technologie raciste avant de la tester suffisamment.
+> Ce que je veux dire, c’est qu’il est dangereux pour les noirs africains. Et du coup, on va subir une énorme shitstorm dans les semaines à venir, pour avoir déployé une technologie raciste avant de la tester suffisamment[^reconnaissance-faciale].
+
+[^reconnaissance-faciale]: Ce fut le cas des technologies de reconnaissance faciale, déployées de manière précipitée, avant que des audits externes ne découvrent que ces technologies ont un taux d'erreur inacceptable pour les minorités, ce qui pouvait parfois les empêcher d'accéder à leurs propres bâtiments, lorsque cette entrée était permise par de tels algorithmes. Ces technologies ont fini par être bannies par le Sénat américain, ce qui aura conduit à une rétraction des produits développés par IBM, Amazon et Microsoft.  
+[:tv: Coded Bias. Netflix (2020)](https://www.netflix.com/title/81328723)  
+Un article récent affirme que des mesures similaires doivent être urgemment prises pour les algorithmes de traitement de langage, dont les vulnérabilités mal comprises et sous-auditées risquent fortement de conduire à des catastrophes.  
+[Citation à venir]( )
 
 > Attends. Est-ce que tu suspectes un de nos développeurs d’être raciste et d’avoir fait faire cela à notre algorithme ?
 
-> Non. Ce n’est pas cela. Aujourd’hui, avec le machine learning, les algorithmes apprennent beaucoup plus des données que des développeurs. Donc leurs performances dépendent de la qualité et de la quantité des données à disposition. Sauf que les données dont on dispose via les SmartToilet Deluxe, ce sont uniquement des données des utilisateurs des SmartToilet Deluxe…
+> Non. Ce n’est pas cela. Aujourd’hui, avec le machine learning, les algorithmes apprennent beaucoup plus des données que des développeurs. Donc leurs performances dépendent de la qualité et de la quantité des données à disposition[^manipulation-par-les-donnees]. Sauf que les données dont on dispose via les SmartToilet Deluxe, ce sont uniquement des données des utilisateurs des SmartToilet Deluxe...
+
+[^manipulation-par-les-donnees]: L'exemple qui montre cela mieux que tout autre est sans doute l'histoire de Tay et Xiaoice. Ces deux algorithmes conversationnels de Microsoft ont été conçus selon les mêmes principes. Cependant, Tay fut lancée sur Twitter, où elle fut déraillée par les données de trolls qui l'encourageait à exprimer des propos sexistes et racistes. Tay alla même jusqu'à appeler au génocides de certaines populations. Cependant, de façon moins connue en Europe et en Amérique du Nord, Xiaoice, elle, fut lancée 2 ans auparavant sur les réseaux sociaux chinois (WeChat en particulier), et est devenue adorable. À tel point que Xiaoice est aujourd'hui utilisée par 600 millions de chinois, avec des histoires d'hommes séduits romantiquement par Xiaoice. Bref, Tay est devenue horrible ; Xiaoice est devenue adorable. Pourquoi ? Eh bien, à cause des données avec lesquelles ces algorithmes étaient entraînés.  
+[:tv: Les données manipulent les algorithmes. Science4All (2021).](https://www.youtube.com/watch?v=vYb3rB0jU70)
 
 > Or ces utilisateurs sont quasiment exclusivement des blancs et des asiatiques, complète Marc.
 
-> Oui… Ce produit est un produit de luxe. Il est donc acheté uniquement par des riches, qui se trouvent être majoritairement des blancs et des asiatiques.
+> Oui... Ce produit est un produit de luxe. Il est donc acheté uniquement par des riches, qui se trouvent être majoritairement des blancs et des asiatiques.
 
 > Et donc, faute de données sur les noirs africains, SmartPoop est devenu mauvais pour diagnostiquer leurs excréments.
 
-> C’est pire que ça. En médecine, quand quelque chose est inhabituel…
+> C’est pire que ça. En médecine, quand quelque chose est inhabituel, ou anormal[^anormal]...
 
-> On le considère préoccupant. D’où l’alerte…
+[^anormal]: Les notions de « normal » et de « anormal » ont longtemps forgé le discours médical. Par exemple, l'homosexualité a longtemps été considéré anormale, ce qui a conduit l'Association Américaine de Psychologie à parler de « trouble mental ». En 1975, l'Association est revenu sur ce jugement, et ne considère plus qu'il s'agit d'un trouble mental.  
+[:computer: Sexual Orientation & Homosexuality. The American Psychological Association (2021).](https://www.apa.org/topics/lgbtq/orientation)
+
+> On le considère préoccupant. D’où l’alerte...
 
 > Devine combien il y a d’utilisateurs de SmartToilet Deluxe d’origine africaine.
 
-> Non… 163 ? Non...
+> Non... 163 ? Non...
 
 > On vient de classer tous les utilisateurs de SmartToilet Deluxe d’origine africaine dans la catégorie « malade ». On a automatisé le racisme !
 
-> Mais on ne l’a pas fait intentionnellement.
+> Mais on ne l’a pas fait intentionnellement[^side-effect].
+
+[^side-effect]: Beaucoup des problèmes éthiques des algorithmes, comme l'amplification des appels à la haine ou de la mésinformation, semblent davantage à voir avec les effets secondaires imprévus (et donc non-intentionnels) des concepteurs de ces algorithmes. Dès lors, pour rendre ces algorithmes éthiques, il ne suffit pas de vouloir qu'ils soient « neutres », ni même de vouloir qu'ils soient « raisonnables » ; il est critique de chercher à activement anticiper leurs effets secondaires difficilement prévisibles, et d'investir massivement dans l'étude de ces effets secondaires.  
+[:books: Le Fabuleux Chantier : Rendre l'Intelligence Artificielle Robustement Bénéfiques. Lê Nguyên Hoang & El Mahdi El Mhamdi. EDP Sciences (2019).](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)
 
 > Va expliquer ça aux médias ! Je crains le pire. On va avoir des titres sensationnalistes du genre « SmartPoop est raciste », et on risque probablement une poursuite en justice. On risque de perdre nos investisseurs ! Et si on n’a pas plus d’investisseurs et un procès au cul, on risque de faire faillite. Et tout ça à quelques jours de SmartPoopCon... Il faut qu’on taise cette histoire.
 
