@@ -41,7 +41,7 @@ Marc, encore étudiant en cancérologie, suggère alors l’utilisation des algo
 
 > Ça commence à se faire en plus, précise Marc. L’année dernière des chercheurs américains ont montré qu’une IA était aussi douée qu’une équipe de dermatologues pour détecter des cancers de peau sur des photos[^cancer-de-la-peau]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
 
-[^cancer-de-la-peau]: [:tv: L'IA sauvera des vies (ft. Primum Non Nocere). Intelligence artificielle 33. Science4All (2018).](https://www.youtube.com/watch?v=xU7LcNRkmfU)  
+[^cancer-de-la-peau]: [:tv: L'IA sauvera des vies (ft. Primum Non Nocere). Science4All (2018).](https://www.youtube.com/watch?v=xU7LcNRkmfU&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=33)  
 [:memo: Dermatologist-level classification of skin cancer with deep neural networks. Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9)
 
 > Il y a clairement un besoin d’algorithmes d’apprentissage en médecine. Mais si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données[^data], fait remarquer Katia.
@@ -79,7 +79,7 @@ Il s'écria « Eurêka », et sortit tout nu dans la rue pour partager l'entho
 [:tv: Le caca, vrai trésor des archéologues - ft. Julien Ménielle, Passé sauvage, Pierre Kerner. C'est une autre histoire (2019)](https://www.youtube.com/watch?v=rS7AvYdtA7E)
 
 [^egouts]: En fait, il reste possible d'effectuer des diagnostics médicaux à partir d'analyses des égoûts. C'est d'ailleurs ce qui a été fait dans le cadre du suivi épidémiologique du COVID-19. La concentration d'ARN du Sars-CoV-2 dans les égouts permet en effet d'inférer l'incidence du virus dans une population parfois très localisée.  
-[:tv: Aux chiottes le virus ? Science4All (2020)](https://www.youtube.com/watch?v=B1VPbhpGzUE)  
+[:tv: Aux chiottes le virus ? Science4All (2020)](https://www.youtube.com/watch?v=B1VPbhpGzUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=6)  
 [:memo: How sewage could reveal true scale of coronavirus outbreak. Smriti Mallapaty. Nature (2020)](https://www.nature.com/articles/d41586-020-00973-x)
 
 Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce projet d’analyse d’excréments. Ils concluent que le produit idéal serait des toilettes intelligentes[^smart-toilet], capables notamment de mesurer et d’analyser les excréments sous toutes leurs coutures avant leur périple dans les eaux usées. Cependant, un tel produit nécessiterait des années de recherche et développement, et donc un grand nombre d’investisseurs. Pour commencer, les deux amis penchent vers un projet moins ambitieux. Après tout, comme Katia le fait remarquer, le meilleur outil de collecte d’information moderne est le téléphone. Pourquoi ne pas l’utiliser pour prendre des photographies des excréments ?
@@ -157,7 +157,7 @@ C'est finalement la grandeur la plus importante.
 Si elle est supérieure à 1, alors l'épidémie se propagera exponentiellement.
 Si elle est inférieure à 1, alors l'épidémie disparaîtra exponentiellement vite.
 En pratique, à cause de relâchements des mesures sanitaires, dans le cas du COVID-19 notamment, ce taux fluctue autour de 1, ce qui fait de l'épidémie une *endémie*, c'est-à-dire une maladie qui persiste dans la population générale.  
-[:tv: Le futur dépend de ce nombre](https://www.youtube.com/watch?v=c_VGCnUWbWU). Science4All (2020).  
+[:tv: Le futur dépend de ce nombre](https://www.youtube.com/watch?v=c_VGCnUWbWU&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=1). Science4All (2020).  
 [:tv: Epidemic, Endemic, and Eradication Simulations](https://www.youtube.com/watch?v=7OLpKqTriio). Primer (2020).
 
 [^exponentielle]: La croissance exponentielle intervient lorsque le nombre de cas est multiplié chaque semaine par une constante supérieure à 1. Le danger d'une telle croissance, c'est qu'elle paraît insignifiante les premières semaines, mais devient tout à coup hors de contrôle après quelques semaines ou mois.  
@@ -170,7 +170,7 @@ En pratique, à cause de relâchements des mesures sanitaires, dans le cas du CO
 [:tv: La loi de Bayes - Argument frappant. Monsieur Phi (2016)](https://www.youtube.com/watch?v=3FOrWMDL8CY)  
 [:tv: The medical test paradox, and redesigning Bayes' rule. 3Blue1Brown (2020)](https://www.youtube.com/watch?v=lG4VkPoG3ko)
 
-[^tests-groupes]: [:tv: Les tests groupés : dépister plus avec moins. Science4All (2020).](https://www.youtube.com/watch?v=oz1afOJhHOA)
+[^tests-groupes]: [:tv: Les tests groupés : dépister plus avec moins. Science4All (2020).](https://www.youtube.com/watch?v=oz1afOJhHOA&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=4)
 
 Une suspicion initiale prend petit à petit de l’ampleur dans la communauté scientifique, notamment suite à l’observation d’une montée fulgurante de cas chez les techniciens de traitement des eaux usées. De plus en plus de données, notamment issues d’analyses chimiques d’excréments des malades, suggèrent que le virus du ROVID-19 se propage principalement via les flatulences des personnes infectées.
 
@@ -211,12 +211,12 @@ Katia contacte aussi des médiateurs scientifiques, sur Twitter et sur YouTube, 
 [^collaborations-vulga]: « Sans nos médiateurs scientifiques, qui informent, expliquent, enseignent, décodent, combattent la désinformation et débattent des questions scientifiques, beaucoup resteraient dans un espace où ils ne disposent pas des informations dont ils ont besoin, ce qui les conduirait à faire de mauvais choix à des moments vraiment cruciaux, » [affirmait Jacinda Arden](https://medium.com/scicomm/what-jacinda-arden-can-teach-us-about-science-communication-6f8fc42712b4), Première Ministre de la Nouvelle-Zélande, en juillet 2020. 
 Malheureusement, les collaborations avec le monde de la vulgarisation, pendant la crise du COVID-19 et autour de sujets comme le changement climatique ou l'éthique des algorithmes, ont sans doute été très déficientes à travers le monde, avec plus généralement un très probable manque d'investissements dans la communication scientifique.
 Elles sont aussi souvent très délicates, pour les autorités et pour les vulgarisateurs, surtout dans le climat de défiance actuel. Par exemple, la vidéo de Science4All sur les vaccins, en collaboration avec le Ministère de la Santé en France, a causé un lever de bouclier (sans doute accentué par une campagne de désinformation organisée), recevant plus de dislikes que de likes sur YouTube (ce qui est extrêmement rare !).  
-[:tv: Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE)
+[:tv: Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=13)
 
 En mai 2020, alors que les nombres de cas diminuent lentement, mais demeurent encore très élevés, SmartPoop récolte quotidiennement des centaines de milliers de photographies. Au total, SmartPoop dispose alors de dizaines de millions de photos d’excréments. Malheureusement, si les algorithmes de Katia distinguent aisément les diarrhées glairosanglantes des cas avancés, ils échouent encore à détecter une quelconque différence entre les cas infectés pré-symptomatiques[^pre-symptomatiques] et les cas sains. Katia est frustrée.
 
 [^pre-symptomatiques]: Dans le cas du COVID-19 (et donc du ROVID-19), le grand défi du contrôle de la pandémie était justement le fait d'éviter les contaminations pré-symptomatiques, c'est-à-dire par des sujets infectés avant que ceux-ci ne développent des symptômes (et donc avant qu'ils se rendent compte qu'ils sont infectés).  
-[:tv: Contenir la pandémie sans confinement ? Science4All (2020).](https://www.youtube.com/watch?v=e3WXfTOw7xY)
+[:tv: Contenir la pandémie sans confinement ? Science4All (2020).](https://www.youtube.com/watch?v=e3WXfTOw7xY&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=2)
 
 > Ça semble peine perdue, s’exaspère-t-elle auprès de Marc.
 
@@ -225,13 +225,13 @@ En mai 2020, alors que les nombres de cas diminuent lentement, mais demeurent en
 > Non… Je pense que, cette fois, le pari était bon[^jugez-le-pari]. Il y avait peu de chances que SmartPoop résolve la crise du ROVID-19. Mais si c’était le cas, on aurait sauvé l’humanité. Bon, ce n’est pas le cas. Mais, cette fois, je pense qu’on a bien fait d’essayer. Ça n'en reste pas moins frustrant...
 
 [^jugez-le-pari]: Katia insiste là sur la différence entre le *pari* et le résultat. Comme en parle très bien l'ancienne joueuse de poker Annie Duke, nous autres humains avons malheureusement trop tendance à juger une décision en fonction de son résultat, quand bien même ce résultat était imprévisible au moment de la décision, notamment sachant les informations dont on disposait alors. Pour progresser, selon Duke, il est critique de juger la prise de décision à partir de l'état de connaissance au moment de cette prise de décision, qui correspondait alors nécessairement à un pari, car le futur était incertain.  
-[:tv: Jugez le pari. Pas le résultat. Science4All (2020).](https://www.youtube.com/watch?v=69w3mZOHEtU)  
+[:tv: Jugez le pari. Pas le résultat. Science4All (2020).](https://www.youtube.com/watch?v=69w3mZOHEtU&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=25)  
 [:books: Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts. Penguin. Annie Duke (2019).](https://www.penguinrandomhouse.com/books/552885/thinking-in-bets-by-annie-duke/)
 
 Déçu, Marc reconnaît que les confinements vont probablement s’éterniser, probablement pendant des années, le temps qu’un vaccin efficace soit développé, testé et déployé à très grande échelle — si tant est qu’il voit le jour un jour[^vaccin]. Pendant ce temps, le ROVID-19 ne cessera de se diffuser.
 
 [^vaccin]: Il est intéressant de se rappeler qu'au début de la pandémie COVID-19, il n'était pas clair que les vaccins auraient l'efficacité qu'ils ont finalement eue. Et il est aussi bon de rappeler que certains vaccins ont permis d'éradiquer certaines maladies terribles, comme la variole.  
-[:tv: Le plus grand triomphe de l'humanité. Science4All (2020).](https://www.youtube.com/watch?v=eAzP2QtAAag)
+[:tv: Le plus grand triomphe de l'humanité. Science4All (2020).](https://www.youtube.com/watch?v=eAzP2QtAAag&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=9)
 
 En entendant ces mots, Katia se lève, agitant son index droit qui illustre alors le bouillonnement intellectuel qui anime ses neurones.
 
@@ -248,10 +248,10 @@ C’est ainsi que SmartPoop propose désormais, non pas de photographier les exc
 À 4 heures du matin, Katia rentre dans la chambre de Marc pour le réveiller. « J’ai fini l’algorithme. Il faut que tu vois ça. » Marc se réveille en sursaut, court chercher une bouteille de champagne et rejoint Katia dans le salon. Katia explique qu’elle a entraîné son algorithme avec 90% de la base de données de SmartPoop, et qu’elle s’apprête à tester les performances de l’algorithme sur les 10% restants[^donnees-test]. Katia explique que ces 10% restants ont été tirés au hasard, avec la simple contrainte qu’ils contiennent autant d’excréments infectés pré-symptomatiques que d’excréments sains[^accuracy]. Si l’algorithme échoue, alors il aura un taux de reconnaissance d’excréments de 50%. S’il est parfait, sa précision sera de 100%.
 
 [^donnees-test]: Ce qui est décrit là est la séparation du jeu de données en un jeu de données d'entraînement (*training set*) et un jeu de données de test (*test set*), qui est une technique classique en machine learning pour valider un algorithme après apprentissage. On parle alors de *validation croisée*, qui peut prendre des formes plus sophistiquées.  
-[:tv: La validation croisée | Intelligence Artificielle 13 (ft.@La statistique expliquée à mon chat). Science4All (2018)](https://www.youtube.com/watch?v=ymRSxSY1nak)
+[:tv: La validation croisée | Intelligence Artificielle 13 (ft.@La statistique expliquée à mon chat). Science4All (2018)](https://www.youtube.com/watch?v=ymRSxSY1nak&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=13)
 
 [^accuracy]: Notez que le taux de succès de prédiction d'un algorithme dépend fortement du taux de choses à détecter dans les données (ici, le taux d'excréments infectés pré-symptomatiques). En effet, si 99% des données ne sont pas des excréments infectés pré-symptomatiques, alors un algorithme idiot qui systématiquement prédit « cet excrément n'est pas infecté pré-symptomatique » permet d'avoir un 99% de précision ! De façon plus générale, pour estimer le succès d'un algorithme prédictif dans une tâche de prédiction binaire (infecté versus pas infecté), il est nécessaire de préciser deux statistiques (par exemple le taux de base et la précision, ou par exemple le taux de faux positif et le taux de faux négatif).  
-[:tv: Les grands scientifiques veulent se tromper. Science4All (2019)](https://www.youtube.com/watch?v=zbUZnspdQRU)
+[:tv: Les grands scientifiques veulent se tromper. Science4All (2019)](https://www.youtube.com/watch?v=zbUZnspdQRU&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=18)
 
 Il ne reste plus qu’à lancer le test de l’algorithme pour connaître sa performance. Katia et Marc se lancent dans un décompte. Cinq. Quatre. Trois. Deux. Un. Le test est lancé[^suspense].
 
@@ -268,7 +268,7 @@ C’est encore au beau milieu de la nuit que Katia réveille tout à coup Marc.
 > Cinq écarts-types, cinq écart-types[^cinq-sigmas], répète-t-elle ! Le test n’a pas échoué. Il est en fait assez nettement au-dessus de 50%.
 
 [^cinq-sigmas]: En sciences, et notamment en physique en particulier, on parle parfois de « 5 sigmas ». Il s'agit du signal considéré suffisamment marquant pour être parfois qualifié de « découverte scientifique », quoique son interprétation exacte est en fait complexe, voire très trompeuse. En particulier, l'utilisation de tels signaux est très critiqués, notamment par les statistiques dites *bayésiennes*.  
-[:tv: La plus grosse confusion des sciences : la p-value !! :hot_pepper: Science4All (2019).](https://www.youtube.com/watch?v=jy9b1HSqtSk)
+[:tv: La plus grosse confusion des sciences : la p-value !! :hot_pepper: Science4All (2019).](https://www.youtube.com/watch?v=jy9b1HSqtSk&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=9)
 
 > Mais un taux de succès de 52,4% ne nous aidera absolument pas à arrêter le ROVID-19.
 
@@ -277,7 +277,7 @@ Katia explique alors que, en effet, l’algorithme actuel est très largement in
 > Si SmartPoop ne détectait absolument rien, alors on s’attendrait à un taux d’erreur de 50%, explique Katia. Mais pas exactement de 50%, à cause des fluctuations statistiques. Sachant que le test a été effectué sur des dizaines de milliers de vidéos d’excréments, on s’attendrait à obtenir 50% plus ou moins un erreur de l’ordre de 0,5%. Or, là, on est à 52,4%, soit 2,4% de plus que 50%. Un écart de 2,4%, c’est donc presque 5 fois la fluctuation de 0,5%[^fluctuation]. C’est beaucoup. Et ça veut dire que la distinction existe très probablement ! SmartPoop n’est simplement pas encore capable de l’identifier !
 
 [^fluctuation]: Notez que Katia fait bien attention à parler d'intervalle de *fluctuation*, et non pas d'intervalle de *confiance*. Ces deux notions sont souvent confondues à tort, alors qu'elles décrivent des objets assez distincts. Dans le premier cas, il s'agit d'une incertitude sur les données à observer, alors que, dans le second cas, il s'agit d'un intervalle qui estime les valeurs d'un paramètre d'un modèle, à partir des données observées. Cependant, cet intervalle de confiance doit aussi ne pas être confondu avec un troisième type d'intervalles, appelé intervalle de *crédence* (ou de *crédibilité*). Contrairement à l'intervalle de confiance, l'intervalle de crédence prend aussi en compte l'état global des connaissances scientifiques avant d'avoir observé les données collectées.  
-[:tv: Peut-on faire confiance aux intervalles de confiance ? :hot_pepper: Science4All (2019)](https://www.youtube.com/watch?v=PVb7aSOqx0Q)
+[:tv: Peut-on faire confiance aux intervalles de confiance ? :hot_pepper: Science4All (2019)](https://www.youtube.com/watch?v=PVb7aSOqx0Q&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=19)
 
 Marc demande à Katia ce qu’il manque pour discerner ce signal. Katia répond :
 

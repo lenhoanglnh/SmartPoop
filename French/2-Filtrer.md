@@ -33,13 +33,15 @@ Un soir, sur son téléphone, Lucile tombe sur une vidéo YouTube sur les impact
 [:tv: La radioactivité et notre exposition aux rayonnements ionisants.. Le Réveilleur (2019).](https://www.youtube.com/watch?v=0tlx_JJkHWc)  
 
 [^recommandation-youtube]: Cet algorithme de recommandation est devenu l'une des entités les plus influentes au monde. Pour s'en rendre compte, il est utile de constater quelques statistiques. Depuis 2016, il y a plus de vues sur YouTube que de recherches sur Google. En 2019 (avant le COVID-19 !), les vues sur YouTube représentaient un milliard d'heures de visionnage pour deux milliards d'humains sur terre, soit une moyenne d'une demi-heure par jour. Or l'algorithme de recommandation de YouTube est responsable de 2 vues sur 3. Après tout, à chaque fois qu'un utilisateur va sur [YouTube.com](https://www.youtube.com) ou clique sur l'application YouTube sur son téléphone, c'est cet algorithme qui décide quelles vidéos seront proposées à l'utilisateur, sans parler de l'auto-play ou de la barre de proposition à droite sur le site. Dans leur livre [Le Fabuleux Chantier](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier), El Mahdi El Mhamdi et Lê Nguyên Hoang affirment que ceci fait de l'algorithme de YouTube l'entité la plus puissante au monde, car il est capable d'enfermer certaines populations dans leurs convictions, ou de réduire au silence certaines informations en ne les recommandant jamais.  
-[:tv: L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA)  
+[:tv: L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=29)  
 [:books: Le fabuleux chantier : Rendre l’intelligence artificielle robustement bénéfique. Lê Nguyên Hoang et El Mahdi El Mhamdi. EDP Sciences (2019)](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
 [:computer: YouTube (Wiki Tournesol).](https://wiki.tournesol.app/wiki/YouTube)
 
 [^banane]: [:tv: 4 Histoires Terrifiantes sur les BANANES. Trash (2020).](https://www.youtube.com/watch?v=DE7Kz0kJu_k)
 
-> Le potassium a été injecté dans les bananes naturelles pour en retirer les noyaux et pour qu’elles se vendent ainsi, affirme-t-il. Ça a rapporté des milliards d’euros aux exploitations industrielles. Quand j’ai démontré que le potassium était radioactif, j’ai reçu des menaces. Et quand j’ai insisté, j’ai été licencié.
+> Le potassium a été injecté dans les bananes naturelles pour en retirer les noyaux et pour qu’elles se vendent ainsi, affirme-t-il. Ça a rapporté des milliards d’euros aux exploitations industrielles. Quand j’ai démontré que le potassium était radioactif, j’ai reçu des menaces. Et quand j’ai insisté, j’ai été licencié[^danger-reseaux].
+
+[^danger-reseaux]: [:tv: Les réseaux sociaux sont dangereux. Très dangereux. Science4All (2021).](https://www.youtube.com/watch?v=utWMGi8HTjY&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=1)
 
 Deux heures plus tard, Lucile est encore sur son téléphone[^attention]. Elle découvre désormais des groupes Facebook qui dénoncent le « scandale du potassium », et qui exigent l’interdiction de tous les produits contenant du potassium, à commencer par la banane. Ces sites expliquent également que la consommation de gélules de magnésium réduit le taux de potassium. « Le magnésium détruit les particules de potassium », affirment certains messages.
 
@@ -136,7 +138,7 @@ Katia va alors dans son bureau, suivie de Marc. Elle ouvre son ordinateur, et ta
 > J’ai trouvé. Oui en effet, la dose est sous-estimée d’un facteur dix. Cependant, on a bien une barre d’erreur immense[^barre-d-erreur] qui contient la valeur trouvée par les médecins. L’algorithme est juste. On n’est pas en tort.
 
 [^barre-d-erreur]: Lors de collectes ou d'analyses de données, il est généralement très utile de préciser l'incertitude sur les données, ou sur les estimations inférées des données. La manière la plus simple d'y parvenir, c'est de rapporter un intervalle comme « entre 5 et 200 milligrammes par litre de sang », qui idéalement correspond à un intervalle de crédence (qui diffère d'un « intervalle de confiance »). Un tel intervalle devrait alors être interpréter comme suit :  « selon le modèle utilisé par SmartPoop et sachant les données collectées par SmartPoop, SmartPoop estime que, avec crédence 95%, la concentration de magnésium dans le sang du patient est entre 5 et 200 milligrammes par litre ».  
-[:tv: Peut-on faire confiance aux intervalles de confiance ? :red_pepper: Science4All (2019).](https://www.youtube.com/watch?v=PVb7aSOqx0Q)
+[:tv: Peut-on faire confiance aux intervalles de confiance ? :red_pepper: Science4All (2019).](https://www.youtube.com/watch?v=PVb7aSOqx0Q&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=19)
 
 > Certe mais Katia, on ne peut pas s’attendre à ce que les utilisateurs interprètent correctement les barres d’erreur[^precision]. La plupart des utilisateurs ne comprennent pas du tout ces barres d’erreur. Ils ne comprennent pas que si on estime à 20 milligrammes par litre, avec une barre d’erreur entre 5 et 200, ça veut dire que ça pourrait très bien être 5 milligrammes par litre ou 200 milligrammes par litre. La plupart des gens vont juste retenir le chiffre de 20 milligrammes par litre[^multivers].
 
@@ -144,7 +146,7 @@ Katia va alors dans son bureau, suivie de Marc. Elle ouvre son ordinateur, et ta
 [:tv: Twins get 'mystifying' DNA ancestry test results (Marketplace). CBC News (2019).](https://www.youtube.com/watch?v=Isa5c1p6aC0)
 
 [^multivers]: Ce que Marc décrit là correspond à la différence entre raisonner avec l'étendue de l'ignorance et raisonner avec uniquement le modèle (déterministe) qu'on juge le plus probable. En bayésianisme, on parle de la différence entre le *multivers bayésien* (qui décrit tous les scénarios crédibles) et le *maximum a posteriori*. Face à l'incertitude, peut-être parce que cette incertitude nous fait peur ou est trop complexe, nous avons souvent trop tendance à raisonner avec le second plutôt qu'avec le premier.  
-[Le multivers bayésien. Science4All (2021).](https://www.youtube.com/watch?v=P9tlv_SBm5k)
+[Le multivers bayésien. Science4All (2021).](https://www.youtube.com/watch?v=P9tlv_SBm5k&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=40)
 
 > Ouais. Enfin... Ce n'est pas notre faute si certaines personnes sont débiles[^tort].
 
@@ -163,7 +165,7 @@ Katia va alors dans son bureau, suivie de Marc. Elle ouvre son ordinateur, et ta
 > On a maintenant 3 milliards d’utilisateurs. Si 0,0001% d’entre eux ont une histoire comme cela, on va se retrouver avec 3000 procès[^n-epsilon]. On est dans un gros pétrin...
 
 [^n-epsilon]: C'est ce que Lê Nguyên Hoang appelle l'effet « N epsilon ». Si un risque très faible (de probabilité epsilon) affecte un très grand nombre d'individus, alors notre intuition va généralement être très inadéquate pour déterminer si le risque à l'échelle de la population est important ou négligeable, car notre intuition a souvent une très mauvaise intuition des très grands nombres et des très petits nombres. Il convient alors d'essayer de pauser le calcul, pour mieux estimer les risques.  
-[:tv: Un million de milliards de dilemmes. Science4All (2021).](https://www.youtube.com/watch?v=BfGhNeEd9Nk)  
+[:tv: Un million de milliards de dilemmes. Science4All (2021).](https://www.youtube.com/watch?v=BfGhNeEd9Nk&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=2)  
 
 ### La responsabilité de SmartPoop
 
@@ -269,7 +271,7 @@ Et rajoutaient : « Nous vous encourageons à parler à un conseiller en géné
 [:memo: Benchmarking Uncertainty Estimation Methods for Deep Learning With Safety-Related Metrics. Maximilian Henne, Adrian Schwaiger, Karsten Roscher, Gereon Weiss. SafeAI@AAAI (2020)](ceur-ws.org/Vol-2560/paper35.pdf)  
 [:books: Human Compatible: Artificial Intelligence and the Problem of Control. Stuart Russell. Penguin (2019)](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/)  
 Cette remarque semble aussi primordiale pour les humains, y compris les experts qui pêchent souvent par excès de confiance.  
-[:tv: L'excès de confiance tue. Science4All (2020).](https://www.youtube.com/watch?v=zGhrYMRAoCs)
+[:tv: L'excès de confiance tue. Science4All (2020).](https://www.youtube.com/watch?v=zGhrYMRAoCs&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=31)
 
 > Marc, tu dis aussi prendre des mesures contre la mésinformation ?
 
@@ -302,7 +304,7 @@ Pour être clair, oui, les bananes ont été modifiées par l’agriculture. Cel
 En particulier, sur des sujets controversés, de telles collaborations peuvent avoir des effets contreproductifs sur la confiance envers les communicateurs scientifiques.  
 [:memo: Trust in scientists in times of pandemic: Panel evidence from 12 countries. Yann Algan, Daniel Cohen, Eva Davoine, Martial Foucault & Stefanie Stantcheva. PNAS (2021)](https://www.pnas.org/content/118/40/e2108576118.abstract)  
 Lê Nguyên Hoang a par exemple produit une vidéo en collaboration avec le Ministère de la Santé en France, qui aura reçu plus de dislikes que de likes, questionnant ainsi la pertinence d'une telle collaboration.  
-[:tv: Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE)
+[:tv: Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=13)
 
 > Mais, Marc, comme certains sont d’ailleurs probablement en train de l’écrire dans les commentaires, n’y a-t-il pas des risques de conflits d’intérêt ?
 
