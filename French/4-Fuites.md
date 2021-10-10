@@ -167,9 +167,22 @@ Quelques jours plus tard, Célia reçoit un appel du Président Lartan. Le Prés
 
 > Merci pour votre temps et votre attention. Je commence par vous demander : êtes-vous sûr que nous pouvons parler en sécurité ici, sans risquer d’être entendus ou enregistrés ?
 
-> Oui, madame Keita, nous pouvons parler en toute sécurité.
+> Oui, madame Keita, nous pouvons parler en toute sécurité[^surveillance].
 
-> Marie vous l’a sans doute dit. Je sais que des entités externes sont en train de vous faire chanter, parce qu’elles savent que votre femme a eu une interruption volontaire de grossesse. Je sais qu’elles vous ont demandé en particulier de vous retirer de la COP 31. Je sais à quel point la situation doit être difficile pour vous et pour votre famille. Et j’ai promis à Marie de ne rien divulguer sans son accord. Néanmoins, je vous supplie de considérer l’ampleur de la vulnérabilité que ce chantage représente. Vous êtes l’homme le plus puissant du Bokistan.
+[^surveillance]: Il est en fait désormais sans doute impossible, surtout pour un Président, de garantir qu'une discussion n'aura pas lieu sous écoute. Bien entendu, les téléphones écoutent en permanence, à l'affût d'un « OK Google » ou d'un « Hey Siri », et ils peuvent être hackés, comme on l'a vu dans l'affaire Pegasus. En plus de cela, un microphone peut aisément être caché dans une pièce. De façon plus surprenante encore, le son peut parfois être reconstruit à partir d'une simple vidéo, qui analyse les vibrations d'objets légers comme un paquet de chips.  
+[:tv: Can You Recover Sound From Images? Veritasium (2019).](https://www.youtube.com/watch?v=eUzB0L0mSCI)
+
+> Marie vous l’a sans doute dit. Je sais que des entités externes sont en train de vous faire chanter, parce qu’elles savent que votre femme a eu une interruption volontaire de grossesse. Je sais qu’elles vous ont demandé en particulier de vous retirer de la COP 31. Je sais à quel point la situation doit être difficile pour vous et pour votre famille. Et j’ai promis à Marie de ne rien divulguer sans son accord. Néanmoins, je vous supplie de considérer l’ampleur de la vulnérabilité que ce chantage représente[^pegasus]. Vous êtes l’homme le plus puissant du Bokistan[^caviar-connection].
+
+[^pegasus]: Le cas de l'affaire Pegasus montre l'ampleur de telles attaques par espionnage des dirigeants politiques dans le monde moderne. Pegasus est un *spyware*, c'est-à-dire un algorithme, qui peut être utilisé pour infecter un téléphone cible, et surveiller tout ce que ce téléphone fait. Pegasus est développé par le groupe NSO en Israël, et l'on sait que de nombreux services de renseignement à travers le monde l'ont utilisé pour espionner de nombreux journalistes, militants et dirigeants politiques.  
+[:tv: Comment PIRATER Jeff Bezos avec un même ? (histoire vraie). Micode (2021).](https://www.youtube.com/watch?v=hZbVW04Ohjk)  
+Le Président français Emmanuel Macron semble avoir été ciblé par les services marocains. De façon étonnante, le gouvernement français n'a pas accablé les services marocains, ce qui peut laisser croire que les services marocains ont effectivement des informations compromettantes qui leur permettent de faire chanter ce gouvernement.  
+[:computer: « Projet Pegasus » : l’exécutif se mure dans le silence malgré le ciblage d’Emmanuel Macron par le Maroc. Olivia Faye. Le Monde (2021).](https://www.lemonde.fr/politique/article/2021/07/29/projet-pegasus-l-executif-se-mure-dans-le-silence-malgre-le-ciblage-d-emmanuel-macron-par-le-maroc_6089858_823448.html)  
+Le journal *Le Point* révèle que 5 ministres français ont été infectés par ce logiciel. Ceci soulève sérieusement le risque que les démocraties modernes sont aujourd'hui largement hackées par des entités malveillantes capables de les faire chanter comme elles le souhaitent.  
+[:computer: Les téléphones de 5 ministres français infectés par le logiciel espion Pegasus. Le Point (2021).](https://www.lepoint.fr/politique/les-telephones-de-5-ministres-francais-infectes-par-le-logiciel-espion-pegasus-24-09-2021-2444563_20.php)
+
+[^caviar-connection]: Le documentaire suivant montre l'ampleur de la corruption d'un pays (ici l'Azerbaïdjan) sur les hommes politiques de démocraties étrangères (ici l'Union Européenne).  
+[:tv: La caviar connection (2/2). La machine à corrompre. ARTE (2021).](https://www.arte.tv/fr/videos/096319-000-A/la-caviar-connection-2-2/)
 
 En entendant ces mots, le Président Lartan se met à pleurer.
 
@@ -179,15 +192,23 @@ En entendant ces mots, le Président Lartan se met à pleurer.
 
 Célia marque un silence, alors que le Président continue de pleurer.
 
-> Monsieur le Président, dans le film Spiderman, quand on lui demande de choisir entre sa copine et un bus d’étudiants, Peter Parker choisit de sauver sa copine, et trouve le temps de venir aussi en aide au bus d’étudiants. Mais… Mais nous ne sommes pas dans un film de superhéros. Vous ne pourrez pas sauver le changement climatique et le secret de votre femme. Vous devez faire un choix. Le futur des prochaines générations est en jeu, Monsieur le Président. Sachez que je vous fais confiance pour faire ce qui doit être fait.
+> Monsieur le Président, dans le film Spiderman, quand on lui demande de choisir entre sa copine et un bus d’étudiants, Peter Parker choisit de sauver sa copine, et trouve le temps de venir aussi en aide au bus d’étudiants[^dilemme-lartan]. Mais... Mais nous ne sommes pas dans un film de superhéros. Vous ne pourrez pas sauver le changement climatique et le secret de votre femme. Vous devez faire un choix. Le futur des prochaines générations est en jeu, Monsieur le Président. Sachez que je vous fais confiance pour faire ce qui doit être fait.
+
+[^dilemme-lartan]: Cet exemple est utilisé par Monsieur Phi dans une vidéo où il insiste sur le fait que le dilemme auquel est confronté au Président Lartan n'est pas un dilemme entre deux fondements de la morale, qui opposerait par exemple l'utilitarisme à la déontologie. Il s'agit en fait davantage d'un dilemme entre une morale globale, qui favoriserait le bus d'étudiants, et une préférence individuelle, qui favoriserait les proches comme la copine de Peter Parker. Ou dit autrement, dans cette situation, faut-il faire ce qu'on préfère pour nous, ou ce que la plupart des gens préfèreraient qu'on fasse ?  
+[:tv: Encore plus utilitariste ? Monsieur Phi (2017).](https://www.youtube.com/watch?v=y2l8lxi-9aY)
 
 C’est sur ces mots que Célia quitte le Président Lartan. Le lendemain, le Président prend la parole dans une conférence de presse, où il annonce sa démission. Il révèle également son chantage et la cause du chantage, et affirme son soutien inconditionnel à sa femme. Il présente enfin ses excuses les plus profondes, et supplie tous les journalistes et politiciens de lui en vouloir à lui, mais pas à sa femme.
 
 Le lendemain, le vice-président reprendra la place de Lartan. Sa première mesure est de réintégrer le Bokistan dans la COP 31. Grâce à son travail d'investigation, Célia a relancé la plus grande initiative au monde pour le climat !
 
-### SmartPoop est dangereux
+### L'ultimatum de Célia
 
-Cependant, Célia sait que ce qui est arrivé au Président Lartan peut désormais arriver à n’importe qui. Tant que les données SmartPoop seront vulnérables, la sécurité nationale des plus grands pays du monde sera en grand danger, surtout quand le pouvoir est aussi centralisé qu’au Bokistan, où le Président dispose de grandes largesses. C’est ainsi que le sujet d’investigation de Célia se déplace des affaires géopolitiques à la sécurité informatique de SmartPoop. En particulier, Célia en vient rapidement à appeler Katia Carpinski.
+Cependant, Célia sait que ce qui est arrivé au Président Lartan peut désormais arriver à n’importe qui. Tant que les données SmartPoop seront vulnérables, la sécurité nationale des plus grands pays du monde sera en grand danger[^putin-calls], surtout quand le pouvoir est aussi centralisé qu’au Bokistan, où le Président dispose de grandes largesses. C’est ainsi que le sujet d’investigation de Célia se déplace des affaires géopolitiques à la sécurité informatique de SmartPoop. En particulier, Célia en vient rapidement à appeler Katia Carpinski.
+
+[^putin-calls]: De façon surprenante, en 2020, Vladimir Poutine a appelé à un accord pour limiter les cyber-attaques entre différents pays, alors même que la Russie a été reconnue comme l'auteur de beaucoup de ces attaques. Ceci suggère que même les auteurs de ces attaques sentent qu'elles finiront par tout déstabiliser, y compris eux-mêmes.  
+[:computer: Putin says Russia and U.S. should agree not to meddle in each other's elections. Reuters (2020).](https://www.reuters.com/article/uk-russia-usa-putin-idUKKCN26G1OM)  
+Pour la sécurité de tous, il est sans doute urgent d'établir une convention internationale qui, à l'instar des armes chimiques, biologiques et autonomes, interdirait aussi les cyber-attaques, tant celles-ci mettent en danger des millions de vies, voire des milliards de vies à travers le monde.  
+[:tv: Pourquoi faut-il bannir les armes autonomes ? | The Flares (2019).](https://www.youtube.com/watch?v=H73E5OesA3Y)
 
 > Bonjour Docteure Carpinski, ici Célia Keita, journaliste d’investigation chez La Terre.
 
@@ -211,15 +232,21 @@ Cependant, Célia sait que ce qui est arrivé au Président Lartan peut désorma
 
 > Docteure Crapinski, ne me faites pas répéter ma question une troisième fois. Je m’apprête à écrire un article sur la sécurité de votre système d’information, et l’absence d’audit externe serait un point très néfaste. Je suis prête à adapter mon article si vous collaborez avec moi dans l’éclaircissement de cette affaire. Mais sachez que vos données représentent désormais un enjeu de sécurité nationale. Et si j’ai l’impression que vous ne faites pas des efforts à la hauteur de cet enjeu, dans l’intérêt de la société civile, je serai contrainte d’écrire un article extrêmement critique.
 
-> Pardonnez-moi, madame Keita. Non, la sécurité de notre système informatique n'est pas auditée par une entité externe..
+> Pardonnez-moi, madame Keita. Non, la sécurité de notre système informatique n'est pas auditée par une entité externe.
 
 > Je vous inviterais à en faire.
 
-> Madame Keita, je vous assure que nous faisons de notre mieux pour protéger nos utilisateurs et leurs données. Et je vous promets que nous collaborerons pleinement avec vous pour identifier et patcher toutes les vulnérabilités potentielles de notre système.
+> Madame Keita, je vous assure que nous faisons de notre mieux pour protéger nos utilisateurs et leurs données. 
+
+> Si vous faisiez de votre mieux, vous permettriez l'audit externe de vos algorithmes.
+
+> Oui, en effet. Je vous promets que nous collaborerons pleinement avec vous pour identifier et patcher toutes les vulnérabilités potentielles de notre système.
 
 > Je suis ravie de l’entendre. Je vous donne un mois pour me fournir un rapport sur la sécurité de votre système, si possible avec l’aval d’un audit externe. Et encore une fois, en cas de faux pas de votre part, je ne serai pas tendre.
 
 > Merci beaucoup pour ce délai. Je vous promets de faire de notre mieux.
+
+### SmartPoop est dangereux
 
 Juste après avoir raccroché, Katia court dans le bureau de Marc. Elle est visiblement extrêmement préoccupée.
 
@@ -235,9 +262,9 @@ Juste après avoir raccroché, Katia court dans le bureau de Marc. Elle est visi
 
 > C’est possible ?
 
-> Le plus probable, je pense, ça reste que la femme du Président a fait n’importe quoi, et qu’elle a envoyé un email à Y en pensant l’envoyer à X, ou qu'elle a été victime de je ne sais trop quelle autre arnaque par phishing ou par pièce jointe piégée.
+> Le plus probable, je pense, ça reste que la femme du Président a fait n’importe quoi, et qu’elle a envoyé un email à Y en pensant l’envoyer à X, ou qu'elle a été victime de je ne sais trop quelle autre arnaque par phishing ou par pièce jointe piégée. Ou peut-être encore que son téléphone s'est fait hacker. Les vulnérabilités imaginables sont très nombreuses.
 
-> Attends… Mais donc, la sortie de la COP 31, c’est lié à ça ?
+> Attends... Mais donc, la sortie de la COP 31, c’est lié à ça ?
 
 > Je n’en sais rien. Je n’y ai pas réfléchi. Mais c’est vrai que la journaliste a parlé de chantage.
 
@@ -267,25 +294,54 @@ Katia reste songeuse. Visiblement, elle pense encore avant tout à sauver SmartP
 
 > C’est un petit prix à pays pour le futur de l’humanité.
 
-> Non mais en fait, non. Auditer tout notre code, ça va coûter même beaucoup, beaucoup plus ! Je sais qu’il y a une banque australienne qui a payé 750 millions de dollars pour refaire le système informatique. Et ça, c’est une petite banque, et leur service est des ordres de grandeur plus simple que SmartPoop. Je pense qu’on parle là en dizaines, voire en centaines de milliards de dollars.
+> Non mais en fait, non. Auditer tout notre code, ça va coûter même beaucoup, beaucoup plus ! Je sais qu’il y a une banque australienne qui a payé 750 millions de dollars pour refaire le système informatique[^cobol]. Et ça, c’est une petite banque, et leur service est des ordres de grandeur plus simple que SmartPoop. Je pense qu’on parle là en dizaines, voire en centaines de milliards de dollars.
 
-> Katia, on n’a pas le choix. Ne serait-ce que pour sauver SmartPoop…
+[^cobol]: [:computer: Banks scramble to fix old systems as IT 'cowboys' ride into sunset. Anna Irrera. Reuters (2017).](https://www.reuters.com/article/us-usa-banks-cobol/banks-scramble-to-fix-old-systems-as-it-cowboys-ride-into-sunset-idUSKBN17C0D8)
+
+> Katia, on n’a pas le choix. Ne serait-ce que pour sauver SmartPoop...
 
 ### L’audit de SmartPoop
 
-Un mois plus tard, SmartPoop publie un rapport de sécurité informatique. Ce rapport explique l’adoption d’une nouvelle mesure de protection des données personnelles, fondée sur le chiffrement homomorphique. Cette technologie cryptographique permet ainsi à des utilisateurs de participer à l’amélioration des algorithmes de SmartPoop, sans que SmartPoop n’ait jamais accès aux données en clair des utilisateurs. Plus précisément, quand l’utilisateur collecte des données via son smartphone ou ses toilettes, ces données sont automatiquement chiffrées, avec une clé dont seul l’utilisateur dispose. Néanmoins, ce chiffrement est effectué de telle manière que SmartPoop pourra apprendre de ces données, quand bien même SmartPoop ne pourra jamais déchiffrer ces données. Ainsi, les données personnelles sont protégées contre SmartPoop même, ce qui empêche SmartPoop d’être une vulnérabilité !
+Un mois plus tard, SmartPoop publie un rapport de sécurité informatique. Ce rapport explique l’adoption d’une nouvelle mesure de protection des données personnelles, fondée sur le chiffrement homomorphe. Cette technologie cryptographique permet ainsi à des utilisateurs de participer à l’amélioration des algorithmes de SmartPoop, sans que SmartPoop n’ait jamais accès aux données en clair des utilisateurs. Plus précisément, quand l’utilisateur collecte des données via son smartphone ou ses toilettes, ces données sont automatiquement chiffrées, avec une clé dont seul l’utilisateur dispose. Néanmoins, ce chiffrement est effectué de telle manière que SmartPoop pourra apprendre de ces données, quand bien même SmartPoop ne pourra jamais déchiffrer ces données[^homomorphic-learning]. Ainsi, les données personnelles sont protégées contre SmartPoop même, ce qui empêche SmartPoop d’être une vulnérabilité !
+
+[^homomorphic-learning]: Notez que les principales applications raisonnables aujourd'hui du chiffrement homomorphe aux algorithmes d'apprentissage concernent uniquement la phase d'inférence — pas d'apprentissage. Autrement dit, dans le cas de SmartPoop, ce chiffrement homomorphe permet de diagnostiquer un excrément d'un utilisateur de manière parfaitement chiffrée ; mais il ne permet d'exploiter les données de l'utilisateur pour améliorer l'algorithme de diagnostic.  
+[:tv: Machine Learning with Encrypted Data | Homomorphic Encryption. SATSifaction (2020).](https://www.youtube.com/watch?v=nlsd2LO-S50)  
+[:memo: Contributions to data confidentiality in machine learning by means of homomorphic encryption. Martin Zuber. PhD Thesis at Université Paris-Saclay (2021).](https://tel.archives-ouvertes.fr/tel-03105524)  
+Cependant, les travaux récents se tournent vers l'apprentissage homomorphe. Malheureusement, les techniques d'apprentissage homomorphe ne permettent pas aujourd'hui d'effectuer les formes d'apprentissages les plus performantes de manière efficace.  
+[:memo: Privacy-Preserving Collective Learning With Homomorphic Encryption. Jestine Paul, Meenatchi Sundaram Muthu Selva Annamalai, William Ming, Ahmad Al Badawi, Bharadwaj Veeravalli & Khin Mi Mi Aung. IEEE Access (2021)](https://ieeexplore.ieee.org/document/9543673)  
+[:memo: Privacy Preserving Machine Learning with Homomorphic Encryption and Federated Learning. Haokun Fang & Quan Qian. Future Internet (2021).](https://www.mdpi.com/1999-5903/13/4/94)
 
 Le rapport de 400 pages détaille aussi la liste des librairies de code utilisées par SmartPoop. Certaines librairies ont été développées par des initiatives OpenSource comme Django ou React, d’autres par des entreprises du numériques comme Apple ou Google, et d’autres ont été écrites par SmartPoop même. De façon cruciale, chaque librairie utilisée est une vulnérabilité potentielle.
 
-Or le cumul de ces librairies de code représente désormais des centaines de millions de lignes de codes. Pire encore, ces librairies permettent de définir des algorithmes d’apprentissage qui, eux, possèdent près d’un million de milliards de paramètres. Ces paramètres sont quotidiennement ajustés à partir des milliers de milliards de nouvelles données quotidiennes, issues des activités fécales de milliards d’utilisateurs SmartPoop.
+Or le cumul de ces librairies de code représente désormais des centaines de millions de lignes de codes. Pire encore, ces librairies permettent de définir des algorithmes d’apprentissage qui, eux, possèdent près d’un million de milliards de paramètres[^peta-octet]. Ces paramètres sont quotidiennement ajustés à partir des milliers de milliards de nouvelles données quotidiennes, issues des activités fécales de milliards d’utilisateurs SmartPoop.
 
-> Nos algorithmes ont atteint la complexité du cerveau humain et ses millions de milliards de synapses connectant ses centaines de milliards de neurones, explique le rapport. Cette complexité dépasse très largement l’entendement humain. À titre de comparaison, le rapport que vous lisez représente environ un méga-octet, soit 100 000 lignes de codes, ou un million de paramètres. Pour décrire notre code, il faudrait mille livres ; et pour décrire notre algorithme obtenu par machine learning, il faudrait un milliard de livres. Personne ne peut pleinement comprendre mille livres ; et personne ne peut ne serait-ce que survoler un milliard de livres. La sécurité de SmartPoop requiert un chantier d'ampleur astronomique.
+[^peta-octet]: Les algorithmes de traitement de langage modernes ne cessent de grossir en taille, à un rythme effreiné de x10 par an, depuis BERT, GPT-2, GPT-3, jusqu'aux Switch Transformers (avec mille milliards de paramètres), et bientôt Pathways.  
+[:memo: Attention is All you Need. Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser & Illia Polosukhin. NIPS (2017).](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)  
+[:memo: Better Language Models and Their Implications. OpenAI (2019).](https://openai.com/blog/better-language-models/)  
+[:memo: Language Models are Few-Shot Learners. Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel Ziegler, Jeffrey Wu, Clemens Winter, Chris Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei. NeurIPS (2020).](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)  
+[:memo: Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity. William Fedus, Barret Zoph, Noam Shazeer. ArXiV (2021).](https://arxiv.org/abs/2101.03961)  
+[:computer: China's gigantic multi-modal AI is no one-trick pony. Engadget (2021).](https://www.engadget.com/chinas-gigantic-multi-modal-ai-is-no-one-trick-pony-211414388.html)  
+[:computer: Google is developing a new superintelligent AI but ethical questions remain. Quartz (2021).](https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/)
 
-Le rapport de SmartPoop finit par appeler à l’aide. Il demande des moyens monumentaux pour auditer, en interne et surtout en externe, les algorithmes qu’il utilise. Il reconnaît que ce travail exigera beaucoup plus de transparence de la part de l’entreprise, qui s’y engage publiquement.
+> Nos algorithmes ont atteint la complexité du cerveau humain et ses millions de milliards de synapses connectant ses centaines de milliards de neurones, explique le rapport. Cette complexité dépasse très largement l’entendement humain. À titre de comparaison, le rapport que vous lisez représente environ un méga-octet, soit 100 000 lignes de codes, ou un million de paramètres. Pour décrire notre code, il faudrait mille livres ; et pour décrire notre algorithme obtenu par machine learning, il faudrait un milliard de livres[^complexite-solomonoff]. Personne ne peut pleinement comprendre mille livres ; et personne ne peut ne serait-ce que survoler un milliard de livres. La sécurité de SmartPoop requiert un chantier d'ampleur astronomique.
+
+[^complexite-solomonoff]: En informatique, on parle là de *complexité de Solomonoff* (aussi connue sous le nom de *complexité algorithmique* ou de *complexité de Kolmogorov*) : il s'agit de la plus courte description d'un algorithme capable de résoudre une tâche donnée, comme fournir des diagnostics médicaux fiables aux milliards d'utilisateurs de SmartPoop (la difficulté étant d'être fiable pour tous).  
+[:tv: Le rasoir d'Ockham :hot_pepper: Science4All (2020).](https://www.youtube.com/watch?v=oBNNKf_zoq8)  
+[:tv: Le miracle de la complexité. Science4All (2019).](https://www.youtube.com/watch?v=klwnxbkqatA)
+
+Le rapport de SmartPoop finit par appeler à l’aide. Il demande des moyens monumentaux pour auditer, en interne et surtout en externe, les algorithmes qu’il utilise. Il reconnaît que ce travail exigera beaucoup plus de transparence de la part de l’entreprise, qui s’y engage publiquement[^transparence-audit].
+
+[^transparence-audit]: Dans son interview dans *The Journal*, lorsque la journaliste lui demande quelle intervention serait la plus urgente à faire pour rendre Facebook plus bénéfique pour la société, la lanceuse d'alerte Frances Haugen insiste sur l'importance de la transparence, notamment sachant la difficulté énorme de modérer les discours de haine et la désinformation produits par des milliards de comptes.  
+[:headphones: The Facebook Files, Part 6: The Whistleblower. The Journal (2021).](https://www.wsj.com/podcasts/the-journal/the-facebook-files-part-6-the-whistleblower/b311b3d8-b50a-425f-9eb7-12a9c4278acd)
 
 > Des investissements massifs en termes de pédagogie sont indispensables, non seulement pour le grand public, mais aussi pour les professionnels, y compris les experts en sécurité informatique, ajoute le rapport. A minima, des centaines de milliards de dollars seront nécessaires pour obtenir un niveau de sécurité satisfaisant ; voire dix à cent fois plus encore. Tous les gouvernements et tous les partenaires économiques sont appelés à soutenir l’audit de SmartPoop. La santé, le bien-être et la sécurité de toute la population mondiale sont en jeu.
 
-Une copie de ce rapport est envoyée à Célia, qui en profite pour remercier et féliciter Katia de cette initiative et de ces mots très forts. Célia envoie alors une version de l’article qu’elle compte publier à Katia. Cet article s’intitule « L’écologie dépend désormais de la sécurité informatique », avec comme sous-titre « Comment une vulnérabilité dans SmartPoop a failli causer un désastre environnemental ». Si l’article est globalement très critique des failles de SmartPoop, il finit néanmoins avec des félicitations de SmartPoop pour son engagement pour plus de transparence, et les investissements massifs pour son audit interne et externe. « Qu’ils le veuillent ou non, SmartPoop est devenue une entreprise de sécurité informatique », conclut l’article.
+Une copie de ce rapport est envoyée à Célia, qui en profite pour remercier et féliciter Katia de cette initiative et de ces mots très forts. Célia envoie alors une version de l’article qu’elle compte publier à Katia. Cet article s’intitule « L’écologie dépend désormais de la sécurité informatique », avec comme sous-titre « Comment une vulnérabilité dans SmartPoop a failli causer un désastre environnemental[^information-environnement] ». Si l’article est globalement très critique des failles de SmartPoop, il finit néanmoins avec des félicitations de SmartPoop pour son engagement pour plus de transparence, et les investissements massifs pour son audit interne et externe. « Qu’ils le veuillent ou non, SmartPoop est devenue une entreprise de sécurité informatique[^securite] », conclut l’article.
+
+[^information-environnement]: [:tv: La solution contre le changement climatique. Science4All (2018).](https://www.youtube.com/watch?v=JARXHwJoxNk)
+
+[^securite]: Il s'agit là sans doute d'un aspect important dans la croissance de tout mouvement ou de toute entreprise. Plus une entité devient influente, plus il faut s'attendre à ce qu'elle attire des groupes malveillants, qui chercheront à exploiter ou à manipuler l'entité pour arriver à leurs fins. C'est pour cela qu'il est très maladroit de comparer des entités énormes comme Facebook à des petites initiatives méconnues et peu influentes. En particulier, quand une entité devient énorme, pour demeurer bénéfique, il lui faut non seulement investir dans l'éthique, mais aussi se protéger des nombreux groupes malveillants qui voudront l'attaquer ou la manipuler. Tel est l'un des très grands défis de l'éthique des algorithmes et de l'information.  
+[:books: Le fabuleux chantier. Rendre l’intelligence artificielle robustement bénéfique. Lê Nguyên Hoang & El Mahdi El Mhamdi. EDP Sciences (2019).](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)
 
 ## Pour aller plus loin
 
