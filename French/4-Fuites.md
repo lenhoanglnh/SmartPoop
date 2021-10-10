@@ -67,7 +67,12 @@ C’est finalement l’idée d’avoir été abattue par des faux comptes qui pi
 
 ### Le cas Paul Gremoux
 
-Célia note alors des similarités entre certains des comptes qui l’ont harcelé, avec par exemple, des fautes d’orthographes aux mêmes endroits. Certaines expressions paraissent particulièrement étranges. Elle cherche ces expressions sur Google. Google référence alors ces tournures à un compte Tumblr. Étrangement, ce compte parle de mangas ; pas du tout de politique ou de journalisme. Curieuse, Célia navigue néanmoins sur le Tumblr, et reconnaît un style d’écriture similaire à celui d’un compte qui l’a harcelé. De façon plus intéressante encore, Célia découvre que le Tumblr contient le nom et le prénom de son auteur : un certain Paul Gremoux.
+Célia note alors des similarités entre certains des comptes qui l’ont harcelé, avec par exemple, des fautes d’orthographes aux mêmes endroits. Certaines expressions paraissent particulièrement étranges. Elle cherche ces expressions sur Google. Google référence alors ces tournures à un compte Tumblr. Étrangement, ce compte parle de mangas ; pas du tout de politique ou de journalisme. Curieuse, Célia navigue néanmoins sur le Tumblr, et reconnaît un style d’écriture similaire à celui d’un compte qui l’a harcelé. De façon plus intéressante encore, Célia découvre que le Tumblr contient le nom et le prénom de son auteur : un certain Paul Gremoux[^deanonymisation].
+
+[^deanonymisation]: Ce que fait Célia là est un travail de déanonymisation, avec une approche très simple et manuelle. Le travail de déanonymisation peut être beaucoup plus sophistiqué et puissant, en exploitant par exemple les méta-données, comme l'heure de publication à différents lieux. L'exemple le plus marquant de l'histoire est sans doute celui de la dé-anonymisation de Ross Ulbricht, l'homme derrière le marché noir *Silk Road* du dark web.
+[:tv: Ross Ulbricht - Le baron de la drogue du dark web. La chaîne de P.A.U.L. (2017).](https://www.youtube.com/watch?v=xdUwIHRIBxI)  
+De façon générale, la théorie de la *confidentialité différentielle* (differential privacy) insiste sur le fait que toute publication pseudonymisée n'offre en fait aucune garantie ; pour garantir la protection des données sensibles, des méthodes beaucoup plus rigoureuses sont requises.  
+[:tv: What is Privacy? Wandida (2017).](https://www.youtube.com/watch?v=jylloCa0iWA&list=PLie7a1OUTSagV55BZIvBckZJrDXQ9zl6i)
 
 En cherchant désormais ce nom et ce prénom sur Google, Célia découvre qu’ils appartiennent à un auto-entrepreneur en menuiserie, dont le numéro de téléphone est accessible. Tel pourrait être le numéro de son harceleur. Célia respire alors un grand coup, et compose ce numéro sur son téléphone.
 
@@ -81,35 +86,50 @@ En cherchant désormais ce nom et ce prénom sur Google, Célia découvre qu’i
 
 > Avant que je ne vous dise qui je suis, j’aimerais vraiment insister sur le fait que je ne vous veux pas de mal. Je suis prête à protéger votre anonymat si vous répondez à mes questions et si vous le désirez.
 
-> Euh… d’accord.
+> Euh... d’accord.
 
 > Je suis Célia Keita, journaliste d’investigation pour le journal La Terre. Et encore une fois, j’insiste sur le fait que je souhaite vous protéger, à condition bien sûr que vous répondiez à mes questions.
 
 > D’accord.
 
-> Excellent. Je sais que vous tenez le compte Twitter @rwqg. Ma question est la suivante : est-ce que vous travaillez pour une campagne de désinformation ? Et si oui, qu’est-ce qui vous a amené à accepter ce travail ?
+> Excellent. Je sais que vous tenez le compte Twitter @rwqg[^rwqg]. Ma question est la suivante : est-ce que vous travaillez pour une campagne de désinformation ? Et si oui, qu’est-ce qui vous a amené à accepter ce travail ?
 
-> Oui madame Keita, je suis vraiment désolé pour cela. On m’a contacté pour vous harceler sur Twitter. Tout ce que j’avais à faire, c’est vous écrire trois fois par jour avec des insultes et des menaces. Je suis vraiment désolé. C’est vraiment à contre-coeur que je l’ai fait. S’il vous plaît, ne me dénoncez pas. J’ai des gros risques d’AVC, diagnostiqués par SmartPoop. Et si mon assurance l’apprend, je vais avoir des factures que je ne pourrai pas payer. J’ai deux enfants à charge. S’il vous plaît, ne me dénoncez pas. Je vous en prie.
+[^rwqg]: Ce [compte](https://twitter.com/rwqg), dont le nom a été choisi ici au hasard, est actuellement suspendu sur Twitter (en octobre 2021).
+
+> Oui madame Keita, je suis vraiment désolé pour cela. On m’a contacté pour vous harceler sur Twitter[^desinformation-payee]. Tout ce que j’avais à faire, c’est vous écrire trois fois par jour avec des insultes et des menaces. Je suis vraiment désolé. C’est vraiment à contre-coeur que je l’ai fait. S’il vous plaît, ne me dénoncez pas. J’ai des gros risques d’AVC, diagnostiqués par SmartPoop. Et si mon assurance l’apprend, je vais avoir des factures que je ne pourrai pas payer. J’ai deux enfants à charge. S’il vous plaît, ne me dénoncez pas. Je vous en prie.
+
+[^desinformation-payee]: Cette pratique semble très présente, notamment dans les pays autoritaires. Un rapport de l'Institut de Recherche Stratégique de l'École Militaire (IRSEM) en France fait état de 20 millions de chinois payés pour produire de la désinformation, dont 2 millions à temps plein.  
+[:memo: Les opérations d'influence chinoises. un moment machiavélien. ISEM (2021)](https://www.irsem.fr/rapport.html)
 
 > Merci beaucoup Monsieur Gremoux. J’aimerais juste que vous me donniez plus d’informations sur la campagne de désinformation qui vous a contactée.
 
-> Je ne les connais pas du tout. Ils m’ont juste envoyé un email un jour, affirmant qu’ils connaissaient mes données SmartPoop, et que j’étais donc à risque d'AVC. Ils ont menacé de le dire à mon assurance, et m’ont proposé de vous harceler en échange. Je peux vous transférer l’email. Mais je n’en sais pas plus. Je suis désolé. Depuis que j’ai perdu mon métier, je n’ai pas réussi à en retrouver un autre. J’ai essayé de lancer ma propre activité, mais le ROVID-19 a anéanti mon business. S’il vous plaît, j’ai deux enfants à charge.
+> Je ne les connais pas du tout. Ils m’ont juste envoyé un email un jour, affirmant qu’ils connaissaient mes données SmartPoop, et que j’étais donc à risque d'AVC. Ils ont menacé de le dire à mon assurance, et m’ont proposé de vous harceler en échange. Je peux vous transférer l’email[^desinformation-dby]. Mais je n’en sais pas plus. Je suis désolé. Depuis que j’ai perdu mon métier, je n’ai pas réussi à en retrouver un autre. J’ai essayé de lancer ma propre activité, mais le ROVID-19 a anéanti mon business. S’il vous plaît, j’ai deux enfants à charge.
 
-> Merci beaucoup pour vos réponses. Je ne compte pas poursuivre mes plaintes contre vous. Je garderai votre histoire secrète. Je vous le promets. Je vous demanderais juste de me transférer cet email à mon adresse celia.keita@laterre.com. Merci.
+[^desinformation-dby]: En 2021, le YouTubeur scientifique français Léo Grasset, de la chaîne Dirty Biology, a été contacté pour produire une désinformation au sujet des vaccins Pfizer-BioNTech. Il a dénoncé cette affaire, en partageant l'email avec des journalistes. Les journalistes ont ensuite pu remonter à des sources russes.  
+[:tv: Comment une agence russe a essayé de m'utiliser. DirtyBiology (2021).](https://www.youtube.com/watch?v=dEuWVgh-d6Q)
+
+> Merci beaucoup pour vos réponses. Je ne compte pas poursuivre mes plaintes contre vous. Je garderai votre histoire secrète. Je vous le promets. Je vous demanderais juste de me transférer cet email à mon adresse celia.keita@journal-laterre.com[^email-celia]. Merci.
+
+[^email-celia]: N'utilisez pas cette adresse email en vrai ! Elle n'a été insérée ici que pour rendre le récit réaliste.
 
 > Merci infiniment à vous. Et toutes mes excuses à nouveau.
 
 ### L’inflitration
 
-Quelques minutes plus tard, Célia reçoit l'email transféré par Pau., L'email original, qui contient le chantage, a été envoyé depuis l'adresse foeqm@kinstova.com. Le nom de domaine @kinstova.com correspond alors à un serveur dans un pays étranger, la Kormique. Ce pays est aussi bien connu pour son industrie pétrolière. Se pourrait-il que la campagne de désinformation ait été organisée par l’une de ces industries, pour freiner les réglementations contre ces industries ? Se pourrait-il que cette campagne se soit aussi attaquée au Président Lartan ? Et si le Président était l’objet d’un chantage similaire à celui de Paul Gremoux ?
+Quelques minutes plus tard, Célia reçoit l'email transféré par Pau. L'email original, qui contient le chantage, a été envoyé depuis l'adresse foeqm@kinstova.com[^email-kinstova]. Le nom de domaine @kinstova.com correspond alors à un serveur dans un pays étranger, la Kormique. Ce pays est aussi bien connu pour son industrie pétrolière. Se pourrait-il que la campagne de désinformation ait été organisée par l’une de ces industries, pour freiner les réglementations contre ces industries ? Se pourrait-il que cette campagne se soit aussi attaquée au Président Lartan ? Et si le Président était l’objet d’un chantage similaire à celui de Paul Gremoux ?
 
-Pour le savoir, Célia cherche à se rapprocher de Marie Routisse, la soeur de la femme du Président, qui se trouve aussi être l’amie d’un ami. En passant par son contact, Célia propose à Marie de prendre un café, pour parler d’un article sur la “place des femmes dans le monde professionnel”. Lors du premier contact, Célia ne cherche pas à obtenir directement de l’information de Marie. Elle cherche surtout à l’amener à baisser sa garde, en devenant amie avec elle.
+[^email-kinstova]: Même remarque que pour l'adresse email de Célia.
+
+Pour le savoir, Célia cherche à se rapprocher de Marie Routisse, la soeur de la femme du Président, qui se trouve aussi être l’amie d’un ami. En passant par son contact, Célia propose à Marie de prendre un café, pour parler d’un article sur la « place des femmes dans le monde professionnel ». Lors du premier contact, Célia ne cherche pas à obtenir directement de l’information de Marie. Elle cherche surtout à l’amener à baisser sa garde, en devenant amie avec elle[^social-engineering].
+
+[^social-engineering]: On parle parfois de *social engineering*. Il s'agit de techniques pour gagner la confiance d'une cible, soit pour récupérer de l'information d'elle, soit pour l'arnaquer. Le *social engineering* est souvent considéré être la principale vulnérabilité des systèmes informatiques.  
+[:tv: Social Engineering - How to Scam Your Way into Anything. Brian Brushwood. TEDxSanAntonio (2011).](https://www.youtube.com/watch?v=yY-lMkeZVuY)
 
 Après trois ou quatre rencontres, Célia invite cette fois Marie dans un bar, et la pousse à la consommation d’alcool. En fin de soirée, elle en vient enfin au sujet qui l’intéresse.
 
 > C’est vraiment difficile d’être une femme professionnelle tout en ayant une vie de famille. Je suis sûre que si ta sœur ne cherchait pas à être une bonne mère de famille, c’est elle qui serait Présidente, non ?
 
-> Ouais, je ne suis pas sûre que ma sœur soit une si bonne mère de famille…
+> Ouais, je ne suis pas sûre que ma sœur soit une si bonne mère de famille...
 
 > Comment ça ?
 
@@ -123,13 +143,21 @@ Après trois ou quatre rencontres, Célia invite cette fois Marie dans un bar, e
 
 > Oui je sais. Mes avocats m’ont briefé sur toi. Mais ce que je vais te dire est très gros.
 
-> Marie, je suspecte vivement le Président Lartan de trahir ses convictions politiques à cause de cela, et que cela vient d’un chantage. Je le suspecte d’autant plus car j’ai des sources qui ont été victimes de chantages similaires, venant probablement d’entreprises pétrolières Kormicaines. Ces personnes ont été amenées à me harceler quotidiennement contre leur gré. Et je crois que la source de leur chantage réside dans les données SmartPoop. Marie, c’est la gestion du changement climatique qui est en jeu, et donc le futur des prochaines générations. Le futur de tes enfants, et de leurs petits-enfants.
+> Marie, je suspecte vivement le Président Lartan de trahir ses convictions politiques à cause de cela, et que cela vient d’un chantage. Je le suspecte d’autant plus car j’ai des sources qui ont été victimes de chantages similaires, venant probablement d’entreprises pétrolières Kormicaines. Ces personnes ont été amenées à me harceler quotidiennement contre leur gré. Et je crois que la source de leur chantage réside dans les données SmartPoop. Marie, c’est la gestion du changement climatique qui est en jeu, et donc le futur des prochaines générations. Le futur de tes enfants, et de leurs petits-enfants[^changement-climatique-lemonde].
+
+[^changement-climatique-lemonde]: L'origine humaine du changement climatique et les risques majeurs qu'il fait encourir à toute l'humanité sont désormais des consensus scientifiques.  
+[:tv: Comment le réchauffement climatique va bouleverser l’humanité (ft. Le Réveilleur). Le Monde (2021).](https://www.youtube.com/watch?v=8nzRXxPnlPQ)  
+[:tv: 97% of Climate Scientists Really Do Agree. It's Okay To Be Smart (2018).](https://www.youtube.com/watch?v=LnnDOMyZjbE)
 
 Après un long silence, Marie avoue : « ma soeur a avorté en juin 2025 ». Une tempête cérébrale agite alors les neurones de Célia, alors que toutes les pièces du puzzle se mettent en place, et que le brouillard s’éclaircit.
 
-> C’est donc ça. Les industries Kormicaines ont certainement réussi à mettre la main sur des données SmartPoop de ta soeur. Et clairement, avec l’urine, il est possible de savoir si ta soeur est enceinte, et si elle cesse prématurément d’être enceinte ! Ils ont alors deviné qu’elle a effectué une interruption volontaire de grossesse. Or, si cela se sait, toute la communication anti-avortement du Président Lartan devient subitement décrédibilisée, et sa carrière est finie. Les industries Kormicaines ont certainement exigé que le Président Lartan sorte des accords de la COP 31, pour éviter un tel scandale. Wow !! C’est une énorme affaire !
+> C’est donc ça. Les industries Kormicaines ont certainement réussi à mettre la main sur des données SmartPoop de ta soeur. Et clairement, avec l’urine, il est possible de savoir si ta soeur est enceinte[^test-grossesse], et si elle cesse prématurément d’être enceinte ! Ils ont alors deviné qu’elle a effectué une interruption volontaire de grossesse. Or, si cela se sait, toute la communication anti-avortement du Président Lartan devient subitement décrédibilisée, et sa carrière est finie. Les industries Kormicaines ont certainement exigé que le Président Lartan sorte des accords de la COP 31, pour éviter un tel scandale. Wow !! C’est une énorme affaire !
 
-> Célia, je t’en supplie, ne le dit pas publiquement. Même si je suis choquée par ce qu’elle a fait, je ne veux pas que ma soeur soit humiliée publiquement et roulée dans la boue. Une telle humiliation personnelle aurait des répercussions énormes sur sa santé mentale déjà fragile, sans compter ses enfants, et toute sa famille y compris mes propres enfants. S’il te plaît, il y a de nombreuses vies en jeu.
+[^test-grossesse]: [:tv: How do pregnancy tests work? - Tien Nguyen. TED-Ed (2015).](https://www.youtube.com/watch?v=aOfWTscU8YM)
+
+> Célia, je t’en supplie, ne le dit pas publiquement. Même si je suis choquée par ce qu’elle a fait, je ne veux pas que ma soeur soit humiliée publiquement et roulée dans la boue. Une telle humiliation personnelle aurait des répercussions énormes sur sa santé mentale déjà fragile, sans compter ses enfants, et toute sa famille y compris mes propres enfants. S’il te plaît, il y a de nombreuses vies en jeu[^cyberbullying-depression].
+
+[^cyberbullying-depression]: [:memo: Depression high among youth victims of school cyber bullying, NIH researchers report. NIH (2010).](https://www.nih.gov/news-events/news-releases/depression-high-among-youth-victims-school-cyber-bullying-nih-researchers-report)
 
 > Marie, tu as ma parole. Mais je ne peux pas non plus ne pas révéler cette affaire. Le changement climatique menace lui aussi la vie de tes enfants. Je vais réfléchir à la meilleure façon d’avancer, avec ton avis. Mais on ne peut pas laisser des industries Kormicaines manipuler ainsi l’homme le plus puissant de notre pays ! Il faut que tu m’aides à arranger une rencontre avec le Président.
 
