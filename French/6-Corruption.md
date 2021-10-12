@@ -2,23 +2,51 @@
 
 Frédéric Partoli met un pied à terre. Terriblement frustré, il sort du terrain, la main sur le cœur, lequel bat très fort. Il est accompagné directement à l’hôpital.
 
-À l’hôpital, le médecin lui explique que Frédéric souffre d’une tachycardie, causée par une anémie. Frédéric le sait. Depuis quelques jours, SmartPoop lui a annoncé son déficit en fer. SmartPoop lui a conseillé d’éviter toute activité sportive. Mais le football était trop tentant pour Frédéric. Il a préféré jouer et s’y risquer.
+À l’hôpital, le médecin lui explique que Frédéric souffre d’une tachycardie[^tachycardie], causée par une anémie[^anemie]. Frédéric le sait. Depuis quelques jours, SmartPoop lui a annoncé son déficit en fer[^fer]. SmartPoop lui a conseillé d’éviter toute activité sportive. Mais le football était trop tentant pour Frédéric. Il a préféré jouer et s’y risquer.
+
+[^tachycardie]: Une tachycardie intervient lorsque le patient a un rythme cardiaque anormalement élevé.
+
+[^anemie]: Une anémie est un manque d'hémoglobine, un composant important du sang. Ceci cause une mauvaise circulation du dioxygène à travers le sang.
+
+[^fer]: Le fer est un composant important de l'hémoglobine. En particulier, il apparaît sous forme d'ions Fe<sup>2+</sup>, à l'intérieur de sous-composants chimiques de l'hémoglobine appelés *hèmes*. Ces ions permettent de capturer les molécules de dioxygène, et de les transporter dans le sang.  
+[:computer: Les ions ferreux essentiels pour le transport du dioxygène dans le sang. Spécialité physique-chimie – Classe de première de la voie générale.](https://cache.media.eduscol.education.fr/file/Annales_zero_BAC_2021_1e/63/1/S0BAC21-1e-SPE-PhyChi-Ions_ferreux_sang_1123631.pdf)
 
 Le médecin lui recommande alors de manger des lentilles vertes, des graines de sésame, du chocolat noir, des kiwis, des épinards, mais aussi du boudin, du foie, ou de la viande rouge. Il précise toutefois que la viande rouge doit être consommée avec modération. Enfin, il ajoute qu’il est important d’accompagner cela avec des apports en vitamine C, via des agrumes par exemple. Encore une fois, ces informations ne sont pas vraiment des nouvelles pour Frédéric. SmartPoop lui faisait les mêmes recommandations.
 
 ### Le mystère de la viande rouge
 
-Les jours qui suivent, Frédéric suit les conseils du médecin et de SmartPoop, avec toutefois une appréhension vis-à-vis du boudin, du foie et de la viande rouge. Frédéric est en effet sensible à la cause animale, et ne supporte pas l’idée de contribuer à des tortures d’animaux sophistiqués. Il est aussi très préoccupés par les conséquences désastreuses de l’exploitation animale sur l’environnement et la biosécurité. Après tout, une proportion importante de scientifiques persistent à penser que le ROVID-19 pourrait être né d’interactions complexes entre des animaux sauvages, des animaux de bétail et des êtres humains.
+Les jours qui suivent, Frédéric suit les conseils du médecin et de SmartPoop, avec toutefois une appréhension vis-à-vis du boudin, du foie et de la viande rouge. Frédéric est en effet sensible à la cause animale, et ne supporte pas l’idée de contribuer à des tortures d’animaux sophistiqués[^cause-animale]. Il est aussi très préoccupés par les conséquences désastreuses de l’exploitation animale sur l’environnement[^boeuf] et la biosécurité. Après tout, une proportion importante de scientifiques persistent à penser que le ROVID-19 pourrait être né d’interactions complexes entre des animaux sauvages, des animaux de bétail et des êtres humains[^biosecurite].
 
-Néanmoins, notamment parce qu’il a du mal à s’identifier avec l’image qu’il se fait des vegans militants très virulents, Frédéric peine à s’identifier avec ce mouvement, et à devenir pleinement végétarien. Il hésite donc sérieusement à reprendre une consommation de viande rouge qu’il avait mise en pause.
+[^cause-animale]: On estime que plusieurs dizaines de milliards d'animaux sont tués chaque année pour nourrir les humains, le plus souvent dans des conditions atroces.  
+[:computer: Number of animals slaughtered for meat, World, 1961 to 2018. Our Wolrd in Data (2018).](https://ourworldindata.org/grapher/animals-slaughtered-for-meat)  
+[:tv: Éthique animale : la probabilité d'une catastrophe. Monsieur Phi (2018).](https://www.youtube.com/watch?v=HaVWbdlAiCQ)  
+[:tv: Why Meat is the Best Worst Thing in the World. Kurzgesagt - In a Nutshell (2018).](https://www.youtube.com/watch?v=NxvQPzrg2Wg)  
+[:books: Voir son steak comme un animal mort : véganisme et psychologie morale. Martin Gibert. LUX (2015).](https://luxediteur.com/catalogue/voir-son-steak-comme-un-animal-mort/)
+
+[^boeuf]: Le boeuf en particulier, comme tous les ruminants, émet énormément de méthane, qui est un gaz à effet de serre très important. L'exploitation des boeufs requiert aussi d'énormes ressources, notamment en terrains agricoles pour nourrir ces boeufs, ce qui est une des principales causes de la déforestation.  
+[:tv: L'impact de la viande sur l'environnement expliqué en 4 minutes. Le Monde (2015).](https://www.youtube.com/watch?v=nVydgG2DFU0)  
+[:tv: Beef is Bad for the Climate… But How Bad? | Hot Mess (2018).](https://www.youtube.com/watch?v=DD3sS743XHw)  
+[:tv: Why beef is the worst food for the climate. Vox (2020).](https://www.youtube.com/watch?v=3lrJYTsKdUM)
+
+[^biosecurite]: L'exploitation animale utilise en particulier beaucoup d'antibiotiques pour protéger son bétail. Cependant, l'abus d'antibiotiques est en train de favoriser l'émergence de pathogènes résistants aux antibiotiques, qui pourraient alors devenir impossibles à traiter avec la médecine actuelle.  
+[:tv: The next pandemic could come from our farms. Vox (2020).](https://www.youtube.com/watch?v=hwuujiHvduc)  
+[:tv: How can we solve the antibiotic resistance crisis? - Gerry Wright. TED-Ed (2020).](https://www.youtube.com/watch?v=ZvhFeGEDFC8)
+
+Néanmoins, notamment parce qu’il a du mal à s’identifier avec l’image qu’il se fait des vegans militants très virulents, Frédéric peine à s’identifier avec ce mouvement, et à devenir pleinement végétarien[^vegan-virulence]. Il hésite donc sérieusement à reprendre une consommation de viande rouge qu’il avait mise en pause.
+
+[^vegan-virulence]: [:tv: Comment je suis devenu vegan #DébattonsMieux. Science4All (2019).](https://www.youtube.com/watch?v=GaP9SH4VhqM)  
+[:headphones: Radically Normal: How Gay Rights Activists Changed The Minds Of Their Opponents. Hidden Brain (2019).](https://www.npr.org/2019/04/03/709567750/radically-normal-how-gay-rights-activists-changed-the-minds-of-their-opponents)
 
 C’est sans doute parce qu’il se pose des questions existentielles sur la viande rouge que Frédéric perçoit très distinctement une nette augmentation des publicités de viandes dans ses fils d’actualité des réseaux sociaux, et sur les différentes pages Web qu’il visite. Très clairement, les publicitaires savent que Frédéric est incité à prendre de la viande. Mais alors, comment le savent-ils, se demande Frédéric ?
 
-Frédéric vérifie tous les messages qu’il a envoyés depuis l’annonce de SmartPoop. Aucun ne mentionne son anémie, dont il n’a en fait parler qu’avec le médecin. Se pourrait-il que ce médecin revende ces informations ? Impatient, Frédéric compose le numéro de son médecin.
+Frédéric vérifie tous les messages qu’il a envoyés depuis l’annonce de SmartPoop. Aucun ne mentionne son anémie, dont il n’a en fait parler qu’avec le médecin. Se pourrait-il que ce médecin revende ces informations ? Impatient, Frédéric compose immédiatement le numéro de son médecin.
 
 > Allô docteur ? Oui j’ai une question un peu étrange à vous poser. Avez-vous parlé de mon anémie à quiconque ?
 
-> Absolument pas. Ce serait violer le secret médical. Ce serait extrêmement immoral, et contraire au serment d’Hippocrate.
+> Absolument pas. Ce serait violer le secret médical. Ce serait extrêmement immoral, et contraire au serment d’Hippocrate[^serment-hippocrate].
+
+[^serment-hippocrate]: Le serment d'Hippocrate doit être tenu par tout médecin, et il affirme « Je ferai part de mes préceptes, des leçons orales et du reste de l'enseignement à mes fils, à ceux de mon maître et aux disciples liés par engagement et un serment suivant la loi médicale, mais à nul autre. »  
+[:computer: Serment d'Hippocrate. Wikipedia (2021).](https://fr.wikipedia.org/wiki/Serment_d%27Hippocrate)
 
 > Avez-vous rentré cette information sur un ordinateur ?
 
