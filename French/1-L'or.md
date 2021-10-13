@@ -95,6 +95,7 @@ Pendant ce temps, Marc s’informe sur la coprologie. Il télécharge des bases 
 
 [^etrons]: [:tv: Pourquoi le wombat fait-il des crottes carrées ? La boîte à curiosité (2021).](https://www.youtube.com/watch?v=pLXOHEbfJSc)  
 [:tv: L'importance des excréments dans la nature. La boîte à curiosité (2020).](https://www.youtube.com/watch?v=SZw-HMcZUiE)  
+[:tv: MinuteEarth Explains: Poop. MinuteEarth (2020).](https://www.youtube.com/watch?v=azYrI10CQr4)  
 [:books: Tout ce que vous devez savoir sur le plus tabou des sujets. Michel Lafond. Julien Ménielle (2018).](http://www.michel-lafon.fr/livre/2059-DANS_TON_CORPS.html)
 
 > Tu sais, en fait les selles devraient être incolores ou blanchâtres, explique Marc à Katia lors de l’une de leurs soirées de travail. Elles sont surtout composées d’eau et de fibres après tout. Mais c’est un déchet des globules rouges, la bilirubine, qui les rend foncés. C’est le foie qui s’occupe de la traiter et de la « mettre » dans les excréments.

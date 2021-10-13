@@ -206,7 +206,10 @@ Après un long silence, Marc demande alors : « Katia, tu penses qu’on est res
 [:tv: Fallait-il confiner ? La pensée contrafactuelle. Science4All (2020).](https://www.youtube.com/watch?v=6_-UpcHdHk4)  
 [:books: How to Decide: Simple Tools for Making Better Choices. Annie Duke. Portfolio (2020).](https://www.annieduke.com/books/)
 
-> Déjà tu n’en sais rien. Je suis sûr que même sans SmartPoop les gens feraient n’importe quoi avec les compléments alimentaires. Et à ce jeu-là, Facebook et YouTube me semblent largement plus responsables que nous. La mésinformation partagée sur ces plateformes, à l’origine, c’est surtout ça qui a causé toute cette histoire[^mesinformation].
+> Déjà tu n’en sais rien. Je suis sûr que même sans SmartPoop les gens feraient n’importe quoi avec les compléments alimentaires. Et à ce jeu-là, Facebook et YouTube me semblent largement plus responsables que nous[^responsabilite-facebook]. La mésinformation partagée sur ces plateformes, à l’origine, c’est surtout ça qui a causé toute cette histoire[^mesinformation].
+
+[^responsabilite-facebook]: La régulation des plateformes de diffusions de l'information, notamment vis-à-vis des fausses informations, demeure un flou juridique délicat.  
+[:tv: Fake news, tous coupables ? | Angle Droit | Le Vortex (2021).](https://www.youtube.com/watch?v=17cNUsu7coU)
 
 [^mesinformation]: Le rôle central de ces plateformes, et en particulier des algorithmes de ces plateformes, dans la crise de la mésinformation actuelle est le sujet central d'un livre précédent de Lê Nguyên Hoang, co-écrit avec le chercheur El Mahdi El Mhamdi, et d'articles publiés en sociologie et en philosophie.  
 [:books: Le Fabuleux Chantier : Rendre l'Intelligence Artificielle Robustement Bénéfique. Lê Nguyên Hoang & El Mahdi El Mhamdi. EDP Sciencess (2019).](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  

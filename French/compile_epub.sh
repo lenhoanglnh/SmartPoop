@@ -1,4 +1,5 @@
 pandoc --toc -o SmartPoop-fr.epub titre.txt \
+  README.md \
   1-L\'or.md \
   2-Filtrer.md \
   3-Biais.md \

@@ -64,15 +64,4 @@ Nous encourageons de tels efforts, et nous nous tenons à votre disposition pour
 
 3. [Tout ce que vous devez savoir sur le plus tabou des sujets](http://www.michel-lafon.fr/livre/2059-DANS_TON_CORPS.html). Michel Lafond. Julien Ménielle (2018).
 
-4. [A mountable toilet system for personalized health monitoring via the analysis of excreta](https://www.nature.com/articles/s41551-020-0534-9). Nature (2020).
-
-5. [Aux chiottes le virus ?](https://www.youtube.com/watch?v=B1VPbhpGzUE) COVID 6. Science4All (2020).
-
-6. [Transplantation fécale](https://www.podcastscience.fm/quizz-info-ou-intox/2014/02/19/on-peut-sauver-des-vies-par-simple-transplantation-de-matiere-fecale-info-ou-intox-2/). Podcast science (2014).
-
-7. [Les excréments sont-ils essentiels à la nature](https://www.youtube.com/watch?v=SZw-HMcZUiE). La boîte à curiosité (2020).
-
-8. [Les cacas fossilisés, les vrais trésors des archéologues](https://www.youtube.com/watch?v=rS7AvYdtA7E). C'est une autre histoire (2019).
-
-9. [MinuteEarth Explains: Poop](https://www.youtube.com/watch?v=azYrI10CQr4). MinuteEarth (2020).
 
