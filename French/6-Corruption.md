@@ -193,11 +193,15 @@ Un nouveau silence se fait. Visiblement, chaque discours de Katia nécessite un 
 
 > Mais, Docteure Crapinski, qui devrait réguler l’information ? Comment décider ce qui ne doit pas être dit ?
 
-> Professeure Wang, le pouvoir de réguler l’information est peut-être le plus grand des pouvoirs du monde moderne. Et je pense qu’on le ressent instinctivement quand on parle de censure ; mais on l’ignore probablement trop souvent quand il s’agit de recommandation. Pourtant quand on contrôle la recommandation, on contrôle aussi la censure, puisque pour censurer un message, il suffit de sans cesse recommander des messages alternatifs[^mute-news]. Or, dans un monde d’abondance de l’information, le second est clairement plus facile que le premier. Tout ça pour dire que l’enjeu n’est pas tant la censure. L’enjeu, c’est comment gérer le flux de l’information : faciliter la propagation de certains messages et réduire celle d’autres contenus.
+> Professeure Wang, le pouvoir de réguler l’information est peut-être le plus grand des pouvoirs du monde moderne. Et je pense qu’on le ressent instinctivement quand on parle de censure ; mais on l’ignore probablement trop souvent quand il s’agit de recommandation. Pourtant quand on contrôle la recommandation, on contrôle aussi la censure, puisque pour censurer un message, il suffit de sans cesse recommander des messages alternatifs[^mute-news]. Or, dans un monde d’abondance de l’information, le second est clairement plus facile que le premier. Tout ça pour dire que l’enjeu n’est pas tant la censure. L’enjeu, c’est comment gérer le flux de l’information : réduire la la propagation de certains messages et faciliter celle d’autres contenus[^utilite-publique].
 
 [^mute-news]: On parle parfois de « *mute news* », ou « nouvelles rendues silencieuses ». Il s'agit d'informations importantes, mais ignorées par beaucoup, car elles sont noyées dans un océans d'informations bien moins importantes.  
 [:tv: La Rationalité appliquée. Hygiène Mentale (2020).](https://www.youtube.com/watch?v=Ek1FltlIxaQ)  
 [:tv: Arrêtons de partager la stupidité ! #DébattonsMieux. Science4All (2018).](https://www.youtube.com/watch?v=d1Des_7CBxY)
+
+[^utilite-publique]: Il y aurait d'ailleurs certainement énormément à gagner à l'échelle planétaire en promouvant les contenus d'utilité publique.  
+[:memo: Science Communication Desperately Needs More Aligned Recommendation Algorithms. Lê Nguyên Hoang. Frontiers in Communication (2020).](https://www.frontiersin.org/articles/10.3389/fcomm.2020.598454/)  
+[:memo: Recommendation Algorithms, a Neglected Opportunity for Public Health. Lê Nguyên Hoang, Louis Faucon & El-Mahdi El-Mhamdi. Revue Médecine et Philosophie (2021).](https://philpapers.org/rec/HOARAA)
 
 > Très bien, Docteure Crapinski. Mais vous ne répondez pas à ma question. Qui devrait décider comment gérer le flux de l’information ?
 
