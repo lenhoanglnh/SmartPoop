@@ -69,9 +69,9 @@ Plus de recherches sont nécessaires pour mieux comprendre le tradeoff entre sé
 
 Finalement, sous la pression du gouvernement Kormicain, Katia et Marc décident d’interrompre momentanément le chiffrement homomorphe, si l’utilisateur y consent. « Les données sont encore chiffrées entre l’utilisateur et SmartPoop. Mais avec le nouveau système, SmartPoop pourra déchiffrer les données, et les analyser, pour vérifier l’absence de dysfonctionnement dans notre système », précise Katia dans une interview télévisée.
 
-Petit à petit, suite à des vagues de communications du gouvernement Kormicain, de plus en plus de Kormicains consentent à partager leurs données SmartPoop avec l’entreprise SmartPoop[^youtube-regrets]. Étrangement, pendant longtemps, aucun cas de ROVID-19 n’est observé parmi ces données. Ce n’est qu’une semaine plus tard, alors que la moitié des Kormicains partagent désormais leurs données SmartPoop avec l’entreprise SmartPoop, que les premiers cas de ROVID-19 sont détectés dana ces données de volontaires.
+Petit à petit, suite à des vagues de communications du gouvernement Kormicain, de plus en plus de Kormicains consentent à partager leurs données SmartPoop avec l’entreprise SmartPoop[^youtube-regrets-2]. Étrangement, pendant longtemps, aucun cas de ROVID-19 n’est observé parmi ces données. Ce n’est qu’une semaine plus tard, alors que la moitié des Kormicains partagent désormais leurs données SmartPoop avec l’entreprise SmartPoop, que les premiers cas de ROVID-19 sont détectés dana ces données de volontaires.
 
-[^youtube-regrets]: Dans un genre similaire, en 2020, la *Mozilla Foundation* a lancé un programme participatif où les volontaires pouvaient partager leurs données YouTube pour permettre aux chercheurs de mieux comprendre l'algorithme de recommandation de YouTube. On a là encore un cas de dilemme sécurité-privacy. Tant que les données des utilisateurs et des algorithmes de YouTube resteront privés, il sera très difficile de comprendre les dynamiques de comportements des utilisateurs sur YouTube, et de prendre les mesures adéquates pour réduire le cyber-harcèlement, les appels à la haine et la désinformation.  
+[^youtube-regrets-2]: Dans un genre similaire, en 2020, la *Mozilla Foundation* a lancé un programme participatif où les volontaires pouvaient partager leurs données YouTube pour permettre aux chercheurs de mieux comprendre l'algorithme de recommandation de YouTube. On a là encore un cas de dilemme sécurité-privacy. Tant que les données des utilisateurs et des algorithmes de YouTube resteront privés, il sera très difficile de comprendre les dynamiques de comportements des utilisateurs sur YouTube, et de prendre les mesures adéquates pour réduire le cyber-harcèlement, les appels à la haine et la désinformation.  
 [:memo: YouTube Regrets. Mozilla Foundation (2021).](https://foundation.mozilla.org/en/campaigns/regrets-reporter/findings/)
 
 Katia mène elle-même l’analyse de ces cas, et Marc assiste à cette analyse. Marc demande alors :
@@ -98,9 +98,9 @@ Katia lance l’impression des analyses, et récupère les copies fraîchement s
 
 > Que se passe-t-il ?
 
-> Laisse-moi voir leur date de création. Oui, c'est très bizarre ! Tous ces comptes ont été créés il y a moins de 7 mois. Ça pue les faux comptes[^faux-comptes] !
+> Laisse-moi voir leur date de création. Oui, c'est très bizarre ! Tous ces comptes ont été créés il y a moins de 7 mois. Ça pue les faux comptes[^faux-comptes-2] !
 
-[^faux-comptes]: Ces faux comptes sont omniprésents sur Internet, et sont souvent contrôlés par des groupes stratégiques, avec leurs propres intentions. À titre d'exemple, en 2021, le New York Times a révélé une campagne de désinformation de Huawei s'appuyant sur des faux comptes Twitter.  
+[^faux-comptes-2]: Ces faux comptes sont omniprésents sur Internet, et sont souvent contrôlés par des groupes stratégiques, avec leurs propres intentions. À titre d'exemple, en 2021, le New York Times a révélé une campagne de désinformation de Huawei s'appuyant sur des faux comptes Twitter.  
 [:computer: Inside a Pro-Huawei Influence Campaign. The New York Times (2021).](https://www.nytimes.com/2021/01/29/technology/commercial-disinformation-huawei-belgium.html)
 
 > Mais qui aurait pu créer ces faux comptes et pourquoi ?
@@ -111,9 +111,9 @@ Katia lance l’impression des analyses, et récupère les copies fraîchement s
 
 > Euh...
 
-> Au Bokistan bien sûr, s’exclame Marc. Ou au moins aux industries d’énergie renouvelable bokistanaises[^desinformation-payee].
+> Au Bokistan bien sûr, s’exclame Marc. Ou au moins aux industries d’énergie renouvelable bokistanaises[^desinformation-payee-2].
 
-[^desinformation-payee]: Cette pratique semble très présente, notamment dans les pays autoritaires. Un rapport de l'Institut de Recherche Stratégique de l'École Militaire (IRSEM) en France fait état de 20 millions de chinois payés pour produire de la désinformation, dont 2 millions à temps plein.  
+[^desinformation-payee-2]: Cette pratique semble très présente, notamment dans les pays autoritaires. Un rapport de l'Institut de Recherche Stratégique de l'École Militaire (IRSEM) en France fait état de 20 millions de chinois payés pour produire de la désinformation, dont 2 millions à temps plein.  
 [:memo: Les opérations d'influence chinoises. un moment machiavélien. ISEM (2021)](https://www.irsem.fr/rapport.html)
 
 > Mais donc, tu penses qu’ils ont créé des faux profils ?
@@ -187,9 +187,9 @@ On le voit particulièrement bien dans le cas des théories du complot, que ces 
 
 Le lendemain, après avoir été prévenu par Katia et Marc, le Premier Ministre Kormicain annonce que la pandémie de ROVID-19 avait été fabriquée par une campagne de désinformation, probablement Bokistanaise, qui a exploité des vulnérabilités de SmartPoop. Il annonce surtout la fin du confinement, et le retour à la normale pour le pays.
 
-Le Bokistan nie toutefois avoir été impliqué dans cette attaque, et insiste sur l’impossibilité de retrouver les coupables. « La démocratisation des technologies de cyber-attaques, la complexité des systèmes informatiques modernes, et leur place devenue centrale rendent notre monde moderne extrêmement vulnérables à des groupuscules malveillants », explique le nouveau Président Bokistanais. « J’appelle tous les pays du monde, y compris nos amis Kormicains, à bannir ces technologies et toutes les entreprises qui développent de telles technologies, ainsi qu’à investir massivement dans des technologies de cyber-défense, et non pas de cyber-attaque. La sécurité et le bien-être de l’ensemble de la population mondiale est en jeu[^putin-calls] ».
+Le Bokistan nie toutefois avoir été impliqué dans cette attaque, et insiste sur l’impossibilité de retrouver les coupables. « La démocratisation des technologies de cyber-attaques, la complexité des systèmes informatiques modernes, et leur place devenue centrale rendent notre monde moderne extrêmement vulnérables à des groupuscules malveillants », explique le nouveau Président Bokistanais. « J’appelle tous les pays du monde, y compris nos amis Kormicains, à bannir ces technologies et toutes les entreprises qui développent de telles technologies, ainsi qu’à investir massivement dans des technologies de cyber-défense, et non pas de cyber-attaque. La sécurité et le bien-être de l’ensemble de la population mondiale est en jeu[^putin-calls-2] ».
 
-[^putin-calls]: De façon surprenante, en 2020, Vladimir Poutine a appelé à un accord pour limiter les cyber-attaques entre différents pays, alors même que la Russie a été reconnue comme l'auteur de beaucoup de ces attaques. Ceci suggère que même les auteurs de ces attaques sentent qu'elles finiront par tout déstabiliser, y compris eux-mêmes.  
+[^putin-calls-2]: De façon surprenante, en 2020, Vladimir Poutine a appelé à un accord pour limiter les cyber-attaques entre différents pays, alors même que la Russie a été reconnue comme l'auteur de beaucoup de ces attaques. Ceci suggère que même les auteurs de ces attaques sentent qu'elles finiront par tout déstabiliser, y compris eux-mêmes.  
 [:computer: Putin says Russia and U.S. should agree not to meddle in each other's elections. Reuters (2020).](https://www.reuters.com/article/uk-russia-usa-putin-idUKKCN26G1OM)  
 Pour la sécurité de tous, il est sans doute urgent d'établir une convention internationale qui, à l'instar des armes chimiques, biologiques et autonomes, interdirait aussi les cyber-attaques, tant celles-ci mettent en danger des millions de vies, voire des milliards de vies à travers le monde.  
 [:tv: Pourquoi faut-il bannir les armes autonomes ? | The Flares (2019).](https://www.youtube.com/watch?v=H73E5OesA3Y)
@@ -290,12 +290,12 @@ L’audition se poursuit avec une longue discussion sur les conséquences socié
 
 > Bonjour Docteure Crapinski. Ici Professeur Raul, psychologue. Aujourd’hui, l’identité numérique repose en fait plus sur la mémoire, via les mots de passe. Est-ce fiable ?
 
-> Professeur Raul, vous le savez sans doute mieux que moi. Mais en fait, de nos jours, ce n’est plus tant la mémoire des utilisateurs qui leur sert d’identifiant ; c’est davantage la mémoire de leurs outils numériques, comme leurs téléphones[^externalisation]. Et ça, c’est aussi très dangereux. Il suffit d’un *spyware* pour voler de tels mots de passe[^pegasus].
+> Professeur Raul, vous le savez sans doute mieux que moi. Mais en fait, de nos jours, ce n’est plus tant la mémoire des utilisateurs qui leur sert d’identifiant ; c’est davantage la mémoire de leurs outils numériques, comme leurs téléphones[^externalisation]. Et ça, c’est aussi très dangereux. Il suffit d’un *spyware* pour voler de tels mots de passe[^pegasus-2].
 
 [^externalisation]: Le philosophe Michel Serres aimait insister sur l'impact des technologies de l'information, comme le papier, l'imprimerie ou les ordinateurs, sur *l'externalisation* de notre cognition. Il est ainsi remarquable de constater à quel point nos boîtes emails sont parvenues à externaliser une grosse partie de notre mémoire. En un sens, nos boîtes emails nous connaissent beaucoup mieux que nous nous connaissons nous-mêmes, non pas car elles sont « intelligentes », mais simplement car leur mémoire est beaucoup plus fiable que la mémoire humaine, et car rechercher dans ces boîtes emails est beaucoup plus efficace que rechercher dans ntore mémoire.  
 [:tv: Michel Serres - Les nouvelles technologies : révolution culturelle et cognitive. I Moved to Diaspora (2012).](https://www.youtube.com/watch?v=ZCBB0QEmT5g)
 
-[^pegasus]: Le cas de l'affaire Pegasus montre l'ampleur de telles attaques par espionnage des dirigeants politiques dans le monde moderne. Pegasus est un *spyware*, c'est-à-dire un algorithme, qui peut être utilisé pour infecter un téléphone cible, et surveiller tout ce que ce téléphone fait. Pegasus est développé par le groupe NSO en Israël, et l'on sait que de nombreux services de renseignement à travers le monde l'ont utilisé pour espionner de nombreux journalistes, militants et dirigeants politiques.  
+[^pegasus-2]: Le cas de l'affaire Pegasus montre l'ampleur de telles attaques par espionnage des dirigeants politiques dans le monde moderne. Pegasus est un *spyware*, c'est-à-dire un algorithme, qui peut être utilisé pour infecter un téléphone cible, et surveiller tout ce que ce téléphone fait. Pegasus est développé par le groupe NSO en Israël, et l'on sait que de nombreux services de renseignement à travers le monde l'ont utilisé pour espionner de nombreux journalistes, militants et dirigeants politiques.  
 [:tv: Comment PIRATER Jeff Bezos avec un même ? (histoire vraie). Micode (2021).](https://www.youtube.com/watch?v=hZbVW04Ohjk)  
 
 > Mais donc, comment on fait ?

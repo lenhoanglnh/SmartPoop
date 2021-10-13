@@ -106,7 +106,7 @@ Il ne fallut qu’une petite semaine pour que l'OMESA contacte Katia, et exige u
 
 [^investissement-utile]: [:tv: [PARTENARIAT] Épargner utile : comment s’y prendre ? - Heu?reka & Sycomore AM (2020).](https://www.youtube.com/watch?v=FCa5ISgMQjg)
 
-[^fonds-de-pension]: [:tv: [PARTENARIAT] Qu'est-ce que l'assurance vie ? - Heu?reka & Investisseur Privé (2018).](https://www.youtube.com/watch?v=ixdXIBxPnLc)
+[^fonds-d-investissement]: [:tv: [PARTENARIAT] Qu'est-ce que l'assurance vie ? - Heu?reka & Investisseur Privé (2018).](https://www.youtube.com/watch?v=ixdXIBxPnLc)
 
 > Merci pour votre candeur. Mais ceci ne répond pas à ma question. Pourquoi l’API ne sera pas dans le prochain rapport ?
 
@@ -160,9 +160,9 @@ Un autre silence se fait. Presque une minute s’écoule alors que chaque membre
 
 > Donc si je comprends bien, vous pensez que l’existence d’un marché des publicités sans régulation est dangereux.
 
-> Professeure Abdoul, oui. Je pense que le marché libre de l’information est très dangereux, et que c’est une chose qui n’est pas assez reconnue[^danger-reseaux]. Il me semble qu’il est bien trop communément admis qu’en laissant l’information circuler sans régulation ni contrôle, l’intelligence des foules permettra de faire émerger la connaissance, l’empathie et les décisions consensuelles ; qu’il y aurait une sorte de main invisible du marché de l’information en laquelle on peut faire confiance[^main-invisible]. Pour moi, il s’agit là du plus dangereux mythe du monde moderne. Si on laisse faire, clairement, ceux qui domineront le marché de l’information et gouverneront les croyances dominantes et les décisions influentes, ce seront bien plus ceux qui auront investi des milliards, voire des milliers de milliards, pour promouvoir leurs produits ou leurs idéologies, ou ceux qui ont des contenus informationnels très faciles à vendre, comme du sensationnalisme addictif, des scandales clivants et du putaclic trompeur[^liberte-presse]. Sacraliser la liberté du marché de l’information libre, dans un contexte aussi concurrentiel qu’il est aujourd’hui, c’est sacrifier la connaissance, la nuance et la bienveillance[^liberte].
+> Professeure Abdoul, oui. Je pense que le marché libre de l’information est très dangereux, et que c’est une chose qui n’est pas assez reconnue[^danger-reseaux-2]. Il me semble qu’il est bien trop communément admis qu’en laissant l’information circuler sans régulation ni contrôle, l’intelligence des foules permettra de faire émerger la connaissance, l’empathie et les décisions consensuelles ; qu’il y aurait une sorte de main invisible du marché de l’information en laquelle on peut faire confiance[^main-invisible]. Pour moi, il s’agit là du plus dangereux mythe du monde moderne. Si on laisse faire, clairement, ceux qui domineront le marché de l’information et gouverneront les croyances dominantes et les décisions influentes, ce seront bien plus ceux qui auront investi des milliards, voire des milliers de milliards, pour promouvoir leurs produits ou leurs idéologies, ou ceux qui ont des contenus informationnels très faciles à vendre, comme du sensationnalisme addictif, des scandales clivants et du putaclic trompeur[^liberte-presse]. Sacraliser la liberté du marché de l’information libre, dans un contexte aussi concurrentiel qu’il est aujourd’hui, c’est sacrifier la connaissance, la nuance et la bienveillance[^liberte].
 
-[^danger-reseaux]: [:tv: Les réseaux sociaux sont dangereux. Très dangereux. Science4All (2021).](https://www.youtube.com/watch?v=utWMGi8HTjY&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=1)
+[^danger-reseaux-2]: [:tv: Les réseaux sociaux sont dangereux. Très dangereux. Science4All (2021).](https://www.youtube.com/watch?v=utWMGi8HTjY&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=1)
 
 [^main-invisible]: [:tv: Y a-t-il une main invisible des marchés ? - Heu?reka (2021).](https://www.youtube.com/watch?v=zqTRdSUhgQw)
 

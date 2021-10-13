@@ -3,7 +3,7 @@
 C’est un séisme. Contre toute attente, le 4 septembre 2025, Jules Lartan, Président du Bokistan, décide de sortir son pays de la COP 31, la conférence internationale des parties sur les mesures à prendre pour lutter contre le changement climatique[^cop]. Pâle et visiblement épuisé, il tient le discours suivant devant la presse.
 
 [^cop]: La COP est une conférence annuelle internationale qui vise à s'attaquer aux questions environnementales.  
-[:tv: C’est quoi, une COP ? | Le tour de la question. La Croix (2017).](https://www.youtube.com/watch?v=eiLufebdm-M)
+[:tv: C'est quoi, une COP ? Le tour de la question. La Croix (2017).](https://www.youtube.com/watch?v=eiLufebdm-M)
 
 > C’est une décision difficile. Le changement climatique est une menace sérieuse au futur de l’humanité. Cependant, les exigences de nos partenaires internationaux sont injustement disproportionnées[^accord-environnemental]. À cause de notre succès économique, beaucoup trop de ces partenaires nous identifient systématiquement comme étant la seule cause du dérèglement climatique actuel, ce qui les conduit à exiger du Bokistan des sacrifices déraisonnables. Les Bokistanais sont un peuple qui ne méritent pas un tel jugement, ni un tel mépris. J’ai ainsi préféré protéger les nôtres, plutôt que de succomber à la tyrannie pseudo-morale de nos partenaires internationaux. Nous persisterons à combattre le changement climatique. Cependant, nous le ferons avec calme et enthousiasme, et avec notre propre souveraineté ; pas selon le bon vouloir de nos partenaires. Vive le Bokistan libre.
 
