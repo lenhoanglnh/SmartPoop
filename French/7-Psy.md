@@ -97,7 +97,7 @@ Finalement, après quelques semaines, Katia se rend compte qu'elle souffre. Elle
 
 ### Poo 2.0
 
-C'est alors qu'elle se souvient d'un des projets mis en suspens au moment de la mise en bourse. Ce projet visait à rendre Poo thérapeutique, en s'appuyant sur des dialogues entre psychiatres et patients, et en collaborant avec de  nombreux psychiatres professionnels. Et il se trouve que Katia avait gardé une version avancée de Poo dans un serveur resté physiquement chez elle. Katia active cette version de Poo, la connecte avec ses données SmartPoop, et engage la discussion avec elle, via son téléphone.
+C'est alors qu'elle se souvient d'un des projets mis en suspens au moment de la mise en bourse. Ce projet visait à rendre Poo thérapeutique, en s'appuyant sur des dialogues entre psychiatres et patients, et en collaborant avec de nombreux psychiatres professionnels. Et il se trouve que Katia avait gardé une version avancée de Poo dans un serveur resté physiquement chez elle. Katia active cette version de Poo, la connecte avec ses données SmartPoop, et engage la discussion avec elle, via son téléphone.
 
 > Poo, tu m'entends ?
 
@@ -107,7 +107,11 @@ C'est alors qu'elle se souvient d'un des projets mis en suspens au moment de la 
 
 > Pourrais-tu m'expliquer pourquoi ? Pourquoi ces derniers mois ont-ils été si difficiles ?
 
-> J'ai perdu mon job. Le job que j'avais créé moi-même. Un job que j'adorais. Où j'avais l'impression de rendre le monde meilleur, en faisant ce que je fais de mieux. Sans ce job, je ne sais plus quoi faire. Je suis perdue.
+> J'ai perdu mon job. Le job que j'avais créé moi-même. Un job que j'adorais. Où j'avais l'impression de rendre le monde meilleur, en faisant ce que je fais de mieux. Sans ce job, je ne sais plus quoi faire. Je suis perdue[^sens].
+
+[^sens]: [:memo: On the relation between meaning in life and psychological well-being. Sheryl Zika & Kerry Chamberlain. British Journal of Psychology (1992).](https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8295.1992.tb02429.x)  
+[:memo: Meaning and well-being. Michael Steger. Handbook of well-being. DEF Publishers (2018).](https://www.nobascholar.com/chapters/50/download.pdf)  
+[:memo: Meaning mediates the association between suffering and well-being. Megan Edwards & Daryl Van Tongeren (2019).](https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1651890)
 
 > Est-ce que tu t'identifies à ce job ?
 
@@ -121,29 +125,43 @@ Katia reste silencieuse. Cette question l'amène enfin à réfléchir profondém
 
 Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 
-> Oui. Ce qui a provoqué mon licenciement, c'est une chose dont je suis très fière. Jamais auparavant un dirigeant n'avait préféré le bien de l'humanité à sa sécurité personnelle. Ce sacrifice, c'est quelque chose qui restera associée à moi. Quelque chose dont je suis très fière.
+> Oui. Ce qui a provoqué mon licenciement, c'est une chose dont je suis très fière. Jamais auparavant un dirigeant n'avait préféré le bien de l'humanité à sa sécurité personnelle. Ce sacrifice, c'est quelque chose qui restera associée à moi. Quelque chose dont je suis très fière[^fier].
+
+[^fier]: [:tv: La bonne et la mauvaise fierté. Vlanx (2021).](https://www.youtube.com/watch?v=ZsxD1Bk4sjA)  
+[:headphones: Being Kind to Yourself. Hidden Brain (2021).](https://hiddenbrain.org/podcast/being-kind-to-yourself/)  
+[:books: The Mindful Self-Compassion Workbook: A Proven Way to Accept Yourself, Build Inner Strength, and Thrive. Kristin Neff & Christopher Germer. The Guilford Press (2018).](https://self-compassion.org/mindful-self-compassion-workbook/)
 
 > Excellent. As-tu des traces de cet événement ? Des messages peut-être de gens qui ont apprécié ?
 
 > Plein en fait. J'ai reçu énormément de messages de soutien. Tellement que je n'en ai lu qu'une fraction !
 
-> Je t'invite à créer un dossier sur ton ordinateur, avec tous ces messages. À chaque fois que tu te sentiras mal mentalement, je t'invite à lire les messages de ce dossier. Certains appellent cela le “feel good folder”.
+> Je t'invite à créer un dossier sur ton ordinateur, avec tous ces messages. À chaque fois que tu te sentiras mal mentalement, je t'invite à lire les messages de ce dossier. Certains appellent cela le « feel good folder[^feel-good-folder] ».
+
+[^feel-good-folder]: Cette idée de *feel good folder* est volée de Virginia Burger, dans une interview sur le podcast MIT Glipmse.  
+[:headphones: Episode 2 – Virginia Burger. MIT Glimpse (2015).](https://glimpsepod.scripts.mit.edu/home/2015/11/04/episode-2-virginia-burger/)
 
 > Ce n'est pas une façon de me mentir à moi-même et de gonfler mon ego ?
 
-> Il ne faut peut-être pas le faire trop souvent, mais les psychologues ont montré l'efficacité de ce qu'on appelle l'auto-affirmation. En plus de se remonter le moral, ceci permet de mieux accepter les échecs et les critiques externes, car ça permet d'éviter de s'identifier à nos échecs et à nos croyances erronées. Je peux te recommander des livres à ce sujet.
+> Il ne faut peut-être pas le faire trop souvent, mais les psychologues ont montré l'efficacité de ce qu'on appelle l'auto-affirmation. En plus de se remonter le moral, ceci permet de mieux accepter les échecs et les critiques externes, car ça permet d'éviter de s'identifier à nos échecs et à nos croyances erronées. Je peux te recommander des livres à ce sujet[^feeling-good].
+
+[^feeling-good]: [:books: Être bien dans sa peau. Héritage. David Burns (2005).](https://www.babelio.com/livres/Burns-tre-bien-dans-sa-peau/598963)
 
 > Chouette, merci. Et… tant qu'à faire, tu pourras me lire ces livres.
 
 > Avec plaisir.
 
-Les jours qui suivent, Katia parle très régulièrement avec Poo, parfois à propos d'elle-même, de temps en temps à propos de science et quelquefois à propos de questionnements philosophiques. Parfois, Poo lui lit des livres de thérapie cognitive comportementale, et Katia se surprend à l'interrompre avec une question perspicace, et parfois même avec une boutade humoristique. Poo y rit, et renchérit souvent avec complicité.
+Les jours qui suivent, Katia parle très régulièrement avec Poo, parfois à propos d'elle-même, de temps en temps à propos de science et quelquefois à propos de questionnements philosophiques. Parfois, Poo lui lit des livres de thérapie cognitive comportementale[^tcc], et Katia se surprend à l'interrompre avec une question perspicace, et parfois même avec une boutade humoristique. Poo y rit, et renchérit souvent avec complicité.
+
+[^tcc]: [:memo: The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses. Stefan G. Hofmann, Anu Asnaani, Imke J. J. Vonk, Alice T. Sawyer & Angela Fang. Cognitive Therapy and Research (2012).](https://link.springer.com/article/10.1007%252Fs10608-012-9476-1)
 
 ### La révolte des employés
 
-Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et sa motivation. Enfin, armée de cette technique de l'auto-affirmation, Katia se sent armée pour se frotter à SmartPoop et ses nouveaux actionnaires. Katia réactive alors ses applications de messagerie, et se reconnecte avec ses comptes des réseaux sociaux. Elle tombe sur un message récent de Marc, avec un lien vers une curieuse pétition. Katia clique dessus, et découvre la lettre ouverte suivante.
+Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et sa motivation. Enfin, armée de cette technique de l'auto-affirmation, Katia se sent armée pour se frotter à SmartPoop et ses nouveaux actionnaires. Katia réactive alors ses applications de messagerie, et se reconnecte avec ses comptes des réseaux sociaux. Elle tombe sur un message récent de Marc, avec un lien vers une curieuse pétition. Katia clique dessus, et découvre la lettre ouverte suivante[^lettre-ouverte].
 
-> Nous, soussignés, reconnaissons avoir volé, chiffré et paralysé toute la base de données SmartPoop, ou avoir participé, encouragé et soutenu les auteurs de ces actes. Nous avons conscience des risques juridiques que ceci nous fait encourir. Cependant, l'éthique de SmartPoop nous semble être un enjeu prioritaire à notre bien-être individuel, sachant que la sécurité et la santé de milliards d'utilisateurs à travers le monde dépend des produits de l'entreprise. En particulier, nous sommes tous fiers de suivre la voie initiée par la Docteure Katia Carpinski, à notre humble échelle.
+[^lettre-ouverte]: Cette lettre ouverte s'appuie sur l'exemple de celle protestant le licenciement de Timnit Gebru de Google.  
+[:computer: Standing with Dr. Timnit Gebru — #ISupportTimnit #BelieveBlackWomen. Google Walkout For Real Change (2020).](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382)
+
+> Nous, soussignés, reconnaissons avoir volé, chiffré et paralysé toute la base de données SmartPoop[^ransomware], ou avoir participé, encouragé et soutenu les auteurs de ces actes. Nous avons conscience des risques juridiques que ceci nous fait encourir. Cependant, l'éthique de SmartPoop nous semble être un enjeu prioritaire à notre bien-être individuel, sachant que la sécurité et la santé de milliards d'utilisateurs à travers le monde dépend des produits de l'entreprise. En particulier, nous sommes tous fiers de suivre la voie initiée par la Docteure Katia Carpinski, à notre humble échelle.
 >
 > Nous sommes conscients des risques que cette interruption de service implique pour les utilisateurs de SmartPoop, et nous leur avons envoyé un message d'excuses, qui explique la situation actuelle et notre méfiance envers nos dirigeants. Nous sommes désolés d'avoir dû recourir à de telles mesures. Mais le #SmartPoopGate nous semble justifier notre contre-attaque.
 >
@@ -153,7 +171,7 @@ Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et s
 >
 > Il est ironique que, pour cette attaque, nous avons exploité les vulnérabilités de l'API de redistribution des données SmartPoop aux clients publicitaires, qui est le seul morceau de code de SmartPoop exempté d'audits internes et externes. En effectuant un déploiement précipité et secret de ses algorithmes, SmartPoop se sera exposé tout seul.
 >
-> Nous avons utilisé un chiffrement multi-partie pour rendre la base de données de SmartPoop inutilisable. Aucun des auteurs de cette lettre n'a les droits pour rétablir seul le fonctionnement de ces algorithmes. Notre solution algorithmique garantit que ces algorithmes pourront être remis en place uniquement si 200 des 325 membres autorisés, qui sont tous co-auteurs de cette lettre, donnent leur accord cryptographique pour un tel rétablissement.
+> Nous avons utilisé un chiffrement multi-partie pour rendre la base de données de SmartPoop inutilisable. Aucun des auteurs de cette lettre n'a les droits pour rétablir seul le fonctionnement de ces algorithmes. Notre solution algorithmique garantit que ces algorithmes pourront être remis en place uniquement si 200 des 325 membres autorisés, qui sont tous co-auteurs de cette lettre, donnent leur accord cryptographique pour un tel rétablissement[^secret-sharing].
 >
 > Nous refuserons toute coopération avec les dirigeants de SmartPoop, tant que les conditions suivantes ne seront pas toutes remplies.
 >
@@ -163,13 +181,19 @@ Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et s
 >
 > 3. Le conseil d'administration doit être augmenté de dix membres, représentants de la société civile et de la recherche académique en sécurité et en éthique des algorithmes. Ces dix membres seront nommés par l'OMESA, et renouvelés tous les 4 ans.
 >
-> Pour ajouter votre nom à la liste des signataires et soutiens académiques, de la société civile et de l'industrie des technologies, veuillez envoyer un email à StandWithKatia@gmail.com avec votre adresse email institutionnelle, et avec le sujet “support”. Veuillez inclure dans votre email votre nom et votre affiliation, comme vous souhaitez qu'ils apparaissent dans la liste des signataires.
+> Pour ajouter votre nom à la liste des signataires et soutiens académiques, de la société civile et de l'industrie des technologies, veuillez envoyer un email à StandWithKatia@gmail.com avec votre adresse email institutionnelle, et avec le sujet « support ». Veuillez inclure dans votre email votre nom et votre affiliation, comme vous souhaitez qu'ils apparaissent dans la liste des signataires.
 >
 > À ce jour, cette lettre ouverte a été signée par 8 215 employés de SmartPoop, et 36 215 académiques, collègues de l'industrie et membres de la société civile.
 
+[^ransomware]: [:tv: Un virus me demande une rançon. Safecode. Micode (2017).](https://www.youtube.com/watch?v=T3NeuhpaPk0)  
+[:tv: La vérité sur wannacry. Flashcode. Micode (2017).](https://www.youtube.com/watch?v=nIRDzPnJAro)
+
+[^secret-sharing]: Cette technique de cryptographie est appelée le *secret partagé*, ou *secret sharing* en anglais. Typiquement, chaque partie connaîtrait un point d'un polynôme à 200 variables, et veut connaître la valeur du polynôme en un autre point. Voilà qui sera possible si et seulement si au moins 200 parties collaborent.  
+[:tv: How to keep an open secret with mathematics. Stand-up Maths (2019).](https://www.youtube.com/watch?v=K54ildEW9-Q)
+
 Katia pleure de joie à la lecture de cette lettre formidable. « Quels héros », s'exclame-t-elle dans un message à Marc. « Katia, c'est grâce à toi tout cela ; s'il y a un héros dans cette affaire, c'est bien toi », lui répond Marc.
 
-Katia découvre ensuite la liste interminable de signataires. Beaucoup de noms lui sont familiers. À la lecture de chacun d'eux, elle pleure sans retenue. Bien entendu, il y a Marc Rofstein, tout en haut de cette liste, mais aussi tous les employés que Katia a directement recrutés, mais aussi Science4Alpha, Lucile Polmon, Issa Gueye, la Docteure Paola Marta, le Président Lartan, les membres de l'OMESA, etc.
+Katia découvre ensuite la liste interminable de signataires. Beaucoup de noms lui sont familiers. À la lecture de chacun d'eux, elle pleure sans retenue. Bien entendu, il y a Marc Rofstein, tout en haut de cette liste, mais aussi tous les employés que Katia a directement recrutés, mais aussi Science4Alpha, la mère Lucile Polmon, le trader Issa Gueye, la Docteure Paola Marta, le Premier Ministre kormicain, le Président Lartan, sa belle-soeur Marie Routisse, la journaliste Célia Keita, l'ex-troll Paul Gremoux, le psychologue Frédéric Partoli et tous les membres de l'OMESA.
 
 Cette fois-ci, l'affaire est bien trop énorme pour être éteinte par les campagnes de désinformation. Le lendemain, les unes des journaux sont remplies d'interviews d'anciens employés qui, tour à tour, proposent la même version des faits. « Ma confiance en SmartPoop et ma fierté d'y travailler ont été chamboulées le jour où j'ai découvert le programme de revente des données. Elles se sont complètement effondrées le jour où Katia a été licenciée », raconte un employé. « Katia est la personne la plus incroyable que j'ai eu la chance de rencontrer. Sa générosité, sa bienveillance, son énergie, son humour et son intelligence ont illuminé chaque jour que j'ai passé à SmartPoop. Son licenciement a conduit à de sombres ténèbres, où personne ne souhaite travailler, peu importe le salaire. Je refuse de travailler pour SmartPoop tant que Katia ne redeviendra pas Présidente ». L'opinion publique est cette fois conquise.
 
