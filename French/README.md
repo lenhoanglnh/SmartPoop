@@ -58,9 +58,9 @@ Nous encourageons de tels efforts, et nous nous tenons à votre disposition pour
 
 ## Bibliographie
 
-1. [Le fabuleux chantier : rendre l’intelligence artificielle robustement bénéfique](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier). Lê Nguyên Hoang et El Mahdi El Mhamdi. EDP Sciences (2019).
+1. [Le fabuleux chantier : rendre l'intelligence artificielle robustement bénéfique](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier). Lê Nguyên Hoang et El Mahdi El Mhamdi. EDP Sciences (2019).
 
-2. [Turing à la plage : l’intelligence artificielle dans un transat](https://www.dunod.com/sciences-techniques/turing-plage-intelligence-artificielle-dans-un-transat). Rachid Guerraoui et Lê Nguyên Hoang. Dunod (2020).
+2. [Turing à la plage : l'intelligence artificielle dans un transat](https://www.dunod.com/sciences-techniques/turing-plage-intelligence-artificielle-dans-un-transat). Rachid Guerraoui et Lê Nguyên Hoang. Dunod (2020).
 
 3. [Tout ce que vous devez savoir sur le plus tabou des sujets](http://www.michel-lafon.fr/livre/2059-DANS_TON_CORPS.html). Michel Lafond. Julien Ménielle (2018).
 
