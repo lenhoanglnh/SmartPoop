@@ -49,9 +49,7 @@ Il lui faudra quelques heures pour se ressaisir. Alors qu'elle n'a toujours rien
 
 > Une *mute news*. Une *mute news*, c'est une nouvelle importante rendue silencieuse par la cacophonie à propos d'un autre sujet d'actualité[^mute-news-2].
 
-[^mute-news-2]: Les *mute news* sont sans doute devenue l'une des techniques de censure de l'information les plus répandues dans le monde moderne.  
-[:tv: La Rationalité appliquée. Hygiène Mentale (2020).](https://www.youtube.com/watch?v=Ek1FltlIxaQ)  
-[:tv: Arrêtons de partager la stupidité ! #DébattonsMieux. Science4All (2018).](https://www.youtube.com/watch?v=d1Des_7CBxY)  
+[^mute-news-2]: Selon cette étude, la désinformation en Chine ne consiste pas vraiment à propager des fausses informations ; elle semble surtout chercher à taire toute critique du Parti, en déviant les sujets de discussion, et ainsi transformer toute critique en une *mute news*.  
 [:memo: How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument. Gary King, Jennifer Pan & Margaret Roberts. American Political Science Review (2017).](https://www.cambridge.org/core/journals/american-political-science-review/article/how-the-chinese-government-fabricates-social-media-posts-for-strategic-distraction-not-engaged-argument/4662DB26E2685BAF1485F14369BD137C)
 
 > Ah oui ! Tu en parlais avant-hier dans ton audition. Toujours est-il que le très grand public ne suit pas du tout ton affaire. Pire, même des journalistes influents sont complètement à côté de la plaque, et classent ton affaire comme un conflit classique entre un employé et une entreprise pour des questions de propriété intellectuelle.
