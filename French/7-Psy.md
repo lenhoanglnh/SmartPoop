@@ -41,7 +41,10 @@ Il lui faudra quelques heures pour se ressaisir. Alors qu'elle n'a toujours rien
 
 > Comment ça ? Ça devrait être le sujet le plus important de l'actualité !
 
-> Il y a une autre affaire en ce moment qui domine l'actualité, une histoire de scandale sexuel d'un membre du gouvernement bokistanais.
+> Il y a une autre affaire en ce moment qui domine l'actualité, une histoire de scandale sexuel d'un membre du gouvernement bokistanais[^solutions-journalism].
+
+[^solutions-journalism]: La presse est souvent critiquée pour son biais en faveur des scandales d'hommes politiques. De nombreux journalistes pensent qu'elle devrait davantage être axées sur les problèmes importants et les pistes pour les résoudre. On parle alors de *solutions journalism* (ou *journalisme des solutions*). Notez que cette forme de journalisme ne consiste pas à survendre des pseudo-solutions. Il s'agit davantage de discuter des pistes de solution, en analysant rigoureusement leurs chances de succès et leurs limitations.  
+[:books: You Are What You Read: Why Changing Your Media Diet Can Change the World. Jodie Jackson. Unbound (2019).](https://jodiejackson.com)
 
 > Sérieux ? Un politicien qui merde, c'est plus important que la régulation du marché de l'information ? Si je devais parier, je dirais que ce n'est pas un accident. À tous les coups, ce scandale est connu de gens puissants depuis un petit bout de temps, et ils l'ont révélé hier pour noyer l'actualité de SmartPoop, et en faire une *mute news*.
 

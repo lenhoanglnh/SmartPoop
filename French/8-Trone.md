@@ -13,7 +13,7 @@ Devant un stade plein, et avec les caméras du monde entier braquées sur elle, 
 [^suicides]: En 2020, on estimait qu'il y avait autour de 800 000 suicides par an à travers le monde.  
 [:computer: Suicide. Our World in Data (2020).](https://ourworldindata.org/suicide)  
 Parmi les pays les plus affectés par ces suicides, on trouve aussi bien des pays peu développés, moyennement développés et très développés, comme le Suriname, la Russie et la Corée du Sud. Essentiellement tous les pays développés ont un taux de suicides malheureusement très élevé, avec souvent plus d'un suicide pour 10 000 personnes.  
- [:computer: Suicide death rates. Our World in Data (2019).](https://ourworldindata.org/grapher/suicide-mortality-rate)
+[:computer: Suicide death rates. Our World in Data (2019).](https://ourworldindata.org/grapher/suicide-mortality-rate)
 
 Katia marque un silence.
 
@@ -115,7 +115,7 @@ Le public applaudit ce moment très émouvant.
 
 Katia a encore besoin de plusieurs secondes pour reprendre ses émotions. Finalement, elle se reprend.
 
-> Néanmoins, je refuse de dire que Poo est un succès. Ensemble, nous avons créé un produit incroyable. Mais il reste infiniment améliorable, notamment sur le plan de son éthique, de sa sécurité et de sa gouvernance. Comment contrôle-t-on Poo ? Comment empêche-t-on Poo de dire des mots blessants, de révéler des secrets, de répéter des discours de haine et de diffuser de la mésinformation[^language-model] ? Comment l'amène-t-on à être bienveillant avec ses interlocuteurs, à dire les mots justes pour les rendre plus épanouis et à promouvoir autant que possible de l'information fiable et non trompeuse[^non-trompeur] ? Mais surtout, comment peut-on décider collectivement de ce que Poo doit dire ? Comment déterminer ce qui est désirable à dire, et ce qui ne devrait jamais être dit ?
+> Néanmoins, je refuse de dire que Poo est un succès. Ensemble, nous avons créé un produit incroyable. Mais il reste infiniment améliorable, notamment sur le plan de son éthique, de sa sécurité et de sa gouvernance. Comment contrôle-t-on Poo ? Comment empêche-t-on Poo de dire des mots blessants, de révéler des secrets, de répéter des discours de haine et de diffuser de la mésinformation[^language-model] ? Comment l'amène-t-on à être bienveillant avec ses interlocuteurs, à dire les mots justes pour les rendre plus épanouis et à promouvoir autant que possible de l'information fiable et non trompeuse[^non-trompeur] ? Comment l'amène-t-on à mieux réfléchir, et à vouloir investiguer ses incertitudes plutôt que de se contenter de ses intuitions[^scout] ? Mais surtout, comment peut-on décider collectivement de ce que Poo doit dire ? Comment déterminer ce qui est désirable à dire, et ce qui ne devrait jamais être dit[^ethics-of-influence] ?
 
 [^language-model]: Ces problèmes ne sont absolument pas résolus pour les algorithmes conversationnels modernes, qui sont très vulnérables à des attaques d'espionnage ou par empoisonnement des données. Et pourtant, ces algorithmes sont déjà déployés à très grande échelle, via les claviers intelligents, via les assistants personnels (Siri, Alexa, OK Google) et via les moteurs de recherche (Google, YouTube).  
 [:memo: On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?  Emily Bender, Timnit Gebru, Angelina McMillan-Major & Shmargaret Shmitchell. FAccT (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922)  
@@ -123,6 +123,14 @@ Katia a encore besoin de plusieurs secondes pour reprendre ses émotions. Finale
 [:memo: Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea & Colin Raffel. USENIX (2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
 
 [^non-trompeur]: [:tv: Qu’est ce qu’un message d’utilité publique ? Science4All (2021).](https://www.youtube.com/watch?v=LZGhBmDVi5A&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=5)
+
+[^scout]: Julia Galef parle du *scout mindset* (ou *mode explorateur*), par opposition au *soldier mindset* (*mode soldat*). Selon elle, il s'agit de l'aspect le plus déterminant pour analyser de l'information plus correctement.  
+[:tv: Comment j'essaye d'améliorer mon jugement (grâce à Julia Galef et à FLUS). Science Étonnante (2021).](https://www.youtube.com/watch?v=Sm_FgccC9dk)
+[:tv: Le mode explorateur. Science4All (2021).](https://www.youtube.com/watch?v=EZfNX4U63hc)  
+[:books: The Scout Mindset: Why Some People See Things Clearly and Others Don't. Julia Galef. Penguin (2021).](https://www.penguinrandomhouse.com/books/555240/the-scout-mindset-by-julia-galef/)
+
+[^ethics-of-influence]: Chaque mot choisi ou chaque recommandation faite par un algorithme peut être vu comme un *nudge*. De nombreuses études montrent que l'acceptabilité et l'efficacité des *nudges* dépendent fortement du *nudge* considéré ; avec plus de données à ce sujet, il pourrait être ainsi possible de mettre en oeuvre les nudges particulièrement acceptés socialement et efficaces.  
+[:books: The Ethics of Influence: Government in the Age of Behavioral Science. Cass Sunstein. Cambridge University Press (2016).](https://www.cambridge.org/core/books/ethics-of-influence/E29EDE19EBCB53F6D8691730668115F7)
 
 Katia marque une pause, devant un public tout ouï.
 
@@ -219,7 +227,7 @@ Katia reprend son souffle, avant la suite de son discours.
 [^mediane-geometrique]: L'une des solutions pour voter en grande dimension est de s'appuyer sur le principe « un électeur, une force unitaire », ce qui peut typiquement conduire à utiliser la *médiane géométrique*.  
 [:memo: On the Strategyproofness of the Geometric Median. El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui & Lê-Nguyên Hoang (2021).](https://arxiv.org/abs/2106.02394)
 
-[^licchavi]: Ceci nécessitera certainement de combiner des systèmes de scrutins avec des méthodes d'apprentissage. C'est ce que propose Licchavi.
+[^licchavi]: Ceci nécessitera certainement de combiner des systèmes de scrutins avec des méthodes d'apprentissage. C'est ce que propose Licchavi.  
 [:memo: Strategyproof Learning: Building Trustworthy User-Generated Datasets. Sadegh Farhadkhani, Rachid Guerraoui & Lê-Nguyên Hoang (2021)](https://arxiv.org/abs/2106.02398)
 
 Katia marque une nouvelle pause.
@@ -262,7 +270,7 @@ Katia reprend son souffle pour conclure son discours.
 
 [^resoudre-ethique]: [:tv: Résolvons l'éthique ensemble !! Science4All (2021).](https://www.youtube.com/watch?v=TgB9pHZ0YPM&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=4)
 
-À ces mots, le public explose de joie et d'enthousiasme, alors que le vacarme laisse petit à petit place au nom de Katia, lequel est scandé en rythme par tout le stade. Seule sur scène, Katia profite de l'instant, avec un sourire radieux, et salue le public de la main. À ce moment, elle pense à tout ce que SmartPoop a accompli jusque là. Mais aussi et surtout, Katia est incroyablement enthousiasmée par la vision d'une civilisation humaine qui, grâce à Girasol, va enfin prendre le destin de sa civilisation entre ses mains. 
+À ces mots, le public explose de joie et d'enthousiasme, alors que le vacarme laisse petit à petit place au nom de Katia, lequel est scandé en rythme par tout le stade. Seule sur scène, Katia profite de l'instant, avec un sourire radieux, et salue le public de la main. À ce moment, elle pense à tout ce que SmartPoop a accompli jusque là. Mais aussi et surtout, Katia est incroyablement enthousiasmée par la vision d'une civilisation humaine qui, grâce à Girasol, va enfin prendre le destin de sa civilisation entre ses mains.
 
 Ensemble.
 
