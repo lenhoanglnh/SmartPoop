@@ -1,4 +1,4 @@
-# Chapitre 8 — Sur le trône
+# 8. Sur le trône
 
 Devant un stade plein, et avec les caméras du monde entier braquées sur elle, Katia entre sur scène sous les ovations du public, comme une star de rock. Cette année, SmartPoop a mis des gros moyens pour un SmartPoopCon 2030 hors norme.
 

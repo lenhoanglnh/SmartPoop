@@ -1,4 +1,4 @@
-# Chapitre 4 — Les fuites sanitaires
+# 4. Les fuites sanitaires
 
 C'est un séisme. Contre toute attente, le 4 septembre 2025, Jules Lartan, Président du Bokistan, décide de sortir son pays de la COP 31, la conférence internationale des parties sur les mesures à prendre pour lutter contre le changement climatique[^cop]. Pâle et visiblement épuisé, il tient le discours suivant devant la presse.
 

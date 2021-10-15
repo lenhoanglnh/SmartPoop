@@ -1,4 +1,4 @@
-# Chapitre 7 — Quand on se fait dessus
+# 7. Quand on se fait dessus
 
 Avec dix voix contre et treize voix pour[^scrutin-conseil-administration], le verdict est tombé. Katia est licenciée de SmartPoop. Si trois représentants de certains des fonds d'investissement actionnaires de SmartPoop ont voté contre, les autres n'ont pas apprécié les révélations de Katia. Katia est dévastée. Même si elle s'y attendait, elle a du mal à encaisser la nouvelle. Affalée dans sa chaise, elle ne peut pas se lever. Les membres du conseil d'administration quittent la salle un à un, jusqu'à ce qu'il ne reste plus que Katia et Marc.
 

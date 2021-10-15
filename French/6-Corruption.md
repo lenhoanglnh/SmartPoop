@@ -1,4 +1,4 @@
-# Chapitre 6 — Le marché marron
+# 6. Le marché marron
 
 Frédéric Partoli met un pied à terre. Terriblement frustré, il sort du terrain, la main sur le cœur, lequel bat très fort. Il est accompagné directement à l'hôpital.
 

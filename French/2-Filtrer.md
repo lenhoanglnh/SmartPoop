@@ -1,4 +1,4 @@
-# Chapitre 2 — Filtrer les données fécales
+# 2. Filtrer les données fécales
 
 
 Le couple sort tremblant de l'hôpital. Quelques mots épars prononcés par le cancérologue[^cancer] quelques minutes plus tôt résonnent encore dans leurs têtes. « Échappement thérapeutique », « métastases osseuses », « traitements expérimentaux ». Lucile Polmon, qui accompagnait son mari pour la consultation, connaît bien ces termes. Elle en a déjà lu les définitions sur internet, plusieurs fois et elle sait bien à quoi cela correspond pour celui qu'elle aime.

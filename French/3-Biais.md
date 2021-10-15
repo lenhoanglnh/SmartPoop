@@ -1,4 +1,4 @@
-# Chapitre 3 — Le biais étroniste
+# 3. Le biais étroniste
 
 > Le vrai confort, ce n'est pas seulement de savoir que vous pouvez faire vos besoins en toute sécurité ; c'est surtout de savoir que votre santé sera prise en charge à tout instant grâce à l'intelligence de vos toilettes. SmartToilets[^smarttoilets] de SmartPoop. Laissez-nous prendre soin de vous.
 

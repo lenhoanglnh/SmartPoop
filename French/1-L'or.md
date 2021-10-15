@@ -1,4 +1,4 @@
-# Chapitre 1 — L'or marron
+# 1. L'or marron
 
 La bouteille de champagne ouverte, les verres enfin servis, Marc Rofstein demande l'attention des cinq invités de la soirée organisée par Katia Crapinski, dans leur colocation.
 

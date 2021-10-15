@@ -1,4 +1,4 @@
-# Chapitre 5 — Les FakePoops
+# 5. Les FakePoops
 
 > Les données sont encore très parcellaires, mais il y a de quoi être extrêmement inquiet, déclare le Premier Ministre Kormicain. Selon nos épidémiologistes, nous faisons probablement face à un retour du ROVID-19, possiblement un variant plus contagieux encore, plus difficile à détecter via SmartPoop. Avec désormais plusieurs centaines de cas identifiés, pour protéger toute la population, nous avons décidé d'imposer un confinement obligatoire. Seules les industries indispensables sont autorisées à rester ouvertes. Toutes les autres se doivent d'être en télétravail, ou de cesser leur activité. Dans le second cas, nous vous invitons à déclarer votre cessation d'activité sur le site web officiel du gouvernement, et à fournir des justificatifs, pour être compensés. Le confinement entrera en vigueur demain soir à 20h. Mais dès aujourd'hui, nous vous prions de prendre soin de vous, de vos proches et de vos voisins. Restons unis face au ROVID-19.
 
