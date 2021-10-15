@@ -159,9 +159,9 @@ Le public rit à nouveau.
 
 Le rire du public permet alors à Katia de reprendre son souffle.
 
-> Mais surtout, sur Internet, beaucoup d'utilisateurs veulent nuire à d'autres utilisateurs ; ou au moins les influencer d'une certaine manière. Pensez à toutes les campagnes de désinformation qui sévissent sur les réseaux sociaux[^desinformation]. Or, même l'un des plus grands défenseurs du libéralisme, le philosophe John Stuart Mill, pense que la liberté des uns doit s'arrêter là où elle nuit aux autres. Tel est le principe de l'absence de tort.
+> Mais surtout, sur Internet, beaucoup d'utilisateurs veulent nuire à d'autres utilisateurs ; ou au moins les influencer d'une certaine manière. Pensez à toutes les campagnes de désinformation qui sévissent sur les réseaux sociaux[^desinformation-2]. Or, même l'un des plus grands défenseurs du libéralisme, le philosophe John Stuart Mill, pense que la liberté des uns doit s'arrêter là où elle nuit aux autres. Tel est le principe de l'absence de tort.
 
-[^desinformation]: [:tv: Les réseaux sociaux sont dangereux. Très dangereux. Science4All (2021).](https://www.youtube.com/watch?v=utWMGi8HTjY&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=1)
+[^desinformation-2]: [:tv: Les réseaux sociaux sont dangereux. Très dangereux. Science4All (2021).](https://www.youtube.com/watch?v=utWMGi8HTjY&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=1)
 
 Katia marque à nouveau une pause, et regarde son public, en déplaçant son regard de gauche à droite.
 
