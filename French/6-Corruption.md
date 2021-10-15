@@ -70,7 +70,7 @@ En bon scientifique, quoique habituellement confronté à des problèmes de psyc
 [^science-participative]: [**Podcast.**  Les sciences participatives. Podcast Science (2016).](https://www.podcastscience.fm/dossiers/2016/11/30/les-sciences-participatives/)
 
 [^youtube-regrets]: Dans un genre similaire, en 2020, la *Mozilla Foundation* a lancé un programme participatif où les volontaires pouvaient partager leurs données YouTube pour permettre aux chercheurs de mieux comprendre l'algorithme de recommandation de YouTube. On a là encore un cas de dilemme sécurité-privacy. Tant que les données des utilisateurs et des algorithmes de YouTube resteront privés, il sera très difficile de comprendre les dynamiques de comportements des utilisateurs sur YouTube, et de prendre les mesures adéquates pour réduire le cyber-harcèlement, les appels à la haine et la désinformation.  
-[:memo: YouTube Regrets. Mozilla Foundation (2021).](https://foundation.mozilla.org/en/campaigns/regrets-reporter/findings/)
+[**Paper.**  YouTube Regrets. Mozilla Foundation (2021).](https://foundation.mozilla.org/en/campaigns/regrets-reporter/findings/)
 
 Pourtant, après 6 mois, certains déclencheurs semblent clairs. Juste après que SmartPoop a diagnostiqué un surpoids pour la sœur de Frédéric, elle s'est mise à recevoir des publicités de chaussures de sport. Juste après que le frère de Frédéric s'est fait mal au genou, il s'est mis à recevoir des publicités de trottinettes électriques. Juste après que SmartPoop a diagnostiqué une carence en vitamine A à la mère de Frédéric, celle-ci s'est mise à recevoir des publicités pour des chips de carottes. Enfin, juste après qu'une amie de Frédéric est devenue enceinte, elle s'est mise à recevoir des publicités pour des poussettes et des couches, tandis que son mari s'est mis à recevoir des publicités pour des SUV.
 
@@ -155,12 +155,12 @@ Katia appuie sur la touche « envoyer » de son application de messagerie éle
 [**Website.**  Updating our ads and monetization policies on climate change. Google Support (2021).](https://support.google.com/google-ads/answer/11221321)
 
 [^schemas-pyramidaux]: Les schémas pyramidaux sont interdits en France. En promouvant ces schémas pyramidaux, il n'est pas clair pour les auteurs de ce livre si une entreprise qui vent des publicités de schémas pyramidaux pourrait techniquement être jugé pour complicité de vente pyramidale.  
-[:memo: Article L121-15 du code de la consommation. Legifrance (2016).](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227258/)
+[**Paper.**  Article L121-15 du code de la consommation. Legifrance (2016).](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227258/)
 
 [^homicide-involontaire]: Comme on l'a vu dans le chapitre 2, une entreprise qui vend des publicités de médecines alternatives mettraient en danger les utilisateurs, mais aussi les proches des utilisateurs, voire toute la société quand il s'agit de pandémie comme le ROVID-19.
 
 [^appel-a-la-haine]: L'appel à la haine est par contre clairement illégal, et contribuer *sciemment* à sa diffusion est passible de peines pénales.  
-[:memo: Article 121-7 du code pénal. Legifrance (1994).](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006417212/)
+[**Paper.**  Article 121-7 du code pénal. Legifrance (1994).](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006417212/)
 
 Un autre silence se fait. Presque une minute s'écoule alors que chaque membre de l'OMESA prend conscience de l'urgence à se confronter à l'éthique de la publicité.
 
@@ -215,8 +215,8 @@ Un nouveau silence se fait. Visiblement, chaque discours de Katia nécessite un 
 [**Video.**  Arrêtons de partager la stupidité ! #DébattonsMieux. Science4All (2018).](https://www.youtube.com/watch?v=d1Des_7CBxY)
 
 [^utilite-publique]: Il y aurait d'ailleurs certainement énormément à gagner à l'échelle planétaire en promouvant les contenus d'utilité publique.  
-[:memo: Science Communication Desperately Needs More Aligned Recommendation Algorithms. Lê Nguyên Hoang. Frontiers in Communication (2020).](https://www.frontiersin.org/articles/10.3389/fcomm.2020.598454/)  
-[:memo: Recommendation Algorithms, a Neglected Opportunity for Public Health. Lê Nguyên Hoang, Louis Faucon & El-Mahdi El-Mhamdi. Revue Médecine et Philosophie (2021).](https://philpapers.org/rec/HOARAA)
+[**Paper.**  Science Communication Desperately Needs More Aligned Recommendation Algorithms. Lê Nguyên Hoang. Frontiers in Communication (2020).](https://www.frontiersin.org/articles/10.3389/fcomm.2020.598454/)  
+[**Paper.**  Recommendation Algorithms, a Neglected Opportunity for Public Health. Lê Nguyên Hoang, Louis Faucon & El-Mahdi El-Mhamdi. Revue Médecine et Philosophie (2021).](https://philpapers.org/rec/HOARAA)
 
 > Très bien, Docteure Crapinski. Mais vous ne répondez pas à ma question. Qui devrait décider comment gérer le flux de l'information ?
 

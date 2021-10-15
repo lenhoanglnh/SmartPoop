@@ -59,7 +59,7 @@ Plusieurs mois plus tard, après avoir lu un article terrifiant sur les campagne
 [**Website.**  Meet the A.I. that helped Facebook remove billions of fake accounts. Fortune (2020).](https://fortune.com/2020/03/04/facebook-a-i-fake-accounts-disinformation/)
 
 [^violence-contre-journalistes-femmes]: Selon un rapport de l'UNESCO de 2020, les femmes journalistes semblent particulièrement exposées à ces attaques ignobles.  
-[:memo: Online violence Against Women Journalists: A Global Snapshot of Incidence and Impacts. Julie Posetti, Nermine Aboulez, Kalina Bontcheva, Jackie Harrison, and Silvio Waisbord. UNESCO (2021).](https://www.icfj.org/sites/default/files/2020-12/UNESCO%20Online%20Violence%20Against%20Women%20Journalists%20-%20A%20Global%20Snapshot%20Dec9pm.pdf)
+[**Paper.**  Online violence Against Women Journalists: A Global Snapshot of Incidence and Impacts. Julie Posetti, Nermine Aboulez, Kalina Bontcheva, Jackie Harrison, and Silvio Waisbord. UNESCO (2021).](https://www.icfj.org/sites/default/files/2020-12/UNESCO%20Online%20Violence%20Against%20Women%20Journalists%20-%20A%20Global%20Snapshot%20Dec9pm.pdf)
 
 C'est finalement l'idée d'avoir été abattue par des faux comptes qui pique la fierté de Célia et la motive pour reprendre son travail de journalisme d'investigation. Célia restaure son compte Twitter. Tout l'historique de ses conversations est alors accessible. Célia épluche alors les comptes qui l'ont harcelé. Elle se rend compte qu'une bonne proportion de ces comptes a été créée récemment, avec des images de profil typiques du site de création d'images d'individus fictifs [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)[^thispersondoesnotexist]. Il ne fait plus aucun doute. Célia a été la cible d'une campagne de désinformation.
 
@@ -100,7 +100,7 @@ En cherchant désormais ce nom et ce prénom sur Google, Célia découvre qu'ils
 > Oui madame Keita, je suis vraiment désolé pour cela. On m'a contacté pour vous harceler sur Twitter[^desinformation-payee]. Tout ce que j'avais à faire, c'est vous écrire trois fois par jour avec des insultes et des menaces. Je suis vraiment désolé. C'est vraiment à contre-coeur que je l'ai fait. S'il vous plaît, ne me dénoncez pas. J'ai des gros risques d'AVC, diagnostiqués par SmartPoop. Et si mon assurance l'apprend, je vais avoir des factures que je ne pourrai pas payer. J'ai deux enfants à charge. S'il vous plaît, ne me dénoncez pas. Je vous en prie.
 
 [^desinformation-payee]: Cette pratique semble très présente, notamment dans les pays autoritaires. Un rapport de l'Institut de Recherche Stratégique de l'École Militaire (IRSEM) en France fait état de 20 millions de chinois payés pour produire de la désinformation, dont 2 millions à temps plein.  
-[:memo: Les opérations d'influence chinoises. un moment machiavélien. ISEM (2021)](https://www.irsem.fr/rapport.html)
+[**Paper.**  Les opérations d'influence chinoises. un moment machiavélien. ISEM (2021)](https://www.irsem.fr/rapport.html)
 
 > Merci beaucoup Monsieur Gremoux. J'aimerais juste que vous me donniez plus d'informations sur la campagne de désinformation qui vous a contactée.
 
@@ -158,7 +158,7 @@ Après un long silence, Marie avoue : « ma soeur a avorté en juin 2025 ». Une
 
 > Célia, je t'en supplie, ne le dit pas publiquement. Même si je suis choquée par ce qu'elle a fait, je ne veux pas que ma soeur soit humiliée publiquement et roulée dans la boue. Une telle humiliation personnelle aurait des répercussions énormes sur sa santé mentale déjà fragile, sans compter ses enfants, et toute sa famille y compris mes propres enfants. S'il te plaît, il y a de nombreuses vies en jeu[^cyberbullying-depression].
 
-[^cyberbullying-depression]: [:memo: Depression high among youth victims of school cyber bullying, NIH researchers report. NIH (2010).](https://www.nih.gov/news-events/news-releases/depression-high-among-youth-victims-school-cyber-bullying-nih-researchers-report)
+[^cyberbullying-depression]: [**Paper.**  Depression high among youth victims of school cyber bullying, NIH researchers report. NIH (2010).](https://www.nih.gov/news-events/news-releases/depression-high-among-youth-victims-school-cyber-bullying-nih-researchers-report)
 
 > Marie, tu as ma parole. Mais je ne peux pas non plus ne pas révéler cette affaire. Le changement climatique menace lui aussi la vie de tes enfants. Je vais réfléchir à la meilleure façon d'avancer, avec ton avis. Mais on ne peut pas laisser des industries Kormicaines manipuler ainsi l'homme le plus puissant de notre pays ! Il faut que tu m'aides à arranger une rencontre avec le Président.
 
@@ -307,20 +307,20 @@ Un mois plus tard, SmartPoop publie un rapport de sécurité informatique. Ce ra
 
 [^homomorphic-learning]: Notez que les principales applications raisonnables aujourd'hui du chiffrement homomorphe aux algorithmes d'apprentissage concernent uniquement la phase d'inférence — pas d'apprentissage. Autrement dit, dans le cas de SmartPoop, ce chiffrement homomorphe permet de diagnostiquer un excrément d'un utilisateur de manière parfaitement chiffrée ; mais il ne permet d'exploiter les données de l'utilisateur pour améliorer l'algorithme de diagnostic.  
 [**Video.**  Machine Learning with Encrypted Data | Homomorphic Encryption. SATSifaction (2020).](https://www.youtube.com/watch?v=nlsd2LO-S50)  
-[:memo: Contributions to data confidentiality in machine learning by means of homomorphic encryption. Martin Zuber. PhD Thesis at Université Paris-Saclay (2021).](https://tel.archives-ouvertes.fr/tel-03105524)  
+[**Paper.**  Contributions to data confidentiality in machine learning by means of homomorphic encryption. Martin Zuber. PhD Thesis at Université Paris-Saclay (2021).](https://tel.archives-ouvertes.fr/tel-03105524)  
 Cependant, les travaux récents se tournent vers l'apprentissage homomorphe. Malheureusement, les techniques d'apprentissage homomorphe ne permettent pas aujourd'hui d'effectuer les formes d'apprentissages les plus performantes de manière efficace.  
-[:memo: Privacy-Preserving Collective Learning With Homomorphic Encryption. Jestine Paul, Meenatchi Sundaram Muthu Selva Annamalai, William Ming, Ahmad Al Badawi, Bharadwaj Veeravalli & Khin Mi Mi Aung. IEEE Access (2021)](https://ieeexplore.ieee.org/document/9543673)  
-[:memo: Privacy Preserving Machine Learning with Homomorphic Encryption and Federated Learning. Haokun Fang & Quan Qian. Future Internet (2021).](https://www.mdpi.com/1999-5903/13/4/94)
+[**Paper.**  Privacy-Preserving Collective Learning With Homomorphic Encryption. Jestine Paul, Meenatchi Sundaram Muthu Selva Annamalai, William Ming, Ahmad Al Badawi, Bharadwaj Veeravalli & Khin Mi Mi Aung. IEEE Access (2021)](https://ieeexplore.ieee.org/document/9543673)  
+[**Paper.**  Privacy Preserving Machine Learning with Homomorphic Encryption and Federated Learning. Haokun Fang & Quan Qian. Future Internet (2021).](https://www.mdpi.com/1999-5903/13/4/94)
 
 Le rapport de 400 pages détaille aussi la liste des librairies de code utilisées par SmartPoop. Certaines librairies ont été développées par des initiatives OpenSource comme Django ou React, d'autres par des entreprises du numériques comme Apple ou Google, et d'autres ont été écrites par SmartPoop même. De façon cruciale, chaque librairie utilisée est une vulnérabilité potentielle.
 
 Or le cumul de ces librairies de code représente désormais des centaines de millions de lignes de codes. Pire encore, ces librairies permettent de définir des algorithmes d'apprentissage qui, eux, possèdent près d'un million de milliards de paramètres[^peta-octet]. Ces paramètres sont quotidiennement ajustés à partir des milliers de milliards de nouvelles données quotidiennes, issues des activités fécales de milliards d'utilisateurs SmartPoop.
 
 [^peta-octet]: Les algorithmes de traitement de langage modernes ne cessent de grossir en taille, à un rythme effreiné de x10 par an, depuis BERT, GPT-2, GPT-3, jusqu'aux Switch Transformers (avec mille milliards de paramètres), et bientôt Pathways.  
-[:memo: Attention is All you Need. Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser & Illia Polosukhin. NIPS (2017).](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)  
-[:memo: Better Language Models and Their Implications. OpenAI (2019).](https://openai.com/blog/better-language-models/)  
-[:memo: Language Models are Few-Shot Learners. Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel Ziegler, Jeffrey Wu, Clemens Winter, Chris Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei. NeurIPS (2020).](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)  
-[:memo: Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity. William Fedus, Barret Zoph, Noam Shazeer. ArXiV (2021).](https://arxiv.org/abs/2101.03961)  
+[**Paper.**  Attention is All you Need. Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser & Illia Polosukhin. NIPS (2017).](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)  
+[**Paper.**  Better Language Models and Their Implications. OpenAI (2019).](https://openai.com/blog/better-language-models/)  
+[**Paper.**  Language Models are Few-Shot Learners. Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel Ziegler, Jeffrey Wu, Clemens Winter, Chris Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei. NeurIPS (2020).](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)  
+[**Paper.**  Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity. William Fedus, Barret Zoph, Noam Shazeer. ArXiV (2021).](https://arxiv.org/abs/2101.03961)  
 [**Website.**  China's gigantic multi-modal AI is no one-trick pony. Engadget (2021).](https://www.engadget.com/chinas-gigantic-multi-modal-ai-is-no-one-trick-pony-211414388.html)  
 [**Website.**  Google is developing a new superintelligent AI but ethical questions remain. Quartz (2021).](https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/)
 

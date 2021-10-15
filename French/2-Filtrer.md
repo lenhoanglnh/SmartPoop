@@ -9,7 +9,7 @@ Le couple sort tremblant de l'hôpital. Quelques mots épars prononcés par le c
 
 Malheureusement, l'optimisme de façade du mari de Lucile ne suffira pas. Deux ans plus tard, malgré des séances de chimiothérapie intensive[^chimiotherapie], le mari décède, à seulement 42 ans. Il abandonne ainsi Lucile avec leur fille unique.
 
-[^chimiotherapie]: [**Video.**  Chimiothérapie. Geneva University Hospitals (2019).])https://www.youtube.com/watch?v=eZT8Hgsyh1Q)
+[^chimiotherapie]: [**Video.**  Chimiothérapie. Geneva University Hospitals (2019).](https://www.youtube.com/watch?v=eZT8Hgsyh1Q)
 
 Depuis lors, Lucile, profondément traumatisée par le cancer de son mari, dévore toutes les informations de santé qu'elle peut trouver. Le jour où SmartPoop était sorti, elle avait aussitôt téléchargé l'application. Elle était l'une des premières à adopter l'application quotidiennement. Très rapidement, elle a forcé sa fille de douze ans, Jeanne, à utiliser SmartPoop elle aussi. Tous les soirs, désormais, elle analyse ses propres données SmartPoop et celles de sa fille, à la recherche de toute anomalie.
 
@@ -22,8 +22,8 @@ Depuis lors, Lucile, profondément traumatisée par le cancer de son mari, dévo
 Mais l'obsession de Lucile ne se limite toutefois pas à SmartPoop. Elle passe ses journées à lire toutes sortes de blogs de santé du web, à regarder des vidéos YouTube sur de la médecine alternative et à fréquenter des groupes Facebook où des inconnus partagent leurs expériences personnelles[^mesinformation-sante-mentale].
 
 [^mesinformation-sante-mentale]: Quelques études scientifiques suggèrent un lien étroit entre détresse mentale et croyances en la médecine alternative.  
-[:memo: Are modern health worries associated with medical conspiracy theories? Journal of Psychosomatic Research. Y Lahrach and A Furnham (2017).](https://www.sciencedirect.com/science/article/pii/S0022399917301757)  
-[:memo: Belief in a COVID-19 Conspiracy Theory as a Predictor of Mental Health and Well-Being of Health Care Workers in Ecuador: Cross-Sectional Survey Study. Xi Chen,  Stephen X Zhang,  Asghar Afshar Jahanshahi,  Aldo Alvarez-Risco,  Huiyang Dai, Jizhen Li et Verónica García Ibarra. JMIR Public Health and Surveillance (2020).](https://publichealth.jmir.org/2020/3/e20737)
+[**Paper.**  Are modern health worries associated with medical conspiracy theories? Journal of Psychosomatic Research. Y Lahrach and A Furnham (2017).](https://www.sciencedirect.com/science/article/pii/S0022399917301757)  
+[**Paper.**  Belief in a COVID-19 Conspiracy Theory as a Predictor of Mental Health and Well-Being of Health Care Workers in Ecuador: Cross-Sectional Survey Study. Xi Chen,  Stephen X Zhang,  Asghar Afshar Jahanshahi,  Aldo Alvarez-Risco,  Huiyang Dai, Jizhen Li et Verónica García Ibarra. JMIR Public Health and Surveillance (2020).](https://publichealth.jmir.org/2020/3/e20737)
 
 ### La radioactivité des bananes
 
@@ -102,7 +102,7 @@ Les jours qui suivent, malgré les excuses répétées de Lucile, les repas de f
 Le groupe Facebook fétiche de Lucile explique que chaque individu est unique et que les dosages de magnésium peuvent beaucoup varier entre les individus. De fait, si le potassium ne baisse pas, il faut augmenter les doses de magnésium. Le groupe ajoute que les diarrhées qui peuvent en découler sont le signe que le traitement commence à fonctionner[^overdose-de-magnesium]. Convaincue par ces explications, Lucile décide alors d'augmenter les doses de magnésium, tout en prenant soin que le taux de magnésium dans les excréments ne dépasse jamais le seuil considéré dangereux par les sites web qu'elle fréquente. Semaine après semaine, ces doses augmentent. Elles passent à deux doses par jour par personne, puis à quatre, puis à huit. Rien n'y fait pourtant. L'application indique que Jeanne a constamment la diarrhée mais les taux de potassium ne diminuent pas. Ceci dit, dans le même temps, les taux de magnésium n'atteignent pas les seuils jugés dangereux.
 
 [^overdose-de-magnesium]: L'excès de magnésium conduit effectivement à des diarrhées.  
-[:memo: Fecal Excretion of Soluble Magnesium by Humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1010963/). David Saunders and Hugh Wiggins. Western Journal of Medicine (1983).
+[**Paper.**  Fecal Excretion of Soluble Magnesium by Humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1010963/). David Saunders and Hugh Wiggins. Western Journal of Medicine (1983).
 
 Un soir, toutefois, après avoir fini sa soupe, Jeanne devient pâle. Elle se lève de sa chaise, fait deux pas, puis s'écroule. « Jeanne, Jeanne », s'écrit Lucile. Elle appelle les secours, qui emmènent Jeanne en unités de soins intensifs. Lucile est priée de patienter dans la salle d'attente, pendant que Jeanne est suivie de près. Le médecin revient finalement vers Lucile, lui expliquant que Jeanne est malheureusement décédée d'une overdose de magnésium.
 
@@ -129,7 +129,7 @@ Après un silence, Katia rajoute toutefois :
 
 [^edge-case]: Katia souligne là l'un des grands défis de la sécurité des algorithmes, à savoir la validation de leurs performances sur des cas critiques et rares (parfois appelés *edge cases*). D'un côté, la rareté de ces cas fait qu'on dispose de très peu de données, voire parfois d'aucune donnée, pour permettre de tester la sécurité de l'algorithme face à ces cas. De l'autre, le fait que ces cas sont critiques fait que la sécurité de l'algorithme pour ces cas précis peut être une question de vie ou de mort. Toutefois, même si chaque cas rare et critique est très rare, l'ensemble de tous les cas rares et critiques peut rester important et survenir avec une probabilité non-négligeable, surtout lorsque l'algorithme est utilisé des milliards de fois par jour.
 Malheureusement, comme en parle cette publication dans le cas des voitures autonomes, il n'existe pas beaucoup de méthodes efficaces de validation d'un algorithme face aux cas rares et critiques. L'article en propose justement une nouvelle.  
-[:memo: Efficient statistical validation with edge cases to evaluate Highly Automated Vehicles. Dhanoop Karunakaran, Stewart Worrall et Eduardo Nebot. ITSC (2020).](https://ieeexplore.ieee.org/document/9294590)
+[**Paper.**  Efficient statistical validation with edge cases to evaluate Highly Automated Vehicles. Dhanoop Karunakaran, Stewart Worrall et Eduardo Nebot. ITSC (2020).](https://ieeexplore.ieee.org/document/9294590)
 
 > Tu peux vérifier les chiffres maintenant ?
 
@@ -213,8 +213,8 @@ Après un long silence, Marc demande alors : « Katia, tu penses qu'on est respo
 
 [^mesinformation]: Le rôle central de ces plateformes, et en particulier des algorithmes de ces plateformes, dans la crise de la mésinformation actuelle est le sujet central d'un livre précédent de Lê Nguyên Hoang, co-écrit avec le chercheur El Mahdi El Mhamdi, et d'articles publiés en sociologie et en philosophie.  
 [**Book.**  Le Fabuleux Chantier : Rendre l'Intelligence Artificielle Robustement Bénéfique. Lê Nguyên Hoang & El Mahdi El Mhamdi. EDP Sciencess (2019).](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
-[:memo: Science Communication Desperately Needs More Aligned Recommendation Algorithms. Lê Nguyên Hoang. Frontiers in Communication (2020).](https://www.frontiersin.org/articles/10.3389/fcomm.2020.598454/full)  
-[:memo: Recommendation Algorithms, a Neglected Opportunity for Public Health. Lê Nguyên Hoang, Louis Faucon & El-Mahdi El-Mhamdi. Revue Médecine et Philosophie (2021).](https://philpapers.org/rec/HOARAA)
+[**Paper.**  Science Communication Desperately Needs More Aligned Recommendation Algorithms. Lê Nguyên Hoang. Frontiers in Communication (2020).](https://www.frontiersin.org/articles/10.3389/fcomm.2020.598454/full)  
+[**Paper.**  Recommendation Algorithms, a Neglected Opportunity for Public Health. Lê Nguyên Hoang, Louis Faucon & El-Mahdi El-Mhamdi. Revue Médecine et Philosophie (2021).](https://philpapers.org/rec/HOARAA)
 
 > Katia, je pense que tu es beaucoup trop orientée sur le business ou la protection de SmartPoop. En fin de compte, l'objectif de SmartPoop, ce n'est pas de faire de l'argent ou de protéger notre image, c'est de sauver des vies, et d'éviter de causer des torts[^facebook-files].
 
@@ -271,7 +271,7 @@ Et rajoutaient : « Nous vous encourageons à parler à un conseiller en géné
 > Oui. Conformément au Règlement Générale pour la Protection des Données, le fameux RGPD, toutes les données collectées par SmartPoop demeurent accessibles à l'utilisateur. Mais on a décidé de faire très attention à la manière dont elles sont présentées, pour que les utilisateurs se méfient plus, en particulier des erreurs de mesure inévitables de notre dispositif. Nos algorithmes d'apprentissage sont encore en train d'améliorer leurs estimations des propriétés physico-chimiques des excréments à partir de photographies, et nous sommes bien conscients que, sur de nombreuses tâches, la fiabilité de ces algorithmes n'est pas encore au rendez-vous. C'est pour cela que nous faisons très attention à ce que de telles données soient présentées avec beaucoup de barres d'erreurs. Nous préférons que les utilisateurs prennent conscience de l'incertitude de nos modèles avant qu'ils ne lisent les résultats de l'analyse de ces modèles[^incertitude].
 
 [^incertitude]: De façon plus générale, la recherche en sécurité des algorithmes insiste beaucoup sur l'importance de permettre aux algorithmes de mesurer leur propre incertitude sur les résultats qu'ils calculent.  
-[:memo: Benchmarking Uncertainty Estimation Methods for Deep Learning With Safety-Related Metrics. Maximilian Henne, Adrian Schwaiger, Karsten Roscher, Gereon Weiss. SafeAI@AAAI (2020)](ceur-ws.org/Vol-2560/paper35.pdf)  
+[**Paper.**  Benchmarking Uncertainty Estimation Methods for Deep Learning With Safety-Related Metrics. Maximilian Henne, Adrian Schwaiger, Karsten Roscher, Gereon Weiss. SafeAI@AAAI (2020)](ceur-ws.org/Vol-2560/paper35.pdf)  
 [**Book.**  Human Compatible: Artificial Intelligence and the Problem of Control. Stuart Russell. Penguin (2019)](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/)  
 Cette remarque semble aussi primordiale pour les humains, y compris les experts qui pêchent souvent par excès de confiance.  
 [**Video.**  L'excès de confiance tue. Science4All (2020).](https://www.youtube.com/watch?v=zGhrYMRAoCs&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=31)
@@ -305,7 +305,7 @@ Pour être clair, oui, les bananes ont été modifiées par l'agriculture. Cela 
 [^partenariat]: La pertinence de telles collaborations, avec le privé ou avec des institutions gouvernementales, est un dilemme permanent pour la communication scientifique, surtout sachant le peu de financement qu'elle reçoit pour l'instant, et la difficulté d'accéder aux informations internes à des grandes entreprises. On peut citer l'exemple de cette collaboration entre le YouTubeur scientifique SmarterEveryDay et 23AndMe, qui est un cadre de collaboration jugé satisfaisant par le YouTubeur scientifique.  
 [**Video.**  DNA Testing and Privacy (Behind the scenes at the 23andMe Lab) - Smarter Every Day (2017).](https://www.youtube.com/watch?v=U3EEmVfbKNs)  
 En particulier, sur des sujets controversés, de telles collaborations peuvent avoir des effets contreproductifs sur la confiance envers les communicateurs scientifiques.  
-[:memo: Trust in scientists in times of pandemic: Panel evidence from 12 countries. Yann Algan, Daniel Cohen, Eva Davoine, Martial Foucault & Stefanie Stantcheva. PNAS (2021)](https://www.pnas.org/content/118/40/e2108576118.abstract)  
+[**Paper.**  Trust in scientists in times of pandemic: Panel evidence from 12 countries. Yann Algan, Daniel Cohen, Eva Davoine, Martial Foucault & Stefanie Stantcheva. PNAS (2021)](https://www.pnas.org/content/118/40/e2108576118.abstract)  
 Lê Nguyên Hoang a par exemple produit une vidéo en collaboration avec le Ministère de la Santé en France, qui aura reçu plus de dislikes que de likes, questionnant ainsi la pertinence d'une telle collaboration.  
 [**Video.**  Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=13)
 

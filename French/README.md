@@ -3,7 +3,8 @@
 Bienvenue dans le github du livre *SmartPoop*, co-écrit par Lê Nguyên Hoang et Tristan Le Magoarou,
 publié sous [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (réutilisable librement à condition de citer les auteurs originaux).  
 Le livre est disponible en [epub](SmartPoop-fr.epub) et en [pdf](SmartPoop-fr.pdf).  
-**À ce jour, le livre n'est pas dans une version stable.**  
+
+**Le livre est actuellement en alpha test. Nous vous serions très reconnaissants de bien vouloir nous envoyer vos corrections, si possible directement sous la forme d'un commit sur GitHub.**  
 
 ## Sommaire
 
