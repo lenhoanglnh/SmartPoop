@@ -141,6 +141,7 @@ $endfor$
 
 \titleformat{\chapter}{\normalfont\huge}{}{20pt}{\huge\bf}
 
+% \usepackage{titletoc}
 
 % $if(title)$
 % \title{$title$}
@@ -203,10 +204,23 @@ $for(include-before)$
 $include-before$
 
 $endfor$
+
+
+% \makeatletter
+% \let\latexl@section\l@section
+% \def\l@section#1#2{\begingroup\let\numberline\@gobble\latexl@section{#1}{#2}\endgroup}
+% \makeatother
+
+\makeatletter
+\let\latexl@chapter\l@chapter
+\def\l@chapter#1#2{\begingroup\let\numberline\@gobble\latexl@chapter{#1}{#2}\endgroup}
+\makeatother
+
+
 $if(toc)$
 {
 \hypersetup{linkcolor=black}
-\setcounter{tocdepth}{$toc-depth$}
+% \setcounter{tocdepth}{$toc-depth$}
 \tableofcontents
 }
 $endif$
