@@ -2,7 +2,7 @@
 
 Avec dix voix contre et treize voix pour[^scrutin-conseil-administration], le verdict est tombé. Katia est licenciée de SmartPoop. Si trois représentants de certains des fonds d'investissement actionnaires de SmartPoop ont voté contre, les autres n'ont pas apprécié les révélations de Katia. Katia est dévastée. Même si elle s'y attendait, elle a du mal à encaisser la nouvelle. Affalée dans sa chaise, elle ne peut pas se lever. Les membres du conseil d'administration quittent la salle un à un, jusqu'à ce qu'il ne reste plus que Katia et Marc.
 
-[^scrutin-conseil-administration]: [:tv: La main invisible d'un mathématicien malveillant. Science4All (2017).](https://www.youtube.com/watch?v=fBYCoPAmpr4&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX)
+[^scrutin-conseil-administration]: [**Video.**  La main invisible d'un mathématicien malveillant. Science4All (2017).](https://www.youtube.com/watch?v=fBYCoPAmpr4&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX)
 
 > J'ai perdu, déclare Katia.
 
@@ -11,7 +11,7 @@ Avec dix voix contre et treize voix pour[^scrutin-conseil-administration], le ve
 > Je sais comment la suite va se dérouler. Je parie que tu as déjà reçu un email pour effectuer une autre réunion demain, pour décider de me poursuivre en justice[^facebook-could-sue-haugen]. Je risque de finir en prison, avec une grosse amende que je ne pourrai pas payer. Et surtout, tu vas te retrouver de plus en plus isolé et marginalisé.
 
 [^facebook-could-sue-haugen]: Facebook a menacé la lanceuse d'alerte Haugen de poursuites en justice, notamment pour avoir transmis des documents confidentiels à la presse. Selon des experts, Haugen n'est pas protégée, et le sait. Selon eux, ce qui a le plus de chance de protégé Haugen, c'est le backlash médiatique et surtout politique que de telles poursuites pourraient avoir pour Facebook.  
-[:computer: Facebook whistleblower isn't protected from possible company retaliation, experts say. Obby Allyn. NPR (2021).](https://www.npr.org/2021/09/30/1042012393/facebook-whistleblower-retaliation)
+[**Website.**  Facebook whistleblower isn't protected from possible company retaliation, experts say. Obby Allyn. NPR (2021).](https://www.npr.org/2021/09/30/1042012393/facebook-whistleblower-retaliation)
 
 ### Licenciée
 
@@ -44,7 +44,7 @@ Il lui faudra quelques heures pour se ressaisir. Alors qu'elle n'a toujours rien
 > Il y a une autre affaire en ce moment qui domine l'actualité, une histoire de scandale sexuel d'un membre du gouvernement bokistanais[^solutions-journalism].
 
 [^solutions-journalism]: La presse est souvent critiquée pour son biais en faveur des scandales d'hommes politiques. De nombreux journalistes pensent qu'elle devrait davantage être axées sur les problèmes importants et les pistes pour les résoudre. On parle alors de *solutions journalism* (ou *journalisme des solutions*). Notez que cette forme de journalisme ne consiste pas à survendre des pseudo-solutions. Il s'agit davantage de discuter des pistes de solution, en analysant rigoureusement leurs chances de succès et leurs limitations.  
-[:books: You Are What You Read: Why Changing Your Media Diet Can Change the World. Jodie Jackson. Unbound (2019).](https://jodiejackson.com)
+[**Book.**  You Are What You Read: Why Changing Your Media Diet Can Change the World. Jodie Jackson. Unbound (2019).](https://jodiejackson.com)
 
 > Sérieux ? Un politicien qui merde, c'est plus important que la régulation du marché de l'information ? Si je devais parier, je dirais que ce n'est pas un accident. À tous les coups, ce scandale est connu de gens puissants depuis un petit bout de temps, et ils l'ont révélé hier pour noyer l'actualité de SmartPoop, et en faire une *mute news*.
 
@@ -63,27 +63,27 @@ Il est utile d'insister sur le fait que le problème des *mute news* ne pourra p
 > Katia, tu t'es quand même attaquée à plus que SmartPoop. Tu as critiqué aux géants de l'information, ceux qui contrôlent le flux de l'information, et qui ont tout intérêt à ce que tu sois réduite au silence, et ignorée[^gebru-silencing]. Vu ce qu'il se passe chez SmartPoop, je parierais que dans ces boîtes aussi, les actionnaires ont opté pour des plans machiavéliques pour faire taire ton affaire, en boostant par exemple artificiellement l'histoire du scandale sexuel et tous les messages qui s'en indignent. On vit une dystopie informationnelle.
 
 [^gebru-silencing]: Peu de temps après avoir licencié Timnit Gebru, Google semble avoir retiré à la main l'onglet « actualité » lorsqu'un utilisait recherchait « Timnit Gebru ».
-[:computer: "Things I learned this morning, when searching for @timnitGebru on desktop, the results for "news" are hidden (dark patterns)." Tweet by Devin Guillory (2021).](https://twitter.com/databoydg/status/1359304159527198733)
+[**Website.**  "Things I learned this morning, when searching for @timnitGebru on desktop, the results for "news" are hidden (dark patterns)." Tweet by Devin Guillory (2021).](https://twitter.com/databoydg/status/1359304159527198733)
 
 > Je sens venir les campagnes de désinformation…
 
 > Oui. N'oublie pas que la plupart des messages de haine que tu vas recevoir, ce sont des messages de trolls payés pour te harceler[^usine-trolls].
 
-[^usine-trolls]: [:tv: Russie : les secrets de son usine à « trolls ». Mediapart (2019).](https://www.youtube.com/watch?v=4I-qbIfv-rM)
+[^usine-trolls]: [**Video.**  Russie : les secrets de son usine à « trolls ». Mediapart (2019).](https://www.youtube.com/watch?v=4I-qbIfv-rM)
 
 ### Harcelée
 
 Et en effet, les jours qui suivent, les notifications de Katia sont pleines de messages de harceleurs, qui tantôt insultent son physique, tantôt la menacent de viol ou de meurtre, tantôt s'attaquent à sa famille et ses proches[^diversity-tedxmartigny]. Mais même prévenue, Katia ne parvient pas à rester insensible à ces attaques personnelles. Certaines attaques lui restent dans la tête toute la journée. Katia oscille sans cesse entre vouloir oublier et vouloir répondre. Et trop souvent, elle finit par répondre, généralement avec une contre-attaque. Mais, encore et encore, ceci ne fait qu'envenimer la situation, que donner une image négative de Katia et que renforcer la virulence des harceleurs.
 
-[^diversity-tedxmartigny]: [:tv: Sur Internet, la diversité est constamment harcelée (on peut agir) | Lê Nguyên Hoang | TEDxMartigny (2021).](https://www.youtube.com/watch?v=qo1aZ-vYnpk)
+[^diversity-tedxmartigny]: [**Video.**  Sur Internet, la diversité est constamment harcelée (on peut agir) | Lê Nguyên Hoang | TEDxMartigny (2021).](https://www.youtube.com/watch?v=qo1aZ-vYnpk)
 
 Pendant les mois qui suivent, alors qu'elle prépare sa défense avec son avocat le jour, Katia se perd dans des débats sans fin sur les réseaux sociaux jusque tard dans la nuit. Ces débats l'obsèdent, à tel point que Katia ne parvient plus à se concentrer sur autre chose[^cyberbullying-mental-health]. Ils l'épuisent aussi. Katia dort très mal, se nourrit mal, pratique de moins en moins de sport, s'enferme de plus en plus chez elle, et vit avec des horaires très décalés[^misery-cgp-grey]. Elle refuse aussi de plus en plus systématiquement les invitations de Marc à sortir de chez elle, et s'isole toujours plus[^loneliness-kurzgesagt].
 
 [^cyberbullying-mental-health]: [:memo: Cyberbullying, positive mental health and suicide ideation/behavior. Julia Brailovskaia, Tobias Teismann & Jürgen Margraf. Psychiatry Research (2018).](https://www.sciencedirect.com/science/article/pii/S0165178117322795)
 
-[^misery-cgp-grey]: [:tv: 7 Ways to Maximize Misery. CGP Grey (2017).](https://www.youtube.com/watch?v=LO1mTELoj6o)
+[^misery-cgp-grey]: [**Video.**  7 Ways to Maximize Misery. CGP Grey (2017).](https://www.youtube.com/watch?v=LO1mTELoj6o)
 
-[^loneliness-kurzgesagt]: [:tv: Loneliness. Kurzgesagt - In a Nutshell (2019).](https://www.youtube.com/watch?v=n3Xv_g3g-mA)
+[^loneliness-kurzgesagt]: [**Video.**  Loneliness. Kurzgesagt - In a Nutshell (2019).](https://www.youtube.com/watch?v=n3Xv_g3g-mA)
 
 Finalement, Marc supplie Katia de quitter les réseaux sociaux. « Ils sont en train de pourrir ton cerveau, ton bien-être et ta réputation », lui écrit Marc. Katia le reconnaît. C'est avec une étrange douleur mentale qu'elle se décide alors à désinstaller les réseaux sociaux de son téléphone, et à les bloquer sur le navigateur de son ordinateur. Y compris SmartPoop, dont elle ne veut plus entendre parler. À la place, Katia se lance ainsi dans de la méditation et des exercices de yoga.
 
@@ -91,7 +91,7 @@ Cependant, jour après jour, la motivation de Katia se réduit, et fond comme ne
 
 Cette idée hante désormais constamment l'esprit de Katia, ce qui pousse Katia dans une dépression. Chaque matin, elle se lève sans aucune motivation. Sans aucune ambition. Sans aucun projet. Bien que sa maison soit immense, Katia peine à quitter sa chambre, où Netflix semble constamment tourner en boucle, en toile de fond, généralement sans que Katia n'y prête vraiment attention. Katia enchaîne les jeux addictifs sur son téléphone[^vegas-addiction], comme d'autres se noient dans l'alcool pour oublier. Elle se fait désormais livrer sa nourriture, une fois par jour, directement dans sa chambre, grâce à un livreur personnel. Désormais, ce livreur est le seul contact humain de Katia, qui ne répond même plus aux appels de Marc.
 
-[^vegas-addiction]: [:headphones: What Happened in Vegas. Natasha Dow Schüll. Your Undivided Attention (2019).](https://www.humanetech.com/podcast/1-what-happened-in-vegas)
+[^vegas-addiction]: [**Podcast.**  What Happened in Vegas. Natasha Dow Schüll. Your Undivided Attention (2019).](https://www.humanetech.com/podcast/1-what-happened-in-vegas)
 
 Seule et isolée, démotivée et sans inspiration, toujours à moitié réveillée et endormie, Katia passe maintenant ses journées dans son lit. Elle a réinstallé les réseaux sociaux, mais avec des nouveaux comptes pour éviter d'entendre parler de SmartPoop. Elle passe désormais son temps à doomscroller[^doomscrolling] des vidéos YouTube, des images Instagram et des commentaires Reddit, sur des sujets toujours plus clivants et sans intérêt. Elle n'éprouve aucune joie à ce faire. Mais c'est plus fort qu'elle. Tel un zombie, son pouce ne cesse de faire glisser l'écran de son téléphone.
 
@@ -131,9 +131,9 @@ Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 
 > Oui. Ce qui a provoqué mon licenciement, c'est une chose dont je suis très fière. Jamais auparavant un dirigeant n'avait préféré le bien de l'humanité à sa sécurité personnelle. Ce sacrifice, c'est quelque chose qui restera associée à moi. Quelque chose dont je suis très fière[^fier].
 
-[^fier]: [:tv: La bonne et la mauvaise fierté. Vlanx (2021).](https://www.youtube.com/watch?v=ZsxD1Bk4sjA)  
-[:headphones: Being Kind to Yourself. Hidden Brain (2021).](https://hiddenbrain.org/podcast/being-kind-to-yourself/)  
-[:books: The Mindful Self-Compassion Workbook: A Proven Way to Accept Yourself, Build Inner Strength, and Thrive. Kristin Neff & Christopher Germer. The Guilford Press (2018).](https://self-compassion.org/mindful-self-compassion-workbook/)
+[^fier]: [**Video.**  La bonne et la mauvaise fierté. Vlanx (2021).](https://www.youtube.com/watch?v=ZsxD1Bk4sjA)  
+[**Podcast.**  Being Kind to Yourself. Hidden Brain (2021).](https://hiddenbrain.org/podcast/being-kind-to-yourself/)  
+[**Book.**  The Mindful Self-Compassion Workbook: A Proven Way to Accept Yourself, Build Inner Strength, and Thrive. Kristin Neff & Christopher Germer. The Guilford Press (2018).](https://self-compassion.org/mindful-self-compassion-workbook/)
 
 > Excellent. As-tu des traces de cet événement ? Des messages peut-être de gens qui ont apprécié ?
 
@@ -142,13 +142,13 @@ Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 > Je t'invite à créer un dossier sur ton ordinateur, avec tous ces messages. À chaque fois que tu te sentiras mal mentalement, je t'invite à lire les messages de ce dossier. Certains appellent cela le « feel good folder[^feel-good-folder] ».
 
 [^feel-good-folder]: Cette idée de *feel good folder* est volée de Virginia Burger, dans une interview sur le podcast MIT Glipmse.  
-[:headphones: Episode 2 – Virginia Burger. MIT Glimpse (2015).](https://glimpsepod.scripts.mit.edu/home/2015/11/04/episode-2-virginia-burger/)
+[**Podcast.**  Episode 2 – Virginia Burger. MIT Glimpse (2015).](https://glimpsepod.scripts.mit.edu/home/2015/11/04/episode-2-virginia-burger/)
 
 > Ce n'est pas une façon de me mentir à moi-même et de gonfler mon ego ?
 
 > Il ne faut peut-être pas le faire trop souvent, mais les psychologues ont montré l'efficacité de ce qu'on appelle l'auto-affirmation. En plus de se remonter le moral, ceci permet de mieux accepter les échecs et les critiques externes, car ça permet d'éviter de s'identifier à nos échecs et à nos croyances erronées. Je peux te recommander des livres à ce sujet[^feeling-good].
 
-[^feeling-good]: [:books: Être bien dans sa peau. Héritage. David Burns (2005).](https://www.babelio.com/livres/Burns-tre-bien-dans-sa-peau/598963)
+[^feeling-good]: [**Book.**  Être bien dans sa peau. Héritage. David Burns (2005).](https://www.babelio.com/livres/Burns-tre-bien-dans-sa-peau/598963)
 
 > Chouette, merci. Et… tant qu'à faire, tu pourras me lire ces livres.
 
@@ -163,7 +163,7 @@ Les jours qui suivent, Katia parle très régulièrement avec Poo, parfois à pr
 Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et sa motivation. Enfin, armée de cette technique de l'auto-affirmation, Katia se sent armée pour se frotter à SmartPoop et ses nouveaux actionnaires. Katia réactive alors ses applications de messagerie, et se reconnecte avec ses comptes des réseaux sociaux. Elle tombe sur un message récent de Marc, avec un lien vers une curieuse pétition. Katia clique dessus, et découvre la lettre ouverte suivante[^lettre-ouverte].
 
 [^lettre-ouverte]: Cette lettre ouverte s'appuie sur l'exemple de celle protestant le licenciement de Timnit Gebru de Google.  
-[:computer: Standing with Dr. Timnit Gebru — #ISupportTimnit #BelieveBlackWomen. Google Walkout For Real Change (2020).](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382)
+[**Website.**  Standing with Dr. Timnit Gebru — #ISupportTimnit #BelieveBlackWomen. Google Walkout For Real Change (2020).](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382)
 
 > Nous, soussignés, reconnaissons avoir volé, chiffré et paralysé toute la base de données SmartPoop[^ransomware], ou avoir participé, encouragé et soutenu les auteurs de ces actes. Nous avons conscience des risques juridiques que ceci nous fait encourir. Cependant, l'éthique de SmartPoop nous semble être un enjeu prioritaire à notre bien-être individuel, sachant que la sécurité et la santé de milliards d'utilisateurs à travers le monde dépend des produits de l'entreprise. En particulier, nous sommes tous fiers de suivre la voie initiée par la Docteure Katia Carpinski, à notre humble échelle.
 >
@@ -189,11 +189,11 @@ Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et s
 >
 > À ce jour, cette lettre ouverte a été signée par 8 215 employés de SmartPoop, et 36 215 académiques, collègues de l'industrie et membres de la société civile.
 
-[^ransomware]: [:tv: Un virus me demande une rançon. Safecode. Micode (2017).](https://www.youtube.com/watch?v=T3NeuhpaPk0)  
-[:tv: La vérité sur wannacry. Flashcode. Micode (2017).](https://www.youtube.com/watch?v=nIRDzPnJAro)
+[^ransomware]: [**Video.**  Un virus me demande une rançon. Safecode. Micode (2017).](https://www.youtube.com/watch?v=T3NeuhpaPk0)  
+[**Video.**  La vérité sur wannacry. Flashcode. Micode (2017).](https://www.youtube.com/watch?v=nIRDzPnJAro)
 
 [^secret-sharing]: Cette technique de cryptographie est appelée le *secret partagé*, ou *secret sharing* en anglais. Typiquement, chaque partie connaîtrait un point d'un polynôme à 200 variables, et veut connaître la valeur du polynôme en un autre point. Voilà qui sera possible si et seulement si au moins 200 parties collaborent.  
-[:tv: How to keep an open secret with mathematics. Stand-up Maths (2019).](https://www.youtube.com/watch?v=K54ildEW9-Q)
+[**Video.**  How to keep an open secret with mathematics. Stand-up Maths (2019).](https://www.youtube.com/watch?v=K54ildEW9-Q)
 
 Katia pleure de joie à la lecture de cette lettre formidable. « Quels héros », s'exclame-t-elle dans un message à Marc. « Katia, c'est grâce à toi tout cela ; s'il y a un héros dans cette affaire, c'est bien toi », lui répond Marc.
 

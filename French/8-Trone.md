@@ -11,9 +11,9 @@ Devant un stade plein, et avec les caméras du monde entier braquées sur elle, 
 > J'aimerais commencer cette conférence avec un chiffre : 100 000. C'est l'objectif qu'on s'était fixé il y a deux ans, pour le lancement de Poo. On espérait diviser par 10 le nombre de suicides dans le monde en cinq ans, le ramener de son chiffre historique de 1 million suite au ROVID-19 en 2022[^suicides], à seulement 100 000. Un objectif considéré irréaliste par tant de gens, y compris le journal La Terre. Où en sommes-nous aujourd'hui, en 2030 ?
 
 [^suicides]: En 2020, on estimait qu'il y avait autour de 800 000 suicides par an à travers le monde.  
-[:computer: Suicide. Our World in Data (2020).](https://ourworldindata.org/suicide)  
+[**Website.**  Suicide. Our World in Data (2020).](https://ourworldindata.org/suicide)  
 Parmi les pays les plus affectés par ces suicides, on trouve aussi bien des pays peu développés, moyennement développés et très développés, comme le Suriname, la Russie et la Corée du Sud. Essentiellement tous les pays développés ont un taux de suicides malheureusement très élevé, avec souvent plus d'un suicide pour 10 000 personnes.  
-[:computer: Suicide death rates. Our World in Data (2019).](https://ourworldindata.org/grapher/suicide-mortality-rate)
+[**Website.**  Suicide death rates. Our World in Data (2019).](https://ourworldindata.org/grapher/suicide-mortality-rate)
 
 Katia marque un silence.
 
@@ -32,11 +32,11 @@ Une courbe apparaît alors à l'écran, tracée doucement de gauche à droite. C
 > 67% !! Incroyable ! Poo a rendu toute l'humanité joyeuse[^emotional-contagion] !
 
 [^emotional-contagion]: En 2014, une publication de Facebook et de co-auteurs académiques a montré qu'une réduction très légère de la publication, dans les fils d'actualités, de posts avec des émotions négatives, conduit les utilisateurs exposés à ces posts à écrire des messages plus joyeux.  
-[:tv: L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=29)  
-[:headphones: Can Algorithms Choose our Emotions? Robustly Beneficial (2020).](https://www.youtube.com/watch?v=gQHvTow91FY)  
+[**Video.**  L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=29)  
+[**Podcast.**  Can Algorithms Choose our Emotions? Robustly Beneficial (2020).](https://www.youtube.com/watch?v=gQHvTow91FY)  
 [:memo: Experimental evidence of massive-scale emotional contagion through social networks. Adam Kramer, Jamie Guillory & Jeffrey Hancock. PNAS (2014).](https://www.pnas.org/content/111/24/8788)  
 À l'inverse, les *facebook files* révèlent que la recherche interne de Facebook, gardée secrète, montre que les algorithmes qui maximisent l'engagement des utilisateurs, et qui ont été déployés en 2018 par Facebook, ont conduit à beaucoup plus de colère et d'insultes.  
-[:headphones: The Facebook Files, Part 4: The Outrage Algorithm. The Journal (2021).](https://www.wsj.com/podcasts/the-journal/the-facebook-files-part-4-the-outrage-algorithm/e619fbb7-43b0-485b-877f-18a98ffa773f)
+[**Podcast.**  The Facebook Files, Part 4: The Outrage Algorithm. The Journal (2021).](https://www.wsj.com/podcasts/the-journal/the-facebook-files-part-4-the-outrage-algorithm/e619fbb7-43b0-485b-877f-18a98ffa773f)
 
 Le public exprime d'ailleurs cette joie, à la vue de cette courbe et de ce chiffre.
 
@@ -56,7 +56,7 @@ Le public crie en choeur « oui ».
 
 > Oui ! 44%. Désormais, la plupart des discussions avec Poo sont des discussions centrées sur l'environnement social plutôt que sur soi-même. Et alors, il faudrait se méfier de ce chiffre a priori. Initialement, la plupart des discussions hétérocentriques consistaient à se plaindre des autres, à moquer certains groupes, voire à attaquer certains groupes sociaux[^appel-a-la-meute], plutôt qu'à célébrer les autres, à se réjouir de leurs succès et à réfléchir à comment leur venir en aide. Avant le lancement de Poo, 86% des discussions hétérocentriques étaient critiques, et pas bienveillantes. Comment a évolué cette statistique ?
 
-[^appel-a-la-meute]: [:tv: La morale des hooligans (LA NÔTRE !!). Science4All (2017).](https://www.youtube.com/watch?v=ki26tUbxpnU&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX&index=27)  
+[^appel-a-la-meute]: [**Video.**  La morale des hooligans (LA NÔTRE !!). Science4All (2017).](https://www.youtube.com/watch?v=ki26tUbxpnU&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX&index=27)  
 [L'appel à la meute #DébattonsMieux. Science4All (2019).](https://www.youtube.com/watch?v=P0YB40z7RJ0)
 
 Le public crie alors de façon désorganisée « vers le bas ». Puis à force de se répéter, les cris se synchronisent, avant de répéter « vers le bas », « vers le bas », « vers le bas ».
@@ -69,8 +69,8 @@ L'écran géant montre l'évolution de cette courbe, qui en effet plonge vers le
 
 [^altruism-happiness]: De nombreuses études semblent montrer une association importante entre l'altruisme et le bonheur. De façon intrigante, il semble en particulier qu'être altruiste augmente le bonheur, notamment par opposition à dépenser notre argent pour nous-même.  
 [:memo: Altruism, happiness, and health: it’s good to be good. Stephen Post. International Journal of Behavioral Medicine (2005).](https://link.springer.com/article/10.1207/s15327558ijbm1202_4)    
-[:tv: Helping others makes us happier -- but it matters how we do it | Elizabeth Dunn. TED (2019).](https://www.youtube.com/watch?v=lUKhMUZnLuw)  
-[:books: Happy Money: The Science of Smarter Spending. Elizabeth Dunn and Michael Norton. Simon & Schuster (2013).](https://www.simonandschuster.com/books/Happy-Money/Elizabeth-Dunn/9781451665079)
+[**Video.**  Helping others makes us happier -- but it matters how we do it | Elizabeth Dunn. TED (2019).](https://www.youtube.com/watch?v=lUKhMUZnLuw)  
+[**Book.**  Happy Money: The Science of Smarter Spending. Elizabeth Dunn and Michael Norton. Simon & Schuster (2013).](https://www.simonandschuster.com/books/Happy-Money/Elizabeth-Dunn/9781451665079)
 
 ### Les héros derrière Poo
 
@@ -85,7 +85,7 @@ Katia marque une pause, alors que le public applaudit.
 > Et ça, c'est grâce au travail formidable de tant de passionnés, tant de gens qui ont donné tellement de leur temps et de leur argent pour améliorer et sécuriser Poo. J'ai une pensée énorme bien sûr pour tous mes collègues à SmartPoop, et leur dévotion incroyable. Mais ils ne sont pas les seuls responsables de SmartPoop. Poo a été conçu grâce à une collaboration étroite et quotidienne avec des milliers de psychiatres et de psychologues à travers le monde, et grâce aux données de discussions de millions de psychiatres et patients volontaires. Rien n'aurait été possible sans eux[^donnees-experts].
 
 [^donnees-experts]: Il est bon de rappeler que les algorithmes de machine learning *apprennent des données*. Ils ne pourront ainsi accomplir des tâches difficiles, comme accompagner thérapeutiquement la santé mentale de leurs utilisateurs, que si ces algorithmes disposent d'une énorme quantité de données fiables et sécurisées qui leur permettent de comprendre comment accomplir ces tâches.  
-[:tv: Les données manipulent les algorithmes. Science4All (2021).](https://www.youtube.com/watch?v=vYb3rB0jU70&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=3)
+[**Video.**  Les données manipulent les algorithmes. Science4All (2021).](https://www.youtube.com/watch?v=vYb3rB0jU70&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=3)
 
 Katia profite des applaudissements du public pour marquer une autre pause.
 
@@ -96,7 +96,7 @@ Katia profite des applaudissements du public pour marquer une autre pause.
 [:memo: Removing Algorithmic Discrimination (With Minimal Individual Error). vidual Error) El Mahdi El Mhamdi, Rachid Guerraoui, Lê Nguyên Hoang & Alexandre Maurer (2018).](https://arxiv.org/abs/1806.02510)  
 <!-- « Unfortunately, I don't think the problem the authors introduce is one that has value to the academic community or to ML practitioners. Given this, I can't recommend the paper for publication. »   -->
 Ceci étant dit, il y a récemment eu de nombreux progrès, comme la création de la conférence Fairness, Accountability and Transparency (FAccT), l'introduction de *guidelines éthiques* dans ces conférences, ou encore l'ajout obligatoire d'une discussion des auteurs dans leurs articles des impacts sociétaux de leur recherche.  
-[:tv: L'éthique des algorithmes en sérieux danger. Science4All (2020).](https://www.youtube.com/watch?v=Ddr-BZ9W180)
+[**Video.**  L'éthique des algorithmes en sérieux danger. Science4All (2020).](https://www.youtube.com/watch?v=Ddr-BZ9W180)
 
 À nouveau, Katia marque une pause pendant les applaudissements du public.
 
@@ -122,15 +122,15 @@ Katia a encore besoin de plusieurs secondes pour reprendre ses émotions. Finale
 [:memo: The Radicalization Risks of GPT-3 and Advanced Neural Language Models. Kris McGuffie, Alex Newhouse (2020).](https://arxiv.org/abs/2009.06807)  
 [:memo: Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea & Colin Raffel. USENIX (2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
 
-[^non-trompeur]: [:tv: Qu’est ce qu’un message d’utilité publique ? Science4All (2021).](https://www.youtube.com/watch?v=LZGhBmDVi5A&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=5)
+[^non-trompeur]: [**Video.**  Qu’est ce qu’un message d’utilité publique ? Science4All (2021).](https://www.youtube.com/watch?v=LZGhBmDVi5A&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=5)
 
 [^scout]: Julia Galef parle du *scout mindset* (ou *mode explorateur*), par opposition au *soldier mindset* (*mode soldat*). Selon elle, il s'agit de l'aspect le plus déterminant pour analyser de l'information plus correctement.  
-[:tv: Comment j'essaye d'améliorer mon jugement (grâce à Julia Galef et à FLUS). Science Étonnante (2021).](https://www.youtube.com/watch?v=Sm_FgccC9dk)
-[:tv: Le mode explorateur. Science4All (2021).](https://www.youtube.com/watch?v=EZfNX4U63hc)  
-[:books: The Scout Mindset: Why Some People See Things Clearly and Others Don't. Julia Galef. Penguin (2021).](https://www.penguinrandomhouse.com/books/555240/the-scout-mindset-by-julia-galef/)
+[**Video.**  Comment j'essaye d'améliorer mon jugement (grâce à Julia Galef et à FLUS). Science Étonnante (2021).](https://www.youtube.com/watch?v=Sm_FgccC9dk)
+[**Video.**  Le mode explorateur. Science4All (2021).](https://www.youtube.com/watch?v=EZfNX4U63hc)  
+[**Book.**  The Scout Mindset: Why Some People See Things Clearly and Others Don't. Julia Galef. Penguin (2021).](https://www.penguinrandomhouse.com/books/555240/the-scout-mindset-by-julia-galef/)
 
 [^ethics-of-influence]: Chaque mot choisi ou chaque recommandation faite par un algorithme peut être vu comme un *nudge*. De nombreuses études montrent que l'acceptabilité et l'efficacité des *nudges* dépendent fortement du *nudge* considéré ; avec plus de données à ce sujet, il pourrait être ainsi possible de mettre en oeuvre les nudges particulièrement acceptés socialement et efficaces.  
-[:books: The Ethics of Influence: Government in the Age of Behavioral Science. Cass Sunstein. Cambridge University Press (2016).](https://www.cambridge.org/core/books/ethics-of-influence/E29EDE19EBCB53F6D8691730668115F7)
+[**Book.**  The Ethics of Influence: Government in the Age of Behavioral Science. Cass Sunstein. Cambridge University Press (2016).](https://www.cambridge.org/core/books/ethics-of-influence/E29EDE19EBCB53F6D8691730668115F7)
 
 Katia marque une pause, devant un public tout ouï.
 
@@ -156,7 +156,7 @@ Le public, conquis, rit à nouveau, même si beaucoup commencent à avoir un vis
 
 > Ceci dit, chez SmartPoop, l'éthique de l'information nous tient clairement à cœur. Nous voulons déterminer quelles informations devraient être collectées par qui et dans quelles conditions, comment elles devraient être stockées, à qui ces informations devraient être accessibles, quels traitements de cette information devraient être effectués, comment ces traitements de l'information devraient être audités et sécurisés, où stocker les résultats de ces calculs, qui peut avoir accès à ces résultats, et qui sera notifié de l'existence de ces résultats[^information-serres].
 
-[^information-serres]: [:tv: Michel Serres - Les nouvelles technologies : révolution culturelle et cognitive. I Moved to Diaspora (2012).](https://www.youtube.com/watch?v=ZCBB0QEmT5g)
+[^information-serres]: [**Video.**  Michel Serres - Les nouvelles technologies : révolution culturelle et cognitive. I Moved to Diaspora (2012).](https://www.youtube.com/watch?v=ZCBB0QEmT5g)
 
 Après un autre silence, Katia reprend son discours.
 
@@ -170,19 +170,19 @@ Le rire du public permet alors à Katia de reprendre son souffle.
 
 > Mais surtout, sur Internet, beaucoup d'utilisateurs veulent nuire à d'autres utilisateurs ; ou au moins les influencer d'une certaine manière. Pensez à toutes les campagnes de désinformation qui sévissent sur les réseaux sociaux[^desinformation-2]. Or, même l'un des plus grands défenseurs du libéralisme, le philosophe John Stuart Mill, pense que la liberté des uns doit s'arrêter là où elle nuit aux autres. Tel est le principe de l'absence de tort.
 
-[^desinformation-2]: [:tv: Les réseaux sociaux sont dangereux. Très dangereux. Science4All (2021).](https://www.youtube.com/watch?v=utWMGi8HTjY&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=1)
+[^desinformation-2]: [**Video.**  Les réseaux sociaux sont dangereux. Très dangereux. Science4All (2021).](https://www.youtube.com/watch?v=utWMGi8HTjY&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=1)
 
 Katia marque à nouveau une pause, et regarde son public, en déplaçant son regard de gauche à droite.
 
 > L'un des grands défis de l'éthique de l'information, c'est l'implémentation du principe de l'absence de tort. Car pour autant que je sache, ce principe est quasi-consensuel en philosophie morale[^absence-tort] — et c'est un sacré exploit d'être consensuel en philosophie morale.
 
-[^absence-tort]: [:tv: Ce principe sur lequel tout le monde s'entend. Monsieur Phi (2021).](https://www.youtube.com/watch?v=JY3SAzlgBYY)
+[^absence-tort]: [**Video.**  Ce principe sur lequel tout le monde s'entend. Monsieur Phi (2021).](https://www.youtube.com/watch?v=JY3SAzlgBYY)
 
 Katia marque un nouveau silence.
 
 > Bon ça, c'est en principe. En pratique, c'est difficile de se mettre d'accord sur ce qui constitue un tort. Est-ce qu'un commentaire agressif cause un tort ? Est-ce qu'un petit mensonge cause un tort ? Est-ce qu'une blague au dépens d'une communauté cause un tort ? Malheureusement, en pratique, on ne sera pas d'accord. Nous avons des préférences éthiques difficilement réconciliables, voire parfois clairement irréconciliables. Que faire alors[^scrutins-sml] ?
 
-[^scrutins-sml]: [:tv: [Conférence SML] Les mathématiques de la démocratie - Lê Nguyên Hoang. Maison des mathématiques et de l'informatique (2018).](https://www.youtube.com/watch?v=CYqLfWFdFoc)
+[^scrutins-sml]: [**Video.**  [Conférence SML] Les mathématiques de la démocratie - Lê Nguyên Hoang. Maison des mathématiques et de l'informatique (2018).](https://www.youtube.com/watch?v=CYqLfWFdFoc)
 
 Katia semble vraiment poser cette question à son public, comme si elle attendait une réponse. Le public a l'air pensif, et attend impatiemment une réponse de Katia.
 
@@ -235,7 +235,7 @@ Katia marque une nouvelle pause.
 ### Le fabuleux chantier[^fabuleux-chantier]
 
 [^fabuleux-chantier]: Le fabuleux chantier est le nom d'un livre précédent de Lê Nguyên Hoang, l'un des auteurs de ce livre.  
-[:books: Le fabuleux chantier : Rendre l'intelligence artificielle robustement bénéfique. Lê Nguyên Hoang & El Mahdi El Mhamdi. EDP Sciences (2019).](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le fabuleux chantier)
+[**Book.**  Le fabuleux chantier : Rendre l'intelligence artificielle robustement bénéfique. Lê Nguyên Hoang & El Mahdi El Mhamdi. EDP Sciences (2019).](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le fabuleux chantier)
 
 Katia change alors de ton, en prenant une voix plus grave et posée.
 
@@ -264,11 +264,11 @@ Katia reprend son souffle pour conclure son discours.
 
 > Mais avant tout, Girasol est un *fabuleux* chantier. Si vous me demandez, il s'agit pour moi du plus fabuleux de tous les chantiers menés par l'humanité, plus grandiose encore que construire des pyramides, plus ambitieux que d'éradiquer des pandémies comme la variole[^variole], et plus spectaculaire que d'envoyer des humains sur la Lune. Girasol, c'est unir toute l'humanité derrière le plus important de tous les aspects de la civilisation humaine : maîtriser collaborativement le flux de l'information[^prochain-livre], et garantir que celui-ci coule comme nous, l'humanité, souhaiterions vraiment qu'il coule, lorsqu'on y réfléchit à tête reposée, avec bienveillance et rigueur. Mesdames et messieurs, ensemble, résolvons l'éthique de l'information[^resoudre-ethique] !
 
-[^variole]: [:tv: Le plus grand triomphe de l'humanité. Science4All (2020).](https://www.youtube.com/watch?v=eAzP2QtAAag&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=9)
+[^variole]: [**Video.**  Le plus grand triomphe de l'humanité. Science4All (2020).](https://www.youtube.com/watch?v=eAzP2QtAAag&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=9)
 
 [^prochain-livre]: Ceci pourrait d'ailleurs être le sujet d'un prochain livre de Lê Nguyên Hoang... #teaser
 
-[^resoudre-ethique]: [:tv: Résolvons l'éthique ensemble !! Science4All (2021).](https://www.youtube.com/watch?v=TgB9pHZ0YPM&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=4)
+[^resoudre-ethique]: [**Video.**  Résolvons l'éthique ensemble !! Science4All (2021).](https://www.youtube.com/watch?v=TgB9pHZ0YPM&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=4)
 
 À ces mots, le public explose de joie et d'enthousiasme, alors que le vacarme laisse petit à petit place au nom de Katia, lequel est scandé en rythme par tout le stade. Seule sur scène, Katia profite de l'instant, avec un sourire radieux, et salue le public de la main. À ce moment, elle pense à tout ce que SmartPoop a accompli jusque là. Mais aussi et surtout, Katia est incroyablement enthousiasmée par la vision d'une civilisation humaine qui, grâce à Girasol, va enfin prendre le destin de sa civilisation entre ses mains.
 
