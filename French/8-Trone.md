@@ -93,6 +93,7 @@ Katia profite des applaudissements du public pour marquer une autre pause.
 
 [^quete-performance]: En 2021, la recherche académique (et plus encore l'industrie) demeure encore largement obsédée par la quête de performances ou de résultats « impressionnants », aussi bien en machine learning qu'en informatique de manière générale, en s'appuyant sur des métriques comme *l'accuracy* (la performance prédictive sur un jeu de données « classique »), le temps de calcul, le *throughput* (la quantité d'information transmise) ou la latence. Alors que les algorithmes ont déjà des effets secondaires monumentaux à l'échelle planétaire, ces recherches semblent aggraver la course à la performance, et donc le déploiement précipité de technologies mal testées et rarement auditées.  
 À titre d'exemple, voici un commentaire d'un *revieweur* anonyme de NeurIPS 2019, suite à un article soumis par Lê Nguyên Hoang et ses co-auteurs sur un algorithme pour débiaiser les biais racistes des algorithmes : « Malheureusement, je ne pense pas que le problème introduit par les auteurs est un problème qui a de la valeur pour la communauté académique ou pour les praticiens du ML. Dès lors, je ne peux pas recommander la publication de l'article. »  
+[:memo: Removing Algorithmic Discrimination (With Minimal Individual Error). vidual Error) El Mahdi El Mhamdi, Rachid Guerraoui, Lê Nguyên Hoang & Alexandre Maurer (2018).](https://arxiv.org/abs/1806.02510)  
 <!-- « Unfortunately, I don't think the problem the authors introduce is one that has value to the academic community or to ML practitioners. Given this, I can't recommend the paper for publication. »   -->
 Ceci étant dit, il y a récemment eu de nombreux progrès, comme la création de la conférence Fairness, Accountability and Transparency (FAccT), l'introduction de *guidelines éthiques* dans ces conférences, ou encore l'ajout obligatoire d'une discussion des auteurs dans leurs articles des impacts sociétaux de leur recherche.  
 [:tv: L'éthique des algorithmes en sérieux danger. Science4All (2020).](https://www.youtube.com/watch?v=Ddr-BZ9W180)
@@ -213,7 +214,13 @@ Katia s'arrête quelques secondes.
 
 Katia reprend son souffle, avant la suite de son discours.
 
-> Et si on concevait désormais des votes où la voix de chacun n'était pas réduite à une réponse binaire, donnée uniquement une fois par an ? Et si on permettait à chacun de partager toute la complexité de son jugement éthique ? Et si on parvenait à tenir compte de toute cette complexité pour décider collaborativement de l'éthique de l'information ?
+> Et si on concevait désormais des votes où la voix de chacun n'était pas réduite à une réponse binaire[^mediane-geometrique], donnée uniquement une fois par an ? Et si on permettait à chacun de partager toute la complexité de son jugement éthique ? Et si on parvenait à tenir compte de toute cette complexité pour décider collaborativement de l'éthique de l'information[^licchavi] ?
+
+[^mediane-geometrique]: L'une des solutions pour voter en grande dimension est de s'appuyer sur le principe « un électeur, une force unitaire », ce qui peut typiquement conduire à utiliser la *médiane géométrique*.  
+[:memo: On the Strategyproofness of the Geometric Median. El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui & Lê-Nguyên Hoang (2021).](https://arxiv.org/abs/2106.02394)
+
+[^licchavi]: Ceci nécessitera certainement de combiner des systèmes de scrutins avec des méthodes d'apprentissage. C'est ce que propose Licchavi.
+[:memo: Strategyproof Learning: Building Trustworthy User-Generated Datasets. Sadegh Farhadkhani, Rachid Guerraoui & Lê-Nguyên Hoang (2021)](https://arxiv.org/abs/2106.02398)
 
 Katia marque une nouvelle pause.
 
@@ -226,7 +233,7 @@ Katia change alors de ton, en prenant une voix plus grave et posée.
 
 > Mesdames et messieurs, aujourd'hui est un jour historique, car je vais vous présenter le résultat de deux ans de travail, en collaboration intime avec l'OMESA. Au moment où je parle, une nouvelle plateforme vient d'être mise en ligne, appelée girasol.app[^girasol-tournesol]. Girasol est un site web entièrement Open Source, sous licence libre[^license], qui va coordonner la conception de l'éthique de l'information, en permettant aux utilisateurs de fournir des jugements éthiques, et en utilisant des algorithmes de vote pour construire collaborativement l'éthique de l'information à partir des jugements éthiques des utilisateurs ! Le premier étage d'une éthique démocratique de l'information a été posé !
 
-[^girasol-tournesol]: Girasol n'existe pas, mais il s'agit là en fait clairement d'une référence au projet [tournesol.app](https://tournesol.app) lancé par Lê Nguyên Hoang, l'un des auteurs de ce livre. Le reste du livre décrit finalement la vision global de Tournesol. Vous trouverez beaucoup plus d'informations sur le [wiki de Tournesol](https://wiki.tournesol.app).
+[^girasol-tournesol]: Girasol n'existe pas, mais il s'agit là en fait clairement d'une référence au projet [tournesol.app](https://tournesol.app) lancé par Lê Nguyên Hoang, l'un des auteurs de ce livre. Le reste du livre décrit finalement la vision global de Tournesol. Vous trouverez beaucoup plus d'informations sur le [wiki de Tournesol](https://wiki.tournesol.app). Il est utile de noter que, surtout pour l'instant, l'objectif de Tournesol est davantage de servir de « microscope des jugements humains », c'est-à-dire d'outils de collecte de données sur ce que les humains jugent éthiquement préférables. En particulier, et entre autres, Tournesol espère ainsi détecter des consensus moraux aujourd'hui difficilement observables, faute de données.
 
 [^license]: Le code de Tournesol est sous [licence AGPL](https://www.gnu.org/licenses/agpl-3.0.en.html), tandis que la base de données publique est sous [license ODbL](https://opendatacommons.org/licenses/odbl/) (à confirmer).
 
