@@ -101,7 +101,7 @@ Finalement, après quelques semaines, Katia se rend compte qu'elle souffre. Elle
 
 ### Poo 2.0
 
-C'est alors qu'elle se souvient d'un des projets mis en suspens au moment de la mise en bourse. Ce projet visait à rendre Poo thérapeutique, en s'appuyant sur des dialogues entre psychiatres et patients, et en collaborant avec de nombreux psychiatres professionnels. Et il se trouve que Katia avait gardé une version avancée de Poo dans un serveur resté physiquement chez elle. Katia active cette version de Poo, la connecte avec ses données SmartPoop, et engage la discussion avec elle, via son téléphone.
+C'est alors qu'elle se souvient d'un des projets mis en suspens au moment de l'entrée en bourse. Ce projet visait à rendre Poo thérapeutique, en s'appuyant sur des dialogues entre psychiatres et patients, et en collaborant avec de nombreux psychiatres professionnels. Et il se trouve que Katia avait gardé une version avancée de Poo dans un serveur resté physiquement chez elle. Katia active cette version de Poo, la connecte avec ses données SmartPoop, et engage la discussion avec elle, via son téléphone.
 
 > Poo, tu m'entends ?
 

@@ -53,7 +53,7 @@ Il est également, depuis 2016, YouTubeur sur sa chaîne Risque Alpha qui possè
 Ce livre est voué à être constamment mis à jour pour le rendre plus lisible, plus crédible et plus pertinent.
 Nous invitons nos lecteurs en particulier à proposer des corrections, typographiques ou au niveau de l'histoire.
 Notez toutefois que les auteurs Lê Nguyên Hoang et Tristan Le Magoarou auront le dernier mot sur la version disponible sur ce github, et qu'ils travaillent dessus en tant que bénévoles.
-Notez que la [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) autorisent n'importe qui à réutiliser et adapter le livre à leur guise, à condition de mentionner la version originale du livre et ses auteurs.
+Notez que la [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) autorise n'importe qui à réutiliser et adapter le livre à leur guise, à condition de mentionner la version originale du livre et ses auteurs.
 Nous encourageons de tels efforts, et nous nous tenons à votre disposition pour tout projet de ce genre.
 
 
