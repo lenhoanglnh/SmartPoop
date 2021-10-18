@@ -152,9 +152,12 @@ Après trois ou quatre rencontres, Célia invite cette fois Marie dans un bar, e
 
 Après un long silence, Marie avoue : « ma soeur a avorté en juin 2025 ». Une tempête cérébrale agite alors les neurones de Célia, alors que toutes les pièces du puzzle se mettent en place, et que le brouillard s'éclaircit.
 
-> C'est donc ça. Les industries Kormicaines ont certainement réussi à mettre la main sur des données SmartPoop de ta soeur. Et clairement, avec l'urine, il est possible de savoir si ta soeur est enceinte[^test-grossesse], et si elle cesse prématurément d'être enceinte ! Ils ont alors deviné qu'elle a effectué une interruption volontaire de grossesse. Or, si cela se sait, toute la communication anti-avortement du Président Lartan devient subitement décrédibilisée, et sa carrière est finie. Les industries Kormicaines ont certainement exigé que le Président Lartan sorte des accords de la COP 31, pour éviter un tel scandale. Wow !! C'est une énorme affaire !
+> C'est donc ça. Les industries Kormicaines ont certainement réussi à mettre la main sur des données SmartPoop de ta soeur. Et clairement, avec l'urine, il est possible de savoir si ta soeur est enceinte[^test-grossesse], et si elle cesse prématurément d'être enceinte ! Ils ont alors deviné qu'elle a effectué une interruption volontaire de grossesse. Or, si cela se sait, toute la communication anti-avortement du Président Lartan devient subitement décrédibilisée, et sa carrière est finie[^donnees-personnelles]. Les industries Kormicaines ont certainement exigé que le Président Lartan sorte des accords de la COP 31, pour éviter un tel scandale. Wow !! C'est une énorme affaire !
 
 [^test-grossesse]: [**Video.**  How do pregnancy tests work? - Tien Nguyen. TED-Ed (2015).](https://www.youtube.com/watch?v=aOfWTscU8YM)
+
+[^donnees-personnelles]: Ce que cet exemple montre à merveille, c'est à quel point les données personnelles n'ont rien de si « personnelles » ! En effet, la révélation de ces données a souvent des répercussions majeures, non seulement sur la personne qui « possède » ces données (ou disons, à laquelle ces données sont associées, selon la loi, ou selon une plateforme qui héberge ces données), mais aussi sur de nombreuses autres personnes liées directement ou indirectement à ces données. C'est le cas ici du Président Lartan qui, bien qu'il ne « possède » pas les données « personnelles » de sa femme, est en fait aussi vulnérable à la publication de ces données que sa femme. De façon similaire, une photographie révèle des informations sur toutes les personnes présentes sur la photographie, pas uniquement sur la personne qui possède l'appareil ayant pris la photographie ; et elle peut même révéler des informations sur des personnes absentes de la photographie (par exemple, si on sait que, le jour de la photo, untel traînait avec la personne ayant pris la photo, et si la photo est une photo d'un lieu donné, alors on peut aisément deviner qu'untel était probablement sur le lieu donné aussi). De même, un email écrit par A à B révèle en fait également des informations sur B. Pire encore, la séquence ADN d'un individu révèle en fait des données sur toute sa famille biologique... mais aussi sur de la famille très éloignée !  
+[:tv: Catching Criminals Using Their Relative's DNA. Veritasium (2021).](https://www.youtube.com/watch?v=KT18KJouHWg)
 
 > Célia, je t'en supplie, ne le dit pas publiquement. Même si je suis choquée par ce qu'elle a fait, je ne veux pas que ma soeur soit humiliée publiquement et roulée dans la boue. Une telle humiliation personnelle aurait des répercussions énormes sur sa santé mentale déjà fragile, sans compter ses enfants, et toute sa famille y compris mes propres enfants. S'il te plaît, il y a de nombreuses vies en jeu[^cyberbullying-depression].
 
@@ -237,7 +240,7 @@ Pour la sécurité de tous, il est sans doute urgent d'établir une convention i
 
 > Je vous inviterais à en faire.
 
-> Madame Keita, je vous assure que nous faisons de notre mieux pour protéger nos utilisateurs et leurs données. 
+> Madame Keita, je vous assure que nous faisons de notre mieux pour protéger nos utilisateurs et leurs données.
 
 > Si vous faisiez de votre mieux, vous permettriez l'audit externe de vos algorithmes.
 
