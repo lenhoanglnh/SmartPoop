@@ -17,7 +17,7 @@ Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et
 [Chapitre 7 — On se fait dessus](7-Psy.md)  
 [Chapitre 8 — Sur le trône](8-Trone.md)  
 
-## Pourquoi ce livre ?
+## Pourquoi ce livre ?
 
 *SmartPoop* est une science-fiction très réaliste,
 qui vise à sensibiliser au danger des algorithmes et aux défis de les rendres [robustement bénéfiques](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier).

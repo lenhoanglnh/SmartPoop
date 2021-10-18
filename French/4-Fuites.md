@@ -3,14 +3,14 @@
 C'est un séisme. Contre toute attente, le 4 septembre 2025, Jules Lartan, Président du Bokistan, décide de sortir son pays de la COP 31, la conférence internationale des parties sur les mesures à prendre pour lutter contre le changement climatique[^cop]. Pâle et visiblement épuisé, il tient le discours suivant devant la presse.
 
 [^cop]: La COP est une conférence annuelle internationale qui vise à s'attaquer aux questions environnementales.  
-[**Video.**  C'est quoi, une COP ? Le tour de la question. La Croix (2017).](https://www.youtube.com/watch?v=eiLufebdm-M)
+[**Video.**  C'est quoi, une COP ? Le tour de la question. La Croix (2017).](https://www.youtube.com/watch?v=eiLufebdm-M)
 
 > C'est une décision difficile. Le changement climatique est une menace sérieuse au futur de l'humanité. Cependant, les exigences de nos partenaires internationaux sont injustement disproportionnées[^accord-environnemental]. À cause de notre succès économique, beaucoup trop de ces partenaires nous identifient systématiquement comme étant la seule cause du dérèglement climatique actuel, ce qui les conduit à exiger du Bokistan des sacrifices déraisonnables. Les Bokistanais sont un peuple qui ne méritent pas un tel jugement, ni un tel mépris. J'ai ainsi préféré protéger les nôtres, plutôt que de succomber à la tyrannie pseudo-morale de nos partenaires internationaux. Nous persisterons à combattre le changement climatique. Cependant, nous le ferons avec calme et enthousiasme, et avec notre propre souveraineté ; pas selon le bon vouloir de nos partenaires. Vive le Bokistan libre.
 
 [^accord-environnemental]: [**Video.**  Paris climate talks: Global problem, global deal. Nature video (2015).](https://www.youtube.com/watch?v=J5ywnmRkDok)  
 [**Video.**  Rich vs. Poor: Who Should Pay To Fix Climate Change? | Hot Mess (2018).](https://www.youtube.com/watch?v=IssNa3f47mA)
 
-Devant sa télévision, Célia Keita n'en croit pas ses oreilles. Cette journaliste d'investigation a suivi de près les débats en amont de la COP 31. Si le Président Lartan n'y a pas eu un rôle moteur, il semblait toutefois loin d'être réticent aux négociations pour lutter contre le changement climatique. Après tout, sa propre campagne présidentielle insistait beaucoup sur les valeurs familiales, et l'importance de préparer au mieux le futur des prochaines générations en luttant contre le changement climatique. D'ailleurs ses positions anti-avortement et anti-euthanasie étaient justifiées par l'importance de rétablir à la Nature ses droits[^clivage-gauche-droite]. Comment a-t-il pu en venir à un tel volte-face ?
+Devant sa télévision, Célia Keita n'en croit pas ses oreilles. Cette journaliste d'investigation a suivi de près les débats en amont de la COP 31. Si le Président Lartan n'y a pas eu un rôle moteur, il semblait toutefois loin d'être réticent aux négociations pour lutter contre le changement climatique. Après tout, sa propre campagne présidentielle insistait beaucoup sur les valeurs familiales, et l'importance de préparer au mieux le futur des prochaines générations en luttant contre le changement climatique. D'ailleurs ses positions anti-avortement et anti-euthanasie étaient justifiées par l'importance de rétablir à la Nature ses droits[^clivage-gauche-droite]. Comment a-t-il pu en venir à un tel volte-face ?
 
 [^clivage-gauche-droite]: On peut remarquer que le clivage politique du Bokistan ne semble pas coïncider avec celui des États-Unis ou de la France, où les positions anti-avortement et anti-euthanasie sont corrélées avec des positions conservatrices, mais aussi capitalistes et peu enclines à combattre le changement climatique. Il est intéressant de se demander s'il y a une raison philosophique fondamentale qui justifie ces corrélations, ou s'il s'agit d'une coïncidence issue du bipolarisme politique auquel nos scrutins uninominaux nous poussent.  
 [**Video.**  Nos démoracties divisent. Science4All (2017).](https://www.youtube.com/watch?v=UIQki2ETZhY&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX&index=2)
@@ -49,7 +49,7 @@ Sous le choc, Célia s'enferme chez elle. Elle est alors incapable de travailler
 [^depression-instagram]: Le podcast suivant raconte une histoire similaire, dans le cas d'une dépression suite à une utilisation obsessive d'Instagram.  
 [**Podcast.**  The Facebook Files, Part 2: 'We Make Body Image Issues Worse'. The Journal (2021).](https://www.wsj.com/podcasts/the-journal/the-facebook-files-part-2-we-make-body-image-issues-worse/c2c4d7ba-f261-4343-8d18-d4de177cf973)
 
-Plusieurs mois plus tard, après avoir lu un article terrifiant sur les campagnes de désinformation organisées[^desinformation], Célia se demande enfin si elle en a été une victime. Et si, en plus de produire et de promouvoir de la désinformation via des faux comptes[^faux-comptes], ces campagnes cherchaient aussi à taire certaines informations, en harcelant les journalistes qui s'y intéressent[^violence-contre-journalistes-femmes] ? Si tel a été leur objectif, ces campagnes ont réussi. Voilà maintenant 6 mois que Célia a suspendu son investigation !
+Plusieurs mois plus tard, après avoir lu un article terrifiant sur les campagnes de désinformation organisées[^desinformation], Célia se demande enfin si elle en a été une victime. Et si, en plus de produire et de promouvoir de la désinformation via des faux comptes[^faux-comptes], ces campagnes cherchaient aussi à taire certaines informations, en harcelant les journalistes qui s'y intéressent[^violence-contre-journalistes-femmes] ? Si tel a été leur objectif, ces campagnes ont réussi. Voilà maintenant 6 mois que Célia a suspendu son investigation !
 
 [^desinformation]: La désinformation organisée est un acte volontaire de manipulation de l'information qui sera reçue par le grand public. Sur les réseaux sociaux, elle peut consister à produire des fausses informations, ou à la relayer, mais aussi à trouver d'autres moyens d'actions pour taire les informations que la désinformation organisée ne veut pas voir partagée.  
 [**Video.**  Who is Manipulating Facebook? - Smarter Every Day (2019).](https://www.youtube.com/watch?v=FY_NtO7SIrY)
@@ -77,13 +77,13 @@ De façon générale, la théorie de la *confidentialité différentielle* (diff
 
 En cherchant désormais ce nom et ce prénom sur Google, Célia découvre qu'ils appartiennent à un auto-entrepreneur en menuiserie, dont le numéro de téléphone est accessible. Tel pourrait être le numéro de son harceleur. Célia respire alors un grand coup, et compose ce numéro sur son téléphone.
 
-> Allô, bonjour, Paul Gremoux ?
+> Allô, bonjour, Paul Gremoux ?
 
 > Oui c'est moi.
 
 > Excellent, j'aimerais vous poser quelques questions.
 
-> Qui est à l'appareil ?
+> Qui est à l'appareil ?
 
 > Avant que je ne vous dise qui je suis, j'aimerais vraiment insister sur le fait que je ne vous veux pas de mal. Je suis prête à protéger votre anonymat si vous répondez à mes questions et si vous le désirez.
 
@@ -93,7 +93,7 @@ En cherchant désormais ce nom et ce prénom sur Google, Célia découvre qu'ils
 
 > D'accord.
 
-> Excellent. Je sais que vous tenez le compte Twitter @rwqg[^rwqg]. Ma question est la suivante : est-ce que vous travaillez pour une campagne de désinformation ? Et si oui, qu'est-ce qui vous a amené à accepter ce travail ?
+> Excellent. Je sais que vous tenez le compte Twitter @rwqg[^rwqg]. Ma question est la suivante : est-ce que vous travaillez pour une campagne de désinformation ? Et si oui, qu'est-ce qui vous a amené à accepter ce travail ?
 
 [^rwqg]: Ce [compte](https://twitter.com/rwqg), dont le nom a été choisi ici au hasard, est actuellement suspendu sur Twitter (en octobre 2021).
 
@@ -111,13 +111,13 @@ En cherchant désormais ce nom et ce prénom sur Google, Célia découvre qu'ils
 
 > Merci beaucoup pour vos réponses. Je ne compte pas poursuivre mes plaintes contre vous. Je garderai votre histoire secrète. Je vous le promets. Je vous demanderais juste de me transférer cet email à mon adresse celia.keita@journal-laterre.com[^email-celia]. Merci.
 
-[^email-celia]: N'utilisez pas cette adresse email en vrai ! Elle n'a été insérée ici que pour rendre le récit réaliste.
+[^email-celia]: N'utilisez pas cette adresse email en vrai ! Elle n'a été insérée ici que pour rendre le récit réaliste.
 
 > Merci infiniment à vous. Et toutes mes excuses à nouveau.
 
 ### L'inflitration
 
-Quelques minutes plus tard, Célia reçoit l'email transféré par Pau. L'email original, qui contient le chantage, a été envoyé depuis l'adresse foeqm@kinstova.com[^email-kinstova]. Le nom de domaine @kinstova.com correspond alors à un serveur dans un pays étranger, la Kormique. Ce pays est aussi bien connu pour son industrie pétrolière. Se pourrait-il que la campagne de désinformation ait été organisée par l'une de ces industries, pour freiner les réglementations contre ces industries ? Se pourrait-il que cette campagne se soit aussi attaquée au Président Lartan ? Et si le Président était l'objet d'un chantage similaire à celui de Paul Gremoux ?
+Quelques minutes plus tard, Célia reçoit l'email transféré par Pau. L'email original, qui contient le chantage, a été envoyé depuis l'adresse foeqm@kinstova.com[^email-kinstova]. Le nom de domaine @kinstova.com correspond alors à un serveur dans un pays étranger, la Kormique. Ce pays est aussi bien connu pour son industrie pétrolière. Se pourrait-il que la campagne de désinformation ait été organisée par l'une de ces industries, pour freiner les réglementations contre ces industries ? Se pourrait-il que cette campagne se soit aussi attaquée au Président Lartan ? Et si le Président était l'objet d'un chantage similaire à celui de Paul Gremoux ?
 
 [^email-kinstova]: Même remarque que pour l'adresse email de Célia.
 
@@ -128,11 +128,11 @@ Pour le savoir, Célia cherche à se rapprocher de Marie Routisse, la soeur de l
 
 Après trois ou quatre rencontres, Célia invite cette fois Marie dans un bar, et la pousse à la consommation d'alcool. En fin de soirée, elle en vient enfin au sujet qui l'intéresse.
 
-> C'est vraiment difficile d'être une femme professionnelle tout en ayant une vie de famille. Je suis sûre que si ta sœur ne cherchait pas à être une bonne mère de famille, c'est elle qui serait Présidente, non ?
+> C'est vraiment difficile d'être une femme professionnelle tout en ayant une vie de famille. Je suis sûre que si ta sœur ne cherchait pas à être une bonne mère de famille, c'est elle qui serait Présidente, non ?
 
 > Ouais, je ne suis pas sûre que ma sœur soit une si bonne mère de famille...
 
-> Comment ça ?
+> Comment ça ?
 
 > Non, mais t'es une journaliste. Je ne devrais pas te le dire.
 
@@ -150,9 +150,9 @@ Après trois ou quatre rencontres, Célia invite cette fois Marie dans un bar, e
 [**Video.**  Comment le réchauffement climatique va bouleverser l'humanité (ft. Le Réveilleur). Le Monde (2021).](https://www.youtube.com/watch?v=8nzRXxPnlPQ)  
 [**Video.**  97% of Climate Scientists Really Do Agree. It's Okay To Be Smart (2018).](https://www.youtube.com/watch?v=LnnDOMyZjbE)
 
-Après un long silence, Marie avoue : « ma soeur a avorté en juin 2025 ». Une tempête cérébrale agite alors les neurones de Célia, alors que toutes les pièces du puzzle se mettent en place, et que le brouillard s'éclaircit.
+Après un long silence, Marie avoue : « ma soeur a avorté en juin 2025 ». Une tempête cérébrale agite alors les neurones de Célia, alors que toutes les pièces du puzzle se mettent en place, et que le brouillard s'éclaircit.
 
-> C'est donc ça. Les industries Kormicaines ont certainement réussi à mettre la main sur des données SmartPoop de ta soeur. Et clairement, avec l'urine, il est possible de savoir si ta soeur est enceinte[^test-grossesse], et si elle cesse prématurément d'être enceinte ! Ils ont alors deviné qu'elle a effectué une interruption volontaire de grossesse. Or, si cela se sait, toute la communication anti-avortement du Président Lartan devient subitement décrédibilisée, et sa carrière est finie. Les industries Kormicaines ont certainement exigé que le Président Lartan sorte des accords de la COP 31, pour éviter un tel scandale. Wow !! C'est une énorme affaire !
+> C'est donc ça. Les industries Kormicaines ont certainement réussi à mettre la main sur des données SmartPoop de ta soeur. Et clairement, avec l'urine, il est possible de savoir si ta soeur est enceinte[^test-grossesse], et si elle cesse prématurément d'être enceinte ! Ils ont alors deviné qu'elle a effectué une interruption volontaire de grossesse. Or, si cela se sait, toute la communication anti-avortement du Président Lartan devient subitement décrédibilisée, et sa carrière est finie. Les industries Kormicaines ont certainement exigé que le Président Lartan sorte des accords de la COP 31, pour éviter un tel scandale. Wow !! C'est une énorme affaire !
 
 [^test-grossesse]: [**Video.**  How do pregnancy tests work? - Tien Nguyen. TED-Ed (2015).](https://www.youtube.com/watch?v=aOfWTscU8YM)
 
@@ -160,25 +160,25 @@ Après un long silence, Marie avoue : « ma soeur a avorté en juin 2025 ». Une
 
 [^cyberbullying-depression]: [**Paper.**  Depression high among youth victims of school cyber bullying, NIH researchers report. NIH (2010).](https://www.nih.gov/news-events/news-releases/depression-high-among-youth-victims-school-cyber-bullying-nih-researchers-report)
 
-> Marie, tu as ma parole. Mais je ne peux pas non plus ne pas révéler cette affaire. Le changement climatique menace lui aussi la vie de tes enfants. Je vais réfléchir à la meilleure façon d'avancer, avec ton avis. Mais on ne peut pas laisser des industries Kormicaines manipuler ainsi l'homme le plus puissant de notre pays ! Il faut que tu m'aides à arranger une rencontre avec le Président.
+> Marie, tu as ma parole. Mais je ne peux pas non plus ne pas révéler cette affaire. Le changement climatique menace lui aussi la vie de tes enfants. Je vais réfléchir à la meilleure façon d'avancer, avec ton avis. Mais on ne peut pas laisser des industries Kormicaines manipuler ainsi l'homme le plus puissant de notre pays ! Il faut que tu m'aides à arranger une rencontre avec le Président.
 
 ### Le dilemme du Président
 
 Quelques jours plus tard, Célia reçoit un appel du Président Lartan. Le Président l'invite à discuter dans son palais présidentiel, à l'abri de toute écoute de quiconque. Le soir même, Célia se rend au palais, et est reçue par le Président.
 
-> Merci pour votre temps et votre attention. Je commence par vous demander : êtes-vous sûr que nous pouvons parler en sécurité ici, sans risquer d'être entendus ou enregistrés ?
+> Merci pour votre temps et votre attention. Je commence par vous demander : êtes-vous sûr que nous pouvons parler en sécurité ici, sans risquer d'être entendus ou enregistrés ?
 
 > Oui, madame Keita, nous pouvons parler en toute sécurité[^surveillance].
 
-[^surveillance]: Il est en fait désormais sans doute impossible, surtout pour un Président, de garantir qu'une discussion n'aura pas lieu sous écoute. Bien entendu, les téléphones écoutent en permanence, à l'affût d'un « OK Google » ou d'un « Hey Siri », et ils peuvent être hackés, comme on l'a vu dans l'affaire Pegasus. En plus de cela, un microphone peut aisément être caché dans une pièce. De façon plus surprenante encore, le son peut parfois être reconstruit à partir d'une simple vidéo, qui analyse les vibrations d'objets légers comme un paquet de chips.  
+[^surveillance]: Il est en fait désormais sans doute impossible, surtout pour un Président, de garantir qu'une discussion n'aura pas lieu sous écoute. Bien entendu, les téléphones écoutent en permanence, à l'affût d'un « OK Google » ou d'un « Hey Siri », et ils peuvent être hackés, comme on l'a vu dans l'affaire Pegasus. En plus de cela, un microphone peut aisément être caché dans une pièce. De façon plus surprenante encore, le son peut parfois être reconstruit à partir d'une simple vidéo, qui analyse les vibrations d'objets légers comme un paquet de chips.  
 [**Video.**  Can You Recover Sound From Images? Veritasium (2019).](https://www.youtube.com/watch?v=eUzB0L0mSCI)
 
 > Marie vous l'a sans doute dit. Je sais que des entités externes sont en train de vous faire chanter, parce qu'elles savent que votre femme a eu une interruption volontaire de grossesse. Je sais qu'elles vous ont demandé en particulier de vous retirer de la COP 31. Je sais à quel point la situation doit être difficile pour vous et pour votre famille. Et j'ai promis à Marie de ne rien divulguer sans son accord. Néanmoins, je vous supplie de considérer l'ampleur de la vulnérabilité que ce chantage représente[^pegasus]. Vous êtes l'homme le plus puissant du Bokistan[^caviar-connection].
 
 [^pegasus]: Le cas de l'affaire Pegasus montre l'ampleur de telles attaques par espionnage des dirigeants politiques dans le monde moderne. Pegasus est un *spyware*, c'est-à-dire un algorithme, qui peut être utilisé pour infecter un téléphone cible, et surveiller tout ce que ce téléphone fait. Pegasus est développé par le groupe NSO en Israël, et l'on sait que de nombreux services de renseignement à travers le monde l'ont utilisé pour espionner de nombreux journalistes, militants et dirigeants politiques.  
-[**Video.**  Comment PIRATER Jeff Bezos avec un même ? (histoire vraie). Micode (2021).](https://www.youtube.com/watch?v=hZbVW04Ohjk)  
+[**Video.**  Comment PIRATER Jeff Bezos avec un même ? (histoire vraie). Micode (2021).](https://www.youtube.com/watch?v=hZbVW04Ohjk)  
 Le Président français Emmanuel Macron semble avoir été ciblé par les services marocains. De façon étonnante, le gouvernement français n'a pas accablé les services marocains, ce qui peut laisser croire que les services marocains ont effectivement des informations compromettantes qui leur permettent de faire chanter ce gouvernement.  
-[**Website.**  « Projet Pegasus » : l'exécutif se mure dans le silence malgré le ciblage d'Emmanuel Macron par le Maroc. Olivia Faye. Le Monde (2021).](https://www.lemonde.fr/politique/article/2021/07/29/projet-pegasus-l-executif-se-mure-dans-le-silence-malgre-le-ciblage-d-emmanuel-macron-par-le-maroc_6089858_823448.html)  
+[**Website.**  « Projet Pegasus » : l'exécutif se mure dans le silence malgré le ciblage d'Emmanuel Macron par le Maroc. Olivia Faye. Le Monde (2021).](https://www.lemonde.fr/politique/article/2021/07/29/projet-pegasus-l-executif-se-mure-dans-le-silence-malgre-le-ciblage-d-emmanuel-macron-par-le-maroc_6089858_823448.html)  
 Le journal *Le Point* révèle que 5 ministres français ont été infectés par ce logiciel. Ceci soulève sérieusement le risque que les démocraties modernes sont aujourd'hui largement hackées par des entités malveillantes capables de les faire chanter comme elles le souhaitent.  
 [**Website.**  Les téléphones de 5 ministres français infectés par le logiciel espion Pegasus. Le Point (2021).](https://www.lepoint.fr/politique/les-telephones-de-5-ministres-francais-infectes-par-le-logiciel-espion-pegasus-24-09-2021-2444563_20.php)
 
@@ -195,12 +195,12 @@ Célia marque un silence, alors que le Président continue de pleurer.
 
 > Monsieur le Président, dans le film Spiderman, quand on lui demande de choisir entre sa copine et un bus d'étudiants, Peter Parker choisit de sauver sa copine, et trouve le temps de venir aussi en aide au bus d'étudiants[^dilemme-lartan]. Mais... Mais nous ne sommes pas dans un film de superhéros. Vous ne pourrez pas sauver le changement climatique et le secret de votre femme. Vous devez faire un choix. Le futur des prochaines générations est en jeu, Monsieur le Président. Sachez que je vous fais confiance pour faire ce qui doit être fait.
 
-[^dilemme-lartan]: Cet exemple est utilisé par Monsieur Phi dans une vidéo où il insiste sur le fait que le dilemme auquel est confronté au Président Lartan n'est pas un dilemme entre deux fondements de la morale, qui opposerait par exemple l'utilitarisme à la déontologie. Il s'agit en fait davantage d'un dilemme entre une morale globale, qui favoriserait le bus d'étudiants, et une préférence individuelle, qui favoriserait les proches comme la copine de Peter Parker. Ou dit autrement, dans cette situation, faut-il faire ce qu'on préfère pour nous, ou ce que la plupart des gens préfèreraient qu'on fasse ?  
-[**Video.**  Encore plus utilitariste ? Monsieur Phi (2017).](https://www.youtube.com/watch?v=y2l8lxi-9aY)
+[^dilemme-lartan]: Cet exemple est utilisé par Monsieur Phi dans une vidéo où il insiste sur le fait que le dilemme auquel est confronté au Président Lartan n'est pas un dilemme entre deux fondements de la morale, qui opposerait par exemple l'utilitarisme à la déontologie. Il s'agit en fait davantage d'un dilemme entre une morale globale, qui favoriserait le bus d'étudiants, et une préférence individuelle, qui favoriserait les proches comme la copine de Peter Parker. Ou dit autrement, dans cette situation, faut-il faire ce qu'on préfère pour nous, ou ce que la plupart des gens préfèreraient qu'on fasse ?  
+[**Video.**  Encore plus utilitariste ? Monsieur Phi (2017).](https://www.youtube.com/watch?v=y2l8lxi-9aY)
 
 C'est sur ces mots que Célia quitte le Président Lartan. Le lendemain, le Président prend la parole dans une conférence de presse, où il annonce sa démission. Il révèle également son chantage et la cause du chantage, et affirme son soutien inconditionnel à sa femme. Il présente enfin ses excuses les plus profondes, et supplie tous les journalistes et politiciens de lui en vouloir à lui, mais pas à sa femme.
 
-Le lendemain, le vice-président reprendra la place de Lartan. Sa première mesure est de réintégrer le Bokistan dans la COP 31. Grâce à son travail d'investigation, Célia a relancé la plus grande initiative au monde pour le climat !
+Le lendemain, le vice-président reprendra la place de Lartan. Sa première mesure est de réintégrer le Bokistan dans la COP 31. Grâce à son travail d'investigation, Célia a relancé la plus grande initiative au monde pour le climat !
 
 ### L'ultimatum de Célia
 
@@ -209,25 +209,25 @@ Cependant, Célia sait que ce qui est arrivé au Président Lartan peut désorma
 [^putin-calls]: De façon surprenante, en 2020, Vladimir Poutine a appelé à un accord pour limiter les cyber-attaques entre différents pays, alors même que la Russie a été reconnue comme l'auteur de beaucoup de ces attaques. Ceci suggère que même les auteurs de ces attaques sentent qu'elles finiront par tout déstabiliser, y compris eux-mêmes.  
 [**Website.**  Putin says Russia and U.S. should agree not to meddle in each other's elections. Reuters (2020).](https://www.reuters.com/article/uk-russia-usa-putin-idUKKCN26G1OM)  
 Pour la sécurité de tous, il est sans doute urgent d'établir une convention internationale qui, à l'instar des armes chimiques, biologiques et autonomes, interdirait aussi les cyber-attaques, tant celles-ci mettent en danger des millions de vies, voire des milliards de vies à travers le monde.  
-[**Video.**  Pourquoi faut-il bannir les armes autonomes ? | The Flares (2019).](https://www.youtube.com/watch?v=H73E5OesA3Y)
+[**Video.**  Pourquoi faut-il bannir les armes autonomes ? | The Flares (2019).](https://www.youtube.com/watch?v=H73E5OesA3Y)
 
 > Bonjour Docteure Carpinski, ici Célia Keita, journaliste d'investigation chez La Terre.
 
-> Bonjour Madame Keita, que puis-je faire pour vous ?
+> Bonjour Madame Keita, que puis-je faire pour vous ?
 
-> Je vous appelle car j'ai identifié des cas de chantage à partir de données SmartPoop. En particulier, je tiens de source fiable que le chantage du Président Lartan s'appuie sur la détection de la grossesse de sa femme à partir des données SmartPoop. J'aimerais en savoir plus sur la sécurité de vos données. Pensez-vous qu'une industrie étrangère ait pu hacker vos serveurs et récupérer des données ?
+> Je vous appelle car j'ai identifié des cas de chantage à partir de données SmartPoop. En particulier, je tiens de source fiable que le chantage du Président Lartan s'appuie sur la détection de la grossesse de sa femme à partir des données SmartPoop. J'aimerais en savoir plus sur la sécurité de vos données. Pensez-vous qu'une industrie étrangère ait pu hacker vos serveurs et récupérer des données ?
 
 > C'est impossible, affirme Katia, tout en devenant pâle elle-même. Notre infrastructure repose sur les technologies de sécurité informatique les plus abouties qui soient.
 
-> Est-ce que vous pouvez vérifier les données de la femme du Président ?
+> Est-ce que vous pouvez vérifier les données de la femme du Président ?
 
 > Oui, dans le cadre d'un audit de sécurité, c'est possible. Cependant, la loi sur la protection des données personnelles m'interdit de partager les résultats de l'audit avec vous.
 
-> Je comprends. Je me demandais par ailleurs. Effectuez-vous des audits externes de la sécurité de vos algorithmes ?
+> Je comprends. Je me demandais par ailleurs. Effectuez-vous des audits externes de la sécurité de vos algorithmes ?
 
 > Nous avons des mesures d'inclusion et de diversité, qui visent à soulever les problèmes éthiques de nos produits.
 
-> Docteure Crapinski, vous ne répondez pas à ma question. Permettez-vous à des entités externes d'effectuer ce travail ?
+> Docteure Crapinski, vous ne répondez pas à ma question. Permettez-vous à des entités externes d'effectuer ce travail ?
 
 > Nous avons des collaborations avec de nombreuses entreprises d'audit externe.
 
@@ -251,35 +251,35 @@ Pour la sécurité de tous, il est sans doute urgent d'établir une convention i
 
 Juste après avoir raccroché, Katia court dans le bureau de Marc. Elle est visiblement extrêmement préoccupée.
 
-> À quel point t'es confiant sur la sécurité de nos données ?
+> À quel point t'es confiant sur la sécurité de nos données ?
 
 > Je ne sais pas Katia, c'est toi l'experte en informatique parmi nous.
 
 > Je viens de parler avec une journaliste. Elle affirme que le scandale Lartan a commencé avec une fuite des données SmartPoop de la femme du Président. Elle prétend avoir des sources fiables, et ça m'a l'air sérieux. Si c'est vrai et si ça leake, on va passer des mois très difficiles.
 
-> Attends, t'es sérieuse ? On a fuité les données de la femme du Président Lartan ?
+> Attends, t'es sérieuse ? On a fuité les données de la femme du Président Lartan ?
 
 > C'est ce qu'elle prétend. Ou plutôt, que quelqu'un nous les a volées.
 
-> C'est possible ?
+> C'est possible ?
 
 > Le plus probable, je pense, ça reste que la femme du Président a fait n'importe quoi, et qu'elle a envoyé un email à Y en pensant l'envoyer à X, ou qu'elle a été victime de je ne sais trop quelle autre arnaque par phishing ou par pièce jointe piégée. Ou peut-être encore que son téléphone s'est fait hacker. Les vulnérabilités imaginables sont très nombreuses.
 
-> Attends... Mais donc, la sortie de la COP 31, c'est lié à ça ?
+> Attends... Mais donc, la sortie de la COP 31, c'est lié à ça ?
 
 > Je n'en sais rien. Je n'y ai pas réfléchi. Mais c'est vrai que la journaliste a parlé de chantage.
 
-> Katia, tu te rends compte des conséquences géopolitiques du leak de nos données ?
+> Katia, tu te rends compte des conséquences géopolitiques du leak de nos données ?
 
 > Oui. Et si la journaliste en parle, ça risque de faire des gros dégâts pour SmartPoop. On risque de perdre la confiance des utilisateurs. Et si on perd la confiance des utilisateurs, on perdra celle de nos investisseurs. On risque de devoir fermer des branches, perdre des parts de marché et peut-être pire.
 
-> Katia, oublie SmartPoop quelques instants. On parle quand même du Président du Bokistan, le mec qui a fait capoter la COP 31 !
+> Katia, oublie SmartPoop quelques instants. On parle quand même du Président du Bokistan, le mec qui a fait capoter la COP 31 !
 
 > La journaliste a l'air toutefois très raisonnable. On peut essayer de lui montrer patte blanche, et faire en sorte que l'article ne soit pas trop violent pour nous.
 
-> Katia, tu ne te rends pas compte que la sécurité nationale du Bokistan est en jeu ? En fait, non, la sécurité de tous les états au monde est en jeu. C'est le futur de toute l'humanité qui est à risque !
+> Katia, tu ne te rends pas compte que la sécurité nationale du Bokistan est en jeu ? En fait, non, la sécurité de tous les états au monde est en jeu. C'est le futur de toute l'humanité qui est à risque !
 
-> Comment ça ?
+> Comment ça ?
 
 > Tant que les données SmartPoop ne seront pas sécurisées, il faut s'attendre à ce que ce genre de manipulations de dirigeants devienne la norme. C'est terrifiant.
 
@@ -287,15 +287,15 @@ Katia reste songeuse. Visiblement, elle pense encore avant tout à sauver SmartP
 
 > Et Katia, ça ne se limite pas qu'à des affaires de chantages, poursuit Marc. Imagine qu'un pays parvienne à récupérer les données SmartPoop d'un autre pays. S'il arrive à anticiper une épidémie dans l'autre pays, il peut interrompre la chaîne de production des traitements contre l'épidémie, et ainsi provoquer une crise dans l'autre pays. La sécurité des données médicales, c'est vraiment très important. Sans compter les prix des assurances, la discrimination envers les malades et les outings familiaux imprévus. Il faut vraiment qu'on fasse gaffe à cela.
 
-> Je vois. Mais comment on se protège ?
+> Je vois. Mais comment on se protège ?
 
 > Il faut un audit externe monumental de tout notre code informatique.
 
-> Un audit complet ? Ça va nous coûter des milliards !
+> Un audit complet ? Ça va nous coûter des milliards !
 
 > C'est un petit prix à pays pour le futur de l'humanité.
 
-> Non mais en fait, non. Auditer tout notre code, ça va coûter même beaucoup, beaucoup plus ! Je sais qu'il y a une banque australienne qui a payé 750 millions de dollars pour refaire le système informatique[^cobol]. Et ça, c'est une petite banque, et leur service est des ordres de grandeur plus simple que SmartPoop. Je pense qu'on parle là en dizaines, voire en centaines de milliards de dollars.
+> Non mais en fait, non. Auditer tout notre code, ça va coûter même beaucoup, beaucoup plus ! Je sais qu'il y a une banque australienne qui a payé 750 millions de dollars pour refaire le système informatique[^cobol]. Et ça, c'est une petite banque, et leur service est des ordres de grandeur plus simple que SmartPoop. Je pense qu'on parle là en dizaines, voire en centaines de milliards de dollars.
 
 [^cobol]: [**Website.**  Banks scramble to fix old systems as IT 'cowboys' ride into sunset. Anna Irrera. Reuters (2017).](https://www.reuters.com/article/us-usa-banks-cobol/banks-scramble-to-fix-old-systems-as-it-cowboys-ride-into-sunset-idUSKBN17C0D8)
 
@@ -303,7 +303,7 @@ Katia reste songeuse. Visiblement, elle pense encore avant tout à sauver SmartP
 
 ### L'audit de SmartPoop
 
-Un mois plus tard, SmartPoop publie un rapport de sécurité informatique. Ce rapport explique l'adoption d'une nouvelle mesure de protection des données personnelles, fondée sur le chiffrement homomorphe. Cette technologie cryptographique permet ainsi à des utilisateurs de participer à l'amélioration des algorithmes de SmartPoop, sans que SmartPoop n'ait jamais accès aux données en clair des utilisateurs. Plus précisément, quand l'utilisateur collecte des données via son smartphone ou ses toilettes, ces données sont automatiquement chiffrées, avec une clé dont seul l'utilisateur dispose. Néanmoins, ce chiffrement est effectué de telle manière que SmartPoop pourra apprendre de ces données, quand bien même SmartPoop ne pourra jamais déchiffrer ces données[^homomorphic-learning]. Ainsi, les données personnelles sont protégées contre SmartPoop même, ce qui empêche SmartPoop d'être une vulnérabilité !
+Un mois plus tard, SmartPoop publie un rapport de sécurité informatique. Ce rapport explique l'adoption d'une nouvelle mesure de protection des données personnelles, fondée sur le chiffrement homomorphe. Cette technologie cryptographique permet ainsi à des utilisateurs de participer à l'amélioration des algorithmes de SmartPoop, sans que SmartPoop n'ait jamais accès aux données en clair des utilisateurs. Plus précisément, quand l'utilisateur collecte des données via son smartphone ou ses toilettes, ces données sont automatiquement chiffrées, avec une clé dont seul l'utilisateur dispose. Néanmoins, ce chiffrement est effectué de telle manière que SmartPoop pourra apprendre de ces données, quand bien même SmartPoop ne pourra jamais déchiffrer ces données[^homomorphic-learning]. Ainsi, les données personnelles sont protégées contre SmartPoop même, ce qui empêche SmartPoop d'être une vulnérabilité !
 
 [^homomorphic-learning]: Notez que les principales applications raisonnables aujourd'hui du chiffrement homomorphe aux algorithmes d'apprentissage concernent uniquement la phase d'inférence — pas d'apprentissage. Autrement dit, dans le cas de SmartPoop, ce chiffrement homomorphe permet de diagnostiquer un excrément d'un utilisateur de manière parfaitement chiffrée ; mais il ne permet d'exploiter les données de l'utilisateur pour améliorer l'algorithme de diagnostic.  
 [**Video.**  Machine Learning with Encrypted Data | Homomorphic Encryption. SATSifaction (2020).](https://www.youtube.com/watch?v=nlsd2LO-S50)  
@@ -337,7 +337,7 @@ Le rapport de SmartPoop finit par appeler à l'aide. Il demande des moyens monum
 
 > Des investissements massifs en termes de pédagogie sont indispensables, non seulement pour le grand public, mais aussi pour les professionnels, y compris les experts en sécurité informatique, ajoute le rapport. A minima, des centaines de milliards de dollars seront nécessaires pour obtenir un niveau de sécurité satisfaisant ; voire dix à cent fois plus encore. Tous les gouvernements et tous les partenaires économiques sont appelés à soutenir l'audit de SmartPoop. La santé, le bien-être et la sécurité de toute la population mondiale sont en jeu.
 
-Une copie de ce rapport est envoyée à Célia, qui en profite pour remercier et féliciter Katia de cette initiative et de ces mots très forts. Célia envoie alors une version de l'article qu'elle compte publier à Katia. Cet article s'intitule « L'écologie dépend désormais de la sécurité informatique », avec comme sous-titre « Comment une vulnérabilité dans SmartPoop a failli causer un désastre environnemental[^information-environnement] ». Si l'article est globalement très critique des failles de SmartPoop, il finit néanmoins avec des félicitations de SmartPoop pour son engagement pour plus de transparence, et les investissements massifs pour son audit interne et externe. « Qu'ils le veuillent ou non, SmartPoop est devenue une entreprise de sécurité informatique[^securite] », conclut l'article.
+Une copie de ce rapport est envoyée à Célia, qui en profite pour remercier et féliciter Katia de cette initiative et de ces mots très forts. Célia envoie alors une version de l'article qu'elle compte publier à Katia. Cet article s'intitule « L'écologie dépend désormais de la sécurité informatique », avec comme sous-titre « Comment une vulnérabilité dans SmartPoop a failli causer un désastre environnemental[^information-environnement] ». Si l'article est globalement très critique des failles de SmartPoop, il finit néanmoins avec des félicitations de SmartPoop pour son engagement pour plus de transparence, et les investissements massifs pour son audit interne et externe. « Qu'ils le veuillent ou non, SmartPoop est devenue une entreprise de sécurité informatique[^securite] », conclut l'article.
 
 [^information-environnement]: [**Video.**  La solution contre le changement climatique. Science4All (2018).](https://www.youtube.com/watch?v=JARXHwJoxNk)
 
@@ -348,4 +348,4 @@ Une copie de ce rapport est envoyée à Célia, qui en profite pour remercier et
 
 Ne vous arrêtez pas en si bon chemin !
 Accédez à [la suite du roman](5-FakePoops.md) ou au [sommaire](README.md).  
-Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !
+Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !

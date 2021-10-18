@@ -2,13 +2,13 @@
 
 Devant un stade plein, et avec les caméras du monde entier braquées sur elle, Katia entre sur scène sous les ovations du public, comme une star de rock. Cette année, SmartPoop a mis des gros moyens pour un SmartPoopCon 2030 hors norme.
 
-> Bonsoir à tous et merci d'être venus aussi nombreux ! Est-ce que vous allez bien ? Est-ce que vous êtes prêts à marquer l'histoire ?
+> Bonsoir à tous et merci d'être venus aussi nombreux ! Est-ce que vous allez bien ? Est-ce que vous êtes prêts à marquer l'histoire ?
 
 ### Les statistiques de Poo
 
 À ces mots, le public s'enflamme comme si son équipe de football venait de marquer un but.
 
-> J'aimerais commencer cette conférence avec un chiffre : 100 000. C'est l'objectif qu'on s'était fixé il y a deux ans, pour le lancement de Poo. On espérait diviser par 10 le nombre de suicides dans le monde en cinq ans, le ramener de son chiffre historique de 1 million suite au ROVID-19 en 2022[^suicides], à seulement 100 000. Un objectif considéré irréaliste par tant de gens, y compris le journal La Terre. Où en sommes-nous aujourd'hui, en 2030 ?
+> J'aimerais commencer cette conférence avec un chiffre : 100 000. C'est l'objectif qu'on s'était fixé il y a deux ans, pour le lancement de Poo. On espérait diviser par 10 le nombre de suicides dans le monde en cinq ans, le ramener de son chiffre historique de 1 million suite au ROVID-19 en 2022[^suicides], à seulement 100 000. Un objectif considéré irréaliste par tant de gens, y compris le journal La Terre. Où en sommes-nous aujourd'hui, en 2030 ?
 
 [^suicides]: En 2020, on estimait qu'il y avait autour de 800 000 suicides par an à travers le monde.  
 [**Website.**  Suicide. Our World in Data (2020).](https://ourworldindata.org/suicide)  
@@ -19,9 +19,9 @@ Katia marque un silence.
 
 > Je vous propose un décompte pour le découvrir.
 
-La jingle musical reprend le relai du discours de Katia, et conclut avec un décompte, repris en choeur par un public bouillant. Trois. Deux. Un. À zéro, sur l'écran géant derrière Katia, le chiffre de 97 643 est affiché à l'écran !
+La jingle musical reprend le relai du discours de Katia, et conclut avec un décompte, repris en choeur par un public bouillant. Trois. Deux. Un. À zéro, sur l'écran géant derrière Katia, le chiffre de 97 643 est affiché à l'écran !
 
-> On l'a fait !!
+> On l'a fait !!
 
 Le public célèbre se chiffre comme s'il supportait une équipe de football qui venait de marquer le but de la victoire dans la dernière minute. Les applaudissements du public se mettent alors en rythme, et s'éternisent pendant toute une minute.
 
@@ -29,7 +29,7 @@ Le public célèbre se chiffre comme s'il supportait une équipe de football qui
 
 Une courbe apparaît alors à l'écran, tracée doucement de gauche à droite. Cette courbe démarre à 37%, et ne cesse d'augmenter au cours du temps, jusqu'à atteindre le chiffre de 67%, sous les hourras d'un public déchaîné.
 
-> 67% !! Incroyable ! Poo a rendu toute l'humanité joyeuse[^emotional-contagion] !
+> 67% !! Incroyable ! Poo a rendu toute l'humanité joyeuse[^emotional-contagion] !
 
 [^emotional-contagion]: En 2014, une publication de Facebook et de co-auteurs académiques a montré qu'une réduction très légère de la publication, dans les fils d'actualités, de posts avec des émotions négatives, conduit les utilisateurs exposés à ces posts à écrire des messages plus joyeux.  
 [**Video.**  L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=29)  
@@ -40,32 +40,32 @@ Une courbe apparaît alors à l'écran, tracée doucement de gauche à droite. C
 
 Le public exprime d'ailleurs cette joie, à la vue de cette courbe et de ce chiffre.
 
-> Quand vous parlez à Poo, vous pouvez parler de vous, de votre bien-être et de vos problèmes, ce que je vais appeler le discours égocentrique. Ou vous pouvez parler des autres, de la joie qu'ils vous procurent, des difficultés qu'ils traversent et des choses que vous pouvez faire pour les aider. Je vais appeler cela le discours hétérocentrique[^heterocentrique]. Avant le lancement de Poo, 57% des discussions Poo étaient égocentriques plutôt qu'hétérocentriques. D'après vous, comment a évolué ce chiffre ? Vers le haut ?
+> Quand vous parlez à Poo, vous pouvez parler de vous, de votre bien-être et de vos problèmes, ce que je vais appeler le discours égocentrique. Ou vous pouvez parler des autres, de la joie qu'ils vous procurent, des difficultés qu'ils traversent et des choses que vous pouvez faire pour les aider. Je vais appeler cela le discours hétérocentrique[^heterocentrique]. Avant le lancement de Poo, 57% des discussions Poo étaient égocentriques plutôt qu'hétérocentriques. D'après vous, comment a évolué ce chiffre ? Vers le haut ?
 
 [^heterocentrique]: À ne pas confondre avec *l'hétérocentrisme* qui consiste à considérer que l'hétérosexualité est la norme absolue, et que tout ce qui dévie de l'hétérosexualité devrait être punie.
 
-Le public crie alors en choeur « non ».
+Le public crie alors en choeur « non ».
 
-> Vers le bas ?
+> Vers le bas ?
 
-Le public crie en choeur « oui ».
+Le public crie en choeur « oui ».
 
-> Découvrons cela !
+> Découvrons cela !
 
 À l'écran, la même animation que précédemment montre une courbe qui descend, jusqu'à atteindre 44%, sous les ovations du public.
 
-> Oui ! 44%. Désormais, la plupart des discussions avec Poo sont des discussions centrées sur l'environnement social plutôt que sur soi-même. Et alors, il faudrait se méfier de ce chiffre a priori. Initialement, la plupart des discussions hétérocentriques consistaient à se plaindre des autres, à moquer certains groupes, voire à attaquer certains groupes sociaux[^appel-a-la-meute], plutôt qu'à célébrer les autres, à se réjouir de leurs succès et à réfléchir à comment leur venir en aide. Avant le lancement de Poo, 86% des discussions hétérocentriques étaient critiques, et pas bienveillantes. Comment a évolué cette statistique ?
+> Oui ! 44%. Désormais, la plupart des discussions avec Poo sont des discussions centrées sur l'environnement social plutôt que sur soi-même. Et alors, il faudrait se méfier de ce chiffre a priori. Initialement, la plupart des discussions hétérocentriques consistaient à se plaindre des autres, à moquer certains groupes, voire à attaquer certains groupes sociaux[^appel-a-la-meute], plutôt qu'à célébrer les autres, à se réjouir de leurs succès et à réfléchir à comment leur venir en aide. Avant le lancement de Poo, 86% des discussions hétérocentriques étaient critiques, et pas bienveillantes. Comment a évolué cette statistique ?
 
-[^appel-a-la-meute]: [**Video.**  La morale des hooligans (LA NÔTRE !!). Science4All (2017).](https://www.youtube.com/watch?v=ki26tUbxpnU&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX&index=27)  
+[^appel-a-la-meute]: [**Video.**  La morale des hooligans (LA NÔTRE !!). Science4All (2017).](https://www.youtube.com/watch?v=ki26tUbxpnU&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX&index=27)  
 [L'appel à la meute #DébattonsMieux. Science4All (2019).](https://www.youtube.com/watch?v=P0YB40z7RJ0)
 
-Le public crie alors de façon désorganisée « vers le bas ». Puis à force de se répéter, les cris se synchronisent, avant de répéter « vers le bas », « vers le bas », « vers le bas ».
+Le public crie alors de façon désorganisée « vers le bas ». Puis à force de se répéter, les cris se synchronisent, avant de répéter « vers le bas », « vers le bas », « vers le bas ».
 
 > Voyons cela..
 
 L'écran géant montre l'évolution de cette courbe, qui en effet plonge vers le bas, jusqu'à atteindre 47%, sous les applaudissements du public.
 
-> Incroyable !! La société est devenue incroyablement plus bienveillante et altruiste en l'espace de deux ans seulement ! D'ailleurs, l'expression « les plus démunis » est utilisée aujourd'hui 3 fois plus souvent qu'il y a deux ans, tandis que l'expression « générations futures » est utilisée 4 fois plus souvent. Et d'après de nombreux psychiatres, cette progression est très probablement directement liée à Poo, et à l'amélioration de la santé mentale de nos utilisateurs. Quand on se porte mieux soi-même, on est tout de suite beaucoup plus prompt à souhaiter le bonheur des autres et à leur venir en aide[^altruism-happiness] !
+> Incroyable !! La société est devenue incroyablement plus bienveillante et altruiste en l'espace de deux ans seulement ! D'ailleurs, l'expression « les plus démunis » est utilisée aujourd'hui 3 fois plus souvent qu'il y a deux ans, tandis que l'expression « générations futures » est utilisée 4 fois plus souvent. Et d'après de nombreux psychiatres, cette progression est très probablement directement liée à Poo, et à l'amélioration de la santé mentale de nos utilisateurs. Quand on se porte mieux soi-même, on est tout de suite beaucoup plus prompt à souhaiter le bonheur des autres et à leur venir en aide[^altruism-happiness] !
 
 [^altruism-happiness]: De nombreuses études semblent montrer une association importante entre l'altruisme et le bonheur. De façon intrigante, il semble en particulier qu'être altruiste augmente le bonheur, notamment par opposition à dépenser notre argent pour nous-même.  
 [**Paper.**  Altruism, happiness, and health: it’s good to be good. Stephen Post. International Journal of Behavioral Medicine (2005).](https://link.springer.com/article/10.1207/s15327558ijbm1202_4)    
@@ -74,9 +74,9 @@ L'écran géant montre l'évolution de cette courbe, qui en effet plonge vers le
 
 ### Les héros derrière Poo
 
-> Mais donc, qu'en dites-vous ? Poo, succès ou échec ?
+> Mais donc, qu'en dites-vous ? Poo, succès ou échec ?
 
-Le public crie « succès » de manière désordonnée, mais néanmoins distinguable.
+Le public crie « succès » de manière désordonnée, mais néanmoins distinguable.
 
 > Eh bien, mesdames et messieurs, je pense que Poo n'est pas un échec.
 
@@ -93,13 +93,13 @@ Katia profite des applaudissements du public pour marquer une autre pause.
 
 [^quete-performance]: En 2021, la recherche académique (et plus encore l'industrie) demeure encore largement obsédée par la quête de performances ou de résultats « impressionnants », aussi bien en machine learning qu'en informatique de manière générale, en s'appuyant sur des métriques comme *l'accuracy* (la performance prédictive sur un jeu de données « classique »), le temps de calcul, le *throughput* (la quantité d'information transmise) ou la latence. Alors que les algorithmes ont déjà des effets secondaires monumentaux à l'échelle planétaire, ces recherches semblent aggraver la course à la performance, et donc le déploiement précipité de technologies mal testées et rarement auditées.  
 À titre d'exemple, voici un commentaire d'un *revieweur* anonyme de NeurIPS 2019, suite à un article soumis par Lê Nguyên Hoang et ses co-auteurs sur un algorithme pour débiaiser les biais racistes des algorithmes : « Malheureusement, je ne pense pas que le problème introduit par les auteurs est un problème qui a de la valeur pour la communauté académique ou pour les praticiens du ML. Dès lors, je ne peux pas recommander la publication de l'article. »  
-[**Paper.**  Removing Algorithmic Discrimination (With Minimal Individual Error). vidual Error) El Mahdi El Mhamdi, Rachid Guerraoui, Lê Nguyên Hoang & Alexandre Maurer (2018).](https://arxiv.org/abs/1806.02510) <!-- « Unfortunately, I don't think the problem the authors introduce is one that has value to the academic community or to ML practitioners. Given this, I can't recommend the paper for publication. »   -->
+[**Paper.**  Removing Algorithmic Discrimination (With Minimal Individual Error). vidual Error) El Mahdi El Mhamdi, Rachid Guerraoui, Lê Nguyên Hoang & Alexandre Maurer (2018).](https://arxiv.org/abs/1806.02510) <!-- « Unfortunately, I don't think the problem the authors introduce is one that has value to the academic community or to ML practitioners. Given this, I can't recommend the paper for publication. »   -->
 Ceci étant dit, il y a récemment eu de nombreux progrès, comme la création de la conférence Fairness, Accountability and Transparency (FAccT), l'introduction de *guidelines éthiques* dans ces conférences, ou encore l'ajout obligatoire d'une discussion des auteurs dans leurs articles des impacts sociétaux de leur recherche.  
 [**Video.**  L'éthique des algorithmes en sérieux danger. Science4All (2020).](https://www.youtube.com/watch?v=Ddr-BZ9W180)
 
 À nouveau, Katia marque une pause pendant les applaudissements du public.
 
-> Enfin, et surtout, je tiens à remercier chacun des acteurs et signataires de la lettre ouverte, ainsi qu'à chacun des journalistes et des influenceurs qui a couvert cette affaire, grâce à qui SmartPoop a pu se remettre dans le droit chemin. Ces femmes et ces hommes ont risqué leur vie, leur bien-être et leur sécurité individuels, pour venir en aide au plus grand nombre[^whistleblower]. Sans eux, qui sait ce que SmartPoop serait devenu ? Qui sait ce que je serais devenue ?
+> Enfin, et surtout, je tiens à remercier chacun des acteurs et signataires de la lettre ouverte, ainsi qu'à chacun des journalistes et des influenceurs qui a couvert cette affaire, grâce à qui SmartPoop a pu se remettre dans le droit chemin. Ces femmes et ces hommes ont risqué leur vie, leur bien-être et leur sécurité individuels, pour venir en aide au plus grand nombre[^whistleblower]. Sans eux, qui sait ce que SmartPoop serait devenu ? Qui sait ce que je serais devenue ?
 
 [^whistleblower]: Malheureusement, les lanceurs d'alerte souffrent souvent de davantage de troubles de santé mental suite à leurs actes courageux. Vu le rôle critique qui joue pour révéler des scandales dans des entreprises et des organisations dangereusement opaques, il semble urgent de beaucoup mieux les accompagner.  
 [**Paper.**  Mental Health Problems Among Whistleblowers: A Comparative Study. Peter van der Velden, Mauro Pecoraro, Mijke Houwerzijl & Erik van der Meulen. Psychological Reports (2018).](https://journals.sagepub.com/doi/10.1177/0033294118757681)
@@ -114,14 +114,14 @@ Le public applaudit ce moment très émouvant.
 
 Katia a encore besoin de plusieurs secondes pour reprendre ses émotions. Finalement, elle se reprend.
 
-> Néanmoins, je refuse de dire que Poo est un succès. Ensemble, nous avons créé un produit incroyable. Mais il reste infiniment améliorable, notamment sur le plan de son éthique, de sa sécurité et de sa gouvernance. Comment contrôle-t-on Poo ? Comment empêche-t-on Poo de dire des mots blessants, de révéler des secrets, de répéter des discours de haine et de diffuser de la mésinformation[^language-model] ? Comment l'amène-t-on à être bienveillant avec ses interlocuteurs, à dire les mots justes pour les rendre plus épanouis et à promouvoir autant que possible de l'information fiable et non trompeuse[^non-trompeur] ? Comment l'amène-t-on à mieux réfléchir, et à vouloir investiguer ses incertitudes plutôt que de se contenter de ses intuitions[^scout] ? Mais surtout, comment peut-on décider collectivement de ce que Poo doit dire ? Comment déterminer ce qui est désirable à dire, et ce qui ne devrait jamais être dit[^ethics-of-influence] ?
+> Néanmoins, je refuse de dire que Poo est un succès. Ensemble, nous avons créé un produit incroyable. Mais il reste infiniment améliorable, notamment sur le plan de son éthique, de sa sécurité et de sa gouvernance. Comment contrôle-t-on Poo ? Comment empêche-t-on Poo de dire des mots blessants, de révéler des secrets, de répéter des discours de haine et de diffuser de la mésinformation[^language-model] ? Comment l'amène-t-on à être bienveillant avec ses interlocuteurs, à dire les mots justes pour les rendre plus épanouis et à promouvoir autant que possible de l'information fiable et non trompeuse[^non-trompeur] ? Comment l'amène-t-on à mieux réfléchir, et à vouloir investiguer ses incertitudes plutôt que de se contenter de ses intuitions[^scout] ? Mais surtout, comment peut-on décider collectivement de ce que Poo doit dire ? Comment déterminer ce qui est désirable à dire, et ce qui ne devrait jamais être dit[^ethics-of-influence] ?
 
 [^language-model]: Ces problèmes ne sont absolument pas résolus pour les algorithmes conversationnels modernes, qui sont très vulnérables à des attaques d'espionnage ou par empoisonnement des données. Et pourtant, ces algorithmes sont déjà déployés à très grande échelle, via les claviers intelligents, via les assistants personnels (Siri, Alexa, OK Google) et via les moteurs de recherche (Google, YouTube).  
 [**Paper.**  On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?  Emily Bender, Timnit Gebru, Angelina McMillan-Major & Shmargaret Shmitchell. FAccT (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922)  
 [**Paper.**  The Radicalization Risks of GPT-3 and Advanced Neural Language Models. Kris McGuffie, Alex Newhouse (2020).](https://arxiv.org/abs/2009.06807)  
 [**Paper.**  Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea & Colin Raffel. USENIX (2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
 
-[^non-trompeur]: [**Video.**  Qu’est ce qu’un message d’utilité publique ? Science4All (2021).](https://www.youtube.com/watch?v=LZGhBmDVi5A&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=5)
+[^non-trompeur]: [**Video.**  Qu’est ce qu’un message d’utilité publique ? Science4All (2021).](https://www.youtube.com/watch?v=LZGhBmDVi5A&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=5)
 
 [^scout]: Julia Galef parle du *scout mindset* (ou *mode explorateur*), par opposition au *soldier mindset* (*mode soldat*). Selon elle, il s'agit de l'aspect le plus déterminant pour analyser de l'information plus correctement.  
 [**Video.**  Comment j'essaye d'améliorer mon jugement (grâce à Julia Galef et à FLUS). Science Étonnante (2021).](https://www.youtube.com/watch?v=Sm_FgccC9dk)
@@ -137,7 +137,7 @@ Katia marque une pause, devant un public tout ouï.
 
 Katia marque alors un silence, avant de rajouter sur un ton sarcastique.
 
-> Genre, « SmartPoop, cette application de merde, va résoudre l'éthique ».
+> Genre, « SmartPoop, cette application de merde, va résoudre l'éthique ».
 
 Le public rit en cœur.
 
@@ -159,7 +159,7 @@ Le public, conquis, rit à nouveau, même si beaucoup commencent à avoir un vis
 
 Après un autre silence, Katia reprend son discours.
 
-> Et là, je sens qu'il y en a pas mal parmi vous qui se disent : « mais pour qui elle se prend, Katia ? »
+> Et là, je sens qu'il y en a pas mal parmi vous qui se disent : « mais pour qui elle se prend, Katia ? »
 
 Le public rit à nouveau.
 
@@ -179,17 +179,17 @@ Katia marque à nouveau une pause, et regarde son public, en déplaçant son reg
 
 Katia marque un nouveau silence.
 
-> Bon ça, c'est en principe. En pratique, c'est difficile de se mettre d'accord sur ce qui constitue un tort. Est-ce qu'un commentaire agressif cause un tort ? Est-ce qu'un petit mensonge cause un tort ? Est-ce qu'une blague au dépens d'une communauté cause un tort ? Malheureusement, en pratique, on ne sera pas d'accord. Nous avons des préférences éthiques difficilement réconciliables, voire parfois clairement irréconciliables. Que faire alors[^scrutins-sml] ?
+> Bon ça, c'est en principe. En pratique, c'est difficile de se mettre d'accord sur ce qui constitue un tort. Est-ce qu'un commentaire agressif cause un tort ? Est-ce qu'un petit mensonge cause un tort ? Est-ce qu'une blague au dépens d'une communauté cause un tort ? Malheureusement, en pratique, on ne sera pas d'accord. Nous avons des préférences éthiques difficilement réconciliables, voire parfois clairement irréconciliables. Que faire alors[^scrutins-sml] ?
 
 [^scrutins-sml]: [**Video.**  [Conférence SML] Les mathématiques de la démocratie - Lê Nguyên Hoang. Maison des mathématiques et de l'informatique (2018).](https://www.youtube.com/watch?v=CYqLfWFdFoc)
 
 Katia semble vraiment poser cette question à son public, comme si elle attendait une réponse. Le public a l'air pensif, et attend impatiemment une réponse de Katia.
 
-### Qui décidera de l'éthique Poo ?
+### Qui décidera de l'éthique Poo ?
 
 Katia relance avec une autre question.
 
-> Est-ce que SmartPoop devrait trancher ?
+> Est-ce que SmartPoop devrait trancher ?
 
 Le public reste silencieux. Clairement, il s'agit d'un groupe de fans de SmartPoop. Mais même eux ne semblent pas emballés à cette idée.
 
@@ -197,7 +197,7 @@ Le public reste silencieux. Clairement, il s'agit d'un groupe de fans de SmartPo
 
 Katia marque une pause, comme si elle invitait sérieusement le public à y réfléchir.
 
-> Mais donc, qui ? Qui devrait déterminer l'éthique de l'information et du traitement de l'information ?
+> Mais donc, qui ? Qui devrait déterminer l'éthique de l'information et du traitement de l'information ?
 
 Encore une fois, cette question est posée comme si Katia n'en avait aucune réponse, et comme si elle attendait du public une réponse. Après de longues secondes, Katia offre sa réponse.
 
@@ -205,23 +205,23 @@ Encore une fois, cette question est posée comme si Katia n'en avait aucune rép
 
 Le public applaudit.
 
-> Mais... Comment peut-on amener des milliards d'humains à décider collectivement de quelque chose d'aussi complexe que l'éthique de l'information ?
+> Mais... Comment peut-on amener des milliards d'humains à décider collectivement de quelque chose d'aussi complexe que l'éthique de l'information ?
 
 Le public est maintenant circonspect.
 
-> Réfléchissez-y. Comment fait-on aujourd'hui pour prendre des décisions collectives ?
+> Réfléchissez-y. Comment fait-on aujourd'hui pour prendre des décisions collectives ?
 
-Katia marque à nouveau une pause, jusqu'à ce qu'elle entende quelqu'un dans le public crier « le vote ».
+Katia marque à nouveau une pause, jusqu'à ce qu'elle entende quelqu'un dans le public crier « le vote ».
 
-> Le vote, oui ! Dans beaucoup de pays à travers le monde, quand une décision collective doit être prise, on essaie souvent de se ramener à une question avec une réponse oui ou non, et on demande au peuple de voter pour oui, ou pour non ? C'est ainsi que l'on tranche des désaccords irréconciliables.
+> Le vote, oui ! Dans beaucoup de pays à travers le monde, quand une décision collective doit être prise, on essaie souvent de se ramener à une question avec une réponse oui ou non, et on demande au peuple de voter pour oui, ou pour non ? C'est ainsi que l'on tranche des désaccords irréconciliables.
 
 Katia s'arrête quelques secondes.
 
-> Mais le problème du vote, en tout cas tel qu'il est pratiqué aujourd'hui, c'est qu'il ne permet à chaque citoyen d'envoyer que quelques bits d'information par vote seulement. La COP 30, pour ou contre ? La vaccination obligatoire, pour ou contre ? La régulation des algorithmes, pour ou contre ? Lequel des 15 candidats suivants devrait être élu ? Il n'y a pas 36 000 réponses possibles à ces questions. Or, pour résoudre l'éthique des algorithmes, il va falloir fournir des réponses complexes. Il y a même des milliards de milliards de discours qu'un utilisateur de SmartPoop peut produire. Parmi les milliards de réponses imaginables, laquelle Poo devra-t-elle adopter ?
+> Mais le problème du vote, en tout cas tel qu'il est pratiqué aujourd'hui, c'est qu'il ne permet à chaque citoyen d'envoyer que quelques bits d'information par vote seulement. La COP 30, pour ou contre ? La vaccination obligatoire, pour ou contre ? La régulation des algorithmes, pour ou contre ? Lequel des 15 candidats suivants devrait être élu ? Il n'y a pas 36 000 réponses possibles à ces questions. Or, pour résoudre l'éthique des algorithmes, il va falloir fournir des réponses complexes. Il y a même des milliards de milliards de discours qu'un utilisateur de SmartPoop peut produire. Parmi les milliards de réponses imaginables, laquelle Poo devra-t-elle adopter ?
 
 Katia reprend son souffle, avant la suite de son discours.
 
-> Et si on concevait désormais des votes où la voix de chacun n'était pas réduite à une réponse binaire[^mediane-geometrique], donnée uniquement une fois par an ? Et si on permettait à chacun de partager toute la complexité de son jugement éthique ? Et si on parvenait à tenir compte de toute cette complexité pour décider collaborativement de l'éthique de l'information[^licchavi] ?
+> Et si on concevait désormais des votes où la voix de chacun n'était pas réduite à une réponse binaire[^mediane-geometrique], donnée uniquement une fois par an ? Et si on permettait à chacun de partager toute la complexité de son jugement éthique ? Et si on parvenait à tenir compte de toute cette complexité pour décider collaborativement de l'éthique de l'information[^licchavi] ?
 
 [^mediane-geometrique]: L'une des solutions pour voter en grande dimension est de s'appuyer sur le principe « un électeur, une force unitaire », ce qui peut typiquement conduire à utiliser la *médiane géométrique*.  
 [**Paper.**  On the Strategyproofness of the Geometric Median. El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui & Lê-Nguyên Hoang (2021).](https://arxiv.org/abs/2106.02394)
@@ -238,7 +238,7 @@ Katia marque une nouvelle pause.
 
 Katia change alors de ton, en prenant une voix plus grave et posée.
 
-> Mesdames et messieurs, aujourd'hui est un jour historique, car je vais vous présenter le résultat de deux ans de travail, en collaboration intime avec l'OMESA. Au moment où je parle, une nouvelle plateforme vient d'être mise en ligne, appelée girasol.app[^girasol-tournesol]. Girasol est un site web entièrement Open Source, sous licence libre[^license], qui va coordonner la conception de l'éthique de l'information, en permettant aux utilisateurs de fournir des jugements éthiques, et en utilisant des algorithmes de vote pour construire collaborativement l'éthique de l'information à partir des jugements éthiques des utilisateurs ! Le premier étage d'une éthique démocratique de l'information a été posé !
+> Mesdames et messieurs, aujourd'hui est un jour historique, car je vais vous présenter le résultat de deux ans de travail, en collaboration intime avec l'OMESA. Au moment où je parle, une nouvelle plateforme vient d'être mise en ligne, appelée girasol.app[^girasol-tournesol]. Girasol est un site web entièrement Open Source, sous licence libre[^license], qui va coordonner la conception de l'éthique de l'information, en permettant aux utilisateurs de fournir des jugements éthiques, et en utilisant des algorithmes de vote pour construire collaborativement l'éthique de l'information à partir des jugements éthiques des utilisateurs ! Le premier étage d'une éthique démocratique de l'information a été posé !
 
 [^girasol-tournesol]: Girasol n'existe pas, mais il s'agit là en fait clairement d'une référence au projet [tournesol.app](https://tournesol.app) lancé par Lê Nguyên Hoang, l'un des auteurs de ce livre. Le reste du livre décrit finalement la vision global de Tournesol. Vous trouverez beaucoup plus d'informations sur le [wiki de Tournesol](https://wiki.tournesol.app). Il est utile de noter que, surtout pour l'instant, l'objectif de Tournesol est davantage de servir de « microscope des jugements humains », c'est-à-dire d'outils de collecte de données sur ce que les humains jugent éthiquement préférables. En particulier, et entre autres, Tournesol espère ainsi détecter des consensus moraux aujourd'hui difficilement observables, faute de données.
 
@@ -246,7 +246,7 @@ Katia change alors de ton, en prenant une voix plus grave et posée.
 
 Le public applaudit cette annonce de Katia.
 
-> Je précise que la gouvernance de ce projet est entièrement sous le contrôle de l'OMESA aujourd'hui, et SmartPoop ne sert, et ne servira, que de contributeur bénévole à la base de codes et à la promotion du projet. Tout le code est audité par de nombreuses entités, si bien qu'il est quasiment impossible que le projet soit détourné par une entité maléfique — et ça inclut de potentiels investisseurs de SmartPoop !
+> Je précise que la gouvernance de ce projet est entièrement sous le contrôle de l'OMESA aujourd'hui, et SmartPoop ne sert, et ne servira, que de contributeur bénévole à la base de codes et à la promotion du projet. Tout le code est audité par de nombreuses entités, si bien qu'il est quasiment impossible que le projet soit détourné par une entité maléfique — et ça inclut de potentiels investisseurs de SmartPoop !
 
 Katia marque une nouvelle pause.
 
@@ -261,13 +261,13 @@ Katia s'arrête quelques instants.
 
 Katia reprend son souffle pour conclure son discours.
 
-> Mais avant tout, Girasol est un *fabuleux* chantier. Si vous me demandez, il s'agit pour moi du plus fabuleux de tous les chantiers menés par l'humanité, plus grandiose encore que construire des pyramides, plus ambitieux que d'éradiquer des pandémies comme la variole[^variole], et plus spectaculaire que d'envoyer des humains sur la Lune. Girasol, c'est unir toute l'humanité derrière le plus important de tous les aspects de la civilisation humaine : maîtriser collaborativement le flux de l'information[^prochain-livre], et garantir que celui-ci coule comme nous, l'humanité, souhaiterions vraiment qu'il coule, lorsqu'on y réfléchit à tête reposée, avec bienveillance et rigueur. Mesdames et messieurs, ensemble, résolvons l'éthique de l'information[^resoudre-ethique] !
+> Mais avant tout, Girasol est un *fabuleux* chantier. Si vous me demandez, il s'agit pour moi du plus fabuleux de tous les chantiers menés par l'humanité, plus grandiose encore que construire des pyramides, plus ambitieux que d'éradiquer des pandémies comme la variole[^variole], et plus spectaculaire que d'envoyer des humains sur la Lune. Girasol, c'est unir toute l'humanité derrière le plus important de tous les aspects de la civilisation humaine : maîtriser collaborativement le flux de l'information[^prochain-livre], et garantir que celui-ci coule comme nous, l'humanité, souhaiterions vraiment qu'il coule, lorsqu'on y réfléchit à tête reposée, avec bienveillance et rigueur. Mesdames et messieurs, ensemble, résolvons l'éthique de l'information[^resoudre-ethique] !
 
 [^variole]: [**Video.**  Le plus grand triomphe de l'humanité. Science4All (2020).](https://www.youtube.com/watch?v=eAzP2QtAAag&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=9)
 
 [^prochain-livre]: Ceci pourrait d'ailleurs être le sujet d'un prochain livre de Lê Nguyên Hoang... #teaser
 
-[^resoudre-ethique]: [**Video.**  Résolvons l'éthique ensemble !! Science4All (2021).](https://www.youtube.com/watch?v=TgB9pHZ0YPM&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=4)
+[^resoudre-ethique]: [**Video.**  Résolvons l'éthique ensemble !! Science4All (2021).](https://www.youtube.com/watch?v=TgB9pHZ0YPM&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=4)
 
 À ces mots, le public explose de joie et d'enthousiasme, alors que le vacarme laisse petit à petit place au nom de Katia, lequel est scandé en rythme par tout le stade. Seule sur scène, Katia profite de l'instant, avec un sourire radieux, et salue le public de la main. À ce moment, elle pense à tout ce que SmartPoop a accompli jusque là. Mais aussi et surtout, Katia est incroyablement enthousiasmée par la vision d'une civilisation humaine qui, grâce à Girasol, va enfin prendre le destin de sa civilisation entre ses mains.
 
@@ -276,7 +276,7 @@ Ensemble.
 
 ## Pour aller plus loin
 
-Voilà, le roman est fini !
+Voilà, le roman est fini !
 Vous pouvez revenir au [sommaire](README.md).  
 Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous.
-Nous vous en serions très reconnaissants !
+Nous vous en serions très reconnaissants !

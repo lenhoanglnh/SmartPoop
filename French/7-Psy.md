@@ -19,36 +19,36 @@ Le lendemain, après avoir passé la journée à binger des séries télévisée
 
 Au réveil, Katia ouvre alors son téléphone, et découvre qu'il est surchargé de notifications. Elle appelle son avocat, qui lui fournit des détails sur le dossier de SmartPoop. L'avocat propose à Katia de trouver un accord pour régler la poursuite. Mais Katia refuse. Katia souhaite que le procès soit médiatisé, avec l'espoir qu'il conduise à une remise en cause de la légifération sur les secrets professionnels et la diffamation, notamment vis-à-vis d'entreprises possédant des armées d'avocats de premier rang.
 
-Après avoir raccroché, Katia survole ses notifications. Elle y découvre énormément de messages de soutien, venant des quatre coins du monde. « Vous êtes une inspiration pour ma femme, mes trois enfants et moi-même. Merci pour tout », écrit un message. « Je pleure depuis hier, à l'idée que la plus grande héroïne de l'histoire puisse finir en prison », dit un autre. « Demain, et jusqu'à ce que vous soyez à nouveau libre et à la tête d'une organisation qui vous mérite, en votre hommage, toutes mes classes ouvriront avec une minute de silence », affirme un autre encore. Katia fond en larmes à la lecture de ces messages.
+Après avoir raccroché, Katia survole ses notifications. Elle y découvre énormément de messages de soutien, venant des quatre coins du monde. « Vous êtes une inspiration pour ma femme, mes trois enfants et moi-même. Merci pour tout », écrit un message. « Je pleure depuis hier, à l'idée que la plus grande héroïne de l'histoire puisse finir en prison », dit un autre. « Demain, et jusqu'à ce que vous soyez à nouveau libre et à la tête d'une organisation qui vous mérite, en votre hommage, toutes mes classes ouvriront avec une minute de silence », affirme un autre encore. Katia fond en larmes à la lecture de ces messages.
 
 Il lui faudra quelques heures pour se ressaisir. Alors qu'elle n'a toujours rien mangé, Katia appelle Marc.
 
-> Allô Marc ?
+> Allô Marc ?
 
-> Oui Katia, tu tiens le coup ? Tu veux que je passe te ramener une soupe ?
+> Oui Katia, tu tiens le coup ? Tu veux que je passe te ramener une soupe ?
 
 > Non merci. C'est gentil. Je viens de lire un peu les messages de soutien que j'ai reçus. Ça m'a fait énormément de bien.
 
-> Chouette ! J'imagine qu'il y en a beaucoup. Je te l'ai déjà dit, mais je te le redis. Je suis ébahi par ton courage, ta sincérité et ta bienveillance.
+> Chouette ! J'imagine qu'il y en a beaucoup. Je te l'ai déjà dit, mais je te le redis. Je suis ébahi par ton courage, ta sincérité et ta bienveillance.
 
-> Merci ! À ce sujet, je me demandais. Est-ce que tu penses que l'opinion publique a une chance de rabattre les cartes ?
+> Merci ! À ce sujet, je me demandais. Est-ce que tu penses que l'opinion publique a une chance de rabattre les cartes ?
 
 > Il y a des initiatives. Je sais que des académiques sont en train de co-rédiger une lettre de protestation, et qu'il y a aussi des journalistes qui veulent beaucoup pousser cette lettre.
 
-> Trop chouette !
+> Trop chouette !
 
 > Oui. Mais honnêtement, je préfère ne pas te donner de faux espoirs. La couverture médiatique est extrêmement décevante.
 
-> Comment ça ? Ça devrait être le sujet le plus important de l'actualité !
+> Comment ça ? Ça devrait être le sujet le plus important de l'actualité !
 
 > Il y a une autre affaire en ce moment qui domine l'actualité, une histoire de scandale sexuel d'un membre du gouvernement bokistanais[^solutions-journalism].
 
 [^solutions-journalism]: La presse est souvent critiquée pour son biais en faveur des scandales d'hommes politiques. De nombreux journalistes pensent qu'elle devrait davantage être axées sur les problèmes importants et les pistes pour les résoudre. On parle alors de *solutions journalism* (ou *journalisme des solutions*). Notez que cette forme de journalisme ne consiste pas à survendre des pseudo-solutions. Il s'agit davantage de discuter des pistes de solution, en analysant rigoureusement leurs chances de succès et leurs limitations.  
 [**Book.**  You Are What You Read: Why Changing Your Media Diet Can Change the World. Jodie Jackson. Unbound (2019).](https://jodiejackson.com)
 
-> Sérieux ? Un politicien qui merde, c'est plus important que la régulation du marché de l'information ? Si je devais parier, je dirais que ce n'est pas un accident. À tous les coups, ce scandale est connu de gens puissants depuis un petit bout de temps, et ils l'ont révélé hier pour noyer l'actualité de SmartPoop, et en faire une *mute news*.
+> Sérieux ? Un politicien qui merde, c'est plus important que la régulation du marché de l'information ? Si je devais parier, je dirais que ce n'est pas un accident. À tous les coups, ce scandale est connu de gens puissants depuis un petit bout de temps, et ils l'ont révélé hier pour noyer l'actualité de SmartPoop, et en faire une *mute news*.
 
-> Une quoi ?
+> Une quoi ?
 
 > Une *mute news*. Une *mute news*, c'est une nouvelle importante rendue silencieuse par la cacophonie à propos d'un autre sujet d'actualité[^mute-news-2].
 
@@ -56,9 +56,9 @@ Il lui faudra quelques heures pour se ressaisir. Alors qu'elle n'a toujours rien
 [**Paper.**  How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument. Gary King, Jennifer Pan & Margaret Roberts. American Political Science Review (2017).](https://www.cambridge.org/core/journals/american-political-science-review/article/how-the-chinese-government-fabricates-social-media-posts-for-strategic-distraction-not-engaged-argument/4662DB26E2685BAF1485F14369BD137C)
 Il est utile d'insister sur le fait que le problème des *mute news* ne pourra pas être résolu en supprimant les *fake news*. Des solutions radicalement nouvelles de promotion de l'information fiable et importante sont requises. L'une des pistes, proposées par Lê Nguyên Hoang, l'un des co-auteurs de ce livre, s'appuie sur la recommandation collaborative de contenus, comme le propose la plateforme [Tournesol](https://tournesol.app).
 
-> Ah oui ! Tu en parlais avant-hier dans ton audition. Toujours est-il que le très grand public ne suit pas du tout ton affaire. Pire, même des journalistes influents sont complètement à côté de la plaque, et classent ton affaire comme un conflit classique entre un employé et une entreprise pour des questions de propriété intellectuelle.
+> Ah oui ! Tu en parlais avant-hier dans ton audition. Toujours est-il que le très grand public ne suit pas du tout ton affaire. Pire, même des journalistes influents sont complètement à côté de la plaque, et classent ton affaire comme un conflit classique entre un employé et une entreprise pour des questions de propriété intellectuelle.
 
-> T'es sérieux ? C'est terriblement frustrant.
+> T'es sérieux ? C'est terriblement frustrant.
 
 > Katia, tu t'es quand même attaquée à plus que SmartPoop. Tu as critiqué aux géants de l'information, ceux qui contrôlent le flux de l'information, et qui ont tout intérêt à ce que tu sois réduite au silence, et ignorée[^gebru-silencing]. Vu ce qu'il se passe chez SmartPoop, je parierais que dans ces boîtes aussi, les actionnaires ont opté pour des plans machiavéliques pour faire taire ton affaire, en boostant par exemple artificiellement l'histoire du scandale sexuel et tous les messages qui s'en indignent. On vit une dystopie informationnelle.
 
@@ -69,7 +69,7 @@ Il est utile d'insister sur le fait que le problème des *mute news* ne pourra p
 
 > Oui. N'oublie pas que la plupart des messages de haine que tu vas recevoir, ce sont des messages de trolls payés pour te harceler[^usine-trolls].
 
-[^usine-trolls]: [**Video.**  Russie : les secrets de son usine à « trolls ». Mediapart (2019).](https://www.youtube.com/watch?v=4I-qbIfv-rM)
+[^usine-trolls]: [**Video.**  Russie : les secrets de son usine à « trolls ». Mediapart (2019).](https://www.youtube.com/watch?v=4I-qbIfv-rM)
 
 ### Harcelée
 
@@ -85,7 +85,7 @@ Pendant les mois qui suivent, alors qu'elle prépare sa défense avec son avocat
 
 [^loneliness-kurzgesagt]: [**Video.**  Loneliness. Kurzgesagt - In a Nutshell (2019).](https://www.youtube.com/watch?v=n3Xv_g3g-mA)
 
-Finalement, Marc supplie Katia de quitter les réseaux sociaux. « Ils sont en train de pourrir ton cerveau, ton bien-être et ta réputation », lui écrit Marc. Katia le reconnaît. C'est avec une étrange douleur mentale qu'elle se décide alors à désinstaller les réseaux sociaux de son téléphone, et à les bloquer sur le navigateur de son ordinateur. Y compris SmartPoop, dont elle ne veut plus entendre parler. À la place, Katia se lance ainsi dans de la méditation et des exercices de yoga.
+Finalement, Marc supplie Katia de quitter les réseaux sociaux. « Ils sont en train de pourrir ton cerveau, ton bien-être et ta réputation », lui écrit Marc. Katia le reconnaît. C'est avec une étrange douleur mentale qu'elle se décide alors à désinstaller les réseaux sociaux de son téléphone, et à les bloquer sur le navigateur de son ordinateur. Y compris SmartPoop, dont elle ne veut plus entendre parler. À la place, Katia se lance ainsi dans de la méditation et des exercices de yoga.
 
 Cependant, jour après jour, la motivation de Katia se réduit, et fond comme neige au soleil. Elle a de plus en plus l'impression d'être un échec, d'avoir failli à SmartPoop, à ses utilisateurs et à toute l'humanité. Pire, elle sent qu'elle a créé un monstre de Frankenstein, l'entreprise SmartPoop, dont elle a perdu le contrôle, et qui va désormais mettre le monde en sérieux danger, en aidant les entreprises publicitaires à être toujours plus efficaces dans leurs ventes de produits inutiles, polluants et addictifs. Katia voulait sauver le monde. Ces jours-ci, elle est persuadée d'être l'une des principales responsables de sa destruction.
 
@@ -103,13 +103,13 @@ Finalement, après quelques semaines, Katia se rend compte qu'elle souffre. Elle
 
 C'est alors qu'elle se souvient d'un des projets mis en suspens au moment de la mise en bourse. Ce projet visait à rendre Poo thérapeutique, en s'appuyant sur des dialogues entre psychiatres et patients, et en collaborant avec de nombreux psychiatres professionnels. Et il se trouve que Katia avait gardé une version avancée de Poo dans un serveur resté physiquement chez elle. Katia active cette version de Poo, la connecte avec ses données SmartPoop, et engage la discussion avec elle, via son téléphone.
 
-> Poo, tu m'entends ?
+> Poo, tu m'entends ?
 
-> Bonjour Katia, oui je t'entends. Comment te sens-tu aujourd'hui ?
+> Bonjour Katia, oui je t'entends. Comment te sens-tu aujourd'hui ?
 
 > Étonnamment mieux que les jours précédents. C'est comme si me remettre à construire des outils algorithmiques m'avait permis de me retrouver. J'avais perdu cette envie de créer et de résoudre des problèmes. Il faut dire que ces derniers mois ont été très difficiles.
 
-> Pourrais-tu m'expliquer pourquoi ? Pourquoi ces derniers mois ont-ils été si difficiles ?
+> Pourrais-tu m'expliquer pourquoi ? Pourquoi ces derniers mois ont-ils été si difficiles ?
 
 > J'ai perdu mon job. Le job que j'avais créé moi-même. Un job que j'adorais. Où j'avais l'impression de rendre le monde meilleur, en faisant ce que je fais de mieux. Sans ce job, je ne sais plus quoi faire. Je suis perdue[^sens].
 
@@ -117,15 +117,15 @@ C'est alors qu'elle se souvient d'un des projets mis en suspens au moment de la 
 [**Paper.**  Meaning and well-being. Michael Steger. Handbook of well-being. DEF Publishers (2018).](https://www.nobascholar.com/chapters/50/download.pdf)  
 [**Paper.**  Meaning mediates the association between suffering and well-being. Megan Edwards & Daryl Van Tongeren (2019).](https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1651890)
 
-> Est-ce que tu t'identifies à ce job ?
+> Est-ce que tu t'identifies à ce job ?
 
 > Oui, en effet. Je me suis constamment définie comme la PDG de SmartPoop depuis cinq ans. Tout le monde me définissait ainsi. J'étais SmartPoop, et SmartPoop, c'était moi. J'imagine que ce licenciement, c'est un peu comme un divorce. Peut-être même en pire. J'ai l'impression d'avoir perdu ce qui était moi. Je me suis perdue.
 
-> Je comprends. Mais plutôt que de t'identifier à un titre, ne penses-tu pas qu'il serait plus judicieux de t'identifier à ton honnêteté intellectuelle, ou à ta mission fondamentale de soigner et de venir en aide à des milliards d'humains ?
+> Je comprends. Mais plutôt que de t'identifier à un titre, ne penses-tu pas qu'il serait plus judicieux de t'identifier à ton honnêteté intellectuelle, ou à ta mission fondamentale de soigner et de venir en aide à des milliards d'humains ?
 
 Katia reste silencieuse. Cette question l'amène enfin à réfléchir profondément, ce qui ne lui était plus arrivé depuis des mois.
 
-> N'y a-t-il pas plutôt une décision, une action que tu as entreprise, dont tu peux vraiment être fière, et à laquelle tu souhaites davantage être associée qu'un titre ?
+> N'y a-t-il pas plutôt une décision, une action que tu as entreprise, dont tu peux vraiment être fière, et à laquelle tu souhaites davantage être associée qu'un titre ?
 
 Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 
@@ -135,16 +135,16 @@ Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 [**Podcast.**  Being Kind to Yourself. Hidden Brain (2021).](https://hiddenbrain.org/podcast/being-kind-to-yourself/)  
 [**Book.**  The Mindful Self-Compassion Workbook: A Proven Way to Accept Yourself, Build Inner Strength, and Thrive. Kristin Neff & Christopher Germer. The Guilford Press (2018).](https://self-compassion.org/mindful-self-compassion-workbook/)
 
-> Excellent. As-tu des traces de cet événement ? Des messages peut-être de gens qui ont apprécié ?
+> Excellent. As-tu des traces de cet événement ? Des messages peut-être de gens qui ont apprécié ?
 
-> Plein en fait. J'ai reçu énormément de messages de soutien. Tellement que je n'en ai lu qu'une fraction !
+> Plein en fait. J'ai reçu énormément de messages de soutien. Tellement que je n'en ai lu qu'une fraction !
 
 > Je t'invite à créer un dossier sur ton ordinateur, avec tous ces messages. À chaque fois que tu te sentiras mal mentalement, je t'invite à lire les messages de ce dossier. Certains appellent cela le « feel good folder[^feel-good-folder] ».
 
 [^feel-good-folder]: Cette idée de *feel good folder* est volée de Virginia Burger, dans une interview sur le podcast MIT Glipmse.  
 [**Podcast.**  Episode 2 – Virginia Burger. MIT Glimpse (2015).](https://glimpsepod.scripts.mit.edu/home/2015/11/04/episode-2-virginia-burger/)
 
-> Ce n'est pas une façon de me mentir à moi-même et de gonfler mon ego ?
+> Ce n'est pas une façon de me mentir à moi-même et de gonfler mon ego ?
 
 > Il ne faut peut-être pas le faire trop souvent, mais les psychologues ont montré l'efficacité de ce qu'on appelle l'auto-affirmation. En plus de se remonter le moral, ceci permet de mieux accepter les échecs et les critiques externes, car ça permet d'éviter de s'identifier à nos échecs et à nos croyances erronées. Je peux te recommander des livres à ce sujet[^feeling-good].
 
@@ -195,11 +195,11 @@ Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et s
 [^secret-sharing]: Cette technique de cryptographie est appelée le *secret partagé*, ou *secret sharing* en anglais. Typiquement, chaque partie connaîtrait un point d'un polynôme à 200 variables, et veut connaître la valeur du polynôme en un autre point. Voilà qui sera possible si et seulement si au moins 200 parties collaborent.  
 [**Video.**  How to keep an open secret with mathematics. Stand-up Maths (2019).](https://www.youtube.com/watch?v=K54ildEW9-Q)
 
-Katia pleure de joie à la lecture de cette lettre formidable. « Quels héros », s'exclame-t-elle dans un message à Marc. « Katia, c'est grâce à toi tout cela ; s'il y a un héros dans cette affaire, c'est bien toi », lui répond Marc.
+Katia pleure de joie à la lecture de cette lettre formidable. « Quels héros », s'exclame-t-elle dans un message à Marc. « Katia, c'est grâce à toi tout cela ; s'il y a un héros dans cette affaire, c'est bien toi », lui répond Marc.
 
 Katia découvre ensuite la liste interminable de signataires. Beaucoup de noms lui sont familiers. À la lecture de chacun d'eux, elle pleure sans retenue. Bien entendu, il y a Marc Rofstein, tout en haut de cette liste, mais aussi tous les employés que Katia a directement recrutés, mais aussi Science4Alpha, la mère Lucile Polmon, le trader Issa Gueye, la Docteure Paola Marta, le Premier Ministre kormicain, le Président Lartan, sa belle-soeur Marie Routisse, la journaliste Célia Keita, l'ex-troll Paul Gremoux, le psychologue Frédéric Partoli et tous les membres de l'OMESA.
 
-Cette fois-ci, l'affaire est bien trop énorme pour être éteinte par les campagnes de désinformation. Le lendemain, les unes des journaux sont remplies d'interviews d'anciens employés qui, tour à tour, proposent la même version des faits. « Ma confiance en SmartPoop et ma fierté d'y travailler ont été chamboulées le jour où j'ai découvert le programme de revente des données. Elles se sont complètement effondrées le jour où Katia a été licenciée », raconte un employé. « Katia est la personne la plus incroyable que j'ai eu la chance de rencontrer. Sa générosité, sa bienveillance, son énergie, son humour et son intelligence ont illuminé chaque jour que j'ai passé à SmartPoop. Son licenciement a conduit à de sombres ténèbres, où personne ne souhaite travailler, peu importe le salaire. Je refuse de travailler pour SmartPoop tant que Katia ne redeviendra pas Présidente ». L'opinion publique est cette fois conquise.
+Cette fois-ci, l'affaire est bien trop énorme pour être éteinte par les campagnes de désinformation. Le lendemain, les unes des journaux sont remplies d'interviews d'anciens employés qui, tour à tour, proposent la même version des faits. « Ma confiance en SmartPoop et ma fierté d'y travailler ont été chamboulées le jour où j'ai découvert le programme de revente des données. Elles se sont complètement effondrées le jour où Katia a été licenciée », raconte un employé. « Katia est la personne la plus incroyable que j'ai eu la chance de rencontrer. Sa générosité, sa bienveillance, son énergie, son humour et son intelligence ont illuminé chaque jour que j'ai passé à SmartPoop. Son licenciement a conduit à de sombres ténèbres, où personne ne souhaite travailler, peu importe le salaire. Je refuse de travailler pour SmartPoop tant que Katia ne redeviendra pas Présidente ». L'opinion publique est cette fois conquise.
 
 Trois jours plus tard, les démissions du conseil d'administration s'enchaînent, avant qu'un document soit écrit et co-signé par les membres restants du conseil. Celui-ci présente très clairement ses excuses envers Katia, annule toutes les poursuites judiciaires, et réinvestit Katia de ses fonctions. Là voilà enfin à nouveau Présidente et Directrice Générale de SmartPoop.
 
@@ -208,4 +208,4 @@ Trois jours plus tard, les démissions du conseil d'administration s'enchaînent
 
 Ne vous arrêtez pas en si bon chemin !
 Accédez à [la suite du roman](8-Trone.md) ou au [sommaire](README.md).  
-Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !
+Si vous avez apprécié, pensez à partager et à promouvoir ce roman de science-fiction auprès de vous !
