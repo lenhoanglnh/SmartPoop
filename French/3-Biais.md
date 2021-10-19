@@ -171,7 +171,7 @@ Les algorithmes qui prévilégient la sécurité sont alors conduits à ignorer 
 
 > Oh non… Je crois qu'on a un gros problème. Tu as le numéro de la médecin ? Il faut l'appeler tout de suite.
 
-### L'effet nocebo
+### L'effet *nocebo*
 
 Marc compose le numéro de Dr. Marta.
 
@@ -183,21 +183,21 @@ Marc compose le numéro de Dr. Marta.
 
 > C'est étrange. Les données que j'ai ne me semblent pas suggérer des symptômes préoccupants, explique Katia.
 
-> C'est peut-être un effet nocebo, intervient alors Marc.
+> C'est peut-être un effet *nocebo*, intervient alors Marc.
 
-> Un effet nocebo ? Oui ça pourrait être ça, en effet, s'exclame Dr. Marta.
+> Un effet *nocebo* ? Oui ça pourrait être ça, en effet, s'exclame Dr. Marta.
 
-> Un effet nocebo, demande Katia, qu'est-ce que c'est ?
+> Un effet *nocebo*, demande Katia, qu'est-ce que c'est ?
 
 > Lorsqu'un patient pense qu'il lui arrive quelque chose d'horrible, il peut arriver qu'il développe les symptômes qu'il craint, explique Marc. Des symptômes digestifs par exemple, c'est tout à fait probable. Issa a sans doute une confiance telle en SmartPoop que, lorsque SmartPoop lui a dit que son état de santé était très préoccupant, son état de santé est devenu très préoccupant[^nocebo].
 
 [^nocebo]: [**Video.**  This Video Will Hurt. CGP Grey (2013).](https://www.youtube.com/watch?v=O2hO4_UEe-4)
 
-> Mais expliquez-moi, demande Dr. Marta, pourquoi y a-t-il eu ce cas de faux positif ? Jusque là, à chaque fois que SmartPoop a déclaré un cas « très préoccupant », dans notre hôpital, ça avait toujours terminé en unité de soin intensif, puis en décès. C'est pour ça que j'ai moi-même était paniquée pour Issa — ce qui a sans doute malheureusement contribué à son nocebo.
+> Mais expliquez-moi, demande Dr. Marta, pourquoi y a-t-il eu ce cas de faux positif ? Jusque là, à chaque fois que SmartPoop a déclaré un cas « très préoccupant », dans notre hôpital, ça avait toujours terminé en unité de soin intensif, puis en décès. C'est pour ça que j'ai moi-même était paniquée pour Issa — ce qui a sans doute malheureusement contribué à son *nocebo*.
 
 > On vient de déployer les SmartToilets et les SmartToilets Deluxe, explique Katia. Je pense que les SmartToilets ont des diagnostics relativement fiables. Mais la version Deluxe a des capteurs encore plus avancés, qui n'ont pas été aussi utilisés que ceux des SmartToilets de base. Et c'est pour cette raison qu'elle n'est pas aussi fiable.
 
-> Je comprends, merci, réponds Dr. Marta. Je vais en informer Issa. Avec un peu de chance, ça aidera à soigner son nocebo. Est-ce que je peux vous demander de manuellement corriger son SmartPoop ?
+> Je comprends, merci, réponds Dr. Marta. Je vais en informer Issa. Avec un peu de chance, ça aidera à soigner son *nocebo*. Est-ce que je peux vous demander de manuellement corriger son SmartPoop ?
 
 > C'est… fait, dit Katia, après avoir entré quelques commandes sur son ordinateur.
 
@@ -262,7 +262,10 @@ Un article récent affirme que des mesures similaires doivent être urgemment pr
 
 > Non... 163 ? Non...
 
-> On vient de classer tous les utilisateurs de SmartToilet Deluxe d'origine africaine dans la catégorie « malade ». On a automatisé le racisme !
+> On vient de classer tous les utilisateurs de SmartToilet Deluxe d'origine africaine dans la catégorie « malade », parce que leurs excréments ont des molécules en densité différente que les excréments de la plupart des utilisateurs des SmartToilets Deluxe[^vitamine-D]. On a automatisé le racisme !
+
+[^vitamine-D]: À titre d'exemple, les noirs africains ont plus fréquemment des déficiences en vitamine D. D'autres différences physiologiques sont probablement discernables dans les excréments ; auquel cas les mesures de ces données rendraient les excréments des noirs africains « hors distribution ».  
+[**Paper**. Vitamin D and African Americans. Susan Harris. The Journal of Nutrition (2006).](https://pubmed.ncbi.nlm.nih.gov/16549493/)
 
 > Mais on ne l'a pas fait intentionnellement[^side-effect].
 
@@ -271,7 +274,7 @@ Un article récent affirme que des mesures similaires doivent être urgemment pr
 
 > Va expliquer ça aux médias ! Je crains le pire. On va avoir des titres sensationnalistes du genre « SmartPoop est raciste », et on risque probablement une poursuite en justice. On risque de perdre nos investisseurs ! Et si on n'a pas plus d'investisseurs et un procès au cul, on risque de faire faillite. Et tout ça à quelques jours de SmartPoopCon... Il faut qu'on taise cette histoire.
 
-Après un silence, Marc rajoute : « Je pense que c'est peine perdue. Les 163 victimes ont probablement presque toutes subi des souffrances dues à l'effet nocebo, dont on est responsables. »
+Après un silence, Marc rajoute : « Je pense que c'est peine perdue. Les 163 victimes ont probablement presque toutes subi des souffrances dues à l'effet *nocebo*, dont on est responsables. »
 
 > Comment ça « dont on est responsables » ? Tout ce qu'on a fait, c'est lancer des alertes. SmartPoop n'est qu'une aide à la décision.
 
@@ -281,7 +284,7 @@ Après un silence, Marc rajoute : « Je pense que c'est peine perdue. Les 163 v
 
 > OK. Mais ce n'est pas comme si on avait torturé Issa !
 
-> J'ai vu des expériences de nocebo terrifiantes. Dans l'une d'elle, une patiente est simplement assise. On ne lui fait rien. Mais on la met dans des conditions propices au nocebo. Sur une échelle de 0 à 10, la patiente rapportait une douleur de 9,5. Une douleur de 9,5 sur 10 !! Genre, c'était probablement pour elle comparable à la douleur de l'accouchement[^experience-nocebo] !
+> J'ai vu des expériences de *nocebo* terrifiantes. Dans l'une d'elle, une patiente est simplement assise. On ne lui fait rien. Mais on la met dans des conditions propices au *nocebo*. Sur une échelle de 0 à 10, la patiente rapportait une douleur de 9,5. Une douleur de 9,5 sur 10 !! Genre, c'était probablement pour elle comparable à la douleur de l'accouchement[^experience-nocebo] !
 
 [^experience-nocebo]: Marc fait ici référence à cette vidéo :  
 [**Video.**  Touch - Mind Field (Ep 6). VSauce (2017).](https://www.youtube.com/watch?v=OUdXMoY6fLY)
