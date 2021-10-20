@@ -260,12 +260,15 @@ Un article récent affirme que des mesures similaires doivent être urgemment pr
 
 > Devine combien il y a d'utilisateurs de SmartToilet Deluxe d'origine africaine.
 
-> Non... 163 ? Non...
+> Non... 163 ? Non... Mais pourquoi ?
 
-> On vient de classer tous les utilisateurs de SmartToilet Deluxe d'origine africaine dans la catégorie « malade », parce que leurs excréments ont des molécules en densité différente que les excréments de la plupart des utilisateurs des SmartToilets Deluxe[^vitamine-D]. On a automatisé le racisme !
+> Les excréments des utilisateurs d'origine africaine ont visiblement des caractéristiques physiologiques différentes.
 
-[^vitamine-D]: À titre d'exemple, les noirs africains ont plus fréquemment des déficiences en vitamine D. D'autres différences physiologiques sont probablement discernables dans les excréments ; auquel cas les mesures de ces données rendraient les excréments des noirs africains « hors distribution ».  
-[**Paper**. Vitamin D and African Americans. Susan Harris. The Journal of Nutrition (2006).](https://pubmed.ncbi.nlm.nih.gov/16549493/)
+> Ah oui... Je sais qu'ils ont plus facilement des déficiences en vitamine D, notamment lorsqu'ils vivent dans des régions avec peu de soleil en hiver[^vitamine-D]. Il y a certainement d'autres distinctions majeures, et certaines peuvent tout à fait être visibles via les SmartToilet Deluxe. D'où le fait que SmartPoop se préoccupe de la santé de ces 163 utilisateurs d'origine africaine.
+
+[^vitamine-D]: [**Paper**. Vitamin D and African Americans. Susan Harris. The Journal of Nutrition (2006).](https://pubmed.ncbi.nlm.nih.gov/16549493/)
+
+> Marc, il ne s'agit pas seulement d'être préoccupé. On vient essentiellement de classer tous les utilisateurs de SmartToilet Deluxe d'origine africaine dans la catégorie « malade ». On a automatisé le racisme !
 
 > Mais on ne l'a pas fait intentionnellement[^side-effect].
 
