@@ -100,7 +100,7 @@ Pendant ce temps, Marc s'informe sur la coprologie. Il télécharge des bases de
 
 > Tu sais, en fait les selles devraient être incolores ou blanchâtres, explique Marc à Katia lors de l'une de leurs soirées de travail. Elles sont surtout composées d'eau et de fibres après tout. Mais c'est un déchet des globules rouges, la bilirubine, qui les rend foncés. C'est le foie qui s'occupe de la traiter et de la « mettre » dans les excréments.
 
-> Je vois... et du coup quand le foie de fonctionne pas on devient marron ?
+> Je vois... et du coup quand le foie ne fonctionne pas on devient marron ?
 
 > Presque. Jaune plutôt. C'est ce qu'on appelle l'ictère. Ou « jaunisse » si tu préfères et les selles deviennent blanchâtres. Mais vois-tu…
 
