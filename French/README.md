@@ -20,7 +20,7 @@ Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et
 ## Pourquoi ce livre ?
 
 *SmartPoop* est une science-fiction très réaliste,
-qui vise à sensibiliser au danger des algorithmes et aux défis de les rendres [robustement bénéfiques](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier).
+qui vise à sensibiliser au danger des algorithmes et aux défis de les rendre [robustement bénéfiques](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier).
 
 Elle raconte l'histoire d'une entreprise du numérique, *SmartPoop*, qui effectue des analyses automatisées d'excréments.
 Ceci lui permet des diagnostics médicaux ultra-personnalisés.
@@ -40,7 +40,7 @@ et trouver des solutions pour rendre leurs algorithmes sécurisés et éthiques.
 Lê est aussi YouTubeur, sur les chaînes [Science4All](https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A/), [Axiome](https://www.youtube.com/channel/UCNHFiyWgsnaSOsMtSoV_Q1A/), [Étincelles, EPFL](https://www.youtube.com/channel/UC0o_ULEdwva8ksC63qvxMAA), [Wandida, EPFL](https://www.youtube.com/channel/UCD_VizaraVT9yDy1egNlWCQ/) et [ZettaBytes, EPFL](https://www.youtube.com/channel/UCfY6ovyFMaw30NRs-KrxrWw/).
 Il est l'auteur de trois livres, intitulés *[La formule du savoir](https://laboutique.edpsciences.fr/produit/1035/9782759822614/La%20formule%20du%20savoir)*, *[Le fabuleux chantier](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)* et *[Turing à la plage](https://www.dunod.com/sciences-techniques/turing-plage-intelligence-artificielle-dans-un-transat)*.
 Il est aussi membre du conseil d'éthique d'Orange.
-Enfin, Lê est Président de [l'Association Tournesol](https://wiki.tournesol.app), dont [la plateforme](https://tournesol.app) vise à collecter une grande base de données, fiable et sécurisé, de jugements éthiques humains, [pour contribuer à résoudre l'éthique des algorithmes](https://arxiv.org/abs/2107.07334).
+Enfin, Lê est Président de [l'Association Tournesol](https://wiki.tournesol.app), dont [la plateforme](https://tournesol.app) vise à collecter une grande base de données, fiable et sécurisée, de jugements éthiques humains, [pour contribuer à résoudre l'éthique des algorithmes](https://arxiv.org/abs/2107.07334).
 
 ### Tristan Le Magoarou
 
