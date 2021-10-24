@@ -15,9 +15,9 @@ En machine learning en particulier, les conférences les plus prestigieuses sont
 L'auteur de la thèse se doit généralement d'ajouter un résumé, une introduction générale, et une conclusion.
 Selon les universités, les exigences pour voir sa thèse acceptée varient.
 
-Plus tard dans la soirée, après avoir prétendu avoir apprécié la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l'humanité. Sa recherche jusque-là se contente d'améliorer les performances d'algorithmes déjà existants[^performance-securite]. Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux et l'optimisation de la publicité ciblée sur ces plateformes[^application-des-ia]. Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
+Plus tard dans la soirée, après avoir feigné d'apprécier la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l'humanité. Sa recherche jusque-là se contente d'améliorer les performances d'algorithmes déjà existants[^performance-securite]. Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux[^application-des-ia] et l'optimisation de la publicité ciblée sur ces plateformes[^publicite-hoang]. Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
 
-[^performance-securite]: Beaucoup considèrent ainsi que, si le progrès technologique améliore grandement la qualité de vies du plus grand nombre, il conduit aussi au fait que le coût de causer une catastrophe monumentale diminue drastiquement.
+[^performance-securite]: Beaucoup considèrent ainsi que, si le progrès technologique améliore grandement la qualité de vies du plus grand nombre, il diminue aussi drastiquement le coût de causer une catastrophe monumentale.
 Si l'on accepte ce postulat, toute recherche sur la performance des algorithmes peut être vue comme la création potentielle de risques nouveaux et mal maîtrisés, et est en cela dangereuse.
 Pour caractériser ce phénomène, le philosophe Nick Bostrom parle de *l'hypothèse du monde vulnérable*.
 Il propose ainsi une métaphore, où la recherche scientifique consiste à tirer une boule dans une urne, contenant des boules blanches et des boules noires.
@@ -28,7 +28,7 @@ Dès lors, il semble urgent de guider la recherche vers la quête de « boules 
 [**Video.**  How civilization could destroy itself -- and 4 ways we could prevent it | Nick Bostrom. TED (2020)](https://www.youtube.com/watch?v=JrjjOGI6YB4)  
 [**Paper.**  The Vulnerable World Hypothesis. Nick Bostrom. Global Policy (2019).](https://www.nickbostrom.com/papers/vulnerable.pdf)
 
-[^application-des-ia]: De nos jours, les « intelligence artificielles » les plus sophistiquées, celles qui reçoivent des milliards de dollars d'investissements en recherche et développement (si ce n'est plus !), ce sont bien les algorithmes du web, car l'enjeu économique et le besoin d'automatisation y sont monumentaux.
+[^application-des-ia]: De nos jours, les « intelligences artificielles » les plus sophistiquées, celles qui reçoivent des milliards de dollars d'investissements en recherche et développement (si ce n'est plus !), ce sont bien les algorithmes du web, car l'enjeu économique et le besoin d'automatisation y sont monumentaux.
 Après tout, les chiffres d'affaire de Google, Apple, Facebook, Amazon et Microsoft, entre autres, se comptent en centaines de milliards d'euros.
 Toute amélioration du service de quelques pourcents représente donc des milliards d'euros.
 Or ces entreprises doivent gérer des données de milliards d'utilisateurs, qui génèrent chacun sans doute des méga-octets de données par semaine.
@@ -37,7 +37,9 @@ Voilà qui représente des quantités monstrueuses de données, qui ne peuvent �
 Or les tâches sont de plus en plus complexes, comme détecter des incitations à la haine dans une image ou identifier la désinformation dans des milliards de messages.  
 [YouTube's Blog](https://blog.youtube/press/).
 
-Marc, encore étudiant en cancérologie, suggère alors l'utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chance d'être traité avec succès, et avec moins de risques et de complications.
+[^publicite-hoang]: En 2015, Lê Nguyên Hoang, l'un des auteurs de ce livre, travaillait dans le monde académique sur des problèmes mathématiques dont l'application première était l'optimisation de telles publicités. Il juge désormais que ces travaux sont en fait dangereux, comme l'illustrera ce roman plus tard.
+
+Marc, encore étudiant en cancérologie, suggère alors l'utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chances d'être traité avec succès, et avec moins de risques et de complications.
 
 > Ça commence à se faire en plus, précise Marc. L'année dernière des chercheurs américains ont montré qu'une IA était aussi douée qu'une équipe de dermatologues pour détecter des cancers de peau sur des photos[^cancer-de-la-peau]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
 
@@ -209,7 +211,7 @@ Katia contacte aussi des médiateurs scientifiques, sur Twitter et sur YouTube, 
 
 [^science4alpha]: Le nom Science4Alpha est bien sûr un clin d'oeil aux chaînes Science4All et Risque Alpha des deux auteurs de ce roman.
 
-[^collaborations-vulga]: « Sans nos médiateurs scientifiques, qui informent, expliquent, enseignent, décodent, combattent la désinformation et débattent des questions scientifiques, beaucoup resteraient dans un espace où ils ne disposent pas des informations dont ils ont besoin, ce qui les conduirait à faire de mauvais choix à des moments vraiment cruciaux, » [affirmait Jacinda Arden](https://medium.com/scicomm/what-jacinda-arden-can-teach-us-about-science-communication-6f8fc42712b4), Première Ministre de la Nouvelle-Zélande, en juillet 2020. 
+[^collaborations-vulga]: « Sans nos médiateurs scientifiques, qui informent, expliquent, enseignent, décodent, combattent la désinformation et débattent des questions scientifiques, beaucoup resteraient dans un espace où ils ne disposent pas des informations dont ils ont besoin, ce qui les conduirait à faire de mauvais choix à des moments vraiment cruciaux, » [affirmait Jacinda Arden](https://medium.com/scicomm/what-jacinda-arden-can-teach-us-about-science-communication-6f8fc42712b4), Première Ministre de la Nouvelle-Zélande, en juillet 2020.
 Malheureusement, les collaborations avec le monde de la vulgarisation, pendant la crise du COVID-19 et autour de sujets comme le changement climatique ou l'éthique des algorithmes, ont sans doute été très déficientes à travers le monde, avec plus généralement un très probable manque d'investissements dans la communication scientifique.
 Elles sont aussi souvent très délicates, pour les autorités et pour les vulgarisateurs, surtout dans le climat de défiance actuel. Par exemple, la vidéo de Science4All sur les vaccins, en collaboration avec le Ministère de la Santé en France, a causé un lever de bouclier (sans doute accentué par une campagne de désinformation organisée), recevant plus de dislikes que de likes sur YouTube (ce qui est extrêmement rare !).  
 [**Video.**  Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=13)
