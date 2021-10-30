@@ -1,5 +1,5 @@
-# SmartPoop: From a crappy AI to the throne
+# SmartPoop
 
-This github hosts the book *SmartPoop*, which is published under license CC BY 4.0.  
-The book is still being written. Be patient :slightly_smiling_face:    
-The book will be available in [French](French/README.md) and in [English](English/README.md).
+This github hosts the book *SmartPoop*, which is published under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+The [French version of the book](French/README.md) is currently in beta test.  
+The [English version](English/README.md) will be online soon.
