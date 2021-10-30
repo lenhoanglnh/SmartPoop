@@ -5,7 +5,7 @@
 Cela fait une semaine que SmartPoop a détecté un premier cas de ROVID-19 en Kormique, en mai 2026. Malheureusement, le nombre de ces cas n'a cessé d'augmenter depuis. La crainte d'un retour aux confinements interminables de 2020 règne alors. Il n'a d'ailleurs pas fallu attendre le discours du Premier Ministre pour que les magasins se mettent à être dévalisés. Les autoroutes du pays sont toutes paralysées, alors que la population urbaine fuit les grandes villes[^exode-urbain]. Les services de nombreuses entreprises sont interrompus.
 
 [^exode-urbain]: De tels exodes ont été observés en France pendant la pandémie COVID-19.  
-[**Paper.**  Urban exodus and the dynamics of COVID-19 pandemics. Gérard Weisbuch. Physica A: Statistical Mechanics and its Applications (2021).](https://www.sciencedirect.com/science/article/pii/S0378437121000522)
+[**Article.**  Urban exodus and the dynamics of COVID-19 pandemics. Gérard Weisbuch. Physica A: Statistical Mechanics and its Applications (2021).](https://www.sciencedirect.com/science/article/pii/S0378437121000522)
 
 ### Le chaos
 
@@ -23,7 +23,7 @@ Dans un contexte de confusion énorme, le gouvernement penche vers davantage de 
 
 [^infodemics]: Le mot « infodémic » a été utilisé par l'Organisation Mondiale de la Santé (OMS) pour décrire de tels chaos informationnels.  
 [**Website.**  Infodemic. World Health Organization (2020).](https://www.who.int/health-topics/infodemic)  
-[**Paper.**  Assessing the risks of ‘infodemics' in response to COVID-19 epidemics. Riccardo Gallotti, Francesco Valle, Nicola Castaldo, Pierluigi Sacco & Manlio De Domenico. Nature Human Behaviour (2020).](https://www.nature.com/articles/s41562-020-00994-6)
+[**Article.**  Assessing the risks of ‘infodemics' in response to COVID-19 epidemics. Riccardo Gallotti, Francesco Valle, Nicola Castaldo, Pierluigi Sacco & Manlio De Domenico. Nature Human Behaviour (2020).](https://www.nature.com/articles/s41562-020-00994-6)
 
 Sur les réseaux sociaux, c'est la cacophonie. Certains reprochent au gouvernement de cacher les cadavres. D'autres prétendent que le ROVID-19 n'existe pas, voire qu'il s'agit d'un canular du gouvernement pour contrôler la population. Quoi qu'il en soit, les cours boursiers sont en chute libre, et de nombreux étudiants qui n'ont pas pu effectuer d'exode urbain n'ont plus de quoi s'acheter à manger[^famine-etudiante]. Des associations de dons de nourriture se mettent en place, mais les mesures en vigueur rendent leur officialisation difficile.
 
@@ -40,7 +40,7 @@ Bientôt, la cacophonie s'empare de la rue. Des manifestations sont organisées 
 [^confusion-manifestations]: On retrouve ces confusions dans de nombreuses manifestations populaires.  
 [**Video.**  L'hooliganisme politique a gâché ma marche pour les sciences. Science4All (2017)](https://www.youtube.com/watch?v=7c7wiAaZiI8)  
 [**Website.**  Pass sanitaire : les manifestations soutenues par des personnalités d'extrême-droite et d'extrême-gauche. Actualités Orange (2021).](https://actu.orange.fr/politique/pass-sanitaire-les-manifestations-soutenues-par-des-personnalites-d-extreme-droite-et-d-extreme-gauche-magic-CNT000001CZZuL.html)  
-[**Book.**  Twitter and tear gas: The Power and Fragility of Networked Protest. Zeynep Tufekci. Yale University Press (2017).](https://www.twitterandteargas.org/)
+[**Livre.**  Twitter and tear gas: The Power and Fragility of Networked Protest. Zeynep Tufekci. Yale University Press (2017).](https://www.twitterandteargas.org/)
 
 L'économie est heurtée de plein fouet. Au fil des semaines, malgré les aides gouvernementales, de plus en plus de petits commerces sont contraints de déclarer faillite[^aide-entreprises], tandis que les assureurs souffrent à leur tour et ne parviennent pas à payer leurs dettes[^crise-subprimes]. De façon plus spectaculaire encore, alors que les transports sont immobilisés, les prix du pétrole chutent jusqu'à devenir négatifs[^prix-negatifs-petrole], et les industries pétrolières Kormicaines demandent d'urgence des subventions publiques[^subvention-petrole]. À l'étranger en particulier, de nombreux clients de ces industries annoncent de nouveaux investissements vers l'adoption de technologies compatibles avec les énergies renouvelables des concurrents Bokistanais. Voilà qui refroidit les investisseurs pétroliers, et qui pousse certaines industries pétrolières Kormicaines à la faillite. Des centaines de milliers d'employés se retrouvent soudainement au chômage.
 
@@ -64,7 +64,7 @@ Toutefois, certains observateurs font remarquer que ces audits sont freinés par
 [**Video.**  La notification à l'exposition sans surveillance (DP3T). Science4All (2020).](https://www.youtube.com/watch?v=RKZOBSdkUBo)  
 [**Video.**  Applis Covid : dangereux pour la vie privée ? Philoxime (2020).](https://www.youtube.com/watch?v=ZvyR0DGAOUQ)  
 En particulier, le chiffrement homomorphe naïf ne semble pas pouvoir se combiner aisément avec les solutions d'apprentissage robustes aux fausses données, aussi connues sous le nom d'apprentissage Byzantin (notamment car le chiffrement homomorphe naïf ne permet pas des opérations autres que l'addition et la multiplication). Des techniques alternatives comme la confidentialité différentielle (*differential privacy*) se marrient également mal avec l'apprentissage Byzantin.  
-[**Paper.**  Differential Privacy and Byzantine Resilience in SGD: Do They Add Up? Rachid Guerraoui, Nirupam Gupta, Rafaël Pinot, Sébastien Rouault & John Stephan. PODC (2021).](https://dl.acm.org/doi/10.1145/3465084.3467919)  
+[**Article.**  Differential Privacy and Byzantine Resilience in SGD: Do They Add Up? Rachid Guerraoui, Nirupam Gupta, Rafaël Pinot, Sébastien Rouault & John Stephan. PODC (2021).](https://dl.acm.org/doi/10.1145/3465084.3467919)  
 Plus de recherches sont nécessaires pour mieux comprendre le tradeoff entre sécurité et privacy en machine learning. Mais il n'y aura sans doute pas de magie : il persistera une tension fondamentale entre ces deux propriétés désirables.
 
 Finalement, sous la pression du gouvernement Kormicain, Katia et Marc décident d'interrompre momentanément le chiffrement homomorphe, si l'utilisateur y consent. « Les données sont encore chiffrées entre l'utilisateur et SmartPoop. Mais avec le nouveau système, SmartPoop pourra déchiffrer les données, et les analyser, pour vérifier l'absence de dysfonctionnement dans notre système », précise Katia dans une interview télévisée.
@@ -72,7 +72,7 @@ Finalement, sous la pression du gouvernement Kormicain, Katia et Marc décident 
 Petit à petit, suite à des vagues de communications du gouvernement Kormicain, de plus en plus de Kormicains consentent à partager leurs données SmartPoop avec l'entreprise SmartPoop[^youtube-regrets-2]. Étrangement, pendant longtemps, aucun cas de ROVID-19 n'est observé parmi ces données. Ce n'est qu'une semaine plus tard, alors que la moitié des Kormicains partagent désormais leurs données SmartPoop avec l'entreprise SmartPoop, que les premiers cas de ROVID-19 sont détectés dans ces données de volontaires.
 
 [^youtube-regrets-2]: Dans un genre similaire, en 2020, la *Mozilla Foundation* a lancé un programme participatif où les volontaires pouvaient partager leurs données YouTube pour permettre aux chercheurs de mieux comprendre l'algorithme de recommandation de YouTube. On a là encore un cas de dilemme sécurité-privacy. Tant que les données des utilisateurs et des algorithmes de YouTube resteront privés, il sera très difficile de comprendre les dynamiques de comportements des utilisateurs sur YouTube, et de prendre les mesures adéquates pour réduire le cyber-harcèlement, les appels à la haine et la désinformation.  
-[**Paper.**  YouTube Regrets. Mozilla Foundation (2021).](https://foundation.mozilla.org/en/campaigns/regrets-reporter/findings/)
+[**Article.**  YouTube Regrets. Mozilla Foundation (2021).](https://foundation.mozilla.org/en/campaigns/regrets-reporter/findings/)
 
 Katia mène elle-même l'analyse de ces cas, et Marc assiste à cette analyse. Marc demande alors :
 
@@ -113,8 +113,11 @@ Katia lance l'impression des analyses, et récupère les copies fraîchement sor
 
 > Au Bokistan bien sûr, s'exclame Marc. Ou au moins aux industries d'énergie renouvelable bokistanaises[^desinformation-payee-2].
 
-[^desinformation-payee-2]: Cette pratique semble très présente, notamment dans les pays autoritaires. Un rapport de l'Institut de Recherche Stratégique de l'École Militaire (IRSEM) en France fait état de 20 millions de chinois payés pour produire de la désinformation, dont 2 millions à temps plein.  
-[**Paper.**  Les opérations d'influence chinoises. un moment machiavélien. ISEM (2021)](https://www.irsem.fr/rapport.html)
+[^desinformation-payee-2]: Cette pratique semble très présente, notamment dans les pays autoritaires. L'étude ci-desssous fait état de 20 millions de chinois payés pour produire de la désinformation, dont 2 millions à temps plein.  
+[**Website.** A Different Kind of Army: The Militarization of China’s Internet Trolls. The Jamestown Foundation (2021).](https://jamestown.org/program/a-different-kind-of-army-the-militarization-of-chinas-internet-trolls/)  
+Un rapport de l'Institut de Recherche Stratégique de l'École Militaire (IRSEM) en France fournit plus d'informations sur les activités de cyber-guerre entreprises par la Chine.  
+[**Podcast.** La Chine à l’offensive. Les opérations d’influence chinoises et leurs relais. Le Collimateur (2021).](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjU2OTg4MTI4NC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTEzODE5NjIzMw)  
+[**Article.**  Les opérations d'influence chinoises. un moment machiavélien. ISEM (2021)](https://www.irsem.fr/rapport.html)
 
 > Mais donc, tu penses qu'ils ont créé des faux profils ?
 
@@ -125,11 +128,11 @@ Katia lance l'impression des analyses, et récupère les copies fraîchement sor
 [^data-poisoning]: On parle alors d'attaques par données empoisonnées (*data poisoning*). Ces attaques consistent à injecter de fausses données dans la base de données d'entraînement des algorithmes pour les amener à apprendre et à conclure des choses erronnées.  
 [**Video.**  Hacker l'IA (ft. El Mahdi El Mhamdi). Science4All (2018).](https://www.youtube.com/watch?v=x22oI81jyTQ)  
 L'attaque est ici simple : elle consiste simplement à lancer une alerte. Mais on peut imaginer des attaques plus sophistiquées, notamment pas « *backdoor* », qui conduirait l'algorithme à systématiquement se tromper pour certaines données.  
-[**Paper.**  Backdoor attacks against learning systems. Yujie Ji, Xinyang Zhang & Ting Wang. CNS (2017).](https://ieeexplore.ieee.org/document/8228656)  
+[**Article.**  Backdoor attacks against learning systems. Yujie Ji, Xinyang Zhang & Ting Wang. CNS (2017).](https://ieeexplore.ieee.org/document/8228656)  
 La défense contre le data poisoning semble surtout devoir s'appuyer sur la théorie de l'apprentissage Byzantine.  
-[**Paper.**  An equivalence between data poisoning and Byzantine gradient attacks. Anonymous authors. OpenReview (2021)](https://openreview.net/forum?id=7pZiaojaVGU)  
+[**Article.**  An equivalence between data poisoning and Byzantine gradient attacks. Anonymous authors. OpenReview (2021)](https://openreview.net/forum?id=7pZiaojaVGU)  
 Cette théorie a montré des résultats positifs, avec des algorithmes disposant de garanties théoriques, mais aussi des résultats négatifs, avec des théorèmes d'impossibilité sur ce que les algorithmes peuvent garantir, notamment dans le cas où les données des utilisateurs sont hétérogènes, ce qui est clairement le cas quand il s'agit d'excréments, puisque les excréments de deux utilisateurs différents sont clairement très différents.  
-[**Paper.**  Collaborative learning in the jungle. El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui, Arsany Guirguis, Lê Nguyên Hoang & Sébastien Rouault. NeurIPS (2021).](https://arxiv.org/abs/2008.00742)
+[**Article.**  Collaborative learning in the jungle. El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui, Arsany Guirguis, Lê Nguyên Hoang & Sébastien Rouault. NeurIPS (2021).](https://arxiv.org/abs/2008.00742)
 
 > Oui, probablement générés à partir des données publiques sur le profil scatologique du ROVID-19, et peut-être même en particulier des Kormicains.
 
@@ -150,9 +153,9 @@ Après quelques minutes de réflexion, Katia en vient à une seconde épiphanie.
 > Ils ont détecté quelque chose de similaire dans les algorithmes de langage, comme les algorithmes d'autocomplétion des claviers de téléphones. L'autocomplétion de ton téléphone s'appuie sur la manière dont tu tapes sur ton clavier, mais aussi sur la manière dont d'autres gens tapent sur leur clavier. Ainsi, si tu tapes exactement comme la femme du Président, tu vas avoir les mêmes autocomplétions que la femme du Président, qui correspondent à la manière dont elle tape sur son clavier[^stochastic-parrot]. Et si tout à coup, tu tapes “mon diagnostic SmartPoop de l'autre jour disait que”, et si la femme du Président a précédemment tapé une telle phrase, alors tu pourrais avoir l'autocomplétion qui correspond mot pour mot à ce que la femme du Président avait tapé.
 
 [^stochastic-parrot]: Ces algorithmes de traitement langage sont parfois qualifiés de « perroquets stochastiques », car ils apprennent à répéter le genre de phrases présentes dans leurs données d'entraînement.  
-[**Paper.**  On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?  Emily Bender, Timnit Gebru, Angelina McMillan-Major & Shmargaret Shmitchell. FAccT (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922)  
+[**Article.**  On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?  Emily Bender, Timnit Gebru, Angelina McMillan-Major & Shmargaret Shmitchell. FAccT (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922)  
 On le voit particulièrement bien dans le cas des théories du complot, que ces algorithmes peuvent parfaitement répéter. Plus surprenant encore, la manière dont ils sont amenés à parler de ces théories dépend non seulement de la manière dont on leur demande d'en parler, voire, de façon plus subtile encore, de l'historique de la conversation, comme le montre l'article suivant.  
-[**Paper.**  The Radicalization Risks of GPT-3 and Advanced Neural Language Models. Kris McGuffie, Alex Newhouse (2020).](https://arxiv.org/abs/2009.06807)  
+[**Article.**  The Radicalization Risks of GPT-3 and Advanced Neural Language Models. Kris McGuffie, Alex Newhouse (2020).](https://arxiv.org/abs/2009.06807)  
 
 > Attends, t'es en train de dire que SmartPoop ne parvient pas à distinguer les utilisateurs à qui il parle ?
 
@@ -163,7 +166,7 @@ On le voit particulièrement bien dans le cas des théories du complot, que ces 
 > Oui, mais du coup, tu peux espionner les diagnostics SmartPoop d'un individu, en obtenant des données personnelles semblables[^privacy-attack-ml].
 
 [^privacy-attack-ml]: On parle parfois d'attaques par extraction d'information. Les algorithmes de modernes mémorisant leurs données d'entraînement, ils sont en fait très vulnérables à ce genre d'attaque. En fait, il peut suffire de leur demander littéralement « quelle est l'adresse de Monsieur X » pour qu'ils révèlent une information sensible.  
-[**Paper.**  Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea & Colin Raffel. USENIX (2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
+[**Article.**  Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea & Colin Raffel. USENIX (2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
 
 > Mais comment les espions pourraient-ils créer un profil similaire à celui de la femme du Président ?
 
@@ -224,7 +227,7 @@ Interrogée par cinq figures d'autorité sélectionnée par l'OMESA, Katia fait 
 Plus récemment, Google semble vouloir déployer des algorithmes de traitement du langage très sophistiqués, mais dont la sécurité est extrêmement critiquée.  
 [**Video.**  Google démantèle son éthique (et tout le monde s'en fout...). Science4All (2021).](https://www.youtube.com/watch?v=HbFadtOxs4k)  
 Et pour cause, certains théorèmes d'impossibilité de sécurité semblent largement s'appliquer à ces algorithmes.  
-[**Paper.**  Collaborative learning in the jungle. El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui, Arsany Guirguis, Lê Nguyên Hoang & Sébastien Rouault. NeurIPS (2021).](https://arxiv.org/abs/2008.00742)  
+[**Article.**  Collaborative learning in the jungle. El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui, Arsany Guirguis, Lê Nguyên Hoang & Sébastien Rouault. NeurIPS (2021).](https://arxiv.org/abs/2008.00742)  
 Pire, Google semble vouloir concevoir un algorithme plus sophistiqué encore, appelé *Pathways*, qui répondrait à de nombreux services différents de Google, de Google Search aux recommandations YouTube, en passant par GMail, GDrive et GBoard.  
 [**Website.**  Google is developing a new superintelligent AI but ethical questions remain. Quartz (2021).](https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/)
 
@@ -271,7 +274,7 @@ L'audition se poursuit avec une longue discussion sur les conséquences sociéta
 
 > Professeur Ferpo, l'idéal serait une *Proof of Personhood*, qui consiste à associer à chaque individu sur terre une identité numérique unique, vérifiable et sécurisée[^pop]. C'est d'ailleurs le sujet que j'aimerais inviter l'OMESA à investiguer. La sécurité de toutes les plateformes collaboratives et participatives, comme les réseaux sociaux, les cryptomonnaies et SmartPoop, me semble nécessiter inéluctablement une *Proof of Personhood*. En fait, en démocratie, la Proof of Personhood via les cartes électorales, c'est exactement ce qui permet de garantir le principe « un citoyen, une voix[^pop-vote] ».
 
-[^pop]: [**Paper.**  Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies. Maria Borge, Eleftherios Kokoris-Kogias, Philipp Jovanovic, Linus Gasser, Nicolas Gailly & Bryan Ford. EuroS&P Workshops (2017).](https://ieeexplore.ieee.org/abstract/document/7966966)
+[^pop]: [**Article.**  Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies. Maria Borge, Eleftherios Kokoris-Kogias, Philipp Jovanovic, Linus Gasser, Nicolas Gailly & Bryan Ford. EuroS&P Workshops (2017).](https://ieeexplore.ieee.org/abstract/document/7966966)
 
 [^pop-vote]: Ce principe est d'ailleurs aux fondements du projet [Tournesol](https://tournesol.app).  
 [**Video.**  L'attaque des 51%. Science4All (2021).](https://www.youtube.com/watch?v=8gH-sYnJez4&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=7)
@@ -302,7 +305,7 @@ L'audition se poursuit avec une longue discussion sur les conséquences sociéta
 
 > Professeur Raul, il faut faire ce que les États ont cherché à faire pour donner un et exactement un droit de vote à chaque membre de leurs pays. Il faut faire des recensements précis, et réguliers pour résoudre la *Proof of Personhood*, via des organismes indépendants, auditables et audités. Et il faut les faire régulièrement, peut-être tous les ans, pour restaurer des identités numériques volées ou perdues[^pop-ford].
 
-[^pop-ford]: [**Paper.**  Identity and Personhood in Digital Democracy: Evaluating Inclusion, Equality, Security, and Privacy in Pseudonym Parties and Other Proofs of Personhood. Bryan Ford (2020).](https://arxiv.org/abs/2011.02412)
+[^pop-ford]: [**Article.**  Identity and Personhood in Digital Democracy: Evaluating Inclusion, Equality, Security, and Privacy in Pseudonym Parties and Other Proofs of Personhood. Bryan Ford (2020).](https://arxiv.org/abs/2011.02412)
 
 > Vous parlez d'un chantier monumental !
 

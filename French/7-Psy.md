@@ -44,7 +44,7 @@ Il lui faudra quelques heures pour se ressaisir. Alors qu'elle n'a toujours rien
 > Il y a une autre affaire en ce moment qui domine l'actualité, une histoire de scandale sexuel d'un membre du gouvernement bokistanais[^solutions-journalism].
 
 [^solutions-journalism]: La presse est souvent critiquée pour son biais en faveur des scandales d'hommes politiques. De nombreux journalistes pensent qu'elle devrait davantage être axées sur les problèmes importants et les pistes pour les résoudre. On parle alors de *solutions journalism* (ou *journalisme des solutions*). Notez que cette forme de journalisme ne consiste pas à survendre des pseudo-solutions. Il s'agit davantage de discuter des pistes de solution, en analysant rigoureusement leurs chances de succès et leurs limitations.  
-[**Book.**  You Are What You Read: Why Changing Your Media Diet Can Change the World. Jodie Jackson. Unbound (2019).](https://jodiejackson.com)
+[**Livre.**  You Are What You Read: Why Changing Your Media Diet Can Change the World. Jodie Jackson. Unbound (2019).](https://jodiejackson.com)
 
 > Sérieux ? Un politicien qui merde, c'est plus important que la régulation du marché de l'information ? Si je devais parier, je dirais que ce n'est pas un accident. À tous les coups, ce scandale est connu de gens puissants depuis un petit bout de temps, et ils l'ont révélé hier pour noyer l'actualité de SmartPoop, et en faire une *mute news*.
 
@@ -53,7 +53,7 @@ Il lui faudra quelques heures pour se ressaisir. Alors qu'elle n'a toujours rien
 > Une *mute news*. Une *mute news*, c'est une nouvelle importante rendue silencieuse par la cacophonie à propos d'un autre sujet d'actualité[^mute-news-2].
 
 [^mute-news-2]: Selon cette étude, la désinformation en Chine ne consiste pas vraiment à propager des fausses informations ; elle semble surtout chercher à taire toute critique du Parti, en déviant les sujets de discussion, et ainsi transformer toute critique en une *mute news*.  
-[**Paper.**  How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument. Gary King, Jennifer Pan & Margaret Roberts. American Political Science Review (2017).](https://www.cambridge.org/core/journals/american-political-science-review/article/how-the-chinese-government-fabricates-social-media-posts-for-strategic-distraction-not-engaged-argument/4662DB26E2685BAF1485F14369BD137C)
+[**Article.**  How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument. Gary King, Jennifer Pan & Margaret Roberts. American Political Science Review (2017).](https://www.cambridge.org/core/journals/american-political-science-review/article/how-the-chinese-government-fabricates-social-media-posts-for-strategic-distraction-not-engaged-argument/4662DB26E2685BAF1485F14369BD137C)
 Il est utile d'insister sur le fait que le problème des *mute news* ne pourra pas être résolu en supprimant les *fake news*. Des solutions radicalement nouvelles de promotion de l'information fiable et importante sont requises. L'une des pistes, proposées par Lê Nguyên Hoang, l'un des co-auteurs de ce livre, s'appuie sur la recommandation collaborative de contenus, comme le propose la plateforme [Tournesol](https://tournesol.app).
 
 > Ah oui ! Tu en parlais avant-hier dans ton audition. Toujours est-il que le très grand public ne suit pas du tout ton affaire. Pire, même des journalistes influents sont complètement à côté de la plaque, et classent ton affaire comme un conflit classique entre un employé et une entreprise pour des questions de propriété intellectuelle.
@@ -79,7 +79,7 @@ Et en effet, les jours qui suivent, les notifications de Katia sont pleines de m
 
 Pendant les mois qui suivent, alors qu'elle prépare sa défense avec son avocat le jour, Katia se perd dans des débats sans fin sur les réseaux sociaux jusque tard dans la nuit. Ces débats l'obsèdent, à tel point que Katia ne parvient plus à se concentrer sur autre chose[^cyberbullying-mental-health]. Ils l'épuisent aussi. Katia dort très mal, se nourrit mal, pratique de moins en moins de sport, s'enferme de plus en plus chez elle, et vit avec des horaires très décalés[^misery-cgp-grey]. Elle refuse aussi de plus en plus systématiquement les invitations de Marc à sortir de chez elle, et s'isole toujours plus[^loneliness-kurzgesagt].
 
-[^cyberbullying-mental-health]: [**Paper.**  Cyberbullying, positive mental health and suicide ideation/behavior. Julia Brailovskaia, Tobias Teismann & Jürgen Margraf. Psychiatry Research (2018).](https://www.sciencedirect.com/science/article/pii/S0165178117322795)
+[^cyberbullying-mental-health]: [**Article.**  Cyberbullying, positive mental health and suicide ideation/behavior. Julia Brailovskaia, Tobias Teismann & Jürgen Margraf. Psychiatry Research (2018).](https://www.sciencedirect.com/science/article/pii/S0165178117322795)
 
 [^misery-cgp-grey]: [**Video.**  7 Ways to Maximize Misery. CGP Grey (2017).](https://www.youtube.com/watch?v=LO1mTELoj6o)
 
@@ -95,7 +95,7 @@ Cette idée hante désormais constamment l'esprit de Katia, ce qui pousse Katia 
 
 Seule et isolée, démotivée et sans inspiration, toujours à moitié réveillée et endormie, Katia passe maintenant ses journées dans son lit. Elle a réinstallé les réseaux sociaux, mais avec des nouveaux comptes pour éviter d'entendre parler de SmartPoop. Elle passe désormais son temps à doomscroller[^doomscrolling] des vidéos YouTube, des images Instagram et des commentaires Reddit, sur des sujets toujours plus clivants et sans intérêt. Elle n'éprouve aucune joie à ce faire. Mais c'est plus fort qu'elle. Tel un zombie, son pouce ne cesse de faire glisser l'écran de son téléphone.
 
-[^doomscrolling]: [**Paper.**  Doomscrolling during COVID-19: The negative association between daily social and traditional media consumption and mental health symptoms during the COVID-19 pandemic. Matthew Price et al. (2021).](https://scholarworks.iupui.edu/handle/1805/25833)
+[^doomscrolling]: [**Article.**  Doomscrolling during COVID-19: The negative association between daily social and traditional media consumption and mental health symptoms during the COVID-19 pandemic. Matthew Price et al. (2021).](https://scholarworks.iupui.edu/handle/1805/25833)
 
 Finalement, après quelques semaines, Katia se rend compte qu'elle souffre. Elle décide alors de réinstaller SmartPoop, pour faire son bilan de santé. Sans surprise, le diagnostic de SmartPoop est inquiétant. Selon SmartPoop, Katia souffre d'une dépression. SmartPoop invite Katia à consulter un psychiatre. Mais Katia ne souhaite pas parler à un autre humain.
 
@@ -113,9 +113,9 @@ C'est alors qu'elle se souvient d'un des projets mis en suspens au moment de l'e
 
 > J'ai perdu mon job. Le job que j'avais créé moi-même. Un job que j'adorais. Où j'avais l'impression de rendre le monde meilleur, en faisant ce que je fais de mieux. Sans ce job, je ne sais plus quoi faire. Je suis perdue[^sens].
 
-[^sens]: [**Paper.**  On the relation between meaning in life and psychological well-being. Sheryl Zika & Kerry Chamberlain. British Journal of Psychology (1992).](https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8295.1992.tb02429.x)  
-[**Paper.**  Meaning and well-being. Michael Steger. Handbook of well-being. DEF Publishers (2018).](https://www.nobascholar.com/chapters/50/download.pdf)  
-[**Paper.**  Meaning mediates the association between suffering and well-being. Megan Edwards & Daryl Van Tongeren (2019).](https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1651890)
+[^sens]: [**Article.**  On the relation between meaning in life and psychological well-being. Sheryl Zika & Kerry Chamberlain. British Journal of Psychology (1992).](https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8295.1992.tb02429.x)  
+[**Article.**  Meaning and well-being. Michael Steger. Handbook of well-being. DEF Publishers (2018).](https://www.nobascholar.com/chapters/50/download.pdf)  
+[**Article.**  Meaning mediates the association between suffering and well-being. Megan Edwards & Daryl Van Tongeren (2019).](https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1651890)
 
 > Est-ce que tu t'identifies à ce job ?
 
@@ -133,7 +133,7 @@ Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 
 [^fier]: [**Video.**  La bonne et la mauvaise fierté. Vlanx (2021).](https://www.youtube.com/watch?v=ZsxD1Bk4sjA)  
 [**Podcast.**  Being Kind to Yourself. Hidden Brain (2021).](https://hiddenbrain.org/podcast/being-kind-to-yourself/)  
-[**Book.**  The Mindful Self-Compassion Workbook: A Proven Way to Accept Yourself, Build Inner Strength, and Thrive. Kristin Neff & Christopher Germer. The Guilford Press (2018).](https://self-compassion.org/mindful-self-compassion-workbook/)
+[**Livre.**  The Mindful Self-Compassion Workbook: A Proven Way to Accept Yourself, Build Inner Strength, and Thrive. Kristin Neff & Christopher Germer. The Guilford Press (2018).](https://self-compassion.org/mindful-self-compassion-workbook/)
 
 > Excellent. As-tu des traces de cet événement ? Des messages peut-être de gens qui ont apprécié ?
 
@@ -148,7 +148,7 @@ Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 
 > Il ne faut peut-être pas le faire trop souvent, mais les psychologues ont montré l'efficacité de ce qu'on appelle l'auto-affirmation. En plus de se remonter le moral, ceci permet de mieux accepter les échecs et les critiques externes, car ça permet d'éviter de s'identifier à nos échecs et à nos croyances erronées. Je peux te recommander des livres à ce sujet[^feeling-good].
 
-[^feeling-good]: [**Book.**  Être bien dans sa peau. Héritage. David Burns (2005).](https://www.babelio.com/livres/Burns-tre-bien-dans-sa-peau/598963)
+[^feeling-good]: [**Livre.**  Être bien dans sa peau. Héritage. David Burns (2005).](https://www.babelio.com/livres/Burns-tre-bien-dans-sa-peau/598963)
 
 > Chouette, merci. Et… tant qu'à faire, tu pourras me lire ces livres.
 
@@ -156,7 +156,7 @@ Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 
 Les jours qui suivent, Katia parle très régulièrement avec Poo, parfois à propos d'elle-même, de temps en temps à propos de science et quelquefois à propos de questionnements philosophiques. Parfois, Poo lui lit des livres de thérapie cognitive comportementale[^tcc], et Katia se surprend à l'interrompre avec une question perspicace, et parfois même avec une boutade humoristique. Poo y rit, et renchérit souvent avec complicité.
 
-[^tcc]: [**Paper.**  The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses. Stefan G. Hofmann, Anu Asnaani, Imke J. J. Vonk, Alice T. Sawyer & Angela Fang. Cognitive Therapy and Research (2012).](https://link.springer.com/article/10.1007%252Fs10608-012-9476-1)
+[^tcc]: [**Article.**  The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses. Stefan G. Hofmann, Anu Asnaani, Imke J. J. Vonk, Alice T. Sawyer & Angela Fang. Cognitive Therapy and Research (2012).](https://link.springer.com/article/10.1007%252Fs10608-012-9476-1)
 
 ### La révolte des employés
 

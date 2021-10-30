@@ -22,8 +22,8 @@ Depuis lors, Lucile, profondément traumatisée par le cancer de son mari, dévo
 Mais l'obsession de Lucile ne se limite toutefois pas à SmartPoop. Elle passe ses journées à lire toutes sortes de blogs de santé du web, à regarder des vidéos YouTube sur de la médecine alternative et à fréquenter des groupes Facebook où des inconnus partagent leurs expériences personnelles[^mesinformation-sante-mentale].
 
 [^mesinformation-sante-mentale]: Quelques études scientifiques suggèrent un lien étroit entre détresse mentale et croyances en la médecine alternative.  
-[**Paper.**  Are modern health worries associated with medical conspiracy theories? Journal of Psychosomatic Research. Y Lahrach and A Furnham (2017).](https://www.sciencedirect.com/science/article/pii/S0022399917301757)  
-[**Paper.**  Belief in a COVID-19 Conspiracy Theory as a Predictor of Mental Health and Well-Being of Health Care Workers in Ecuador: Cross-Sectional Survey Study. Xi Chen,  Stephen X Zhang,  Asghar Afshar Jahanshahi,  Aldo Alvarez-Risco,  Huiyang Dai, Jizhen Li et Verónica García Ibarra. JMIR Public Health and Surveillance (2020).](https://publichealth.jmir.org/2020/3/e20737)
+[**Article.**  Are modern health worries associated with medical conspiracy theories? Journal of Psychosomatic Research. Y Lahrach and A Furnham (2017).](https://www.sciencedirect.com/science/article/pii/S0022399917301757)  
+[**Article.**  Belief in a COVID-19 Conspiracy Theory as a Predictor of Mental Health and Well-Being of Health Care Workers in Ecuador: Cross-Sectional Survey Study. Xi Chen,  Stephen X Zhang,  Asghar Afshar Jahanshahi,  Aldo Alvarez-Risco,  Huiyang Dai, Jizhen Li et Verónica García Ibarra. JMIR Public Health and Surveillance (2020).](https://publichealth.jmir.org/2020/3/e20737)
 
 ### La radioactivité des bananes
 
@@ -34,7 +34,7 @@ Un soir, sur son téléphone, Lucile tombe sur une vidéo YouTube sur les impact
 
 [^recommandation-youtube]: Cet algorithme de recommandation est devenu l'une des entités les plus influentes au monde. Pour s'en rendre compte, il est utile de constater quelques statistiques. Depuis 2016, il y a plus de vues sur YouTube que de recherches sur Google. En 2019 (avant le COVID-19 !), les vues sur YouTube représentaient un milliard d'heures de visionnage pour deux milliards d'humains sur terre, soit une moyenne d'une demi-heure par jour. Or l'algorithme de recommandation de YouTube est responsable de 2 vues sur 3. Après tout, à chaque fois qu'un utilisateur va sur [YouTube.com](https://www.youtube.com) ou clique sur l'application YouTube sur son téléphone, c'est cet algorithme qui décide quelles vidéos seront proposées à l'utilisateur, sans parler de l'auto-play ou de la barre de proposition à droite sur le site. Dans leur livre [Le Fabuleux Chantier](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier), El Mahdi El Mhamdi et Lê Nguyên Hoang affirment que ceci fait de l'algorithme de YouTube l'entité la plus puissante au monde, car il est capable d'enfermer certaines populations dans leurs convictions, ou de réduire au silence certaines informations en ne les recommandant jamais.  
 [**Video.**  L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=29)  
-[**Book.**  Le fabuleux chantier : Rendre l'intelligence artificielle robustement bénéfique. Lê Nguyên Hoang et El Mahdi El Mhamdi. EDP Sciences (2019)](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
+[**Livre.**  Le fabuleux chantier : Rendre l'intelligence artificielle robustement bénéfique. Lê Nguyên Hoang et El Mahdi El Mhamdi. EDP Sciences (2019)](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
 [**Website.**  YouTube (Wiki Tournesol).](https://wiki.tournesol.app/wiki/YouTube)
 
 [^banane]: [**Video.**  4 Histoires Terrifiantes sur les BANANES. Trash (2020).](https://www.youtube.com/watch?v=DE7Kz0kJu_k)
@@ -93,7 +93,7 @@ Seule et au bord des larmes, impuissante et se sentant détestée, Lucile trouve
 
 [^radicalisation]: Selon Christian Picciolini, ancien extrêmiste et désormais actif dans les mouvements de dé-radicalisation, les victimes de la radicalisation sont souvent des personnes qui se sentent elles-mêmes tristes, impuissantes et détestées, après avoir subi ce qu'il appelle des « potholes » (des coups durs).  
 [**Video.**  My descent into America's neo-Nazi movement & how I got out | Christian Picciolini | TEDxMileHigh (2017).](https://www.youtube.com/watch?v=SSH5EY-W5oM)
-[**Book.**  Breaking Hate Confronting the New Culture of Extremism. Christian Picciolini. Hachette books (2020).](https://www.hachettebookgroup.com/titles/christian-picciolini/breaking-hate/9780316522939/)
+[**Livre.**  Breaking Hate Confronting the New Culture of Extremism. Christian Picciolini. Hachette books (2020).](https://www.hachettebookgroup.com/titles/christian-picciolini/breaking-hate/9780316522939/)
 
 Les jours qui suivent, malgré les excuses répétées de Lucile, les repas de famille sont tendus et silencieux. À chaque fin de repas, toutefois, Lucile regarde les données SmartPoop de sa fille. À sa grande satisfaction, le taux de magnésium augmente régulièrement. En revanche, c'est avec frustration que Lucile constate que le taux de potassium ne diminue pas. Après une semaine, Lucile reste inquiète. « Le potassium est radioactif, et la radioactivité cause des cancers », ne cesse-t-elle de lire sur Facebook. Tant que ce taux de potassium ne sera pas réduit à zéro[^Hypokalemia], sa fille sera à risque de cancer. Lucile trouve cela inacceptable.
 
@@ -102,7 +102,7 @@ Les jours qui suivent, malgré les excuses répétées de Lucile, les repas de f
 Le groupe Facebook fétiche de Lucile explique que chaque individu est unique et que les dosages de magnésium peuvent beaucoup varier entre les individus. De fait, si le potassium ne baisse pas, il faut augmenter les doses de magnésium. Le groupe ajoute que les diarrhées qui peuvent en découler sont le signe que le traitement commence à fonctionner[^overdose-de-magnesium]. Convaincue par ces explications, Lucile décide alors d'augmenter les doses de magnésium, tout en prenant soin que le taux de magnésium dans les excréments ne dépasse jamais le seuil considéré dangereux par les sites web qu'elle fréquente. Semaine après semaine, ces doses augmentent. Elles passent à deux doses par jour par personne, puis à quatre, puis à huit. Rien n'y fait pourtant. L'application indique que Jeanne a constamment la diarrhée mais les taux de potassium ne diminuent pas. Ceci dit, dans le même temps, les taux de magnésium n'atteignent pas les seuils jugés dangereux.
 
 [^overdose-de-magnesium]: L'excès de magnésium conduit effectivement à des diarrhées.  
-[**Paper.**  Fecal Excretion of Soluble Magnesium by Humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1010963/). David Saunders and Hugh Wiggins. Western Journal of Medicine (1983).
+[**Article.**  Fecal Excretion of Soluble Magnesium by Humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1010963/). David Saunders and Hugh Wiggins. Western Journal of Medicine (1983).
 
 Un soir, toutefois, après avoir fini sa soupe, Jeanne devient pâle. Elle se lève de sa chaise, fait deux pas, puis s'écroule. « Jeanne, Jeanne », s'écrit Lucile. Elle appelle les secours, qui emmènent Jeanne en unités de soins intensifs. Lucile est priée de patienter dans la salle d'attente, pendant que Jeanne est suivie de près. Le médecin revient finalement vers Lucile, lui expliquant que Jeanne est malheureusement décédée d'une overdose de magnésium.
 
@@ -129,7 +129,7 @@ Après un silence, Katia rajoute toutefois :
 
 [^edge-case]: Katia souligne là l'un des grands défis de la sécurité des algorithmes, à savoir la validation de leurs performances sur des cas critiques et rares (parfois appelés *edge cases*). D'un côté, la rareté de ces cas fait qu'on dispose de très peu de données, voire parfois d'aucune donnée, pour permettre de tester la sécurité de l'algorithme face à ces cas. De l'autre, le fait que ces cas sont critiques fait que la sécurité de l'algorithme pour ces cas précis peut être une question de vie ou de mort. Toutefois, même si chaque cas rare et critique est très rare, l'ensemble de tous les cas rares et critiques peut rester important et survenir avec une probabilité non-négligeable, surtout lorsque l'algorithme est utilisé des milliards de fois par jour.
 Malheureusement, comme en parle cette publication dans le cas des voitures autonomes, il n'existe pas beaucoup de méthodes efficaces de validation d'un algorithme face aux cas rares et critiques. L'article en propose justement une nouvelle.  
-[**Paper.**  Efficient statistical validation with edge cases to evaluate Highly Automated Vehicles. Dhanoop Karunakaran, Stewart Worrall et Eduardo Nebot. ITSC (2020).](https://ieeexplore.ieee.org/document/9294590)
+[**Article.**  Efficient statistical validation with edge cases to evaluate Highly Automated Vehicles. Dhanoop Karunakaran, Stewart Worrall et Eduardo Nebot. ITSC (2020).](https://ieeexplore.ieee.org/document/9294590)
 
 > Tu peux vérifier les chiffres maintenant ?
 
@@ -198,13 +198,13 @@ Après un long silence, Marc demande alors : « Katia, tu penses qu'on est resp
 
 [^objectivite]: Les algorithmes sont parfois considérés « objectifs ». À bien y réfléchir, ce qui les rend plus « fiables », c'est plutôt leur transparence (s'ils sont Open Source), ou au moins la reproductibilité de leurs calculs. Cependant, il peut être trompeur d'y voir quelque chose d'objectif, dans la mesure où un algorithme alternatif aurait pu conduire à des conclusions distinctes. Au moins peut-on dire que les statistiques calculées et transmises par l'algorithme sont sujettes au choix de l'algorithme utilisé pour effectuer les estimations statistiques (et justement, une grosse partie de l'éthique de l'information consiste à déterminer quels algorithmes sont préférables à déployer à grande échelle). Quoi qu'il en soit, même si une statistique est objective, elle n'est pas nécessairement pour autant *désirable* à communiquer, notamment car les statistiques peuvent être extrêmement trompeuses, et finissent par guider un grand nombre de décisions.  
 [**Video.**  Prebunking : les vaccinés hospitalisés. Science4All (2021).](https://www.youtube.com/watch?v=E8YuCjwVZLw&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=49)  
-[**Book.**  Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Cathy O'Neil. Penguin (2017).](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/)
+[**Livre.**  Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Cathy O'Neil. Penguin (2017).](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/)
 
 > Je veux dire, « contrafactuellement[^contrafactuel]  ». Dans un monde où cette mère n'avait pas accès à SmartPoop, elle n'aurait sûrement pas osé donner autant de magnésium à sa fille. Sans SmartPoop, cette jeune fille serait probablement encore en vie.
 
 [^contrafactuel]: Au moment de juger une décision X, le raisonnement contrafactuel consiste à comparer les conséquences probables de faire X, aux conséquences probables de ne pas faire X (ou de faire une alternative à X). Il s'agit de l'approche souvent privilégiée par la théorie de la décision, surtout en présence d'incertitude.  
 [**Video.**  Fallait-il confiner ? La pensée contrafactuelle. Science4All (2020).](https://www.youtube.com/watch?v=6_-UpcHdHk4)  
-[**Book.**  How to Decide: Simple Tools for Making Better Choices. Annie Duke. Portfolio (2020).](https://www.annieduke.com/books/)
+[**Livre.**  How to Decide: Simple Tools for Making Better Choices. Annie Duke. Portfolio (2020).](https://www.annieduke.com/books/)
 
 > Déjà tu n'en sais rien. Je suis sûr que même sans SmartPoop les gens feraient n'importe quoi avec les compléments alimentaires. Et à ce jeu-là, Facebook et YouTube me semblent largement plus responsables que nous[^responsabilite-facebook]. La mésinformation partagée sur ces plateformes, à l'origine, c'est surtout ça qui a causé toute cette histoire[^mesinformation].
 
@@ -212,9 +212,9 @@ Après un long silence, Marc demande alors : « Katia, tu penses qu'on est resp
 [**Video.**  Fake news, tous coupables ? | Angle Droit | Le Vortex (2021).](https://www.youtube.com/watch?v=17cNUsu7coU)
 
 [^mesinformation]: Le rôle central de ces plateformes, et en particulier des algorithmes de ces plateformes, dans la crise de la mésinformation actuelle est le sujet central d'un livre précédent de Lê Nguyên Hoang, co-écrit avec le chercheur El Mahdi El Mhamdi, et d'articles publiés en sociologie et en philosophie.  
-[**Book.**  Le Fabuleux Chantier : Rendre l'Intelligence Artificielle Robustement Bénéfique. Lê Nguyên Hoang & El Mahdi El Mhamdi. EDP Sciencess (2019).](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
-[**Paper.**  Science Communication Desperately Needs More Aligned Recommendation Algorithms. Lê Nguyên Hoang. Frontiers in Communication (2020).](https://www.frontiersin.org/articles/10.3389/fcomm.2020.598454/full)  
-[**Paper.**  Recommendation Algorithms, a Neglected Opportunity for Public Health. Lê Nguyên Hoang, Louis Faucon & El-Mahdi El-Mhamdi. Revue Médecine et Philosophie (2021).](https://philpapers.org/rec/HOARAA)
+[**Livre.**  Le Fabuleux Chantier : Rendre l'Intelligence Artificielle Robustement Bénéfique. Lê Nguyên Hoang & El Mahdi El Mhamdi. EDP Sciencess (2019).](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
+[**Article.**  Science Communication Desperately Needs More Aligned Recommendation Algorithms. Lê Nguyên Hoang. Frontiers in Communication (2020).](https://www.frontiersin.org/articles/10.3389/fcomm.2020.598454/full)  
+[**Article.**  Recommendation Algorithms, a Neglected Opportunity for Public Health. Lê Nguyên Hoang, Louis Faucon & El-Mahdi El-Mhamdi. Revue Médecine et Philosophie (2021).](https://philpapers.org/rec/HOARAA)
 
 > Katia, je pense que tu es beaucoup trop orientée sur le business ou la protection de SmartPoop. En fin de compte, l'objectif de SmartPoop, ce n'est pas de faire de l'argent ou de protéger notre image, c'est de sauver des vies, et d'éviter de causer des torts[^facebook-files].
 
@@ -224,7 +224,7 @@ Après un long silence, Marc demande alors : « Katia, tu penses qu'on est resp
 > Marc, tu raisonnes trop sur le court terme. Si tu veux que SmartPoop sauve des vies, il faut que SmartPoop continue de vivre. Le jour où SmartPoop est démantelé ou fait faillite, s'il y a une nouvelle pandémie de ROVID-19, ce n'est pas la vie d'une fille d'une cinglée qui va y passer ; ce seront des millions, voire des milliards de vies[^demantelement].
 
 [^demantelement]: Alors que certains appellent au démantèlement des grandes entreprises du numérique, d'autres soulignent le fait que ce démantèlement court le risque de conduire à des effets secondaires imprévus beaucoup plus préoccupants encore, comme l'impossibilité de modérer le flux de l'information, y compris les informations dangereuses et compromettantes, comme les images pédo-pornographiques, les appels à la haine raciale ou le cyber-harcèlement. C'est le cas par exemple de Sinan Aral, professeur du MIT, qui a beaucoup étudié la désinformation sur les réseaux sociaux.  
-[**Book.**  The Hype Machine : How Social Media Disrupts Our Elections, Our Economy, And Our Health–and How We Must Adapt. Sinan Aral. Penguin (2021).](https://www.penguinrandomhouse.com/books/570128/the-hype-machine-by-sinan-aral/)
+[**Livre.**  The Hype Machine : How Social Media Disrupts Our Elections, Our Economy, And Our Health–and How We Must Adapt. Sinan Aral. Penguin (2021).](https://www.penguinrandomhouse.com/books/570128/the-hype-machine-by-sinan-aral/)
 
 Visiblement tous deux frustrés, Katia et Marc marquent un silence dans leur discussion.
 
@@ -271,8 +271,8 @@ Et rajoutaient : « Nous vous encourageons à parler à un conseiller en géné
 > Oui. Conformément au Règlement Générale pour la Protection des Données, le fameux RGPD, toutes les données collectées par SmartPoop demeurent accessibles à l'utilisateur. Mais on a décidé de faire très attention à la manière dont elles sont présentées, pour que les utilisateurs se méfient plus, en particulier des erreurs de mesure inévitables de notre dispositif. Nos algorithmes d'apprentissage sont encore en train d'améliorer leurs estimations des propriétés physico-chimiques des excréments à partir de photographies, et nous sommes bien conscients que, sur de nombreuses tâches, la fiabilité de ces algorithmes n'est pas encore au rendez-vous. C'est pour cela que nous faisons très attention à ce que de telles données soient présentées avec beaucoup de barres d'erreurs. Nous préférons que les utilisateurs prennent conscience de l'incertitude de nos modèles avant qu'ils ne lisent les résultats de l'analyse de ces modèles[^incertitude].
 
 [^incertitude]: De façon plus générale, la recherche en sécurité des algorithmes insiste beaucoup sur l'importance de permettre aux algorithmes de mesurer leur propre incertitude sur les résultats qu'ils calculent.  
-[**Paper.**  Benchmarking Uncertainty Estimation Methods for Deep Learning With Safety-Related Metrics. Maximilian Henne, Adrian Schwaiger, Karsten Roscher, Gereon Weiss. SafeAI@AAAI (2020)](ceur-ws.org/Vol-2560/paper35.pdf)  
-[**Book.**  Human Compatible: Artificial Intelligence and the Problem of Control. Stuart Russell. Penguin (2019)](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/)  
+[**Article.**  Benchmarking Uncertainty Estimation Methods for Deep Learning With Safety-Related Metrics. Maximilian Henne, Adrian Schwaiger, Karsten Roscher, Gereon Weiss. SafeAI@AAAI (2020)](ceur-ws.org/Vol-2560/paper35.pdf)  
+[**Livre.**  Human Compatible: Artificial Intelligence and the Problem of Control. Stuart Russell. Penguin (2019)](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/)  
 Cette remarque semble aussi primordiale pour les humains, y compris les experts qui pêchent souvent par excès de confiance.  
 [**Video.**  L'excès de confiance tue. Science4All (2020).](https://www.youtube.com/watch?v=zGhrYMRAoCs&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=31)
 
@@ -285,7 +285,7 @@ Cette remarque semble aussi primordiale pour les humains, y compris les experts 
 > Ce qu'on a découvert avec l'histoire de Lucile, c'est que la notion de mésinformation est en fait très délicate[^reality-game]. D'un côté, non, ce n'est pas tout à fait une fausse information, ou une fake news comme diraient certains. Mais d'un autre côté, dite dans un mauvais contexte, cette phrase peut être trompeuse pour certains publics, si ceux-ci sont ensuite amenés à croire que les bananes sont du coup dangereuses, ou qu'il vaut mieux s'en éloigner[^fake-problem].
 Pour être clair, oui, les bananes ont été modifiées par l'agriculture. Cela fait 7000 ans que l'on sélectionne les variétés de bananes qui nous arrangent, ce n'est pas naturel du tout. Mais c'est le cas de quasiment toute la nourriture qu'on mange, du blé au bœuf, en passant par les pommes, les oranges et oui, les bananes aussi. Et oui aussi, la banane est radioactive. Mais la radioactivité d'une banane est deux cents fois moindre que ce que vous subissez si vous prenez l'avion pour un trajet de 6 heures, juste parce que l'avion vole un peu haut dans le ciel. Si vous avez peur de la radioactivité de la banane, vous devriez être terrifié par l'avion. D'ailleurs il existe une unité, la DEB, pour « dose équivalente en banane », qui sert de façon didactique à présenter certaines exposition très faible à de la radioactivité[^radioactivite-veritasium].
 
-[^reality-game]: [**Book.**  The Reality Game How the Next Wave of Technology Will Break the Truth. Samuel Woolley. PublicAffairs (2020).](https://www.publicaffairsbooks.com/titles/samuel-woolley/the-reality-game/9781541768253/)
+[^reality-game]: [**Livre.**  The Reality Game How the Next Wave of Technology Will Break the Truth. Samuel Woolley. PublicAffairs (2020).](https://www.publicaffairsbooks.com/titles/samuel-woolley/the-reality-game/9781541768253/)
 
 [^fake-problem]: [**Video.**  Les Fake News, un Fake Problem ? Science4All (2021).](https://www.youtube.com/watch?v=GWyrwG_QGeI)
 
@@ -305,7 +305,7 @@ Pour être clair, oui, les bananes ont été modifiées par l'agriculture. Cela 
 [^partenariat]: La pertinence de telles collaborations, avec le privé ou avec des institutions gouvernementales, est un dilemme permanent pour la communication scientifique, surtout sachant le peu de financement qu'elle reçoit pour l'instant, et la difficulté d'accéder aux informations internes à des grandes entreprises. On peut citer l'exemple de cette collaboration entre le YouTubeur scientifique SmarterEveryDay et 23AndMe, qui est un cadre de collaboration jugé satisfaisant par le YouTubeur scientifique.  
 [**Video.**  DNA Testing and Privacy (Behind the scenes at the 23andMe Lab) - Smarter Every Day (2017).](https://www.youtube.com/watch?v=U3EEmVfbKNs)  
 En particulier, sur des sujets controversés, de telles collaborations peuvent avoir des effets contreproductifs sur la confiance envers les communicateurs scientifiques.  
-[**Paper.**  Trust in scientists in times of pandemic: Panel evidence from 12 countries. Yann Algan, Daniel Cohen, Eva Davoine, Martial Foucault & Stefanie Stantcheva. PNAS (2021)](https://www.pnas.org/content/118/40/e2108576118.abstract)  
+[**Article.**  Trust in scientists in times of pandemic: Panel evidence from 12 countries. Yann Algan, Daniel Cohen, Eva Davoine, Martial Foucault & Stefanie Stantcheva. PNAS (2021)](https://www.pnas.org/content/118/40/e2108576118.abstract)  
 Lê Nguyên Hoang a par exemple produit une vidéo en collaboration avec le Ministère de la Santé en France, qui aura reçu plus de dislikes que de likes, questionnant ainsi la pertinence d'une telle collaboration.  
 [**Video.**  Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=13)
 

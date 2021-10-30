@@ -5,7 +5,7 @@ pandoc --toc -o SmartPoop-fr.epub titre.txt \
   3-Biais.md \
   4-Fuites.md \
   5-FakePoops.md \
-  6-Corruption.md \
+  6-Pub.md \
   7-Psy.md \
   8-Trone.md
 
@@ -16,6 +16,6 @@ pandoc --toc --template=template.tex -o SmartPoop-fr.pdf titre.txt \
   3-Biais.md \
   4-Fuites.md \
   5-FakePoops.md \
-  6-Corruption.md \
+  6-Pub.md \
   7-Psy.md \
   8-Trone.md

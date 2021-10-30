@@ -2,14 +2,16 @@
 
 La bouteille de champagne ouverte, les verres enfin servis, Marc Rofstein demande l'attention des cinq invités de la soirée organisée par Katia Crapinski, dans leur colocation.
 
-> Chers amis, j'aimerais qu'on prenne quelques instants pour féliciter solennellement Katia. Son dernier article de recherche a été accepté pour publication[^publication], ce qui signifie que Katia a maintenant tout ce qu'il faut pour écrire et valider sa thèse de doctorat en machine learning[^these]. Donc si vous le voulez bien, je vous invite à lever vos verres, et à célébrer la bientôt Docteure Katia pour ses accomplissements — même si, contrairement à moi, Katia ne sera pas une docteure qui sauve des vies. À la bientôt Docteure Katia !
+> Chers amis, j'aimerais qu'on prenne quelques instants pour féliciter solennellement Katia. Son dernier article de recherche a été accepté pour publication[^publication], ce qui signifie que Katia a maintenant tout ce qu'il faut pour écrire et valider sa thèse de doctorat en machine learning[^these]. Donc si vous le voulez bien, je vous invite à lever vos verres, et à célébrer la bientôt Docteure Crapinski pour ses accomplissements — même si, contrairement à moi, Katia ne sera pas une docteure qui sauve des vies. À la bientôt Docteure Crapinski !
 
 [^publication]: La production scientifique repose beaucoup sur un système de publication dans des journaux ou des conférences scientifiques, où l'acceptation à publication dépend d'une revue par les pairs.
 Un article donné est ainsi étudié par deux à cinq relecteurs, qui émettent chacun un avis et exigent des corrections plus ou moins majeures.
 Les journaux et conférences scientifiques varient beaucoup selon leurs thèmes de prédilection et leur prestige.
 En informatique, les publications dans les conférences scientifiques sont très prestigieuses.
 En machine learning en particulier, les conférences les plus prestigieuses sont NeurIPS, ICML et ICLR, avec juste derrière des conférences comme COLT, AISTAT, UAI, et AAAI, parmi d'autres.  
-[**Video.**  Comment fact-checker une étude scientifique ? Science Étonnante (2019)](https://www.youtube.com/watch?v=NkdczX1Sq-U)
+[**Video.**  Comment fact-checker une étude scientifique ? Science Étonnante (2019)](https://www.youtube.com/watch?v=NkdczX1Sq-U)  
+Notez que, contrairement à d'autres domaines scientifiques, les conférences académiques en informatiques encouragent généralement le partage public des articles publiés, notamment sur le site ArXiV.  
+[**Video.** La mafia scientifique dont vous n'avez jamais entendu parler. DirtyBiology (2019).](https://www.youtube.com/watch?v=rcgxY__YXEc)
 
 [^these]: Une thèse en informatique est généralement une collection d'articles acceptés à publication.
 L'auteur de la thèse se doit généralement d'ajouter un résumé, une introduction générale, et une conclusion.
@@ -26,7 +28,7 @@ Selon Bostrom, la quête aveugle de nouvelles connaissances poserait ainsi un ri
 Cela semble d'ailleurs d'autant plus le cas quand il s'agit de la quête d'algorithmes plus performants, dont le déploiement précipité a certainement des [effets secondaires difficilement prévisibles](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier).
 Dès lors, il semble urgent de guider la recherche vers la quête de « boules blanches », voire vers la quête de boules blanches qui nous protègent de boules noires qu'on pourrait tirer à l'avenir.  
 [**Video.**  How civilization could destroy itself -- and 4 ways we could prevent it | Nick Bostrom. TED (2020)](https://www.youtube.com/watch?v=JrjjOGI6YB4)  
-[**Paper.**  The Vulnerable World Hypothesis. Nick Bostrom. Global Policy (2019).](https://www.nickbostrom.com/papers/vulnerable.pdf)
+[**Article.**  The Vulnerable World Hypothesis. Nick Bostrom. Global Policy (2019).](https://www.nickbostrom.com/papers/vulnerable.pdf)
 
 [^application-des-ia]: De nos jours, les « intelligences artificielles » les plus sophistiquées, celles qui reçoivent des milliards de dollars d'investissements en recherche et développement (si ce n'est plus !), ce sont bien les algorithmes du web, car l'enjeu économique et le besoin d'automatisation y sont monumentaux.
 Après tout, les chiffres d'affaire de Google, Apple, Facebook, Amazon et Microsoft, entre autres, se comptent en centaines de milliards d'euros.
@@ -35,16 +37,16 @@ Or ces entreprises doivent gérer des données de milliards d'utilisateurs, qui 
 Ainsi, chaque heure, il y aurait plus de [30 000 heures de nouvelles vidéos mises en ligne sur YouTube](https://www.oberlo.com/blog/youtube-statistics).
 Voilà qui représente des quantités monstrueuses de données, qui ne peuvent être traitées que par des machines.
 Or les tâches sont de plus en plus complexes, comme détecter des incitations à la haine dans une image ou identifier la désinformation dans des milliards de messages.  
-[YouTube's Blog](https://blog.youtube/press/).
+[**Website.** YouTube's Blog](https://blog.youtube/press/).
 
-[^publicite-hoang]: En 2015, Lê Nguyên Hoang, l'un des auteurs de ce livre, travaillait dans le monde académique sur des problèmes mathématiques dont l'application première était l'optimisation de telles publicités. Il juge désormais que ces travaux sont en fait dangereux, comme l'illustrera ce roman plus tard.
+[^publicite-hoang]: En 2015, Lê Nguyên Hoang, l'un des auteurs de ce livre, travaillait dans le monde académique sur des problèmes mathématiques dont l'application première était l'optimisation de telles publicités. Il juge désormais que ces travaux sont en fait immoraux, voire dangereux, comme l'illustrera ce roman plus tard.
 
 Marc, encore étudiant en cancérologie, suggère alors l'utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chances d'être traité avec succès, et avec moins de risques et de complications.
 
 > Ça commence à se faire en plus, précise Marc. L'année dernière des chercheurs américains ont montré qu'une IA était aussi douée qu'une équipe de dermatologues pour détecter des cancers de peau sur des photos[^cancer-de-la-peau]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
 
 [^cancer-de-la-peau]: [**Video.**  L'IA sauvera des vies (ft. Primum Non Nocere). Science4All (2018).](https://www.youtube.com/watch?v=xU7LcNRkmfU&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=33)  
-[**Paper.**  Dermatologist-level classification of skin cancer with deep neural networks. Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9)
+[**Article.**  Dermatologist-level classification of skin cancer with deep neural networks. Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9)
 
 > Il y a clairement un besoin d'algorithmes d'apprentissage en médecine. Mais si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données[^data], fait remarquer Katia.
 
@@ -78,16 +80,17 @@ Il s'écria « Eurêka », et sortit tout nu dans la rue pour partager l'entho
 > Marc, je viens de trouver l'idée du siècle. Je sais comment résoudre ce problème de diagnostic ! Tu l'as dit. Il nous faut des données. Beaucoup de données très informatives, mais aussi très simples à collecter. Des données qu'on n'aura pas besoin d'extraire violemment des corps humains ; parce que ces données sortent naturellement du corps humains. Ces données ont parcouru tout le corps humain, et contiennent en elles toutes sortes de traces de l'état de ce corps[^archeologie]. Ces données, aujourd'hui, on les jette à chaque fois qu'on tire la chasse. Mais imagine tout ce qu'on pourrait diagnostiquer si, au lieu de les balancer dans les égouts[^egouts], on collectait soigneusement ces données et on prenait le temps de les analyser ! Marc, il faut qu'on analyse le pipi et le caca !
 
 [^archeologie]: Les archéologues sont d'ailleurs particulièrement friands des cacas fossilisés, qui leur permettent d'en apprendre sur l'alimentation et la santé des populations passées.  
-[**Video.**  Le caca, vrai trésor des archéologues - ft. Julien Ménielle, Passé sauvage, Pierre Kerner. C'est une autre histoire (2019)](https://www.youtube.com/watch?v=rS7AvYdtA7E)
+[**Video.**  Le caca, vrai trésor des archéologues - ft. Julien Ménielle, Passé sauvage, Pierre Kerner. C'est une autre histoire (2019)](https://www.youtube.com/watch?v=rS7AvYdtA7E)  
+[**Livre.** Retour vers le Paléo. Clothilde Chamussy, Jennifer Kerner, Marion Sabourdy, Pierre Kerner & Aurélie Bordenave. Flammarion (2019).](https://editions.flammarion.com/retour-vers-le-paleo/9782081451438)
 
 [^egouts]: En fait, il reste possible d'effectuer des diagnostics médicaux à partir d'analyses des égoûts. C'est d'ailleurs ce qui a été fait dans le cadre du suivi épidémiologique du COVID-19. La concentration d'ARN du Sars-CoV-2 dans les égouts permet en effet d'inférer l'incidence du virus dans une population parfois très localisée.  
 [**Video.**  Aux chiottes le virus ? Science4All (2020)](https://www.youtube.com/watch?v=B1VPbhpGzUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=6)  
-[**Paper.**  How sewage could reveal true scale of coronavirus outbreak. Smriti Mallapaty. Nature (2020)](https://www.nature.com/articles/d41586-020-00973-x)
+[**Article.**  How sewage could reveal true scale of coronavirus outbreak. Smriti Mallapaty. Nature (2020)](https://www.nature.com/articles/d41586-020-00973-x)
 
 Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce projet d'analyse d'excréments. Ils concluent que le produit idéal serait des toilettes intelligentes[^smart-toilet], capables notamment de mesurer et d'analyser les excréments sous toutes leurs coutures avant leur périple dans les eaux usées. Cependant, un tel produit nécessiterait des années de recherche et développement, et donc un grand nombre d'investisseurs. Pour commencer, les deux amis penchent vers un projet moins ambitieux. Après tout, comme Katia le fait remarquer, le meilleur outil de collecte d'information moderne est le téléphone. Pourquoi ne pas l'utiliser pour prendre des photographies des excréments ?
 
-[^smart-toilet]: Il existe bel et bien des projets de toilettes intelligentes, ou *smart toilets*. Notamment une publication dans le prestigieux journal scientifique *Nature* sur un prototype, capable d'effectuer de la reconnaissance... anale !  
-[**Paper.**  A mountable toilet system for personalized health monitoring via the analysis of excreta. Seung-min Park et al. Nature Biomedical Engineering (2020).](https://www.nature.com/articles/s41551-020-0534-9)
+[^smart-toilet]: Il existe bel et bien des projets de toilettes intelligentes, ou *smart toilets*. Notamment une publication dans le journal scientifique *Nature Biomedical Engineering* sur un prototype, capable d'effectuer de la reconnaissance... anale !  
+[**Article.**  A mountable toilet system for personalized health monitoring via the analysis of excreta. Seung-min Park et al. Nature Biomedical Engineering (2020).](https://www.nature.com/articles/s41551-020-0534-9)
 
 C'est ainsi qu'est conçu petit à petit SmartPoop, destiné à être une application de collecte d'échantillons photographiques de matière fécale et d'analyse automatisée de ces images à l'aide d'algorithmes de machine learning. Pendant les mois qui suivent, Katia écrit sa thèse de doctorat le jour, et programme SmartPoop jusque tard dans la nuit.
 
@@ -98,7 +101,7 @@ Pendant ce temps, Marc s'informe sur la coprologie. Il télécharge des bases de
 [^etrons]: [**Video.**  Pourquoi le wombat fait-il des crottes carrées ? La boîte à curiosité (2021).](https://www.youtube.com/watch?v=pLXOHEbfJSc)  
 [**Video.**  L'importance des excréments dans la nature. La boîte à curiosité (2020).](https://www.youtube.com/watch?v=SZw-HMcZUiE)  
 [**Video.**  MinuteEarth Explains: Poop. MinuteEarth (2020).](https://www.youtube.com/watch?v=azYrI10CQr4)  
-[**Book.**  Tout ce que vous devez savoir sur le plus tabou des sujets. Michel Lafond. Julien Ménielle (2018).](http://www.michel-lafon.fr/livre/2059-DANS_TON_CORPS.html)
+[**Livre.**  Tout ce que vous devez savoir sur le plus tabou des sujets. Michel Lafond. Julien Ménielle (2018).](http://www.michel-lafon.fr/livre/2059-DANS_TON_CORPS.html)
 
 > Tu sais, en fait les selles devraient être incolores ou blanchâtres, explique Marc à Katia lors de l'une de leurs soirées de travail. Elles sont surtout composées d'eau et de fibres après tout. Mais c'est un déchet des globules rouges, la bilirubine, qui les rend foncés. C'est le foie qui s'occupe de la traiter et de la « mettre » dans les excréments.
 
@@ -177,11 +180,14 @@ En pratique, à cause de relâchements des mesures sanitaires, dans le cas du CO
 
 Une suspicion initiale prend petit à petit de l'ampleur dans la communauté scientifique, notamment suite à l'observation d'une montée fulgurante de cas chez les techniciens de traitement des eaux usées. De plus en plus de données, notamment issues d'analyses chimiques d'excréments des malades, suggèrent que le virus du ROVID-19 se propage principalement via les flatulences des personnes infectées.
 
-« Une très belle étude d'une équipe de Montpellier a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet », précisait souvent Marc afin de détendre l'atmosphère angoissante qui régnait alors. Le port de couches filtrantes[^couches-filtrantes] est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
+« Une très belle étude d'une équipe de Montpellier a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet[^cassoulet] », précisait souvent Marc afin de détendre l'atmosphère angoissante qui régnait alors. Le port de couches filtrantes[^couches-filtrantes] est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
+
+[^cassoulet]: Les haricots blancs du cassoulet produisent des activités intestinales qui conduisent à davantage de flatulences.  
+[**Paper.** Gas production in humans ingesting a soybean flour derived from beans naturally low in oligosaccharides. Fabrizis Suarez, John Springfield, Julie Furne, Troy Lohrmann, Philipp Kerr & Michael Levitt. The American Journal of Clinical Nutrition (1999).](https://academic.oup.com/ajcn/article/69/1/135/4694168)
 
 [^couches-filtrantes]: La contagiosité du pet, mais aussi la capacité des vêtements à filtrer les pets, ont été testées et vérifiées par Dr Karl Kruszelnicki, suite à une expérience de pets dans des boîtes de Petri.  
 « Notre conclusion finale ? Ne pétez pas nu près de la nourriture. »  
-[**Paper.**  Hot air?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121900/). Michael Doyle. The Canberra Times, Reprinted on BMJ (2021).
+[**Article.**  Hot air?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121900/). Michael Doyle. The Canberra Times, Reprinted on BMJ (2021).
 
 
 ### La quête de données
@@ -229,7 +235,7 @@ En mai 2020, alors que les nombres de cas diminuent lentement, mais demeurent en
 
 [^jugez-le-pari]: Katia insiste là sur la différence entre le *pari* et le résultat. Comme en parle très bien l'ancienne joueuse de poker Annie Duke, nous autres humains avons malheureusement trop tendance à juger une décision en fonction de son résultat, quand bien même ce résultat était imprévisible au moment de la décision, notamment sachant les informations dont on disposait alors. Pour progresser, selon Duke, il est critique de juger la prise de décision à partir de l'état de connaissance au moment de cette prise de décision, qui correspondait alors nécessairement à un pari, car le futur était incertain.  
 [**Video.**  Jugez le pari. Pas le résultat. Science4All (2020).](https://www.youtube.com/watch?v=69w3mZOHEtU&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=25)  
-[**Book.**  Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts. Penguin. Annie Duke (2019).](https://www.penguinrandomhouse.com/books/552885/thinking-in-bets-by-annie-duke/)
+[**Livre.**  Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts. Penguin. Annie Duke (2019).](https://www.penguinrandomhouse.com/books/552885/thinking-in-bets-by-annie-duke/)
 
 Déçu, Marc reconnaît que les confinements vont probablement s'éterniser, probablement pendant des années, le temps qu'un vaccin efficace soit développé, testé et déployé à très grande échelle — si tant est qu'il voit le jour un jour[^vaccin]. Pendant ce temps, le ROVID-19 ne cessera de se diffuser.
 
@@ -271,7 +277,7 @@ C'est encore au beau milieu de la nuit que Katia réveille tout à coup Marc.
 > Cinq écarts-types, cinq écart-types[^cinq-sigmas], répète-t-elle ! Le test n'a pas échoué. Il est en fait assez nettement au-dessus de 50%.
 
 [^cinq-sigmas]: En sciences, et notamment en physique en particulier, on parle parfois de « 5 sigmas ». Il s'agit du signal considéré suffisamment marquant pour être parfois qualifié de « découverte scientifique », quoique son interprétation exacte est en fait complexe, voire très trompeuse. En particulier, l'utilisation de tels signaux est très critiqués, notamment par les statistiques dites *bayésiennes*.  
-[**Video.**  La plus grosse confusion des sciences : la p-value !! :hot_pepper: Science4All (2019).](https://www.youtube.com/watch?v=jy9b1HSqtSk&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=9)
+[**Video.**  La plus grosse confusion des sciences : la p-value !! Science4All (2019).](https://www.youtube.com/watch?v=jy9b1HSqtSk&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=9)
 
 > Mais un taux de succès de 52,4% ne nous aidera absolument pas à arrêter le ROVID-19.
 
@@ -280,7 +286,7 @@ Katia explique alors que, en effet, l'algorithme actuel est très largement insu
 > Si SmartPoop ne détectait absolument rien, alors on s'attendrait à un taux d'erreur de 50%, explique Katia. Mais pas exactement de 50%, à cause des fluctuations statistiques. Sachant que le test a été effectué sur des dizaines de milliers de vidéos d'excréments, on s'attendrait à obtenir 50% plus ou moins un erreur de l'ordre de 0,5%. Or, là, on est à 52,4%, soit 2,4% de plus que 50%. Un écart de 2,4%, c'est donc presque 5 fois la fluctuation de 0,5%[^fluctuation]. C'est beaucoup. Et ça veut dire que la distinction existe très probablement ! SmartPoop n'est simplement pas encore capable de l'identifier !
 
 [^fluctuation]: Notez que Katia fait bien attention à parler d'intervalle de *fluctuation*, et non pas d'intervalle de *confiance*. Ces deux notions sont souvent confondues à tort, alors qu'elles décrivent des objets assez distincts. Dans le premier cas, il s'agit d'une incertitude sur les données à observer, alors que, dans le second cas, il s'agit d'un intervalle qui estime les valeurs d'un paramètre d'un modèle, à partir des données observées. Cependant, cet intervalle de confiance doit aussi ne pas être confondu avec un troisième type d'intervalles, appelé intervalle de *crédence* (ou de *crédibilité*). Contrairement à l'intervalle de confiance, l'intervalle de crédence prend aussi en compte l'état global des connaissances scientifiques avant d'avoir observé les données collectées.  
-[**Video.**  Peut-on faire confiance aux intervalles de confiance ? :hot_pepper: Science4All (2019)](https://www.youtube.com/watch?v=PVb7aSOqx0Q&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=19)
+[**Video.**  Peut-on faire confiance aux intervalles de confiance ? Science4All (2019)](https://www.youtube.com/watch?v=PVb7aSOqx0Q&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=19)
 
 Marc demande à Katia ce qu'il manque pour discerner ce signal. Katia répond :
 
