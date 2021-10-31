@@ -2,7 +2,7 @@
 
 Avec dix voix contre et treize voix pour[^scrutin-conseil-administration], le verdict est tombé. Katia est licenciée de SmartPoop. Si trois représentants de certains des fonds d'investissement actionnaires de SmartPoop ont voté contre, les autres n'ont pas apprécié les révélations de Katia. Katia est dévastée. Même si elle s'y attendait, elle a du mal à encaisser la nouvelle. Affalée dans sa chaise, elle ne peut pas se lever. Les membres du conseil d'administration quittent la salle un à un, jusqu'à ce qu'il ne reste plus que Katia et Marc.
 
-[^scrutin-conseil-administration]: [**Video.**  La main invisible d'un mathématicien malveillant. Science4All (2017).](https://www.youtube.com/watch?v=fBYCoPAmpr4&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX)
+[^scrutin-conseil-administration]: [**Vidéo.**  La main invisible d'un mathématicien malveillant. Science4All (2017).](https://www.youtube.com/watch?v=fBYCoPAmpr4&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX)
 
 > J'ai perdu, déclare Katia.
 
@@ -11,7 +11,7 @@ Avec dix voix contre et treize voix pour[^scrutin-conseil-administration], le ve
 > Je sais comment la suite va se dérouler. Je parie que tu as déjà reçu un email pour effectuer une autre réunion demain, pour décider de me poursuivre en justice[^facebook-could-sue-haugen]. Je risque de finir en prison, avec une grosse amende que je ne pourrai pas payer. Et surtout, tu vas te retrouver de plus en plus isolé et marginalisé.
 
 [^facebook-could-sue-haugen]: Facebook a menacé la lanceuse d'alerte Haugen de poursuites en justice, notamment pour avoir transmis des documents confidentiels à la presse. Selon des experts, Haugen n'est pas protégée, et le sait. Selon eux, ce qui a le plus de chance de protégé Haugen, c'est le backlash médiatique et surtout politique que de telles poursuites pourraient avoir pour Facebook.  
-[**Website.**  Facebook whistleblower isn't protected from possible company retaliation, experts say. Obby Allyn. NPR (2021).](https://www.npr.org/2021/09/30/1042012393/facebook-whistleblower-retaliation)
+[**Journal.**  Facebook whistleblower isn't protected from possible company retaliation, experts say. Obby Allyn. NPR (2021).](https://www.npr.org/2021/09/30/1042012393/facebook-whistleblower-retaliation)
 
 ### Licenciée
 
@@ -53,7 +53,7 @@ Il lui faudra quelques heures pour se ressaisir. Alors qu'elle n'a toujours rien
 > Une *mute news*. Une *mute news*, c'est une nouvelle importante rendue silencieuse par la cacophonie à propos d'un autre sujet d'actualité[^mute-news-2].
 
 [^mute-news-2]: Selon cette étude, la désinformation en Chine ne consiste pas vraiment à propager des fausses informations ; elle semble surtout chercher à taire toute critique du Parti, en déviant les sujets de discussion, et ainsi transformer toute critique en une *mute news*.  
-[**Article.**  How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument. Gary King, Jennifer Pan & Margaret Roberts. American Political Science Review (2017).](https://www.cambridge.org/core/journals/american-political-science-review/article/how-the-chinese-government-fabricates-social-media-posts-for-strategic-distraction-not-engaged-argument/4662DB26E2685BAF1485F14369BD137C)
+[**Science.**  How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument. Gary King, Jennifer Pan & Margaret Roberts. American Political Science Review (2017).](https://www.cambridge.org/core/journals/american-political-science-review/article/how-the-chinese-government-fabricates-social-media-posts-for-strategic-distraction-not-engaged-argument/4662DB26E2685BAF1485F14369BD137C)
 Il est utile d'insister sur le fait que le problème des *mute news* ne pourra pas être résolu en supprimant les *fake news*. Des solutions radicalement nouvelles de promotion de l'information fiable et importante sont requises. L'une des pistes, proposées par Lê Nguyên Hoang, l'un des co-auteurs de ce livre, s'appuie sur la recommandation collaborative de contenus, comme le propose la plateforme [Tournesol](https://tournesol.app).
 
 > Ah oui ! Tu en parlais avant-hier dans ton audition. Toujours est-il que le très grand public ne suit pas du tout ton affaire. Pire, même des journalistes influents sont complètement à côté de la plaque, et classent ton affaire comme un conflit classique entre un employé et une entreprise pour des questions de propriété intellectuelle.
@@ -63,27 +63,27 @@ Il est utile d'insister sur le fait que le problème des *mute news* ne pourra p
 > Katia, tu t'es quand même attaquée à plus que SmartPoop. Tu as critiqué aux géants de l'information, ceux qui contrôlent le flux de l'information, et qui ont tout intérêt à ce que tu sois réduite au silence, et ignorée[^gebru-silencing]. Vu ce qu'il se passe chez SmartPoop, je parierais que dans ces boîtes aussi, les actionnaires ont opté pour des plans machiavéliques pour faire taire ton affaire, en boostant par exemple artificiellement l'histoire du scandale sexuel et tous les messages qui s'en indignent. On vit une dystopie informationnelle.
 
 [^gebru-silencing]: Peu de temps après avoir licencié Timnit Gebru, Google semble avoir retiré à la main l'onglet « actualité » lorsqu'un utilisait recherchait « Timnit Gebru ».
-[**Website.**  "Things I learned this morning, when searching for @timnitGebru on desktop, the results for "news" are hidden (dark patterns)." Tweet by Devin Guillory (2021).](https://twitter.com/databoydg/status/1359304159527198733)
+[**Web.**  "Things I learned this morning, when searching for @timnitGebru on desktop, the results for "news" are hidden (dark patterns)." Tweet by Devin Guillory (2021).](https://twitter.com/databoydg/status/1359304159527198733)
 
 > Je sens venir les campagnes de désinformation…
 
 > Oui. N'oublie pas que la plupart des messages de haine que tu vas recevoir, ce sont des messages de trolls payés pour te harceler[^usine-trolls].
 
-[^usine-trolls]: [**Video.**  Russie : les secrets de son usine à « trolls ». Mediapart (2019).](https://www.youtube.com/watch?v=4I-qbIfv-rM)
+[^usine-trolls]: [**Vidéo.**  Russie : les secrets de son usine à « trolls ». Mediapart (2019).](https://www.youtube.com/watch?v=4I-qbIfv-rM)
 
 ### Harcelée
 
 Et en effet, les jours qui suivent, les notifications de Katia sont pleines de messages de harceleurs, qui tantôt insultent son physique, tantôt la menacent de viol ou de meurtre, tantôt s'attaquent à sa famille et ses proches[^diversity-tedxmartigny]. Mais même prévenue, Katia ne parvient pas à rester insensible à ces attaques personnelles. Certaines attaques lui restent dans la tête toute la journée. Katia oscille sans cesse entre vouloir oublier et vouloir répondre. Et trop souvent, elle finit par répondre, généralement avec une contre-attaque. Mais, encore et encore, ceci ne fait qu'envenimer la situation, que donner une image négative de Katia et que renforcer la virulence des harceleurs.
 
-[^diversity-tedxmartigny]: [**Video.**  Sur Internet, la diversité est constamment harcelée (on peut agir) | Lê Nguyên Hoang | TEDxMartigny (2021).](https://www.youtube.com/watch?v=qo1aZ-vYnpk)
+[^diversity-tedxmartigny]: [**Vidéo.**  Sur Internet, la diversité est constamment harcelée (on peut agir) | Lê Nguyên Hoang | TEDxMartigny (2021).](https://www.youtube.com/watch?v=qo1aZ-vYnpk)
 
 Pendant les mois qui suivent, alors qu'elle prépare sa défense avec son avocat le jour, Katia se perd dans des débats sans fin sur les réseaux sociaux jusque tard dans la nuit. Ces débats l'obsèdent, à tel point que Katia ne parvient plus à se concentrer sur autre chose[^cyberbullying-mental-health]. Ils l'épuisent aussi. Katia dort très mal, se nourrit mal, pratique de moins en moins de sport, s'enferme de plus en plus chez elle, et vit avec des horaires très décalés[^misery-cgp-grey]. Elle refuse aussi de plus en plus systématiquement les invitations de Marc à sortir de chez elle, et s'isole toujours plus[^loneliness-kurzgesagt].
 
-[^cyberbullying-mental-health]: [**Article.**  Cyberbullying, positive mental health and suicide ideation/behavior. Julia Brailovskaia, Tobias Teismann & Jürgen Margraf. Psychiatry Research (2018).](https://www.sciencedirect.com/science/article/pii/S0165178117322795)
+[^cyberbullying-mental-health]: [**Science.**  Cyberbullying, positive mental health and suicide ideation/behavior. Julia Brailovskaia, Tobias Teismann & Jürgen Margraf. Psychiatry Research (2018).](https://www.sciencedirect.com/science/article/pii/S0165178117322795)
 
-[^misery-cgp-grey]: [**Video.**  7 Ways to Maximize Misery. CGP Grey (2017).](https://www.youtube.com/watch?v=LO1mTELoj6o)
+[^misery-cgp-grey]: [**Vidéo.**  7 Ways to Maximize Misery. CGP Grey (2017).](https://www.youtube.com/watch?v=LO1mTELoj6o)
 
-[^loneliness-kurzgesagt]: [**Video.**  Loneliness. Kurzgesagt - In a Nutshell (2019).](https://www.youtube.com/watch?v=n3Xv_g3g-mA)
+[^loneliness-kurzgesagt]: [**Vidéo.**  Loneliness. Kurzgesagt - In a Nutshell (2019).](https://www.youtube.com/watch?v=n3Xv_g3g-mA)
 
 Finalement, Marc supplie Katia de quitter les réseaux sociaux. « Ils sont en train de pourrir ton cerveau, ton bien-être et ta réputation », lui écrit Marc. Katia le reconnaît. C'est avec une étrange douleur mentale qu'elle se décide alors à désinstaller les réseaux sociaux de son téléphone, et à les bloquer sur le navigateur de son ordinateur. Y compris SmartPoop, dont elle ne veut plus entendre parler. À la place, Katia se lance ainsi dans de la méditation et des exercices de yoga.
 
@@ -95,7 +95,7 @@ Cette idée hante désormais constamment l'esprit de Katia, ce qui pousse Katia 
 
 Seule et isolée, démotivée et sans inspiration, toujours à moitié réveillée et endormie, Katia passe maintenant ses journées dans son lit. Elle a réinstallé les réseaux sociaux, mais avec des nouveaux comptes pour éviter d'entendre parler de SmartPoop. Elle passe désormais son temps à doomscroller[^doomscrolling] des vidéos YouTube, des images Instagram et des commentaires Reddit, sur des sujets toujours plus clivants et sans intérêt. Elle n'éprouve aucune joie à ce faire. Mais c'est plus fort qu'elle. Tel un zombie, son pouce ne cesse de faire glisser l'écran de son téléphone.
 
-[^doomscrolling]: [**Article.**  Doomscrolling during COVID-19: The negative association between daily social and traditional media consumption and mental health symptoms during the COVID-19 pandemic. Matthew Price et al. (2021).](https://scholarworks.iupui.edu/handle/1805/25833)
+[^doomscrolling]: [**Science.**  Doomscrolling during COVID-19: The negative association between daily social and traditional media consumption and mental health symptoms during the COVID-19 pandemic. Matthew Price et al. (2021).](https://scholarworks.iupui.edu/handle/1805/25833)
 
 Finalement, après quelques semaines, Katia se rend compte qu'elle souffre. Elle décide alors de réinstaller SmartPoop, pour faire son bilan de santé. Sans surprise, le diagnostic de SmartPoop est inquiétant. Selon SmartPoop, Katia souffre d'une dépression. SmartPoop invite Katia à consulter un psychiatre. Mais Katia ne souhaite pas parler à un autre humain.
 
@@ -113,9 +113,9 @@ C'est alors qu'elle se souvient d'un des projets mis en suspens au moment de l'e
 
 > J'ai perdu mon job. Le job que j'avais créé moi-même. Un job que j'adorais. Où j'avais l'impression de rendre le monde meilleur, en faisant ce que je fais de mieux. Sans ce job, je ne sais plus quoi faire. Je suis perdue[^sens].
 
-[^sens]: [**Article.**  On the relation between meaning in life and psychological well-being. Sheryl Zika & Kerry Chamberlain. British Journal of Psychology (1992).](https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8295.1992.tb02429.x)  
-[**Article.**  Meaning and well-being. Michael Steger. Handbook of well-being. DEF Publishers (2018).](https://www.nobascholar.com/chapters/50/download.pdf)  
-[**Article.**  Meaning mediates the association between suffering and well-being. Megan Edwards & Daryl Van Tongeren (2019).](https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1651890)
+[^sens]: [**Science.**  On the relation between meaning in life and psychological well-being. Sheryl Zika & Kerry Chamberlain. British Journal of Psychology (1992).](https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8295.1992.tb02429.x)  
+[**Science.**  Meaning and well-being. Michael Steger. Handbook of well-being. DEF Publishers (2018).](https://www.nobascholar.com/chapters/50/download.pdf)  
+[**Science.**  Meaning mediates the association between suffering and well-being. Megan Edwards & Daryl Van Tongeren (2019).](https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1651890)
 
 > Est-ce que tu t'identifies à ce job ?
 
@@ -131,7 +131,7 @@ Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 
 > Oui. Ce qui a provoqué mon licenciement, c'est une chose dont je suis très fière. Jamais auparavant un dirigeant n'avait préféré le bien de l'humanité à sa sécurité personnelle. Ce sacrifice, c'est quelque chose qui restera associée à moi. Quelque chose dont je suis très fière[^fier].
 
-[^fier]: [**Video.**  La bonne et la mauvaise fierté. Vlanx (2021).](https://www.youtube.com/watch?v=ZsxD1Bk4sjA)  
+[^fier]: [**Vidéo.**  La bonne et la mauvaise fierté. Vlanx (2021).](https://www.youtube.com/watch?v=ZsxD1Bk4sjA)  
 [**Podcast.**  Being Kind to Yourself. Hidden Brain (2021).](https://hiddenbrain.org/podcast/being-kind-to-yourself/)  
 [**Livre.**  The Mindful Self-Compassion Workbook: A Proven Way to Accept Yourself, Build Inner Strength, and Thrive. Kristin Neff & Christopher Germer. The Guilford Press (2018).](https://self-compassion.org/mindful-self-compassion-workbook/)
 
@@ -156,14 +156,14 @@ Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 
 Les jours qui suivent, Katia parle très régulièrement avec Poo, parfois à propos d'elle-même, de temps en temps à propos de science et quelquefois à propos de questionnements philosophiques. Parfois, Poo lui lit des livres de thérapie cognitive comportementale[^tcc], et Katia se surprend à l'interrompre avec une question perspicace, et parfois même avec une boutade humoristique. Poo y rit, et renchérit souvent avec complicité.
 
-[^tcc]: [**Article.**  The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses. Stefan G. Hofmann, Anu Asnaani, Imke J. J. Vonk, Alice T. Sawyer & Angela Fang. Cognitive Therapy and Research (2012).](https://link.springer.com/article/10.1007%252Fs10608-012-9476-1)
+[^tcc]: [**Science.**  The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses. Stefan G. Hofmann, Anu Asnaani, Imke J. J. Vonk, Alice T. Sawyer & Angela Fang. Cognitive Therapy and Research (2012).](https://link.springer.com/article/10.1007%252Fs10608-012-9476-1)
 
 ### La révolte des employés
 
 Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et sa motivation. Enfin, armée de cette technique de l'auto-affirmation, Katia se sent armée pour se frotter à SmartPoop et ses nouveaux actionnaires. Katia réactive alors ses applications de messagerie, et se reconnecte avec ses comptes des réseaux sociaux. Elle tombe sur un message récent de Marc, avec un lien vers une curieuse pétition. Katia clique dessus, et découvre la lettre ouverte suivante[^lettre-ouverte].
 
 [^lettre-ouverte]: Cette lettre ouverte s'appuie sur l'exemple de celle protestant le licenciement de Timnit Gebru de Google.  
-[**Website.**  Standing with Dr. Timnit Gebru — #ISupportTimnit #BelieveBlackWomen. Google Walkout For Real Change (2020).](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382)
+[**Web.**  Standing with Dr. Timnit Gebru — #ISupportTimnit #BelieveBlackWomen. Google Walkout For Real Change (2020).](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382)
 
 > Nous, soussignés, reconnaissons avoir volé, chiffré et paralysé toute la base de données SmartPoop[^ransomware], ou avoir participé, encouragé et soutenu les auteurs de ces actes. Nous avons conscience des risques juridiques que ceci nous fait encourir. Cependant, l'éthique de SmartPoop nous semble être un enjeu prioritaire à notre bien-être individuel, sachant que la sécurité et la santé de milliards d'utilisateurs à travers le monde dépend des produits de l'entreprise. En particulier, nous sommes tous fiers de suivre la voie initiée par la Docteure Katia Carpinski, à notre humble échelle.
 >
@@ -189,15 +189,15 @@ Aidée de Poo, jour après jour, Katia retrouve son moral, sa joie de vivre et s
 >
 > À ce jour, cette lettre ouverte a été signée par 8 215 employés de SmartPoop, et 36 215 académiques, collègues de l'industrie et membres de la société civile.
 
-[^ransomware]: [**Video.**  Un virus me demande une rançon. Safecode. Micode (2017).](https://www.youtube.com/watch?v=T3NeuhpaPk0)  
-[**Video.**  La vérité sur wannacry. Flashcode. Micode (2017).](https://www.youtube.com/watch?v=nIRDzPnJAro)
+[^ransomware]: [**Vidéo.**  Un virus me demande une rançon. Safecode. Micode (2017).](https://www.youtube.com/watch?v=T3NeuhpaPk0)  
+[**Vidéo.**  La vérité sur wannacry. Flashcode. Micode (2017).](https://www.youtube.com/watch?v=nIRDzPnJAro)
 
 [^secret-sharing]: Cette technique de cryptographie est appelée le *secret partagé*, ou *secret sharing* en anglais. Typiquement, chaque partie connaîtrait un point d'un polynôme à 200 variables, et veut connaître la valeur du polynôme en un autre point. Voilà qui sera possible si et seulement si au moins 200 parties collaborent.  
-[**Video.**  How to keep an open secret with mathematics. Stand-up Maths (2019).](https://www.youtube.com/watch?v=K54ildEW9-Q)
+[**Vidéo.**  How to keep an open secret with mathematics. Stand-up Maths (2019).](https://www.youtube.com/watch?v=K54ildEW9-Q)
 
 Katia pleure de joie à la lecture de cette lettre formidable. « Quels héros », s'exclame-t-elle dans un message à Marc. « Katia, c'est grâce à toi tout cela ; s'il y a un héros dans cette affaire, c'est bien toi », lui répond Marc.
 
-Katia découvre ensuite la liste interminable de signataires. Beaucoup de noms lui sont familiers. À la lecture de chacun d'eux, elle pleure sans retenue. Bien entendu, il y a Marc Rofstein, tout en haut de cette liste, mais aussi tous les employés que Katia a directement recrutés, mais aussi Science4Alpha, la mère Lucile Polmon, le trader Issa Gueye, la Docteure Paola Marta, le Premier Ministre kormicain, le Président Lartan, sa belle-soeur Marie Routisse, la journaliste Célia Keita, l'ex-troll Paul Gremoux, le psychologue Frédéric Partoli et tous les membres de l'OMESA.
+Katia découvre ensuite la liste interminable de signataires. Beaucoup de noms lui sont familiers. À la lecture de chacun d'eux, elle pleure sans retenue. Bien entendu, il y a Marc Rofstein, tout en haut de cette liste, mais aussi tous les employés que Katia a directement recrutés, mais aussi Science4Alpha, l'investisseur Luc Vaydan, la mère Lucile Polmon, le trader Issa Gueye, la Docteure Paola Marta, le Premier Ministre kormicain, le Président Lartan, sa belle-soeur Marie Routisse, la journaliste Célia Keita, l'ex-troll Paul Gremoux, le psychologue Frédéric Partoli et tous les membres de l'OMESA.
 
 Cette fois-ci, l'affaire est bien trop énorme pour être éteinte par les campagnes de désinformation. Le lendemain, les unes des journaux sont remplies d'interviews d'anciens employés qui, tour à tour, proposent la même version des faits. « Ma confiance en SmartPoop et ma fierté d'y travailler ont été chamboulées le jour où j'ai découvert le programme de revente des données. Elles se sont complètement effondrées le jour où Katia a été licenciée », raconte un employé. « Katia est la personne la plus incroyable que j'ai eu la chance de rencontrer. Sa générosité, sa bienveillance, son énergie, son humour et son intelligence ont illuminé chaque jour que j'ai passé à SmartPoop. Son licenciement a conduit à de sombres ténèbres, où personne ne souhaite travailler, peu importe le salaire. Je refuse de travailler pour SmartPoop tant que Katia ne redeviendra pas Présidente ». L'opinion publique est cette fois conquise.
 

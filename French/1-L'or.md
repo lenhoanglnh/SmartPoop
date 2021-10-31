@@ -9,9 +9,9 @@ Un article donné est ainsi étudié par deux à cinq relecteurs, qui émettent 
 Les journaux et conférences scientifiques varient beaucoup selon leurs thèmes de prédilection et leur prestige.
 En informatique, les publications dans les conférences scientifiques sont très prestigieuses.
 En machine learning en particulier, les conférences les plus prestigieuses sont NeurIPS, ICML et ICLR, avec juste derrière des conférences comme COLT, AISTAT, UAI, et AAAI, parmi d'autres.  
-[**Video.**  Comment fact-checker une étude scientifique ? Science Étonnante (2019)](https://www.youtube.com/watch?v=NkdczX1Sq-U)  
+[**Vidéo.**  Comment fact-checker une étude scientifique ? Science Étonnante (2019)](https://www.youtube.com/watch?v=NkdczX1Sq-U)  
 Notez que, contrairement à d'autres domaines scientifiques, les conférences académiques en informatiques encouragent généralement le partage public des articles publiés, notamment sur le site ArXiV.  
-[**Video.** La mafia scientifique dont vous n'avez jamais entendu parler. DirtyBiology (2019).](https://www.youtube.com/watch?v=rcgxY__YXEc)
+[**Vidéo.** La mafia scientifique dont vous n'avez jamais entendu parler. DirtyBiology (2019).](https://www.youtube.com/watch?v=rcgxY__YXEc)
 
 [^these]: Une thèse en informatique est généralement une collection d'articles acceptés à publication.
 L'auteur de la thèse se doit généralement d'ajouter un résumé, une introduction générale, et une conclusion.
@@ -27,8 +27,8 @@ Chaque boule blanche améliore le monde, mais tirer une boule noire revient à l
 Selon Bostrom, la quête aveugle de nouvelles connaissances poserait ainsi un risque existentiel, et serait donc immorale.
 Cela semble d'ailleurs d'autant plus le cas quand il s'agit de la quête d'algorithmes plus performants, dont le déploiement précipité a certainement des [effets secondaires difficilement prévisibles](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier).
 Dès lors, il semble urgent de guider la recherche vers la quête de « boules blanches », voire vers la quête de boules blanches qui nous protègent de boules noires qu'on pourrait tirer à l'avenir.  
-[**Video.**  How civilization could destroy itself -- and 4 ways we could prevent it | Nick Bostrom. TED (2020)](https://www.youtube.com/watch?v=JrjjOGI6YB4)  
-[**Article.**  The Vulnerable World Hypothesis. Nick Bostrom. Global Policy (2019).](https://www.nickbostrom.com/papers/vulnerable.pdf)
+[**Vidéo.**  How civilization could destroy itself -- and 4 ways we could prevent it | Nick Bostrom. TED (2020)](https://www.youtube.com/watch?v=JrjjOGI6YB4)  
+[**Science.**  The Vulnerable World Hypothesis. Nick Bostrom. Global Policy (2019).](https://www.nickbostrom.com/papers/vulnerable.pdf)
 
 [^application-des-ia]: De nos jours, les « intelligences artificielles » les plus sophistiquées, celles qui reçoivent des milliards de dollars d'investissements en recherche et développement (si ce n'est plus !), ce sont bien les algorithmes du web, car l'enjeu économique et le besoin d'automatisation y sont monumentaux.
 Après tout, les chiffres d'affaire de Google, Apple, Facebook, Amazon et Microsoft, entre autres, se comptent en centaines de milliards d'euros.
@@ -37,7 +37,7 @@ Or ces entreprises doivent gérer des données de milliards d'utilisateurs, qui 
 Ainsi, chaque heure, il y aurait plus de [30 000 heures de nouvelles vidéos mises en ligne sur YouTube](https://www.oberlo.com/blog/youtube-statistics).
 Voilà qui représente des quantités monstrueuses de données, qui ne peuvent être traitées que par des machines.
 Or les tâches sont de plus en plus complexes, comme détecter des incitations à la haine dans une image ou identifier la désinformation dans des milliards de messages.  
-[**Website.** YouTube's Blog](https://blog.youtube/press/).
+[**Web.** YouTube's Blog](https://blog.youtube/press/).
 
 [^publicite-hoang]: En 2015, Lê Nguyên Hoang, l'un des auteurs de ce livre, travaillait dans le monde académique sur des problèmes mathématiques dont l'application première était l'optimisation de telles publicités. Il juge désormais que ces travaux sont en fait immoraux, voire dangereux, comme l'illustrera ce roman plus tard.
 
@@ -45,8 +45,8 @@ Marc, encore étudiant en cancérologie, suggère alors l'utilisation des algori
 
 > Ça commence à se faire en plus, précise Marc. L'année dernière des chercheurs américains ont montré qu'une IA était aussi douée qu'une équipe de dermatologues pour détecter des cancers de peau sur des photos[^cancer-de-la-peau]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
 
-[^cancer-de-la-peau]: [**Video.**  L'IA sauvera des vies (ft. Primum Non Nocere). Science4All (2018).](https://www.youtube.com/watch?v=xU7LcNRkmfU&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=33)  
-[**Article.**  Dermatologist-level classification of skin cancer with deep neural networks. Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9)
+[^cancer-de-la-peau]: [**Vidéo.**  L'IA sauvera des vies (ft. Primum Non Nocere). Science4All (2018).](https://www.youtube.com/watch?v=xU7LcNRkmfU&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=33)  
+[**Science.**  Dermatologist-level classification of skin cancer with deep neural networks. Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9)
 
 > Il y a clairement un besoin d'algorithmes d'apprentissage en médecine. Mais si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données[^data], fait remarquer Katia.
 
@@ -61,8 +61,8 @@ En 2015, Theranos est évalué à 9 milliards de dollars.
 En 2018, Theranos est poursuivi pour « fraude massive ».
 La technologie de Theranos supposément révolutionnaire n'a en fait jamais fonctionné.
 Les employés de Theranos semble avoir exploité en cachette des techniques classiques d'analyse sanguine, dont la fiabilité était en fait discutable.  
-[**Video.**  Elizabeth Holmes - la menteuse devenue milliardaire. La chaîne de P.A.U.L. (2020).](https://www.youtube.com/watch?v=6kqCylsYtJM)  
-[**Video.**  Elizabeth Holmes exposed: the $9 billion medical ‘miracle' that never existed. 60 Minutes Australia (2021).](https://www.youtube.com/watch?v=BgNfrDXr7uA)
+[**Vidéo.**  Elizabeth Holmes - la menteuse devenue milliardaire. La chaîne de P.A.U.L. (2020).](https://www.youtube.com/watch?v=6kqCylsYtJM)  
+[**Vidéo.**  Elizabeth Holmes exposed: the $9 billion medical ‘miracle' that never existed. 60 Minutes Australia (2021).](https://www.youtube.com/watch?v=BgNfrDXr7uA)
 
 Katia a le regard songeur. Comment acquérir des données de patients ? Ou, mieux encore, comment acquérir des données de non-patients ? Comment ne pas être « invasif » ? Katia se demande aussi qui est à l'origine du terme « invasif ». Une prise de sang « n'envahit » que rarement le corps de gens.
 
@@ -80,17 +80,17 @@ Il s'écria « Eurêka », et sortit tout nu dans la rue pour partager l'entho
 > Marc, je viens de trouver l'idée du siècle. Je sais comment résoudre ce problème de diagnostic ! Tu l'as dit. Il nous faut des données. Beaucoup de données très informatives, mais aussi très simples à collecter. Des données qu'on n'aura pas besoin d'extraire violemment des corps humains ; parce que ces données sortent naturellement du corps humains. Ces données ont parcouru tout le corps humain, et contiennent en elles toutes sortes de traces de l'état de ce corps[^archeologie]. Ces données, aujourd'hui, on les jette à chaque fois qu'on tire la chasse. Mais imagine tout ce qu'on pourrait diagnostiquer si, au lieu de les balancer dans les égouts[^egouts], on collectait soigneusement ces données et on prenait le temps de les analyser ! Marc, il faut qu'on analyse le pipi et le caca !
 
 [^archeologie]: Les archéologues sont d'ailleurs particulièrement friands des cacas fossilisés, qui leur permettent d'en apprendre sur l'alimentation et la santé des populations passées.  
-[**Video.**  Le caca, vrai trésor des archéologues - ft. Julien Ménielle, Passé sauvage, Pierre Kerner. C'est une autre histoire (2019)](https://www.youtube.com/watch?v=rS7AvYdtA7E)  
+[**Vidéo.**  Le caca, vrai trésor des archéologues - ft. Julien Ménielle, Passé sauvage, Pierre Kerner. C'est une autre histoire (2019)](https://www.youtube.com/watch?v=rS7AvYdtA7E)  
 [**Livre.** Retour vers le Paléo. Clothilde Chamussy, Jennifer Kerner, Marion Sabourdy, Pierre Kerner & Aurélie Bordenave. Flammarion (2019).](https://editions.flammarion.com/retour-vers-le-paleo/9782081451438)
 
 [^egouts]: En fait, il reste possible d'effectuer des diagnostics médicaux à partir d'analyses des égoûts. C'est d'ailleurs ce qui a été fait dans le cadre du suivi épidémiologique du COVID-19. La concentration d'ARN du Sars-CoV-2 dans les égouts permet en effet d'inférer l'incidence du virus dans une population parfois très localisée.  
-[**Video.**  Aux chiottes le virus ? Science4All (2020)](https://www.youtube.com/watch?v=B1VPbhpGzUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=6)  
-[**Article.**  How sewage could reveal true scale of coronavirus outbreak. Smriti Mallapaty. Nature (2020)](https://www.nature.com/articles/d41586-020-00973-x)
+[**Vidéo.**  Aux chiottes le virus ? Science4All (2020)](https://www.youtube.com/watch?v=B1VPbhpGzUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=6)  
+[**Science.**  How sewage could reveal true scale of coronavirus outbreak. Smriti Mallapaty. Nature (2020)](https://www.nature.com/articles/d41586-020-00973-x)
 
 Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce projet d'analyse d'excréments. Ils concluent que le produit idéal serait des toilettes intelligentes[^smart-toilet], capables notamment de mesurer et d'analyser les excréments sous toutes leurs coutures avant leur périple dans les eaux usées. Cependant, un tel produit nécessiterait des années de recherche et développement, et donc un grand nombre d'investisseurs. Pour commencer, les deux amis penchent vers un projet moins ambitieux. Après tout, comme Katia le fait remarquer, le meilleur outil de collecte d'information moderne est le téléphone. Pourquoi ne pas l'utiliser pour prendre des photographies des excréments ?
 
 [^smart-toilet]: Il existe bel et bien des projets de toilettes intelligentes, ou *smart toilets*. Notamment une publication dans le journal scientifique *Nature Biomedical Engineering* sur un prototype, capable d'effectuer de la reconnaissance... anale !  
-[**Article.**  A mountable toilet system for personalized health monitoring via the analysis of excreta. Seung-min Park et al. Nature Biomedical Engineering (2020).](https://www.nature.com/articles/s41551-020-0534-9)
+[**Science.**  A mountable toilet system for personalized health monitoring via the analysis of excreta. Seung-min Park et al. Nature Biomedical Engineering (2020).](https://www.nature.com/articles/s41551-020-0534-9)
 
 C'est ainsi qu'est conçu petit à petit SmartPoop, destiné à être une application de collecte d'échantillons photographiques de matière fécale et d'analyse automatisée de ces images à l'aide d'algorithmes de machine learning. Pendant les mois qui suivent, Katia écrit sa thèse de doctorat le jour, et programme SmartPoop jusque tard dans la nuit.
 
@@ -98,9 +98,9 @@ Pendant ce temps, Marc s'informe sur la coprologie. Il télécharge des bases de
 
 [^annotations]: L'annotation (ou *étiquetage*, *label* en anglais) des données est une phase critique de la conception des bases de données d'entraînement des algorithmes d'apprentissage. Elle consiste à prendre des données brutes (comme des images), et à annoter l'image avec des informations pertinentes, comme la présence ou l'absence de chats, ou comme l'état de santé de la personne qui a produit les excréments photographiés.
 
-[^etrons]: [**Video.**  Pourquoi le wombat fait-il des crottes carrées ? La boîte à curiosité (2021).](https://www.youtube.com/watch?v=pLXOHEbfJSc)  
-[**Video.**  L'importance des excréments dans la nature. La boîte à curiosité (2020).](https://www.youtube.com/watch?v=SZw-HMcZUiE)  
-[**Video.**  MinuteEarth Explains: Poop. MinuteEarth (2020).](https://www.youtube.com/watch?v=azYrI10CQr4)  
+[^etrons]: [**Vidéo.**  Pourquoi le wombat fait-il des crottes carrées ? La boîte à curiosité (2021).](https://www.youtube.com/watch?v=pLXOHEbfJSc)  
+[**Vidéo.**  L'importance des excréments dans la nature. La boîte à curiosité (2020).](https://www.youtube.com/watch?v=SZw-HMcZUiE)  
+[**Vidéo.**  MinuteEarth Explains: Poop. MinuteEarth (2020).](https://www.youtube.com/watch?v=azYrI10CQr4)  
 [**Livre.**  Tout ce que vous devez savoir sur le plus tabou des sujets. Michel Lafond. Julien Ménielle (2018).](http://www.michel-lafon.fr/livre/2059-DANS_TON_CORPS.html)
 
 > Tu sais, en fait les selles devraient être incolores ou blanchâtres, explique Marc à Katia lors de l'une de leurs soirées de travail. Elles sont surtout composées d'eau et de fibres après tout. Mais c'est un déchet des globules rouges, la bilirubine, qui les rend foncés. C'est le foie qui s'occupe de la traiter et de la « mettre » dans les excréments.
@@ -151,7 +151,7 @@ Fin novembre 2019, toutefois, un événement va bouleverser le futur de l'humani
 On apprend ensuite que le coupable est un nouveau rotavirus, et la terrible maladie qu'il cause est baptisée « ROtaVIrus Disease 2019 », ou ROVID-19[^rovid]. Le ROVID-19 cause de nombreux symptômes dérangeants, comme des maux gastriques, des maux de têtes, une fatigue accrue, des lourdes diarrhées, des grosses fièvres, des vomissements et des tremblements, qui conduisent près de 10% des personnes infectées vers le décès. Cette terrible maladie semble particulièrement mortelle chez les jeunes de moins de 30 ans.
 
 [^rovid]: Le ROVID-19 est bien sûr une maladie fictive, calquée sur le COVID-19 qui a frappé le monde en novembre-décembre 2019. Une collaboration exceptionnelle de vulgarisateurs scientifiques du web avait d'ailleurs produit une vidéo collective à ce moment là.  
-[**Video.**  Coronavirus : Chaque JOUR compte (2020)](https://www.youtube.com/watch?v=euk5FwYI1P4)
+[**Vidéo.**  Coronavirus : Chaque JOUR compte (2020)](https://www.youtube.com/watch?v=euk5FwYI1P4)
 
 Mais ce qui rend le ROVID-19 extrêmement dangereux, c'est son extrême contagiosité. Pire encore, le traçage des cas d'infections montre que cette contagiosité est particulièrement grande deux ou trois jours avant que les premiers symptômes se déclarent. On parle de contaminations pré-symptomatiques. Les personnes contaminantes ne sont pas encore conscientes d'être malades quand elles transmettent la maladie aux autres. Le taux de reproduction de base[^taux-de-reproduction] du virus, c'est-à-dire le nombre moyen d'individus qu'une personne infectée va contaminer, est estimé à environ 8. La croissance exponentielle[^exponentielle] de la pandémie terrifie rapidement toutes les agences sanitaires, tous les hôpitaux et tous les gouvernements du monde.
 
@@ -163,20 +163,20 @@ C'est finalement la grandeur la plus importante.
 Si elle est supérieure à 1, alors l'épidémie se propagera exponentiellement.
 Si elle est inférieure à 1, alors l'épidémie disparaîtra exponentiellement vite.
 En pratique, à cause de relâchements des mesures sanitaires, dans le cas du COVID-19 notamment, ce taux fluctue autour de 1, ce qui fait de l'épidémie une *endémie*, c'est-à-dire une maladie qui persiste dans la population générale.  
-[**Video.**  Le futur dépend de ce nombre](https://www.youtube.com/watch?v=c_VGCnUWbWU&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=1). Science4All (2020).  
-[**Video.**  Epidemic, Endemic, and Eradication Simulations](https://www.youtube.com/watch?v=7OLpKqTriio). Primer (2020).
+[**Vidéo.**  Le futur dépend de ce nombre](https://www.youtube.com/watch?v=c_VGCnUWbWU&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=1). Science4All (2020).  
+[**Vidéo.**  Epidemic, Endemic, and Eradication Simulations](https://www.youtube.com/watch?v=7OLpKqTriio). Primer (2020).
 
 [^exponentielle]: La croissance exponentielle intervient lorsque le nombre de cas est multiplié chaque semaine par une constante supérieure à 1. Le danger d'une telle croissance, c'est qu'elle paraît insignifiante les premières semaines, mais devient tout à coup hors de contrôle après quelques semaines ou mois.  
-[**Video.**  Aller sur la lune avec une feuille de papier et l'échiquier de Sissa. Fabien Olicard (2016).](https://www.youtube.com/watch?v=u5Hq6F_PvXk)  
-[**Video.**  Des nombres grands, TRÈS grands. Mickaël Launay (2014)](https://www.youtube.com/watch?v=oqMYAVV-hsA)
+[**Vidéo.**  Aller sur la lune avec une feuille de papier et l'échiquier de Sissa. Fabien Olicard (2016).](https://www.youtube.com/watch?v=u5Hq6F_PvXk)  
+[**Vidéo.**  Des nombres grands, TRÈS grands. Mickaël Launay (2014)](https://www.youtube.com/watch?v=oqMYAVV-hsA)
 
 À partir de début janvier 2020, tous les pays à travers le globe entrent tour à tour dans des périodes de confinement, alors que les tests médicaux se mettent en place petit à petit[^tests-medicaux], notamment des tests groupés[^tests-groupes]. Les estimations de janvier sont terrifiantes. Des centaines de milliers de personnes à travers le monde semblent déjà affectées, et des dizaines de milliers de victimes ont déjà succombé.
 
 [^tests-medicaux]: Il est toujours bon de rappeler qu'un test médical ne permet pas de certifier si une personne a ou n'a pas la maladie en question, car les tests sont toujours imparfaits. En fait, si un individu reçoit un test positif (imparfait) d'une maladie extrêmement rare, alors il reste généralement probable qu'il ne soit en fait pas malade (il conviendra d'analyser alors ses autres symptômes). Les mathématiques des probabilités conditionnelles sont critiques pour bien interpréter ces tests médicaux.  
-[**Video.**  La loi de Bayes - Argument frappant. Monsieur Phi (2016)](https://www.youtube.com/watch?v=3FOrWMDL8CY)  
-[**Video.**  The medical test paradox, and redesigning Bayes' rule. 3Blue1Brown (2020)](https://www.youtube.com/watch?v=lG4VkPoG3ko)
+[**Vidéo.**  La loi de Bayes - Argument frappant. Monsieur Phi (2016)](https://www.youtube.com/watch?v=3FOrWMDL8CY)  
+[**Vidéo.**  The medical test paradox, and redesigning Bayes' rule. 3Blue1Brown (2020)](https://www.youtube.com/watch?v=lG4VkPoG3ko)
 
-[^tests-groupes]: [**Video.**  Les tests groupés : dépister plus avec moins. Science4All (2020).](https://www.youtube.com/watch?v=oz1afOJhHOA&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=4)
+[^tests-groupes]: [**Vidéo.**  Les tests groupés : dépister plus avec moins. Science4All (2020).](https://www.youtube.com/watch?v=oz1afOJhHOA&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=4)
 
 Une suspicion initiale prend petit à petit de l'ampleur dans la communauté scientifique, notamment suite à l'observation d'une montée fulgurante de cas chez les techniciens de traitement des eaux usées. De plus en plus de données, notamment issues d'analyses chimiques d'excréments des malades, suggèrent que le virus du ROVID-19 se propage principalement via les flatulences des personnes infectées.
 
@@ -187,7 +187,7 @@ Une suspicion initiale prend petit à petit de l'ampleur dans la communauté sci
 
 [^couches-filtrantes]: La contagiosité du pet, mais aussi la capacité des vêtements à filtrer les pets, ont été testées et vérifiées par Dr Karl Kruszelnicki, suite à une expérience de pets dans des boîtes de Petri.  
 « Notre conclusion finale ? Ne pétez pas nu près de la nourriture. »  
-[**Article.**  Hot air?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121900/). Michael Doyle. The Canberra Times, Reprinted on BMJ (2021).
+[**Science.**  Hot air?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121900/). Michael Doyle. The Canberra Times, Reprinted on BMJ (2021).
 
 
 ### La quête de données
@@ -197,9 +197,9 @@ Et si SmartPoop pouvait aider ? Voilà une question que Marc pose à Katia peu 
 > On sait que le virus du ROVID-19 est non seulement très présent, mais aussi très actif dans les selles. C'est même très certainement par là qu'il se diffuse le plus. Mais ça veut aussi dire qu'il y laisse des traces. Aujourd'hui, on détecte ces traces en cherchant directement des bouts d'ARN du virus avec des méthodes de biologie classiques[^test-pcr]. Mais si le virus est si présent, il est possible qu'il laisse une trace visible dans les selles ; qu'il rende les selles visuellement différentes. J'ai vu quelques photos de matières contaminées, et malheureusement, ça ne m'a pas sauté aux yeux. Mais s'il y a ne serait-ce qu'une infime différence, peut-être qu'un algorithme, lui, sera capable de voir la différence. Et si c'est le cas, on pourrait isoler les cas de ROVID-19, et peut-être contrôler la pandémie sans confinement. On sauverait alors des millions de vies, voire des centaines de millions de vies. Sans parler de tous les troubles de santé mentale…
 
 [^test-pcr]: La méthode la plus standard pour détecter des bouts d'ARN est le test qPCR. Elle consiste à répliquer un morceau d'ARN cible un grand nombre de fois, via à une réaction polymérase en chaîne, et en insérant un signal fluorescent dans les copies. Ceci permet d'accroître exponentiellement le nombre de ces morceaux d'ARN, s'ils étaient initialement présents dans l'échantillon analysé, ce qui les rend plus faciles à détecter ensuite.  
-[**Video.**  Le principe de La PCR et leur différents étapes. Physiologie Santé (2020).](https://www.youtube.com/watch?v=-DuZh7I7f_I)    
-[**Video.**  Comment fonctionnent les tests de dépistage du Covid19 ? ENS Paris-Saclay (2020).](https://www.youtube.com/watch?v=hNVDHCf8bGA)
-<!-- [**Video.**  PCR - Polymerase Chain Reaction Simplified. MEDSimplified (2019).](https://www.youtube.com/watch?v=uKeMiAZ8Zu4)  -->
+[**Vidéo.**  Le principe de La PCR et leur différents étapes. Physiologie Santé (2020).](https://www.youtube.com/watch?v=-DuZh7I7f_I)    
+[**Vidéo.**  Comment fonctionnent les tests de dépistage du Covid19 ? ENS Paris-Saclay (2020).](https://www.youtube.com/watch?v=hNVDHCf8bGA)
+<!-- [**Vidéo.**  PCR - Polymerase Chain Reaction Simplified. MEDSimplified (2019).](https://www.youtube.com/watch?v=uKeMiAZ8Zu4)  -->
 
 Katia fait alors le lien avec un appel d'offres qu'elle a vu passer à son travail, et qui cherchait activement des projets d'informatique liés au ROVID-19. Sûrement, se dit-elle, les investisseurs seraient intéressés par un projet comme SmartPoop, si SmartPoop promet de résoudre la crise du ROVID-19. Mais pour les convaincre, il faudra d'abord avoir un *Proof of Concept*, ou PoC comme on le dit dans le jargon[^poc]. Autrement dit, il faudra une première version de SmartPoop, pas encore tout à fait fonctionnelle, mais suffisamment convaincante pour attirer ces investisseurs. Mais pour cela, Katia sait qu'il manque surtout à SmartPoop des données.
 
@@ -220,12 +220,12 @@ Katia contacte aussi des médiateurs scientifiques, sur Twitter et sur YouTube, 
 [^collaborations-vulga]: « Sans nos médiateurs scientifiques, qui informent, expliquent, enseignent, décodent, combattent la désinformation et débattent des questions scientifiques, beaucoup resteraient dans un espace où ils ne disposent pas des informations dont ils ont besoin, ce qui les conduirait à faire de mauvais choix à des moments vraiment cruciaux, » [affirmait Jacinda Arden](https://medium.com/scicomm/what-jacinda-arden-can-teach-us-about-science-communication-6f8fc42712b4), Première Ministre de la Nouvelle-Zélande, en juillet 2020.
 Malheureusement, les collaborations avec le monde de la vulgarisation, pendant la crise du COVID-19 et autour de sujets comme le changement climatique ou l'éthique des algorithmes, ont sans doute été très déficientes à travers le monde, avec plus généralement un très probable manque d'investissements dans la communication scientifique.
 Elles sont aussi souvent très délicates, pour les autorités et pour les vulgarisateurs, surtout dans le climat de défiance actuel. Par exemple, la vidéo de Science4All sur les vaccins, en collaboration avec le Ministère de la Santé en France, a causé un lever de bouclier (sans doute accentué par une campagne de désinformation organisée), recevant plus de dislikes que de likes sur YouTube (ce qui est extrêmement rare !).  
-[**Video.**  Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=13)
+[**Vidéo.**  Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=13)
 
 En mai 2020, alors que les nombres de cas diminuent lentement, mais demeurent encore très élevés, SmartPoop récolte quotidiennement des centaines de milliers de photographies. Au total, SmartPoop dispose alors de dizaines de millions de photos d'excréments. Malheureusement, si les algorithmes de Katia distinguent aisément les diarrhées glairosanglantes des cas avancés, ils échouent encore à détecter une quelconque différence entre les cas infectés pré-symptomatiques[^pre-symptomatiques] et les cas sains. Katia est frustrée.
 
 [^pre-symptomatiques]: Dans le cas du COVID-19 (et donc du ROVID-19), le grand défi du contrôle de la pandémie était justement le fait d'éviter les contaminations pré-symptomatiques, c'est-à-dire par des sujets infectés avant que ceux-ci ne développent des symptômes (et donc avant qu'ils se rendent compte qu'ils sont infectés).  
-[**Video.**  Contenir la pandémie sans confinement ? Science4All (2020).](https://www.youtube.com/watch?v=e3WXfTOw7xY&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=2)
+[**Vidéo.**  Contenir la pandémie sans confinement ? Science4All (2020).](https://www.youtube.com/watch?v=e3WXfTOw7xY&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=2)
 
 > Ça semble peine perdue, s'exaspère-t-elle auprès de Marc.
 
@@ -234,13 +234,13 @@ En mai 2020, alors que les nombres de cas diminuent lentement, mais demeurent en
 > Non… Je pense que, cette fois, le pari était bon[^jugez-le-pari]. Il y avait peu de chances que SmartPoop résolve la crise du ROVID-19. Mais si c'était le cas, on aurait sauvé l'humanité. Bon, ce n'est pas le cas. Mais, cette fois, je pense qu'on a bien fait d'essayer. Ça n'en reste pas moins frustrant...
 
 [^jugez-le-pari]: Katia insiste là sur la différence entre le *pari* et le résultat. Comme en parle très bien l'ancienne joueuse de poker Annie Duke, nous autres humains avons malheureusement trop tendance à juger une décision en fonction de son résultat, quand bien même ce résultat était imprévisible au moment de la décision, notamment sachant les informations dont on disposait alors. Pour progresser, selon Duke, il est critique de juger la prise de décision à partir de l'état de connaissance au moment de cette prise de décision, qui correspondait alors nécessairement à un pari, car le futur était incertain.  
-[**Video.**  Jugez le pari. Pas le résultat. Science4All (2020).](https://www.youtube.com/watch?v=69w3mZOHEtU&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=25)  
+[**Vidéo.**  Jugez le pari. Pas le résultat. Science4All (2020).](https://www.youtube.com/watch?v=69w3mZOHEtU&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=25)  
 [**Livre.**  Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts. Penguin. Annie Duke (2019).](https://www.penguinrandomhouse.com/books/552885/thinking-in-bets-by-annie-duke/)
 
 Déçu, Marc reconnaît que les confinements vont probablement s'éterniser, probablement pendant des années, le temps qu'un vaccin efficace soit développé, testé et déployé à très grande échelle — si tant est qu'il voit le jour un jour[^vaccin]. Pendant ce temps, le ROVID-19 ne cessera de se diffuser.
 
 [^vaccin]: Il est intéressant de se rappeler qu'au début de la pandémie COVID-19, il n'était pas clair que les vaccins auraient l'efficacité qu'ils ont finalement eue. Et il est aussi bon de rappeler que certains vaccins ont permis d'éradiquer certaines maladies terribles, comme la variole.  
-[**Video.**  Le plus grand triomphe de l'humanité. Science4All (2020).](https://www.youtube.com/watch?v=eAzP2QtAAag&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=9)
+[**Vidéo.**  Le plus grand triomphe de l'humanité. Science4All (2020).](https://www.youtube.com/watch?v=eAzP2QtAAag&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=9)
 
 En entendant ces mots, Katia se lève, agitant son index droit qui illustre alors le bouillonnement intellectuel qui anime ses neurones.
 
@@ -257,10 +257,10 @@ C'est ainsi que SmartPoop propose désormais, non pas de photographier les excr�
 À 4 heures du matin, Katia rentre dans la chambre de Marc pour le réveiller. « J'ai fini l'algorithme. Il faut que tu vois ça. » Marc se réveille en sursaut, court chercher une bouteille de champagne et rejoint Katia dans le salon. Katia explique qu'elle a entraîné son algorithme avec 90% de la base de données de SmartPoop, et qu'elle s'apprête à tester les performances de l'algorithme sur les 10% restants[^donnees-test]. Katia explique que ces 10% restants ont été tirés au hasard, avec la simple contrainte qu'ils contiennent autant d'excréments infectés pré-symptomatiques que d'excréments sains[^accuracy]. Si l'algorithme échoue, alors il aura un taux de reconnaissance d'excréments de 50%. S'il est parfait, sa précision sera de 100%.
 
 [^donnees-test]: Ce qui est décrit là est la séparation du jeu de données en un jeu de données d'entraînement (*training set*) et un jeu de données de test (*test set*), qui est une technique classique en machine learning pour valider un algorithme après apprentissage. On parle alors de *validation croisée*, qui peut prendre des formes plus sophistiquées.  
-[**Video.**  La validation croisée | Intelligence Artificielle 13 (ft.@La statistique expliquée à mon chat). Science4All (2018)](https://www.youtube.com/watch?v=ymRSxSY1nak&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=13)
+[**Vidéo.**  La validation croisée | Intelligence Artificielle 13 (ft.@La statistique expliquée à mon chat). Science4All (2018)](https://www.youtube.com/watch?v=ymRSxSY1nak&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=13)
 
 [^accuracy]: Notez que le taux de succès de prédiction d'un algorithme dépend fortement du taux de choses à détecter dans les données (ici, le taux d'excréments infectés pré-symptomatiques). En effet, si 99% des données ne sont pas des excréments infectés pré-symptomatiques, alors un algorithme idiot qui systématiquement prédit « cet excrément n'est pas infecté pré-symptomatique » permet d'avoir un 99% de précision ! De façon plus générale, pour estimer le succès d'un algorithme prédictif dans une tâche de prédiction binaire (infecté versus pas infecté), il est nécessaire de préciser deux statistiques (par exemple le taux de base et la précision, ou par exemple le taux de faux positif et le taux de faux négatif).  
-[**Video.**  Les grands scientifiques veulent se tromper. Science4All (2019)](https://www.youtube.com/watch?v=zbUZnspdQRU&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=18)
+[**Vidéo.**  Les grands scientifiques veulent se tromper. Science4All (2019)](https://www.youtube.com/watch?v=zbUZnspdQRU&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=18)
 
 Il ne reste plus qu'à lancer le test de l'algorithme pour connaître sa performance. Katia et Marc se lancent dans un décompte. Cinq. Quatre. Trois. Deux. Un. Le test est lancé[^suspense].
 
@@ -277,7 +277,7 @@ C'est encore au beau milieu de la nuit que Katia réveille tout à coup Marc.
 > Cinq écarts-types, cinq écart-types[^cinq-sigmas], répète-t-elle ! Le test n'a pas échoué. Il est en fait assez nettement au-dessus de 50%.
 
 [^cinq-sigmas]: En sciences, et notamment en physique en particulier, on parle parfois de « 5 sigmas ». Il s'agit du signal considéré suffisamment marquant pour être parfois qualifié de « découverte scientifique », quoique son interprétation exacte est en fait complexe, voire très trompeuse. En particulier, l'utilisation de tels signaux est très critiqués, notamment par les statistiques dites *bayésiennes*.  
-[**Video.**  La plus grosse confusion des sciences : la p-value !! Science4All (2019).](https://www.youtube.com/watch?v=jy9b1HSqtSk&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=9)
+[**Vidéo.**  La plus grosse confusion des sciences : la p-value !! Science4All (2019).](https://www.youtube.com/watch?v=jy9b1HSqtSk&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=9)
 
 > Mais un taux de succès de 52,4% ne nous aidera absolument pas à arrêter le ROVID-19.
 
@@ -286,7 +286,7 @@ Katia explique alors que, en effet, l'algorithme actuel est très largement insu
 > Si SmartPoop ne détectait absolument rien, alors on s'attendrait à un taux d'erreur de 50%, explique Katia. Mais pas exactement de 50%, à cause des fluctuations statistiques. Sachant que le test a été effectué sur des dizaines de milliers de vidéos d'excréments, on s'attendrait à obtenir 50% plus ou moins un erreur de l'ordre de 0,5%. Or, là, on est à 52,4%, soit 2,4% de plus que 50%. Un écart de 2,4%, c'est donc presque 5 fois la fluctuation de 0,5%[^fluctuation]. C'est beaucoup. Et ça veut dire que la distinction existe très probablement ! SmartPoop n'est simplement pas encore capable de l'identifier !
 
 [^fluctuation]: Notez que Katia fait bien attention à parler d'intervalle de *fluctuation*, et non pas d'intervalle de *confiance*. Ces deux notions sont souvent confondues à tort, alors qu'elles décrivent des objets assez distincts. Dans le premier cas, il s'agit d'une incertitude sur les données à observer, alors que, dans le second cas, il s'agit d'un intervalle qui estime les valeurs d'un paramètre d'un modèle, à partir des données observées. Cependant, cet intervalle de confiance doit aussi ne pas être confondu avec un troisième type d'intervalles, appelé intervalle de *crédence* (ou de *crédibilité*). Contrairement à l'intervalle de confiance, l'intervalle de crédence prend aussi en compte l'état global des connaissances scientifiques avant d'avoir observé les données collectées.  
-[**Video.**  Peut-on faire confiance aux intervalles de confiance ? Science4All (2019)](https://www.youtube.com/watch?v=PVb7aSOqx0Q&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=19)
+[**Vidéo.**  Peut-on faire confiance aux intervalles de confiance ? Science4All (2019)](https://www.youtube.com/watch?v=PVb7aSOqx0Q&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=19)
 
 Marc demande à Katia ce qu'il manque pour discerner ce signal. Katia répond :
 
@@ -300,17 +300,17 @@ Marc, lui, passe son temps à tester SmartPoop, et à suggérer des amélioratio
 
 Jour après jour, la performance de SmartPoop s'améliore. En juillet 2020, elle passe à 55%. En août, elle passe à 60%. Katia et Marc sont désormais invités sur les plateaux de télévision, pour parler de SmartPoop. Les journaux nationaux titrent : « Filmez vos excréments pour sortir du confinement ! »
 
-C'est alors qu'un investisseur, appelé Luc, décide d'investir 10 millions d'euros pour 10% de SmartPoop, dont Katia et Marc deviennent alors co-fondateurs. SmartPoop embauche ainsi ses premiers développeurs, chargés d'améliorer l'application et les algorithmes de SmartPoop, ainsi que des commerciaux pour encourager l'adoption massive de l'application. Cet argent permet aussi de payer les factures de plus en plus importantes des serveurs de calculs.
+C'est alors qu'un investisseur, appelé Luc Vaydan, décide d'investir 10 millions d'euros pour 10% de SmartPoop, dont Katia et Marc deviennent alors co-fondateurs. SmartPoop embauche ainsi ses premiers développeurs, chargés d'améliorer l'application et les algorithmes de SmartPoop, ainsi que des commerciaux pour encourager l'adoption massive de l'application. Cet argent permet aussi de payer les factures de plus en plus importantes des serveurs de calculs.
 
 ### Le triomphe de SmartPoop
 
-En décembre 2020, SmartPoop possède désormais près de 100 millions d'utilisateurs réguliers, et plusieurs milliards de vidéos d'excréments atteignant un total de 320 années de vidéos[^calcul]. Mais surtout, les performances de SmartPoop atteignent alors 90%. L'application est alors auditée et approuvée par les autorités sanitaires, qui encouragent désormais son adoption massive. Après une année complète de confinement, en janvier 2021, celui-ci est enfin levé, et la population retrouve une vie plus normale.
+En décembre 2020, SmartPoop possède désormais près de 100 millions d'utilisateurs réguliers, et plusieurs milliards de vidéos d'excréments atteignant un total de 320 années de vidéos[^calcul]. Mais surtout, les performances de SmartPoop atteignent alors 90%. L'application est alors auditée et approuvée par les autorités sanitaires, qui encouragent désormais son adoption massive. Après une année complète de confinement, en janvier 2021, celui-ci est enfin levé.
 
 [^calcul]: Chaque utilisateur régulier met en ligne une vidéo par jour, depuis plusieurs mois, d'où les milliards de vidéos. Chaque vidéo fait quelques secondes, ce qui représente environ 10 milliards de secondes de vidéos, soit environ 320 années de vidéos.
 
-> C'est super, explique Marc, invité à paraître sur Science4Alpha. Le taux de reproduction de base du ROVID-19 est autour de 8. Si on suppose que dès qu'un individu est diagnostiqué positif par SmartPoop, alors lui et ses colocataires s'isolent chez eux, sachant que le taux d'erreur est de 10%, on devrait ainsi diviser le taux de reproduction par 10, ce qui théoriquement nous ramène à 0,8. Comme 0,8 est en dessous de 1, cela nous donne une chance de contenir le ROVID-19, sans requérir de confinement global. Mais bien sûr, il ne s'agit là que d'estimations. Il reste crucial que l'on prenne encore soin de la distanciation physique, des gestes barrières et du port de couche, et de surveiller constamment le taux de reproduction effectif qui détermine comment la maladie se propage.
+> C'est super, explique Marc, invité à paraître sur Science4Alpha. Le taux de reproduction de base du ROVID-19 est autour de 8. Si on suppose que dès qu'un individu est diagnostiqué positif par SmartPoop, alors lui et ses colocataires s'isolent chez eux, sachant que le taux d'erreur est de 10%, on devrait ainsi diviser le taux de reproduction par 10, ce qui théoriquement nous ramène à 0,8. Comme 0,8 est en dessous de 1, cela nous donne une chance de contenir le ROVID-19, sans requérir de confinement global. Mais bien sûr, il ne s'agit là que d'estimations. Il reste crucial que l'on prenne encore soin de la distanciation physique, des gestes barrières et du port de couche, et de surveiller constamment le taux de reproduction effectif qui détermine comment la maladie se propage. Mais il y a maintenant l'espoir de retrouver une vie normale. Enfin !
 
-Petit à petit, tous les pays au monde adoptent SmartPoop, désormais utilisé par 3 milliards d'humains sur terre. Le ROVID-19 est alors contenu à quelques milliers de cas seulement par pays. Fin 2021, l'Organisation Mondiale de la Santé l'annonce publiquement. Grâce à SmartPoop, dont la précision atteint désormais 99%, le ROVID-19 est désormais déclaré contenu.
+Petit à petit, tous les pays au monde adoptent SmartPoop, désormais utilisé par 3 milliards d'humains sur terre. Le ROVID-19 est alors contenu à quelques milliers de cas seulement par pays. Fin 2021, l'Organisation Mondiale de la Santé l'annonce publiquement. Grâce à SmartPoop, dont la précision atteint désormais 99%, le ROVID-19 est désormais déclaré sous contrôle.
 
 
 ## Pour aller plus loin
