@@ -40,9 +40,7 @@ Une courbe apparaît alors à l'écran, tracée doucement de gauche à droite. C
 
 Le public exprime d'ailleurs cette joie, à la vue de cette courbe et de ce chiffre.
 
-> Quand vous parlez à Poo, vous pouvez parler de vous, de votre bien-être et de vos problèmes, ce que je vais appeler le discours égocentrique. Ou vous pouvez parler des autres, de la joie qu'ils vous procurent, des difficultés qu'ils traversent et des choses que vous pouvez faire pour les aider. Je vais appeler cela le discours hétérocentrique[^heterocentrique]. Avant le lancement de Poo, 57% des discussions Poo étaient égocentriques plutôt qu'hétérocentriques. D'après vous, comment a évolué ce chiffre ? Vers le haut ?
-
-[^heterocentrique]: À ne pas confondre avec *l'hétérocentrisme* qui consiste à considérer que l'hétérosexualité est la norme absolue, et que tout ce qui dévie de l'hétérosexualité devrait être punie.
+> Quand vous parlez à Poo, vous pouvez parler de vous, de votre bien-être et de vos problèmes, ce que je vais appeler le discours égocentrique. Ou vous pouvez parler des autres, de la joie qu'ils vous procurent, des difficultés qu'ils traversent et des choses que vous pouvez faire pour les aider. Je vais appeler cela le discours allocentrique. Avant le lancement de Poo, 57% des discussions Poo étaient égocentriques plutôt qu'allocentriques. D'après vous, comment a évolué ce chiffre ? Vers le haut ?
 
 Le public crie alors en choeur « non ».
 
@@ -54,7 +52,7 @@ Le public crie en choeur « oui ».
 
 À l'écran, la même animation que précédemment montre une courbe qui descend, jusqu'à atteindre 44%, sous les ovations du public.
 
-> Oui ! 44%. Désormais, la plupart des discussions avec Poo sont des discussions centrées sur l'environnement social plutôt que sur soi-même. Et alors, il faudrait se méfier de ce chiffre a priori. Initialement, la plupart des discussions hétérocentriques consistaient à se plaindre des autres, à moquer certains groupes, voire à attaquer certains groupes sociaux[^appel-a-la-meute], plutôt qu'à célébrer les autres, à se réjouir de leurs succès et à réfléchir à comment leur venir en aide. Avant le lancement de Poo, 86% des discussions hétérocentriques étaient critiques, et pas bienveillantes. Comment a évolué cette statistique ?
+> Oui ! 44%. Désormais, la plupart des discussions avec Poo sont des discussions centrées sur l'environnement social plutôt que sur soi-même. Et alors, il faudrait se méfier de ce chiffre a priori. Initialement, la plupart des discussions allocentriques consistaient à se plaindre des autres, à moquer certains groupes, voire à attaquer certains groupes sociaux[^appel-a-la-meute], plutôt qu'à célébrer les autres, à se réjouir de leurs succès et à réfléchir à comment leur venir en aide. Avant le lancement de Poo, 86% des discussions allocentriques étaient critiques, et pas bienveillantes. Comment a évolué cette statistique ?
 
 [^appel-a-la-meute]: [**Vidéo.**  La morale des hooligans (LA NÔTRE !!). Science4All (2017).](https://www.youtube.com/watch?v=ki26tUbxpnU&list=PLtzmb84AoqRSmv5o-eFNb3i9z64IuOjdX&index=27)  
 [L'appel à la meute #DébattonsMieux. Science4All (2019).](https://www.youtube.com/watch?v=P0YB40z7RJ0)
@@ -93,7 +91,7 @@ Katia profite des applaudissements du public pour marquer une autre pause.
 
 [^quete-performance]: En 2021, la recherche académique (et plus encore l'industrie) demeure encore largement obsédée par la quête de performances ou de résultats « impressionnants », aussi bien en machine learning qu'en informatique de manière générale, en s'appuyant sur des métriques comme *l'accuracy* (la performance prédictive sur un jeu de données « classique »), le temps de calcul, le *throughput* (la quantité d'information transmise) ou la latence. Alors que les algorithmes ont déjà des effets secondaires monumentaux à l'échelle planétaire, ces recherches semblent aggraver la course à la performance, et donc le déploiement précipité de technologies mal testées et rarement auditées.  
 À titre d'exemple, voici un commentaire d'un *revieweur* anonyme de NeurIPS 2019, suite à un article soumis par Lê Nguyên Hoang et ses co-auteurs sur un algorithme pour débiaiser les biais racistes des algorithmes : « Malheureusement, je ne pense pas que le problème introduit par les auteurs est un problème qui a de la valeur pour la communauté académique ou pour les praticiens du ML. Dès lors, je ne peux pas recommander la publication de l'article. »  
-[**Science.**  Removing Algorithmic Discrimination (With Minimal Individual Error). vidual Error) El Mahdi El Mhamdi, Rachid Guerraoui, Lê Nguyên Hoang & Alexandre Maurer (2018).](https://arxiv.org/abs/1806.02510) <!-- « Unfortunately, I don't think the problem the authors introduce is one that has value to the academic community or to ML practitioners. Given this, I can't recommend the paper for publication. »   -->
+[**Science.**  Removing Algorithmic Discrimination (With Minimal Individual Error). El Mahdi El Mhamdi, Rachid Guerraoui, Lê Nguyên Hoang & Alexandre Maurer (2018).](https://arxiv.org/abs/1806.02510) <!-- « Unfortunately, I don't think the problem the authors introduce is one that has value to the academic community or to ML practitioners. Given this, I can't recommend the paper for publication. »   -->
 Ceci étant dit, il y a récemment eu de nombreux progrès, comme la création de la conférence Fairness, Accountability and Transparency (FAccT), l'introduction de *guidelines éthiques* dans ces conférences, ou encore l'ajout obligatoire d'une discussion des auteurs dans leurs articles des impacts sociétaux de leur recherche.  
 [**Vidéo.**  L'éthique des algorithmes en sérieux danger. Science4All (2020).](https://www.youtube.com/watch?v=Ddr-BZ9W180)
 

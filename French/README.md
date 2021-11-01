@@ -13,7 +13,7 @@ Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et
 [Chapitre 3 — Le biais étroniste](3-Biais.md)  
 [Chapitre 4 — Les fuites sanitaires](4-Fuites.md)  
 [Chapitre 5 — Les FakePoops](5-FakePoops.md)  
-[Chapitre 6 — Le marché marron](6-Corruption.md)  
+[Chapitre 6 — Le marché marron](6-Pub.md)  
 [Chapitre 7 — On se fait dessus](7-Psy.md)  
 [Chapitre 8 — Sur le trône](8-Trone.md)  
 

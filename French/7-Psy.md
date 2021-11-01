@@ -41,7 +41,7 @@ Il lui faudra quelques heures pour se ressaisir. Alors qu'elle n'a toujours rien
 
 > Comment ça ? Ça devrait être le sujet le plus important de l'actualité !
 
-> Il y a une autre affaire en ce moment qui domine l'actualité, une histoire de scandale sexuel d'un membre du gouvernement bokistanais[^solutions-journalism].
+> Il y a une autre affaire en ce moment qui domine l'actualité, un scandale autour d'une affaire extra-conjugale d'un membre du gouvernement bokistanais[^solutions-journalism].
 
 [^solutions-journalism]: La presse est souvent critiquée pour son biais en faveur des scandales d'hommes politiques. De nombreux journalistes pensent qu'elle devrait davantage être axées sur les problèmes importants et les pistes pour les résoudre. On parle alors de *solutions journalism* (ou *journalisme des solutions*). Notez que cette forme de journalisme ne consiste pas à survendre des pseudo-solutions. Il s'agit davantage de discuter des pistes de solution, en analysant rigoureusement leurs chances de succès et leurs limitations.  
 [**Livre.**  You Are What You Read: Why Changing Your Media Diet Can Change the World. Jodie Jackson. Unbound (2019).](https://jodiejackson.com)
@@ -60,7 +60,7 @@ Il est utile d'insister sur le fait que le problème des *mute news* ne pourra p
 
 > T'es sérieux ? C'est terriblement frustrant.
 
-> Katia, tu t'es quand même attaquée à plus que SmartPoop. Tu as critiqué aux géants de l'information, ceux qui contrôlent le flux de l'information, et qui ont tout intérêt à ce que tu sois réduite au silence, et ignorée[^gebru-silencing]. Vu ce qu'il se passe chez SmartPoop, je parierais que dans ces boîtes aussi, les actionnaires ont opté pour des plans machiavéliques pour faire taire ton affaire, en boostant par exemple artificiellement l'histoire du scandale sexuel et tous les messages qui s'en indignent. On vit une dystopie informationnelle.
+> Katia, tu t'es quand même attaquée à plus que SmartPoop. Tu as critiqué aux géants de l'information, ceux qui contrôlent le flux de l'information, et qui ont tout intérêt à ce que tu sois réduite au silence, et ignorée[^gebru-silencing]. Vu ce qu'il se passe chez SmartPoop, je parierais que dans ces boîtes aussi, les actionnaires ont opté pour des stratagèmes pour faire taire ton affaire, en boostant par exemple artificiellement l'histoire du scandale sexuel et tous les messages qui s'en indignent. On vit une dystopie informationnelle.
 
 [^gebru-silencing]: Peu de temps après avoir licencié Timnit Gebru, Google semble avoir retiré à la main l'onglet « actualité » lorsqu'un utilisait recherchait « Timnit Gebru ».
 [**Web.**  "Things I learned this morning, when searching for @timnitGebru on desktop, the results for "news" are hidden (dark patterns)." Tweet by Devin Guillory (2021).](https://twitter.com/databoydg/status/1359304159527198733)
@@ -129,7 +129,7 @@ Katia reste silencieuse. Cette question l'amène enfin à réfléchir profondém
 
 Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 
-> Oui. Ce qui a provoqué mon licenciement, c'est une chose dont je suis très fière. Jamais auparavant un dirigeant n'avait préféré le bien de l'humanité à sa sécurité personnelle. Ce sacrifice, c'est quelque chose qui restera associée à moi. Quelque chose dont je suis très fière[^fier].
+> Oui. Ce qui a provoqué mon licenciement, c'est une chose dont je suis très fière. Rarement auparavant un dirigeant n'avait préféré le bien de l'humanité à sa sécurité personnelle. Ce sacrifice, c'est quelque chose qui restera associée à moi. Quelque chose dont je suis très fière[^fier].
 
 [^fier]: [**Vidéo.**  La bonne et la mauvaise fierté. Vlanx (2021).](https://www.youtube.com/watch?v=ZsxD1Bk4sjA)  
 [**Podcast.**  Being Kind to Yourself. Hidden Brain (2021).](https://hiddenbrain.org/podcast/being-kind-to-yourself/)  
@@ -199,7 +199,7 @@ Katia pleure de joie à la lecture de cette lettre formidable. « Quels héros�
 
 Katia découvre ensuite la liste interminable de signataires. Beaucoup de noms lui sont familiers. À la lecture de chacun d'eux, elle pleure sans retenue. Bien entendu, il y a Marc Rofstein, tout en haut de cette liste, mais aussi tous les employés que Katia a directement recrutés, mais aussi Science4Alpha, l'investisseur Luc Vaydan, la mère Lucile Polmon, le trader Issa Gueye, la Docteure Paola Marta, le Premier Ministre kormicain, le Président Lartan, sa belle-soeur Marie Routisse, la journaliste Célia Keita, l'ex-troll Paul Gremoux, le psychologue Frédéric Partoli et tous les membres de l'OMESA.
 
-Cette fois-ci, l'affaire est bien trop énorme pour être éteinte par les campagnes de désinformation. Le lendemain, les unes des journaux sont remplies d'interviews d'anciens employés qui, tour à tour, proposent la même version des faits. « Ma confiance en SmartPoop et ma fierté d'y travailler ont été chamboulées le jour où j'ai découvert le programme de revente des données. Elles se sont complètement effondrées le jour où Katia a été licenciée », raconte un employé. « Katia est la personne la plus incroyable que j'ai eu la chance de rencontrer. Sa générosité, sa bienveillance, son énergie, son humour et son intelligence ont illuminé chaque jour que j'ai passé à SmartPoop. Son licenciement a conduit à de sombres ténèbres, où personne ne souhaite travailler, peu importe le salaire. Je refuse de travailler pour SmartPoop tant que Katia ne redeviendra pas Présidente ». L'opinion publique est cette fois conquise.
+Cette fois-ci, l'affaire est bien trop énorme pour être éteinte par les campagnes de désinformation. Le lendemain, les unes des journaux sont remplies d'interviews d'anciens employés qui, tour à tour, proposent la même version des faits. « Ma confiance en SmartPoop et ma fierté d'y travailler ont été chamboulées le jour où j'ai découvert le programme de revente des données. Elles se sont complètement effondrées le jour où Katia a été licenciée », raconte un employé. « Katia est la personne la plus incroyable que j'ai eu la chance de rencontrer. Sa générosité, sa bienveillance, son énergie, son humour et son intelligence ont illuminé chaque jour que j'ai passé à SmartPoop. Son licenciement a considérablement dégradé notre confiance en l'entreprise, où personne ne souhaite travailler. Je refuse de travailler pour SmartPoop tant que Katia ne redeviendra pas Présidente ». L'opinion publique est cette fois conquise.
 
 Trois jours plus tard, les démissions du conseil d'administration s'enchaînent, avant qu'un document soit écrit et co-signé par les membres restants du conseil. Celui-ci présente très clairement ses excuses envers Katia, annule toutes les poursuites judiciaires, et réinvestit Katia de ses fonctions. Là voilà enfin à nouveau Présidente et Directrice Générale de SmartPoop.
 
