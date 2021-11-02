@@ -26,7 +26,7 @@ Même d'un point de vue stratégique, cette pirouette ne semble pas être justif
 
 Célia décide de mener une investigation sur les raisons de ce volte-face. Elle interroge les autres parties prenantes de la COP 31. Certains décrivent alors le Président Lartan comme un homme difficile, refusant le compromis et essayant d'imposer ses propres idées. D'autres toutefois, qui le connaissent de longue date, affirment que celui-ci a eu un comportement de plus en plus difficile depuis son élection, et en particulier au cours des derniers mois. Petit à petit, Célia identifie une date de plus en plus précise, après laquelle le Président Lartan refusait le compromis. Quelque chose semble avoir eu lieu fin juillet 2025, qui a ensuite amené le Président Lartan à conduire la COP 31 droit dans une impasse.
 
-Célia rassemble alors ses éléments, et publie finalement un article dans le plus grand journal Bokistanais, le journal La Terre[^le-monde]. L'article est intitulé « Le mystérieux volte-face du Président Lartan ». Le sous-titre est plus suggestif encore : « Comment cet écologiste convaincu a fini par saboter la plus grande initiative écologiste au monde ». L'article suggère vivement l'existence d'accords secrets qui ont changé les positions du Président Lartan.
+Célia rassemble alors ses éléments, et publie finalement un article dans le plus grand journal Bokistanais, le journal *La Terre*[^le-monde]. L'article est intitulé « Le mystérieux volte-face du Président Lartan ». Le sous-titre est plus suggestif encore : « Comment cet écologiste convaincu a fini par saboter la plus grande initiative écologiste au monde ». L'article suggère vivement l'existence d'accords secrets qui ont changé les positions du Président Lartan.
 
 [^le-monde]: Le nom du journal est bien sûr une référence au journal français Le Monde.
 
@@ -89,7 +89,7 @@ En cherchant désormais ce nom et ce prénom sur Google, Célia découvre qu'ils
 
 > Euh... d'accord.
 
-> Je suis Célia Keita, journaliste d'investigation pour le journal La Terre. Et encore une fois, j'insiste sur le fait que je souhaite vous protéger, à condition bien sûr que vous répondiez à mes questions.
+> Je suis Célia Keita, journaliste d'investigation pour le journal *La Terre*. Et encore une fois, j'insiste sur le fait que je souhaite vous protéger, à condition bien sûr que vous répondiez à mes questions.
 
 > D'accord.
 
@@ -117,9 +117,12 @@ En cherchant désormais ce nom et ce prénom sur Google, Célia découvre qu'ils
 
 ### L'inflitration
 
-Quelques minutes plus tard, Célia reçoit l'email transféré par Pau. L'email original, qui contient le chantage, a été envoyé depuis l'adresse foeqm@kinstova.com[^email-kinstova]. Le nom de domaine @kinstova.com correspond alors à un serveur dans un pays étranger, la Kormique. Ce pays est aussi bien connu pour son industrie pétrolière. Se pourrait-il que la campagne de désinformation ait été organisée par l'une de ces industries, pour freiner les réglementations contre ces industries ? Se pourrait-il que cette campagne se soit aussi attaquée au Président Lartan ? Et si le Président était l'objet d'un chantage similaire à celui de Paul Gremoux ?
+Quelques minutes plus tard, Célia reçoit l'email transféré par Paul. L'email original, qui contient le chantage, a été envoyé depuis l'adresse foeqm@kinstova.com[^email-kinstova]. Le nom de domaine @kinstova.com correspond alors à une adresse IP[^ip], qui correspond à un serveur dans un pays étranger, la Kormique. Ce pays est aussi bien connu pour son industrie pétrolière. Se pourrait-il que la campagne de désinformation ait été organisée par l'une de ces industries, pour freiner les réglementations contre ces industries ? Se pourrait-il que cette campagne se soit aussi attaquée au Président Lartan ? Et si le Président était l'objet d'un chantage similaire à celui de Paul Gremoux ?
 
 [^email-kinstova]: Même remarque que pour l'adresse email de Célia.
+
+[^ip]: L'adresse IP est l'identifiant de votre connection Internet, qui permet à un site web que vous voulez voir de déterminer où envoyer ce site web. L'adresse IP vous est fournie par votre fournisseur d'accès à Internet, qui est un opérateur comme SFR, Orange ou Swisscom.  
+[**Video.** À qui appartient Internet ? Étincelles, EPFL (2021).](https://www.youtube.com/watch?v=WtY4TY1MCGc)
 
 Pour le savoir, Célia cherche à se rapprocher de Marie Routisse, la soeur de la femme du Président, qui se trouve aussi être l'amie d'un ami. En passant par son contact, Célia propose à Marie de prendre un café, pour parler d'un article sur la « place des femmes dans le monde professionnel ». Lors du premier contact, Célia ne cherche pas à obtenir directement de l'information de Marie. Elle cherche surtout à l'amener à baisser sa garde, en devenant amie avec elle[^social-engineering].
 
@@ -215,10 +218,12 @@ Cependant, Célia sait que ce qui est arrivé au Président Lartan peut désorma
 
 [^putin-calls]: De façon surprenante, en 2020, Vladimir Poutine a appelé à un accord pour limiter les cyber-attaques entre différents pays, alors même que la Russie a été reconnue comme l'auteur de beaucoup de ces attaques. Ceci suggère que même les auteurs de ces attaques sentent qu'elles finiront par tout déstabiliser, y compris eux-mêmes.  
 [**Journal.**  Putin says Russia and U.S. should agree not to meddle in each other's elections. Reuters (2020).](https://www.reuters.com/article/uk-russia-usa-putin-idUKKCN26G1OM)  
-Pour la sécurité de tous, il est sans doute urgent d'établir une convention internationale qui, à l'instar des armes chimiques, biologiques et autonomes, interdirait aussi les cyber-attaques, tant celles-ci mettent en danger des millions de vies, voire des milliards de vies à travers le monde.  
-[**Vidéo.**  Pourquoi faut-il bannir les armes autonomes ? | The Flares (2019).](https://www.youtube.com/watch?v=H73E5OesA3Y)
+Pour la sécurité de tous, il est sans doute urgent d'établir une convention internationale qui, à l'instar des armes chimiques, biologiques et autonomes, interdirait aussi les cyber-attaques, tant celles-ci mettent en danger des millions de vies, voire des milliards de vies à travers le monde. 
+[**Video.** The Future of War, and How It Affects YOU (Multi-Domain Operations) - Smarter Every Day 211 (2019).](https://www.youtube.com/watch?v=qOTYgcdNrXE)  
+Il en va d'ailleurs certainement de même des armes autonomes.  
+[**Vidéo.** Pourquoi faut-il bannir les armes autonomes ? | The Flares (2019).](https://www.youtube.com/watch?v=H73E5OesA3Y)
 
-> Bonjour Docteure Carpinski, ici Célia Keita, journaliste d'investigation chez La Terre.
+> Bonjour Docteure Carpinski, ici Célia Keita, journaliste d'investigation chez *La Terre*.
 
 > Bonjour Madame Keita, que puis-je faire pour vous ?
 
@@ -314,13 +319,13 @@ Katia reste songeuse. Visiblement, elle pense encore avant tout à sauver SmartP
 
 ### L'audit de SmartPoop
 
-Un mois plus tard, SmartPoop publie un rapport de sécurité informatique. Ce rapport explique l'adoption d'une nouvelle mesure de protection des données personnelles, fondée sur le chiffrement homomorphe. Cette technologie cryptographique permet ainsi à des utilisateurs de participer à l'amélioration des algorithmes de SmartPoop, sans que SmartPoop n'ait jamais accès aux données en clair des utilisateurs. Plus précisément, quand l'utilisateur collecte des données via son smartphone ou ses toilettes, ces données sont automatiquement chiffrées, avec une clé dont seul l'utilisateur dispose. Néanmoins, ce chiffrement est effectué de telle manière que SmartPoop pourra apprendre de ces données, quand bien même SmartPoop ne pourra jamais déchiffrer ces données[^homomorphic-learning]. Ainsi, les données personnelles sont protégées contre SmartPoop même, ce qui empêche SmartPoop d'être une vulnérabilité !
+Un mois plus tard, SmartPoop publie un rapport de sécurité informatique. Ce rapport annonce et explique le développement d'une nouvelle mesure de protection des données personnelles, fondée sur le chiffrement homomorphe. Cette technologie cryptographique permet ainsi à des utilisateurs de participer à l'amélioration des algorithmes de SmartPoop, sans que SmartPoop n'ait jamais accès aux données en clair des utilisateurs. Plus précisément, quand l'utilisateur collecte des données via son smartphone ou ses toilettes, ces données sont automatiquement chiffrées, avec une clé dont seul l'utilisateur dispose. Néanmoins, ce chiffrement est effectué de telle manière que SmartPoop pourra apprendre de ces données, quand bien même SmartPoop ne pourra jamais déchiffrer ces données[^homomorphic-learning]. Ainsi, les données personnelles sont protégées contre SmartPoop même, ce qui empêche SmartPoop d'être une vulnérabilité !
 
 [^homomorphic-learning]: Notez que les principales applications raisonnables aujourd'hui du chiffrement homomorphe aux algorithmes d'apprentissage concernent uniquement la phase d'inférence — pas d'apprentissage. Autrement dit, dans le cas de SmartPoop, ce chiffrement homomorphe permet de diagnostiquer un excrément d'un utilisateur de manière parfaitement chiffrée ; mais il ne permet d'exploiter les données de l'utilisateur pour améliorer l'algorithme de diagnostic.  
 [**Vidéo.**  Machine Learning with Encrypted Data | Homomorphic Encryption. SATSifaction (2020).](https://www.youtube.com/watch?v=nlsd2LO-S50)  
 [**Science.**  Contributions to data confidentiality in machine learning by means of homomorphic encryption. Martin Zuber. PhD Thesis at Université Paris-Saclay (2021).](https://tel.archives-ouvertes.fr/tel-03105524)  
 Cependant, les travaux récents se tournent vers l'apprentissage homomorphe. Malheureusement, les techniques d'apprentissage homomorphe ne permettent pas aujourd'hui d'effectuer les formes d'apprentissages les plus performantes de manière efficace.  
-[**Science.**  Privacy-Preserving Collective Learning With Homomorphic Encryption. Jestine Paul, Meenatchi Sundaram Muthu Selva Annamalai, William Ming, Ahmad Al Badawi, Bharadwaj Veeravalli & Khin Mi Mi Aung. IEEE Access (2021)](https://ieeexplore.ieee.org/document/9543673)  
+[**Science.**  Privacy-Preserving Collective Learning With Homomorphic Encryption. Jestine Paul, Meenatchi Sundaram Muthu Selva Annamalai, William Ming, Ahmad Al Badawi, Bharadwaj Veeravalli & Khin Mi Mi Aung. IEEE Access (2021).](https://ieeexplore.ieee.org/document/9543673)  
 [**Science.**  Privacy Preserving Machine Learning with Homomorphic Encryption and Federated Learning. Haokun Fang & Quan Qian. Future Internet (2021).](https://www.mdpi.com/1999-5903/13/4/94)
 
 Le rapport de 400 pages détaille aussi la liste des librairies de code utilisées par SmartPoop. Certaines librairies ont été développées par des initiatives OpenSource comme Django ou React, d'autres par des entreprises du numériques comme Apple ou Google, et d'autres ont été écrites par SmartPoop même. De façon cruciale, chaque librairie utilisée est une vulnérabilité potentielle.

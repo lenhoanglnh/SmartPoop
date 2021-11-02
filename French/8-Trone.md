@@ -8,7 +8,7 @@ Devant un stade plein, et avec les caméras du monde entier braquées sur elle, 
 
 À ces mots, le public s'enflamme comme si son équipe de football venait de marquer un but.
 
-> J'aimerais commencer cette conférence avec un chiffre : 100 000. C'est l'objectif qu'on s'était fixé il y a deux ans, pour le lancement de Poo. On espérait diviser par 10 le nombre de suicides dans le monde en cinq ans, le ramener de son chiffre historique de 1 million suite au ROVID-19 en 2022[^suicides], à seulement 100 000. Un objectif considéré irréaliste par tant de gens, y compris le journal La Terre. Où en sommes-nous aujourd'hui, en 2030 ?
+> J'aimerais commencer cette conférence avec un chiffre : 100 000. C'est l'objectif qu'on s'était fixé il y a deux ans, pour le lancement de Poo. On espérait diviser par 10 le nombre de suicides dans le monde en cinq ans, le ramener de son chiffre historique de 1 million suite au ROVID-19 en 2022[^suicides], à seulement 100 000. Un objectif considéré irréaliste par tant de gens, y compris le journal *La Terre*. Où en sommes-nous aujourd'hui, en 2030 ?
 
 [^suicides]: En 2020, on estimait qu'il y avait autour de 800 000 suicides par an à travers le monde.  
 [**Web.**  Suicide. Our World in Data (2020).](https://ourworldindata.org/suicide)  
@@ -117,7 +117,7 @@ Katia a encore besoin de plusieurs secondes pour reprendre ses émotions. Finale
 [^language-model]: Ces problèmes ne sont absolument pas résolus pour les algorithmes conversationnels modernes, qui sont très vulnérables à des attaques d'espionnage ou par empoisonnement des données. Et pourtant, ces algorithmes sont déjà déployés à très grande échelle, via les claviers intelligents, via les assistants personnels (Siri, Alexa, OK Google) et via les moteurs de recherche (Google, YouTube).  
 [**Science.**  On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?  Emily Bender, Timnit Gebru, Angelina McMillan-Major & Shmargaret Shmitchell. FAccT (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922)  
 [**Science.**  The Radicalization Risks of GPT-3 and Advanced Neural Language Models. Kris McGuffie, Alex Newhouse (2020).](https://arxiv.org/abs/2009.06807)  
-[**Science.**  Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea & Colin Raffel. USENIX (2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
+[**Science.**  Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea & Colin Raffel. USENIX (2021).](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
 
 [^non-trompeur]: [**Vidéo.**  Qu’est ce qu’un message d’utilité publique ? Science4All (2021).](https://www.youtube.com/watch?v=LZGhBmDVi5A&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=5)
 
@@ -225,7 +225,7 @@ Katia reprend son souffle, avant la suite de son discours.
 [**Science.**  On the Strategyproofness of the Geometric Median. El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui & Lê-Nguyên Hoang (2021).](https://arxiv.org/abs/2106.02394)
 
 [^licchavi]: Ceci nécessitera certainement de combiner des systèmes de scrutins avec des méthodes d'apprentissage. C'est ce que propose Licchavi.  
-[**Science.**  Strategyproof Learning: Building Trustworthy User-Generated Datasets. Sadegh Farhadkhani, Rachid Guerraoui & Lê-Nguyên Hoang (2021)](https://arxiv.org/abs/2106.02398)
+[**Science.**  Strategyproof Learning: Building Trustworthy User-Generated Datasets. Sadegh Farhadkhani, Rachid Guerraoui & Lê-Nguyên Hoang (2021).](https://arxiv.org/abs/2106.02398)
 
 Katia marque une nouvelle pause.
 

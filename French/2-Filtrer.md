@@ -34,7 +34,7 @@ Un soir, sur son téléphone, Lucile tombe sur une vidéo YouTube sur les impact
 
 [^recommandation-youtube]: Cet algorithme de recommandation est devenu l'une des entités les plus influentes au monde. Pour s'en rendre compte, il est utile de constater quelques statistiques. Depuis 2016, il y a plus de vues sur YouTube que de recherches sur Google. En 2019 (avant le COVID-19 !), les vues sur YouTube représentaient un milliard d'heures de visionnage pour deux milliards d'humains sur terre, soit une moyenne d'une demi-heure par jour. Or l'algorithme de recommandation de YouTube est responsable de 2 vues sur 3. Après tout, à chaque fois qu'un utilisateur va sur [YouTube.com](https://www.youtube.com) ou clique sur l'application YouTube sur son téléphone, c'est cet algorithme qui décide quelles vidéos seront proposées à l'utilisateur, sans parler de l'auto-play ou de la barre de proposition à droite sur le site. Dans leur livre [Le Fabuleux Chantier](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier), El Mahdi El Mhamdi et Lê Nguyên Hoang affirment que ceci fait de l'algorithme de YouTube l'entité la plus puissante au monde, car il est capable d'enfermer certaines populations dans leurs convictions, ou de réduire au silence certaines informations en ne les recommandant jamais.  
 [**Vidéo.**  L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=29)  
-[**Livre.**  Le fabuleux chantier : Rendre l'intelligence artificielle robustement bénéfique. Lê Nguyên Hoang et El Mahdi El Mhamdi. EDP Sciences (2019)](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
+[**Livre.**  Le fabuleux chantier : Rendre l'intelligence artificielle robustement bénéfique. Lê Nguyên Hoang et El Mahdi El Mhamdi. EDP Sciences (2019).](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier)  
 [**Web.**  YouTube (Wiki Tournesol).](https://wiki.tournesol.app/wiki/YouTube)
 
 [^banane]: [**Vidéo.**  4 Histoires Terrifiantes sur les BANANES. Trash (2020).](https://www.youtube.com/watch?v=DE7Kz0kJu_k)
@@ -48,22 +48,22 @@ Deux heures plus tard, Lucile est encore sur son téléphone[^attention]. Elle d
 [^attention]: Les plateformes du web ont des intérêts économiques énormes à rendre leurs produits addictifs pour que les utilisateurs restent sur leurs plateformes. On parle parfois de *l'économie de l'attention*. En 2021, les *Facebook files*, ainsi que la lanceuse d'alerte Frances Haugen, ont révélé le fait que, depuis plusieurs années, Facebook a sciemment et systématiquement privilégié la rétention de l'attention de ses utilisateurs aux risques que ceci endurait sur leur santé mentale, sur la désinformation médicale et sur les tensions géopolitiques.  
 [**Vidéo.**  L'économie de l'attention : le commencement. Stupid Economics (2018).](https://www.youtube.com/watch?v=rMV1WaWGb3I)  
 [**Vidéo.**  Big Tech's Battle For Our Attention. BrainCraft (2018).](https://www.youtube.com/watch?v=wDTaeOTM6KM)  
-[**Vidéo.**  The Social Dilemma. Netflix (2020)](https://www.netflix.com/title/81254224)  
-[**Journal.**  The Facebook Files. Wall Street Journal (2021)](https://www.wsj.com/articles/the-facebook-files-11631713039)  
+[**Vidéo.**  The Social Dilemma. Netflix (2020).](https://www.netflix.com/title/81254224)  
+[**Journal.**  The Facebook Files. Wall Street Journal (2021).](https://www.wsj.com/articles/the-facebook-files-11631713039)  
 [**Vidéo.**  Facebook Whistleblower Frances Haugen: The 60 Minutes Interview (2021).](https://www.youtube.com/watch?v=_Lx5VmAdZSI)
 
 Trois heures plus tard, au milieu de la nuit, Lucile découvre maintenant un blog qui présente le magnésium comme un traitement miracle, non seulement contre les particules radioactives, mais aussi contre les tempêtes solaires et ses effets cancérigènes[^tempetes-solaires]. « Nous l'avons testés et approuvés, sur les milliers de membres de notre communauté », affirme le blog.
 
 [^tempetes-solaires]: Les tempêtes solaires posent en fait de sérieux risques pour les systèmes électriques et électroniques, et peut être très cancérigène pour un astronaute dans l'espace, voire pour un équipage dans un avion. Cependant, au niveau de la mer, le champ magnétique terrestre nous protège largement de ses effets cancérigènes.  
-[**Vidéo.**  Éruption solaire et risque d'apocalypse électrique... - Astro'Stylé #07 - String Theory (2018)](https://www.youtube.com/watch?v=opsVEWwI0hs)  
-[**Vidéo.**  Sur le soleil, il pleut aussi | Miho Janvier | TEDxSaclay (2018)](https://www.youtube.com/watch?v=inEO2aErEk0)  
+[**Vidéo.**  Éruption solaire et risque d'apocalypse électrique... - Astro'Stylé #07 - String Theory (2018).](https://www.youtube.com/watch?v=opsVEWwI0hs)  
+[**Vidéo.**  Sur le soleil, il pleut aussi | Miho Janvier | TEDxSaclay (2018).](https://www.youtube.com/watch?v=inEO2aErEk0)  
 
 Il est quatre heures du matin quand Lucile décide enfin de se coucher. Avant de rejoindre son lit, elle ouvre toutefois l'application SmartPoop. Elle y découvre que SmartPoop y fournit une estimation de la teneur en magnésium et en potassium des excréments. « Excellent », se dit-elle. « Je vais pouvoir surveiller ma santé, et celle de ma fille ».
 
 C'est alors avec une ferme intention qu'elle ferme les yeux pour s'endormir. Dès son réveil, elle achètera des compléments alimentaires de magnésium — ça tombe bien le blog proposait un lien vers un site qui en vendait[^publicite-ciblee]. Tout ça pour sa santé, et plus encore pour celle de sa fille.
 
 [^publicite-ciblee]: Beaucoup de sites de désinformation médicale sont très lucratifs, soit parce qu'ils vendent directement de la médecine alternative, soit parce qu'ils vendent de la publicité ciblée pour un public vulnérable, qu'ils pourront tarrifier à haut coût.  
-[**Journal.**  Facebook ‘still making money from anti-vax sites'. The Guardian (2021)](https://www.theguardian.com/technology/2021/jan/30/facebook-letting-fake-news-spreaders-profit-investigators-claim)
+[**Journal.**  Facebook ‘still making money from anti-vax sites'. The Guardian (2021).](https://www.theguardian.com/technology/2021/jan/30/facebook-letting-fake-news-spreaders-profit-investigators-claim)
 
 ### Tout pour sa fille
 
@@ -249,8 +249,8 @@ Des mois plus tard, le procès a lieu. Le verdict tombe. SmartPoop est reconnu c
 En réponse à la demande du tribunal, Katia et Mark s'engagent alors à embaucher Lucile en tant que consultante, et de travailler avec des médecins, des psychologues et des infographistes, pour améliorer le design de l'application SmartPoop et pour y proposer des bilans de santé simples, sécurisés et aisément compréhensibles[^psychologie]. Après des semaines de discussions parfois tendues, et de travail laborieux, un nouveau design de SmartPoop est établi. Science4Alpha invite alors Marc à présenter le nouveau de design de SmartPoop sur sa chaîne YouTube.
 
 [^psychologie]: On peut insister sur ce que cette phrase implique. En pratique, le fait qu'une information soit une mésinformation ou non est une question très complexe, qui nécessite de comprendre la psychologie du public, et en particulier ses erreurs d'interprétation probables. Une entreprise qui souhaite y parvenir se doit alors d'engager des équipes sérieuses capables de répondre à cette tâche délicate. Cependant, on peut noter que les entreprises du numériques investissent souvent déjà beaucoup pour optimiser l'expérience utilisateur, voire l'addiction des utilisateurs à leurs produits.  
-[**Vidéo.**  How a handful of tech companies control billions of minds every day | Tristan Harris. TED (2017)](https://www.youtube.com/watch?v=C74amJRp730)  
-[**Vidéo.**  The Social Dilemma. Netflix (2020)](https://www.thesocialdilemma.com/)
+[**Vidéo.**  How a handful of tech companies control billions of minds every day | Tristan Harris. TED (2017).](https://www.youtube.com/watch?v=C74amJRp730)  
+[**Vidéo.**  The Social Dilemma. Netflix (2020).](https://www.thesocialdilemma.com/)
 
 > SmartPoop se transforme en une application d'alerte d'anomalie, et de recommandations médicales sécurisées, explique Marc. Plutôt que de noyer l'utilisateur dans un océan de données dans lequel il pourrait se perdre, l'application va maintenant accompagner les utilisateurs. En cas de risques très bien identifiés, comme dans le cas des constipations et des diarrhées, ou pour certaines carences comme les carences en vitamine A qu'on arrive maintenant très bien à détecter, SmartPoop va notifier l'utilisateur[^23-and-me] et lui fournir une recommandation médicale, conformément à ce qui a été décidé avec l'Ordre des médecins. Typiquement, ce sera une recommandation de la forme « veuillez boire davantage d'eau » ou « pensez à manger des carottes ».
 
@@ -271,8 +271,8 @@ Et rajoutaient : « Nous vous encourageons à parler à un conseiller en géné
 > Oui. Conformément au Règlement Générale pour la Protection des Données, le fameux RGPD, toutes les données collectées par SmartPoop demeurent accessibles à l'utilisateur. Mais on a décidé de faire très attention à la manière dont elles sont présentées, pour que les utilisateurs se méfient plus, en particulier des erreurs de mesure inévitables de notre dispositif. Nos algorithmes d'apprentissage sont encore en train d'améliorer leurs estimations des propriétés physico-chimiques des excréments à partir de photographies, et nous sommes bien conscients que, sur de nombreuses tâches, la fiabilité de ces algorithmes n'est pas encore au rendez-vous. C'est pour cela que nous faisons très attention à ce que de telles données soient présentées avec beaucoup de barres d'erreurs. Nous préférons que les utilisateurs prennent conscience de l'incertitude de nos modèles avant qu'ils ne lisent les résultats de l'analyse de ces modèles[^incertitude].
 
 [^incertitude]: De façon plus générale, la recherche en sécurité des algorithmes insiste beaucoup sur l'importance de permettre aux algorithmes de mesurer leur propre incertitude sur les résultats qu'ils calculent.  
-[**Science.**  Benchmarking Uncertainty Estimation Methods for Deep Learning With Safety-Related Metrics. Maximilian Henne, Adrian Schwaiger, Karsten Roscher, Gereon Weiss. SafeAI@AAAI (2020)](ceur-ws.org/Vol-2560/paper35.pdf)  
-[**Livre.**  Human Compatible: Artificial Intelligence and the Problem of Control. Stuart Russell. Penguin (2019)](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/)  
+[**Science.**  Benchmarking Uncertainty Estimation Methods for Deep Learning With Safety-Related Metrics. Maximilian Henne, Adrian Schwaiger, Karsten Roscher, Gereon Weiss. SafeAI@AAAI (2020).](ceur-ws.org/Vol-2560/paper35.pdf)  
+[**Livre.**  Human Compatible: Artificial Intelligence and the Problem of Control. Stuart Russell. Penguin (2019).](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/)  
 Cette remarque semble aussi primordiale pour les humains, y compris les experts qui pêchent souvent par excès de confiance.  
 [**Vidéo.**  L'excès de confiance tue. Science4All (2020).](https://www.youtube.com/watch?v=zGhrYMRAoCs&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=31)
 
@@ -289,7 +289,7 @@ Pour être clair, oui, les bananes ont été modifiées par l'agriculture. Cela 
 
 [^fake-problem]: [**Vidéo.**  Les Fake News, un Fake Problem ? Science4All (2021).](https://www.youtube.com/watch?v=GWyrwG_QGeI)
 
-[^radioactivite-veritasium]: [**Vidéo.**  The Most Radioactive Places on Earth. Veritasium (2014)](https://www.youtube.com/watch?v=TRL7o2kPqw00)
+[^radioactivite-veritasium]: [**Vidéo.**  The Most Radioactive Places on Earth. Veritasium (2014).](https://www.youtube.com/watch?v=TRL7o2kPqw00)
 
 > Malheureusement, en tant que YouTubeur éducatif, je peux te certifier qu'expliquer tout cela prend du temps[^brandolini]...
 
@@ -305,7 +305,7 @@ Pour être clair, oui, les bananes ont été modifiées par l'agriculture. Cela 
 [^partenariat]: La pertinence de telles collaborations, avec le privé ou avec des institutions gouvernementales, est un dilemme permanent pour la communication scientifique, surtout sachant le peu de financement qu'elle reçoit pour l'instant, et la difficulté d'accéder aux informations internes à des grandes entreprises. On peut citer l'exemple de cette collaboration entre le YouTubeur scientifique SmarterEveryDay et 23AndMe, qui est un cadre de collaboration jugé satisfaisant par le YouTubeur scientifique.  
 [**Vidéo.**  DNA Testing and Privacy (Behind the scenes at the 23andMe Lab) - Smarter Every Day (2017).](https://www.youtube.com/watch?v=U3EEmVfbKNs)  
 En particulier, sur des sujets controversés, de telles collaborations peuvent avoir des effets contreproductifs sur la confiance envers les communicateurs scientifiques.  
-[**Science.**  Trust in scientists in times of pandemic: Panel evidence from 12 countries. Yann Algan, Daniel Cohen, Eva Davoine, Martial Foucault & Stefanie Stantcheva. PNAS (2021)](https://www.pnas.org/content/118/40/e2108576118.abstract)  
+[**Science.**  Trust in scientists in times of pandemic: Panel evidence from 12 countries. Yann Algan, Daniel Cohen, Eva Davoine, Martial Foucault & Stefanie Stantcheva. PNAS (2021).](https://www.pnas.org/content/118/40/e2108576118.abstract)  
 Lê Nguyên Hoang a par exemple produit une vidéo en collaboration avec le Ministère de la Santé en France, qui aura reçu plus de dislikes que de likes, questionnant ainsi la pertinence d'une telle collaboration.  
 [**Vidéo.**  Un vaccin pour permettre aux étudiants de retrouver leur vie d'avant (ft. Prof. Fischer). Science4All (2021).](https://www.youtube.com/watch?v=An6YcC7wmUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=13)
 

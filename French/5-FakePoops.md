@@ -38,7 +38,7 @@ Bientôt, la cacophonie s'empare de la rue. Des manifestations sont organisées 
 [**Web.**  Protests over responses to the COVID-19 pandemic. Wikipedia (2021).](https://en.wikipedia.org/wiki/Protests_over_responses_to_the_COVID-19_pandemic)
 
 [^confusion-manifestations]: On retrouve ces confusions dans de nombreuses manifestations populaires.  
-[**Vidéo.**  L'hooliganisme politique a gâché ma marche pour les sciences. Science4All (2017)](https://www.youtube.com/watch?v=7c7wiAaZiI8)  
+[**Vidéo.**  L'hooliganisme politique a gâché ma marche pour les sciences. Science4All (2017).](https://www.youtube.com/watch?v=7c7wiAaZiI8)  
 [**Journal.**  Pass sanitaire : les manifestations soutenues par des personnalités d'extrême-droite et d'extrême-gauche. Actualités Orange (2021).](https://actu.orange.fr/politique/pass-sanitaire-les-manifestations-soutenues-par-des-personnalites-d-extreme-droite-et-d-extreme-gauche-magic-CNT000001CZZuL.html)  
 [**Livre.**  Twitter and tear gas: The Power and Fragility of Networked Protest. Zeynep Tufekci. Yale University Press (2017).](https://www.twitterandteargas.org/)
 
@@ -117,7 +117,7 @@ Katia lance l'impression des analyses, et récupère les copies fraîchement sor
 [**Web.** A Different Kind of Army: The Militarization of China’s Internet Trolls. The Jamestown Foundation (2021).](https://jamestown.org/program/a-different-kind-of-army-the-militarization-of-chinas-internet-trolls/)  
 Un rapport de l'Institut de Recherche Stratégique de l'École Militaire (IRSEM) en France fournit plus d'informations sur les activités de cyber-guerre entreprises par la Chine.  
 [**Podcast.** La Chine à l’offensive. Les opérations d’influence chinoises et leurs relais. Le Collimateur (2021).](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjU2OTg4MTI4NC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTEzODE5NjIzMw)  
-[**Science.**  Les opérations d'influence chinoises. un moment machiavélien. ISEM (2021)](https://www.irsem.fr/rapport.html)
+[**Science.**  Les opérations d'influence chinoises. un moment machiavélien. ISEM (2021).](https://www.irsem.fr/rapport.html)
 
 > Mais donc, tu penses qu'ils ont créé des faux profils ?
 
@@ -130,7 +130,7 @@ Un rapport de l'Institut de Recherche Stratégique de l'École Militaire (IRSEM)
 L'attaque est ici simple : elle consiste simplement à lancer une alerte. Mais on peut imaginer des attaques plus sophistiquées, notamment pas « *backdoor* », qui conduirait l'algorithme à systématiquement se tromper pour certaines données.  
 [**Science.**  Backdoor attacks against learning systems. Yujie Ji, Xinyang Zhang & Ting Wang. CNS (2017).](https://ieeexplore.ieee.org/document/8228656)  
 La défense contre le data poisoning semble surtout devoir s'appuyer sur la théorie de l'apprentissage Byzantine.  
-[**Science.**  An equivalence between data poisoning and Byzantine gradient attacks. Anonymous authors. OpenReview (2021)](https://openreview.net/forum?id=7pZiaojaVGU)  
+[**Science.**  An equivalence between data poisoning and Byzantine gradient attacks. Anonymous authors. OpenReview (2021).](https://openreview.net/forum?id=7pZiaojaVGU)  
 Cette théorie a montré des résultats positifs, avec des algorithmes disposant de garanties théoriques, mais aussi des résultats négatifs, avec des théorèmes d'impossibilité sur ce que les algorithmes peuvent garantir, notamment dans le cas où les données des utilisateurs sont hétérogènes, ce qui est clairement le cas quand il s'agit d'excréments, puisque les excréments de deux utilisateurs différents sont clairement très différents.  
 [**Science.**  Collaborative learning in the jungle. El-Mahdi El-Mhamdi, Sadegh Farhadkhani, Rachid Guerraoui, Arsany Guirguis, Lê Nguyên Hoang & Sébastien Rouault. NeurIPS (2021).](https://arxiv.org/abs/2008.00742)
 
@@ -166,7 +166,7 @@ On le voit particulièrement bien dans le cas des théories du complot, que ces 
 > Oui, mais du coup, tu peux espionner les diagnostics SmartPoop d'un individu, en obtenant des données personnelles semblables[^privacy-attack-ml].
 
 [^privacy-attack-ml]: On parle parfois d'attaques par extraction d'information. Les algorithmes de modernes mémorisant leurs données d'entraînement, ils sont en fait très vulnérables à ce genre d'attaque. En fait, il peut suffire de leur demander littéralement « quelle est l'adresse de Monsieur X » pour qu'ils révèlent une information sensible.  
-[**Science.**  Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea & Colin Raffel. USENIX (2021)](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
+[**Science.**  Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea & Colin Raffel. USENIX (2021).](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
 
 > Mais comment les espions pourraient-ils créer un profil similaire à celui de la femme du Président ?
 

@@ -9,7 +9,7 @@ Un article donné est ainsi étudié par deux à cinq relecteurs, qui émettent 
 Les journaux et conférences scientifiques varient beaucoup selon leurs thèmes de prédilection et leur prestige.
 En informatique, les publications dans les conférences scientifiques sont très prestigieuses.
 En machine learning en particulier, les conférences les plus prestigieuses sont NeurIPS, ICML et ICLR, avec juste derrière des conférences comme COLT, AISTAT, UAI, et AAAI, parmi d'autres.  
-[**Vidéo.**  Comment fact-checker une étude scientifique ? Science Étonnante (2019)](https://www.youtube.com/watch?v=NkdczX1Sq-U)  
+[**Vidéo.**  Comment fact-checker une étude scientifique ? Science Étonnante (2019).](https://www.youtube.com/watch?v=NkdczX1Sq-U)  
 Notez que, contrairement à d'autres domaines scientifiques, les conférences académiques en informatiques encouragent généralement le partage public des articles publiés, notamment sur le site ArXiV.  
 [**Vidéo.** La mafia scientifique dont vous n'avez jamais entendu parler. DirtyBiology (2019).](https://www.youtube.com/watch?v=rcgxY__YXEc)
 
@@ -27,7 +27,7 @@ Chaque boule blanche améliore le monde, mais tirer une boule noire revient à l
 Selon Bostrom, la quête aveugle de nouvelles connaissances poserait ainsi un risque existentiel, et serait donc immorale.
 Cela semble d'ailleurs d'autant plus le cas quand il s'agit de la quête d'algorithmes plus performants, dont le déploiement précipité a certainement des [effets secondaires difficilement prévisibles](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier).
 Dès lors, il semble urgent de guider la recherche vers la quête de « boules blanches », voire vers la quête de boules blanches qui nous protègent de boules noires qu'on pourrait tirer à l'avenir.  
-[**Vidéo.**  How civilization could destroy itself -- and 4 ways we could prevent it | Nick Bostrom. TED (2020)](https://www.youtube.com/watch?v=JrjjOGI6YB4)  
+[**Vidéo.**  How civilization could destroy itself -- and 4 ways we could prevent it | Nick Bostrom. TED (2020).](https://www.youtube.com/watch?v=JrjjOGI6YB4)  
 [**Science.**  The Vulnerable World Hypothesis. Nick Bostrom. Global Policy (2019).](https://www.nickbostrom.com/papers/vulnerable.pdf)
 
 [^application-des-ia]: De nos jours, les « intelligences artificielles » les plus sophistiquées, celles qui reçoivent des milliards de dollars d'investissements en recherche et développement (si ce n'est plus !), ce sont bien les algorithmes du web, car l'enjeu économique et le besoin d'automatisation y sont monumentaux.
@@ -80,12 +80,12 @@ Il s'écria « Eurêka », et sortit tout nu dans la rue pour partager l'entho
 > Marc, je viens de trouver l'idée du siècle. Je sais comment résoudre ce problème de diagnostic ! Tu l'as dit. Il nous faut des données. Beaucoup de données très informatives, mais aussi très simples à collecter. Des données qu'on n'aura pas besoin d'extraire violemment des corps humains ; parce que ces données sortent naturellement du corps humains. Ces données ont parcouru tout le corps humain, et contiennent en elles toutes sortes de traces de l'état de ce corps[^archeologie]. Ces données, aujourd'hui, on les jette à chaque fois qu'on tire la chasse. Mais imagine tout ce qu'on pourrait diagnostiquer si, au lieu de les balancer dans les égouts[^egouts], on collectait soigneusement ces données et on prenait le temps de les analyser ! Marc, il faut qu'on analyse le pipi et le caca !
 
 [^archeologie]: Les archéologues sont d'ailleurs particulièrement friands des cacas fossilisés, qui leur permettent d'en apprendre sur l'alimentation et la santé des populations passées.  
-[**Vidéo.**  Le caca, vrai trésor des archéologues - ft. Julien Ménielle, Passé sauvage, Pierre Kerner. C'est une autre histoire (2019)](https://www.youtube.com/watch?v=rS7AvYdtA7E)  
+[**Vidéo.**  Le caca, vrai trésor des archéologues - ft. Julien Ménielle, Passé sauvage, Pierre Kerner. C'est une autre histoire (2019).](https://www.youtube.com/watch?v=rS7AvYdtA7E)  
 [**Livre.** Retour vers le Paléo. Clothilde Chamussy, Jennifer Kerner, Marion Sabourdy, Pierre Kerner & Aurélie Bordenave. Flammarion (2019).](https://editions.flammarion.com/retour-vers-le-paleo/9782081451438)
 
 [^egouts]: En fait, il reste possible d'effectuer des diagnostics médicaux à partir d'analyses des égoûts. C'est d'ailleurs ce qui a été fait dans le cadre du suivi épidémiologique du COVID-19. La concentration d'ARN du Sars-CoV-2 dans les égouts permet en effet d'inférer l'incidence du virus dans une population parfois très localisée.  
-[**Vidéo.**  Aux chiottes le virus ? Science4All (2020)](https://www.youtube.com/watch?v=B1VPbhpGzUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=6)  
-[**Science.**  How sewage could reveal true scale of coronavirus outbreak. Smriti Mallapaty. Nature (2020)](https://www.nature.com/articles/d41586-020-00973-x)
+[**Vidéo.**  Aux chiottes le virus ? Science4All (2020).](https://www.youtube.com/watch?v=B1VPbhpGzUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=6)  
+[**Science.**  How sewage could reveal true scale of coronavirus outbreak. Smriti Mallapaty. Nature (2020).](https://www.nature.com/articles/d41586-020-00973-x)
 
 Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce projet d'analyse d'excréments. Ils concluent que le produit idéal serait des toilettes intelligentes[^smart-toilet], capables notamment de mesurer et d'analyser les excréments sous toutes leurs coutures avant leur périple dans les eaux usées. Cependant, un tel produit nécessiterait des années de recherche et développement, et donc un grand nombre d'investisseurs. Pour commencer, les deux amis penchent vers un projet moins ambitieux. Après tout, comme Katia le fait remarquer, le meilleur outil de collecte d'information moderne est le téléphone. Pourquoi ne pas l'utiliser pour prendre des photographies des excréments ?
 
@@ -117,7 +117,7 @@ Katia n'écoutait déjà plus réfléchissant au type d'analyse colorimétrique 
 
 En mars 2019, Katia défend sa thèse. Une semaine plus tard, l'application SmartPoop est rendue disponible sur l'Apple Store et le Google Play Store[^poop-log]. Dans sa version initiale, SmartPoop permet ainsi aux utilisateurs de créer une base de données de leurs déjections solides, que Marc passe chaque soirée à analyser.
 
-[^poop-log]: Une brève recherche sur Google Play Store permet de se rendre compte qu'il existe déjà de nombreuses applications pour tracer ses selles, comme [Poop Tracker (4,5 étoiles, 100k+ téléchargements)](https://play.google.com/store/apps/details?id=com.appstronautstudios.pooplog), [PoopLog (4,2 étoiles, 100k+ téléchargements)](https://play.google.com/store/apps/details?id=com.kefsco.pooplog2) et [Poopify (4,6 étoiles, 10k+ téléchargements)](https://play.google.com/store/apps/details?id=com.etcho.poopify).
+[^poop-log]: Une brève recherche sur Google Play Store permet de se rendre compte qu'il existe déjà de nombreuses applications pour tracer ses selles, comme [Poop Tracker (4,5 étoiles, 100k+ téléchargements).](https://play.google.com/store/apps/details?id=com.appstronautstudios.pooplog), [PoopLog (4,2 étoiles, 100k+ téléchargements).](https://play.google.com/store/apps/details?id=com.kefsco.pooplog2) et [Poopify (4,6 étoiles, 10k+ téléchargements).](https://play.google.com/store/apps/details?id=com.etcho.poopify).
 
 > J'ai passé des soirées bien chiantes pendant mes années de médecine, à voir des trucs peu ragoûtants…  mais celles-là étaient presque les pires, dira plus tard Marc.
 
@@ -151,7 +151,7 @@ Fin novembre 2019, toutefois, un événement va bouleverser le futur de l'humani
 On apprend ensuite que le coupable est un nouveau rotavirus, et la terrible maladie qu'il cause est baptisée « ROtaVIrus Disease 2019 », ou ROVID-19[^rovid]. Le ROVID-19 cause de nombreux symptômes dérangeants, comme des maux gastriques, des maux de têtes, une fatigue accrue, des lourdes diarrhées, des grosses fièvres, des vomissements et des tremblements, qui conduisent près de 10% des personnes infectées vers le décès. Cette terrible maladie semble particulièrement mortelle chez les jeunes de moins de 30 ans.
 
 [^rovid]: Le ROVID-19 est bien sûr une maladie fictive, calquée sur le COVID-19 qui a frappé le monde en novembre-décembre 2019. Une collaboration exceptionnelle de vulgarisateurs scientifiques du web avait d'ailleurs produit une vidéo collective à ce moment là.  
-[**Vidéo.**  Coronavirus : Chaque JOUR compte (2020)](https://www.youtube.com/watch?v=euk5FwYI1P4)
+[**Vidéo.**  Coronavirus : Chaque JOUR compte (2020).](https://www.youtube.com/watch?v=euk5FwYI1P4)
 
 Mais ce qui rend le ROVID-19 extrêmement dangereux, c'est son extrême contagiosité. Pire encore, le traçage des cas d'infections montre que cette contagiosité est particulièrement grande deux ou trois jours avant que les premiers symptômes se déclarent. On parle de contaminations pré-symptomatiques. Les personnes contaminantes ne sont pas encore conscientes d'être malades quand elles transmettent la maladie aux autres. Le taux de reproduction de base[^taux-de-reproduction] du virus, c'est-à-dire le nombre moyen d'individus qu'une personne infectée va contaminer, est estimé à environ 8. La croissance exponentielle[^exponentielle] de la pandémie terrifie rapidement toutes les agences sanitaires, tous les hôpitaux et tous les gouvernements du monde.
 
@@ -168,13 +168,13 @@ En pratique, à cause de relâchements des mesures sanitaires, dans le cas du CO
 
 [^exponentielle]: La croissance exponentielle intervient lorsque le nombre de cas est multiplié chaque semaine par une constante supérieure à 1. Le danger d'une telle croissance, c'est qu'elle paraît insignifiante les premières semaines, mais devient tout à coup hors de contrôle après quelques semaines ou mois.  
 [**Vidéo.**  Aller sur la lune avec une feuille de papier et l'échiquier de Sissa. Fabien Olicard (2016).](https://www.youtube.com/watch?v=u5Hq6F_PvXk)  
-[**Vidéo.**  Des nombres grands, TRÈS grands. Mickaël Launay (2014)](https://www.youtube.com/watch?v=oqMYAVV-hsA)
+[**Vidéo.**  Des nombres grands, TRÈS grands. Mickaël Launay (2014).](https://www.youtube.com/watch?v=oqMYAVV-hsA)
 
 À partir de début janvier 2020, tous les pays à travers le globe entrent tour à tour dans des périodes de confinement, alors que les tests médicaux se mettent en place petit à petit[^tests-medicaux], notamment des tests groupés[^tests-groupes]. Les estimations de janvier sont terrifiantes. Des centaines de milliers de personnes à travers le monde semblent déjà affectées, et des dizaines de milliers de victimes ont déjà succombé.
 
 [^tests-medicaux]: Il est toujours bon de rappeler qu'un test médical ne permet pas de certifier si une personne a ou n'a pas la maladie en question, car les tests sont toujours imparfaits. En fait, si un individu reçoit un test positif (imparfait) d'une maladie extrêmement rare, alors il reste généralement probable qu'il ne soit en fait pas malade (il conviendra d'analyser alors ses autres symptômes). Les mathématiques des probabilités conditionnelles sont critiques pour bien interpréter ces tests médicaux.  
-[**Vidéo.**  La loi de Bayes - Argument frappant. Monsieur Phi (2016)](https://www.youtube.com/watch?v=3FOrWMDL8CY)  
-[**Vidéo.**  The medical test paradox, and redesigning Bayes' rule. 3Blue1Brown (2020)](https://www.youtube.com/watch?v=lG4VkPoG3ko)
+[**Vidéo.**  La loi de Bayes - Argument frappant. Monsieur Phi (2016).](https://www.youtube.com/watch?v=3FOrWMDL8CY)  
+[**Vidéo.**  The medical test paradox, and redesigning Bayes' rule. 3Blue1Brown (2020).](https://www.youtube.com/watch?v=lG4VkPoG3ko)
 
 [^tests-groupes]: [**Vidéo.**  Les tests groupés : dépister plus avec moins. Science4All (2020).](https://www.youtube.com/watch?v=oz1afOJhHOA&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=4)
 
@@ -257,10 +257,10 @@ C'est ainsi que SmartPoop propose désormais, non pas de photographier les excr�
 À 4 heures du matin, Katia rentre dans la chambre de Marc pour le réveiller. « J'ai fini l'algorithme. Il faut que tu vois ça. » Marc se réveille en sursaut, court chercher une bouteille de champagne et rejoint Katia dans le salon. Katia explique qu'elle a entraîné son algorithme avec 90% de la base de données de SmartPoop, et qu'elle s'apprête à tester les performances de l'algorithme sur les 10% restants[^donnees-test]. Katia explique que ces 10% restants ont été tirés au hasard, avec la simple contrainte qu'ils contiennent autant d'excréments infectés pré-symptomatiques que d'excréments sains[^accuracy]. Si l'algorithme échoue, alors il aura un taux de reconnaissance d'excréments de 50%. S'il est parfait, sa précision sera de 100%.
 
 [^donnees-test]: Ce qui est décrit là est la séparation du jeu de données en un jeu de données d'entraînement (*training set*) et un jeu de données de test (*test set*), qui est une technique classique en machine learning pour valider un algorithme après apprentissage. On parle alors de *validation croisée*, qui peut prendre des formes plus sophistiquées.  
-[**Vidéo.**  La validation croisée | Intelligence Artificielle 13 (ft.@La statistique expliquée à mon chat). Science4All (2018)](https://www.youtube.com/watch?v=ymRSxSY1nak&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=13)
+[**Vidéo.**  La validation croisée | Intelligence Artificielle 13 (ft.@La statistique expliquée à mon chat). Science4All (2018).](https://www.youtube.com/watch?v=ymRSxSY1nak&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=13)
 
 [^accuracy]: Notez que le taux de succès de prédiction d'un algorithme dépend fortement du taux de choses à détecter dans les données (ici, le taux d'excréments infectés pré-symptomatiques). En effet, si 99% des données ne sont pas des excréments infectés pré-symptomatiques, alors un algorithme idiot qui systématiquement prédit « cet excrément n'est pas infecté pré-symptomatique » permet d'avoir un 99% de précision ! De façon plus générale, pour estimer le succès d'un algorithme prédictif dans une tâche de prédiction binaire (infecté versus pas infecté), il est nécessaire de préciser deux statistiques (par exemple le taux de base et la précision, ou par exemple le taux de faux positif et le taux de faux négatif).  
-[**Vidéo.**  Les grands scientifiques veulent se tromper. Science4All (2019)](https://www.youtube.com/watch?v=zbUZnspdQRU&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=18)
+[**Vidéo.**  Les grands scientifiques veulent se tromper. Science4All (2019).](https://www.youtube.com/watch?v=zbUZnspdQRU&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=18)
 
 Il ne reste plus qu'à lancer le test de l'algorithme pour connaître sa performance. Katia et Marc se lancent dans un décompte. Cinq. Quatre. Trois. Deux. Un. Le test est lancé[^suspense].
 
@@ -286,7 +286,7 @@ Katia explique alors que, en effet, l'algorithme actuel est très largement insu
 > Si SmartPoop ne détectait absolument rien, alors on s'attendrait à un taux d'erreur de 50%, explique Katia. Mais pas exactement de 50%, à cause des fluctuations statistiques. Sachant que le test a été effectué sur des dizaines de milliers de vidéos d'excréments, on s'attendrait à obtenir 50% plus ou moins un erreur de l'ordre de 0,5%. Or, là, on est à 52,4%, soit 2,4% de plus que 50%. Un écart de 2,4%, c'est donc presque 5 fois la fluctuation de 0,5%[^fluctuation]. C'est beaucoup. Et ça veut dire que la distinction existe très probablement ! SmartPoop n'est simplement pas encore capable de l'identifier !
 
 [^fluctuation]: Notez que Katia fait bien attention à parler d'intervalle de *fluctuation*, et non pas d'intervalle de *confiance*. Ces deux notions sont souvent confondues à tort, alors qu'elles décrivent des objets assez distincts. Dans le premier cas, il s'agit d'une incertitude sur les données à observer, alors que, dans le second cas, il s'agit d'un intervalle qui estime les valeurs d'un paramètre d'un modèle, à partir des données observées. Cependant, cet intervalle de confiance doit aussi ne pas être confondu avec un troisième type d'intervalles, appelé intervalle de *crédence* (ou de *crédibilité*). Contrairement à l'intervalle de confiance, l'intervalle de crédence prend aussi en compte l'état global des connaissances scientifiques avant d'avoir observé les données collectées.  
-[**Vidéo.**  Peut-on faire confiance aux intervalles de confiance ? Science4All (2019)](https://www.youtube.com/watch?v=PVb7aSOqx0Q&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=19)
+[**Vidéo.**  Peut-on faire confiance aux intervalles de confiance ? Science4All (2019).](https://www.youtube.com/watch?v=PVb7aSOqx0Q&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=19)
 
 Marc demande à Katia ce qu'il manque pour discerner ce signal. Katia répond :
 
