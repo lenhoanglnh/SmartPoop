@@ -119,7 +119,7 @@ C'est alors qu'elle se souvient d'un des projets mis en suspens au moment de l'e
 
 > Est-ce que tu t'identifies à ce job ?
 
-> Oui, en effet. Je me suis constamment définie comme la PDG de SmartPoop depuis cinq ans. Tout le monde me définissait ainsi. J'étais SmartPoop, et SmartPoop, c'était moi. J'imagine que ce licenciement, c'est un peu comme un divorce. Peut-être même en pire. J'ai l'impression d'avoir perdu ce qui était moi. Je me suis perdue.
+> Oui, en effet. Je me suis constamment définie comme la PDG de SmartPoop depuis presque 10 ans. Tout le monde me définissait ainsi. J'étais SmartPoop, et SmartPoop, c'était moi. J'imagine que ce licenciement, c'est un peu comme un divorce. Peut-être même en pire. J'ai l'impression d'avoir perdu ce qui était moi. Je me suis perdue.
 
 > Je comprends. Mais plutôt que de t'identifier à un titre, ne penses-tu pas qu'il serait plus judicieux de t'identifier à ton honnêteté intellectuelle, ou à ta mission fondamentale de soigner et de venir en aide à des milliards d'humains ?
 
@@ -146,7 +146,9 @@ Après une bonne dizaine de secondes de réflexion, Katia répond enfin.
 
 > Ce n'est pas une façon de me mentir à moi-même et de gonfler mon ego ?
 
-> Il ne faut peut-être pas le faire trop souvent, mais les psychologues ont montré l'efficacité de ce qu'on appelle l'auto-affirmation. En plus de se remonter le moral, ceci permet de mieux accepter les échecs et les critiques externes, car ça permet d'éviter de s'identifier à nos échecs et à nos croyances erronées. Je peux te recommander des livres à ce sujet[^feeling-good].
+> Il ne faut peut-être pas le faire trop souvent, mais les psychologues ont montré l'efficacité de ce qu'on appelle l'auto-affirmation. En plus de se remonter le moral, ceci permet de mieux accepter les échecs et les critiques externes, car ça permet d'éviter de s'identifier à nos échecs et à nos croyances erronées. Je peux te recommander des références à ce propos[^self-affirmation], et sur des sujets reliés[^feeling-good].
+
+[^self-affirmation]: [**Paper.** Self-affirmation and prejudice reduction: When and why? Constantina Badea & David Sherman. Current Directions in Psychological Science (2018).](https://journals.sagepub.com/doi/10.1177/0963721418807705) 
 
 [^feeling-good]: [**Livre.**  Être bien dans sa peau. Héritage. David Burns (2005).](https://www.babelio.com/livres/Burns-tre-bien-dans-sa-peau/598963)
 

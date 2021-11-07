@@ -4,8 +4,6 @@ Devant un stade plein, et avec les caméras du monde entier braquées sur elle, 
 
 > Bonsoir à tous et merci d'être venus aussi nombreux ! Est-ce que vous allez bien ? Est-ce que vous êtes prêts à marquer l'histoire ?
 
-### Les statistiques de Poo
-
 À ces mots, le public s'enflamme comme si son équipe de football venait de marquer un but.
 
 > J'aimerais commencer cette conférence avec un chiffre : 100 000. C'est l'objectif qu'on s'était fixé il y a deux ans, pour le lancement de Poo. On espérait diviser par 10 le nombre de suicides dans le monde en cinq ans, le ramener de son chiffre historique de 1 million suite au ROVID-19 en 2022[^suicides], à seulement 100 000. Un objectif considéré irréaliste par tant de gens, y compris le journal *La Terre*. Où en sommes-nous aujourd'hui, en 2030 ?
@@ -29,7 +27,7 @@ Le public célèbre se chiffre comme s'il supportait une équipe de football qui
 
 Une courbe apparaît alors à l'écran, tracée doucement de gauche à droite. Cette courbe démarre à 37%, et ne cesse d'augmenter au cours du temps, jusqu'à atteindre le chiffre de 67%, sous les hourras d'un public déchaîné.
 
-> 67% !! Incroyable ! Poo a rendu toute l'humanité joyeuse[^emotional-contagion] !
+> 67% !! Incroyable ! Poo a rendu toute l'humanité plus joyeuse[^emotional-contagion] !
 
 [^emotional-contagion]: En 2014, une publication de Facebook et de co-auteurs académiques a montré qu'une réduction très légère de la publication, dans les fils d'actualités, de posts avec des émotions négatives, conduit les utilisateurs exposés à ces posts à écrire des messages plus joyeux.  
 [**Vidéo.**  L'IA nous gouverne déjà. Science4All (2018).](https://www.youtube.com/watch?v=Z2G4q-E_oHA&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=29)  
@@ -80,7 +78,11 @@ Le public crie « succès » de manière désordonnée, mais néanmoins distin
 
 Katia marque une pause, alors que le public applaudit.
 
-> Et ça, c'est grâce au travail formidable de tant de passionnés, tant de gens qui ont donné tellement de leur temps et de leur argent pour améliorer et sécuriser Poo. J'ai une pensée énorme bien sûr pour tous mes collègues à SmartPoop, et leur dévotion incroyable. Mais ils ne sont pas les seuls responsables de SmartPoop. Poo a été conçu grâce à une collaboration étroite et quotidienne avec des milliers de psychiatres et de psychologues à travers le monde, et grâce aux données de discussions de millions de psychiatres et patients volontaires. Rien n'aurait été possible sans eux[^donnees-experts].
+> Et ça, c'est grâce au travail formidable de tant de passionnés, tant de gens qui ont donné tellement de leur temps et de leur argent pour améliorer et sécuriser Poo. Vraiment, je ne suis littéralement qu'un pantin sur scène, qui est censé être le visage d'une collaboration monumentale de centaines de milliers de héros de classe mondiale.
+
+Le public rit.
+
+> J'ai une pensée énorme bien sûr pour tous mes collègues à SmartPoop, et leur dévotion incroyable. Mais ils ne sont pas les seuls responsables de SmartPoop. Poo a été conçu grâce à une collaboration étroite et quotidienne avec des milliers de psychiatres et de psychologues à travers le monde, et grâce aux données de discussions de millions de psychiatres et patients volontaires. Rien n'aurait été possible sans eux[^donnees-experts].
 
 [^donnees-experts]: Il est bon de rappeler que les algorithmes de machine learning *apprennent des données*. Ils ne pourront ainsi accomplir des tâches difficiles, comme accompagner thérapeutiquement la santé mentale de leurs utilisateurs, que si ces algorithmes disposent d'une énorme quantité de données fiables et sécurisées qui leur permettent de comprendre comment accomplir ces tâches.  
 [**Vidéo.**  Les données manipulent les algorithmes. Science4All (2021).](https://www.youtube.com/watch?v=vYb3rB0jU70&list=PLtzmb84AoqRRFcoGQ5p7kqEVQ7deXfYuH&index=3)
@@ -177,7 +179,7 @@ Katia marque à nouveau une pause, et regarde son public, en déplaçant son reg
 
 Katia marque un nouveau silence.
 
-> Bon ça, c'est en principe. En pratique, c'est difficile de se mettre d'accord sur ce qui constitue un tort. Est-ce qu'un commentaire agressif cause un tort ? Est-ce qu'un petit mensonge cause un tort ? Est-ce qu'une blague au dépens d'une communauté cause un tort ? Malheureusement, en pratique, on ne sera pas d'accord. Nous avons des préférences éthiques difficilement réconciliables, voire parfois clairement irréconciliables. Que faire alors[^scrutins-sml] ?
+> Bon ça, c'est en principe. En pratique, c'est difficile de se mettre d'accord sur ce qui constitue un tort. Est-ce qu'un commentaire agressif cause un tort ? Est-ce qu'un petit mensonge cause un tort ? Est-ce qu'un mensonge par omission cause un tort ? Est-ce qu'une blague au dépens d'une communauté cause un tort ? Malheureusement, en pratique, on ne sera pas d'accord. Nous avons des préférences éthiques difficilement réconciliables, voire parfois clairement irréconciliables. Que faire alors[^scrutins-sml] ?
 
 [^scrutins-sml]: [**Vidéo.**  [Conférence SML] Les mathématiques de la démocratie - Lê Nguyên Hoang. Maison des mathématiques et de l'informatique (2018).](https://www.youtube.com/watch?v=CYqLfWFdFoc)
 
@@ -199,7 +201,7 @@ Katia marque une pause, comme si elle invitait sérieusement le public à y réf
 
 Encore une fois, cette question est posée comme si Katia n'en avait aucune réponse, et comme si elle attendait du public une réponse. Après de longues secondes, Katia offre sa réponse.
 
-> Eh bien, je propose que ce soit vous. Je propose que ce soit nous tous. Je propose que, ensemble, toute l'humanité décide collectivement de l'éthique de l'information.
+> Eh bien, la proposition de SmartPoop, c'est que ce soit vous. Ou plutôt, nous tous. Toute l'humanité doit décider, ensemble et collectivement, de l'éthique de l'information.
 
 Le public applaudit.
 
@@ -211,7 +213,9 @@ Le public est maintenant circonspect.
 
 Katia marque à nouveau une pause, jusqu'à ce qu'elle entende quelqu'un dans le public crier « le vote ».
 
-> Le vote, oui ! Dans beaucoup de pays à travers le monde, quand une décision collective doit être prise, on essaie souvent de se ramener à une question avec une réponse oui ou non, et on demande au peuple de voter pour oui, ou pour non ? C'est ainsi que l'on tranche des désaccords irréconciliables.
+> Le vote, oui ! Dans beaucoup de pays à travers le monde, quand une décision collective doit être prise, on essaie souvent de se ramener à une question avec une réponse oui ou non, et on demande au peuple de voter pour oui, ou pour non ? C'est ainsi que l'on tranche des désaccords irréconciliables. En fait, quand on y pense, c'est absolument remarquable que dans les démocraties à travers le monde, nous nous sommes mis d'accord sur comment nous mettre d'accord, même quand nous sommes d'accord sur le fait que nous ne finirons pas par être d'accord sur ce qu'il faudrait faire[^meta-ethique] !
+
+[^meta-ethique] : Techniquement, cela correspond à trouver un consensus sur la méta-éthique plutôt que sur l'éthique elle-même. L'espoir ici est que nous sommes plus susceptibles d'être d'accord sur la méta-éthique que sur l'éthique. En fait, même les considérations méta-éthiques sont susceptibles de rester polarisées, comme la façon d'allouer les droits de vote, auquel cas une méta-méta-éthique peut être nécessaire pour trouver un accord.
 
 Katia s'arrête quelques secondes.
 
@@ -236,7 +240,7 @@ Katia marque une nouvelle pause.
 
 Katia change alors de ton, en prenant une voix plus grave et posée.
 
-> Mesdames et messieurs, aujourd'hui est un jour historique, car je vais vous présenter le résultat de deux ans de travail, en collaboration intime avec l'OMESA. Au moment où je parle, une nouvelle plateforme vient d'être mise en ligne, appelée girasol.app[^girasol-tournesol]. Girasol est un site web entièrement Open Source, sous licence libre[^license], qui va coordonner la conception de l'éthique de l'information, en permettant aux utilisateurs de fournir des jugements éthiques, et en utilisant des algorithmes de vote pour construire collaborativement l'éthique de l'information à partir des jugements éthiques des utilisateurs ! Le premier étage d'une éthique démocratique de l'information a été posé !
+> Mesdames et messieurs, aujourd'hui est un jour historique, car je vais vous présenter le résultat de deux ans de travail, en collaboration intime avec l'OMESA et de nombreuses autres organisations, ainsi que des académiques. Au moment où je parle, une nouvelle plateforme vient d'être mise en ligne, appelée girasol.app[^girasol-tournesol]. Girasol est un site web entièrement Open Source, sous licence libre[^license], qui va coordonner la conception de l'éthique de l'information, en permettant aux utilisateurs de fournir des jugements éthiques, et en utilisant des algorithmes de vote pour construire collaborativement l'éthique de l'information à partir des jugements éthiques des utilisateurs ! Le premier étage d'une éthique démocratique de l'information a été posé !
 
 [^girasol-tournesol]: Girasol n'existe pas, mais il s'agit là en fait clairement d'une référence au projet [tournesol.app](https://tournesol.app) lancé par Lê Nguyên Hoang, l'un des auteurs de ce livre. Le reste du livre décrit finalement la vision global de Tournesol. Vous trouverez beaucoup plus d'informations sur le [wiki de Tournesol](https://wiki.tournesol.app). Il est utile de noter que, surtout pour l'instant, l'objectif de Tournesol est davantage de servir de « microscope des jugements humains », c'est-à-dire d'outils de collecte de données sur ce que les humains jugent éthiquement préférables. En particulier, et entre autres, Tournesol espère ainsi détecter des consensus moraux aujourd'hui difficilement observables, faute de données.
 

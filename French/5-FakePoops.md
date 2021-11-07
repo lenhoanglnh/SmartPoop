@@ -202,7 +202,7 @@ Dans les mois à venir, une nouvelle organisation internationale est lancée, so
 [^giec]: Cette excellente vidéo décrit le fonctionnement du GIEC. La gouvernance des algorithmes gagnerait probabilité à s'en inspirer.  
 [**Vidéo.**  Comprendre le GIEC et ses rapports. Le Réveilleur (2021).](https://www.youtube.com/watch?v=C_UTlTiVQ_0)
 
-Sans surprise, le premier rapport liste le problème des FakePoops comme étant l'une des plus grandes menaces pour le futur, et demande une audition publique de SmartPoop, et en particulier de Katia. 
+Sans surprise, le premier rapport liste le problème des FakePoops comme étant l'une des plus grandes menaces pour le futur, et demande une audition publique de SmartPoop, et en particulier de Katia.
 
 ### L'audition de Katia
 
@@ -290,6 +290,12 @@ L'audition se poursuit avec une longue discussion sur les conséquences sociéta
 > Professeur Smith, je pense que c'est un composant utile d'un système de *Proof of Personhood*. Mais il est loin d'être suffisant. L'un des problèmes est que, avec les *DeepFakes* et les *FakePoops*, il est facile de créer des nouveaux identifiants biologiques purement fabriqués. Par ailleurs, ces données peuvent être volées[^identity-theft]. Or, une personne dont les identifiants biologiques ont été volés ne peut pas en créer de nouveau. Les identifiants biologiques, ce n'est pas comme les mots de passe. Bref. Il nous faut d'autres solutions aussi.
 
 [^identity-theft]: [**Vidéo.**  The Most Horrific Case Of Identity Theft. The Infographics Show (2019).](https://www.youtube.com/watch?v=CJ40tAm8cTE)
+
+> Mais cela impliquerait-il la fin de la vie privée, ou du moins de l'anonymat ?
+
+> Pas nécessairement, Professor Smith. La *Proof of Personhood* peut être combinée avec des techniques de cryptographie comme les *zero-knowledge proofs* pour authentifier les comptes sans divulguer d'informations privées sur le propriétaire du compte [^zero-knowledge]. En gros, si nous le voulions, et si nous disposions d'un système de *Proof of Personhood* fonctionnel, nous pourrions avoir une plateforme où tout le monde est anonyme, mais où chaque compte est garanti d'être contrôlé par un seul individu, et où aucun humain ne peut contrôler deux comptes. En particulier, il serait impossible pour des entités malveillantes de créer de faux comptes. C'est typiquement ce qu'on prévoirait pour SmartPoop.
+
+[^zero-knowledge]: [**Video.** Zero Knowledge Proofs - Computerphile (2017).](https://www.youtube.com/watch?v=HUs1bH85X9I)
 
 > Bonjour Docteure Crapinski. Ici Professeur Raul, psychologue. Aujourd'hui, l'identité numérique repose en fait plus sur la mémoire, via les mots de passe. Est-ce fiable ?
 
