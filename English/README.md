@@ -2,20 +2,18 @@
 
 Welcome to *SmartPoop*, a novel written by Lê Nguyên Hoang and Tristan Le Magoarou, 
 published under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-**The book is not currently in a stable version.**  
-We are currently wrapping the [French](../French/README.md) version.  
-The English version will follow shortly after.
+**The book is currently in beta test.**  
 
-<!-- ## Sommaire
+## Outline
 
-[Chapitre 1 — L'or marron](1-L'or.md)  
-[Chapitre 2 — Filtrer les données fécales](2-Filtrer.md)  
-[Chapitre 3 — Le biais étroniste](3-Biais.md)  
-[Chapitre 4 — Les fuites sanitaires](4-Fuites.md)  
-[Chapitre 5 — Les FakePoops](5-FakePoops.md)  
-[Chapitre 6 — Les étrons contaminés](6-Corruption.md)  
-[Chapitre 7 — On se fait dessus](7-Psy.md)  
-[Chapitre 8 — Sur le trône](8-Trone.md)   -->
+[Chapitre 1 — The brown gold](1-gold.md)  
+[Chapitre 2 — Filtering fecal data](2-filter.md)  
+[Chapitre 3 — The turd bias](3-bias.md)  
+[Chapitre 4 — The sanitary leaks](4-leak.md)  
+[Chapitre 5 — The FakePoops](5-fakepoops.md)  
+[Chapitre 6 — The brown market](6-ad.md)  
+[Chapitre 7 — Pissed](7-psy.md)  
+[Chapitre 8 — On the throne](8-throne.md)  
 
 ## Why this book?
 
@@ -31,7 +29,7 @@ must then take the responsibility of their technology,
 accept the consequences,
 and find solutions to make their products more secure and ethical.
 
-## Avout the authors
+## About the authors
 
 ### Lê Nguyên Hoang
 
@@ -55,25 +53,4 @@ We invite our readers in particular to suggest corrections, whether typographica
 Note however that the authors Lê Nguyên Hoang and Tristan Le Magoarou will have the final say on the version available on this github, and that they work on it as volunteers.
 Note that the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) allows anyone to reuse and adapt the book as they wish, as long as they credit the original version of the book and its authors.
 We encourage such efforts, and are available for any such project.
-
-
-## Bibliography
-
-1. [Le fabuleux chantier : rendre l’intelligence artificielle robustement bénéfique](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier). Lê Nguyên Hoang et El Mahdi El Mhamdi. EDP Sciences (2019).
-
-2. [Turing à la plage : l’intelligence artificielle dans un transat](https://www.dunod.com/sciences-techniques/turing-plage-intelligence-artificielle-dans-un-transat). Rachid Guerraoui et Lê Nguyên Hoang. Dunod (2020).
-
-3. [Tout ce que vous devez savoir sur le plus tabou des sujets](http://www.michel-lafon.fr/livre/2059-DANS_TON_CORPS.html). Michel Lafond. Julien Ménielle (2018).
-
-4. [A mountable toilet system for personalized health monitoring via the analysis of excreta](https://www.nature.com/articles/s41551-020-0534-9). Nature (2020).
-
-5. [Aux chiottes le virus ?](https://www.youtube.com/watch?v=B1VPbhpGzUE) COVID 6. Science4All (2020).
-
-6. [Transplantation fécale](https://www.podcastscience.fm/quizz-info-ou-intox/2014/02/19/on-peut-sauver-des-vies-par-simple-transplantation-de-matiere-fecale-info-ou-intox-2/). Podcast science (2014).
-
-7. [Les excréments sont-ils essentiels à la nature](https://www.youtube.com/watch?v=SZw-HMcZUiE). La boîte à curiosité (2020).
-
-8. [Les cacas fossilisés, les vrais trésors des archéologues](https://www.youtube.com/watch?v=rS7AvYdtA7E). C'est une autre histoire (2019).
- 
-9. [MinuteEarth Explains: Poop](https://www.youtube.com/watch?v=azYrI10CQr4). MinuteEarth (2020).
 

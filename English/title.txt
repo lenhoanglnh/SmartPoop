@@ -1,0 +1,9 @@
+---
+title: SmartPoop
+author:
+- "Lê Nguyên Hoang"
+- "Tristan Le Magoarou" 
+rights:  Creative Commons Attribution 4.0
+language: EN
+documentclass: book
+...
