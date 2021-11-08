@@ -34,9 +34,11 @@ In the context of computer science, this would typically correspond to funding v
 [^ai-application]: These days, the most sophisticated "artificial intelligences", the ones that receive billions of dollars of investment in research and development per year (if not a lot more still!), are indeed the algorithms of the web, because the economic stakes and the need for automation are monumental there.
 After all, the turnover of Google, Apple, Facebook, Amazon and Microsoft, among others, can be counted in hundreds of billions of euros.
 Any service improvement of a few percent therefore represents billions of euros.
-And these companies have to manage the data of billions of users, each of whom probably generates megabytes of data per week.
-For example, every hour, there would be more than [30,000 hours of new videos uploaded to YouTube](https://www.oberlo.com/blog/youtube-statistics).
-That's an enormous amount of data that can only be processed by machines.
+But these companies have to manage billions of users' data, and each user may generate megabytes of data per week. 
+For example, in 2013, Facebook received 350 million new photos every day, or one photo for every ten users. For 3-megabyte photos, that's an average of 2 megabytes of photos uploaded per user per week.
+[**Journal.** Facebook Users Are Uploading 350 Million New Photos Each Day. Business Insider (2013)](https://www.businessinsider.com/facebook-350-million-photos-each-day-2013-9)
+As another example, in 2019, every hour, there are [30,000 hours of new videos uploaded to YouTube](https://www.oberlo.com/blog/youtube-statistics).
+Such enormous amounts of data can only be processed by machines.
 Unfortunately, the machines' tasks are increasingly complex, such as detecting hate speech in an image or identifying misinformation in billions of posts.  
 [**Web.** YouTube's Blog](https://blog.youtube/press/).
 
@@ -69,7 +71,7 @@ It is with these thoughts in mind that Katia heads for the bathroom to relieve h
 
 ### Eureka
 
-As she sits on the bowl, the sound of her urine flowing to the bottom of the toilets strikes her mind. Katia raises her head, and her thoughtful face suddenly turns into a radiant smile. Archimedes had his bathtub[^archimedes], Katia had her toilet! Coming out of the bathroom, she then launches into a solemn speech that, the future will tell, will mark the history of the human species.
+As she sits on the bowl, Katia suddenly raises her head. Her thoughtful face suddenly turns into a radiant smile. Like Archimedes[^archimedes], Katia rushes of the bathroom, and gives a speech that will change her destiny, as well as all of humanity's.
 
 [^archimedes]: According to legend, to determine whether a crown was really made of gold, Archimedes had the idea of measuring its volume, by measuring the amount of water displaced in a full bathtub when the crown was placed in the tub.
 By combining this measurement with the measurement of the mass of the crown, Archimedes could then estimate whether the crown had the density of a gold crown.
@@ -122,6 +124,8 @@ SmartPoop also has learning features[^supervised-learning]. In particular, it le
 Much of the design of supervised learning machine learning algorithms is then played out in the annotation of the data. In fact, this work is so laborious that web companies often take advantage of the users of their platforms to do this work for them, typically via "CAPTCHAs" that also verify that the user is human.
 
 [^scale]: One of the great advantages of algorithms over humans is what is called their ability to *scale*. So if an algorithm has the same diagnostic performance as a human from images, it can be used relatively cheaply by billions of users at the same time. This offers fantastic commercial opportunities, but also medical or philanthropic ones.
+As an example, thanks to new information technologies, the GiveDirectly association allows anyone to give money directly to poor people in disadvantaged countries, without going through intermediaries who could keep the money for themselves and with almost no intermediate cost.
+[**Web.** GiveDirectly.](https://www.givedirectly.org/)
 
 Katia spends her days improving her application by night, and promoting SmartPoop by day. She is particularly active in research institutes, hospitals and homes for the elderly, but also in entrepreneurial networks like Station F in Paris. Her TEDx at the London School of Economics earned her a standing ovation from an audience won over by the health opportunity.
 
@@ -174,7 +178,7 @@ In early January 2020, all countries across the globe are entering lockdown peri
 
 An initial suspicion is slowly gaining momentum in the scientific community, particularly following the observation of a meteoric rise in cases among wastewater treatment technicians. A growing body of evidence, including chemical analyses of patients' feces, suggests that the ROVID-19 virus is spread primarily via the flatulence of infected individuals.
 
-"A very nice study by a team from Montpellier also showed large clusters of sick people among people who often frequented restaurants specializing in cassoulet[^beans]," Marc often said to lighten the anxious atmosphere that prevailed at the time. The wearing of filtering diapers[^diapers] was then advised for all people who needed to move around, to avoid transmitting the virus.
+"A very nice study by a team from Toulouse also showed large clusters of sick people among people who often frequented restaurants specializing in cassoulet[^beans]," Marc often said to lighten the anxious atmosphere that prevailed at the time. The wearing of filtering diapers[^diapers] was then advised for all people who needed to move around, to avoid transmitting the virus.
 
 [^beans]: "Cassoulet" is a French delicacy, which is made of a lot of white beans. Yet white beans are known to provoke larger amounts of intestinal gas production.  
 [**Paper.** Gas production in humans ingesting a soybean flour derived from beans naturally low in oligosaccharides. Fabrizis Suarez, John Springfield, Julie Furne, Troy Lohrmann, Philipp Kerr & Michael Levitt. The American Journal of Clinical Nutrition (1999).](https://academic.oup.com/ajcn/article/69/1/135/4694168)
