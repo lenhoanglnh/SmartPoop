@@ -33,7 +33,9 @@ Dès lors, il semble urgent de guider la recherche vers la quête de « boules 
 [^application-des-ia]: De nos jours, les « intelligences artificielles » les plus sophistiquées, celles qui reçoivent des milliards de dollars d'investissements en recherche et développement (si ce n'est plus !), ce sont bien les algorithmes du web, car l'enjeu économique et le besoin d'automatisation y sont monumentaux.
 Après tout, les chiffres d'affaire de Google, Apple, Facebook, Amazon et Microsoft, entre autres, se comptent en centaines de milliards d'euros.
 Toute amélioration du service de quelques pourcents représente donc des milliards d'euros de gains.
-Or ces entreprises doivent gérer des données de milliards d'utilisateurs, qui génèrent chacun sans doute des méga-octets de données par semaine. => source ? bizarre d'avoir ici un "sans doute" assez vague
+Or ces entreprises doivent gérer des données de milliards d'utilisateurs, qui peuvent générer des méga-octets de données par semaine.
+À titre d'exemple, en 2013, Facebook recevait 350 million de nouvelles photos chaque jour, soit une photo pour dix utilisateurs. Pour des photographies de 3 méga-octets, ceci fait une moyenne de 2 méga-octets de photos mis en ligne par utilisateur par semaine.  
+[**Journal.** Facebook Users Are Uploading 350 Million New Photos Each Day. Business Insider (2013).](https://www.businessinsider.com/facebook-350-million-photos-each-day-2013-9)  
 Ainsi, chaque heure, il y aurait plus de [30 000 heures de nouvelles vidéos mises en ligne sur YouTube](https://www.oberlo.com/blog/youtube-statistics).
 Voilà qui représente des quantités monstrueuses de données, qui ne peuvent être traitées que par des machines.
 Or les tâches sont de plus en plus complexes, comme détecter des incitations à la haine dans une image ou identifier la désinformation dans des milliards de messages.  
@@ -52,9 +54,9 @@ Marc, encore étudiant en cancérologie, suggère alors l'utilisation des algori
 
 [^data]: La problématique des données d'entrée est vraiment critique en machine learning, puisque les algorithmes sont systématiquement conçus pour apprendre des données et pour généraliser à partir des données.
 
-Malheureusement, la simple collecte de données est une tâche laborieuse, délicate et intrusive pour le grand public, qui préfère ne pas se préoccuper des risques de cancer. => la fin de phrase est un peu bizarre je trouve, qu'est-ce qui montrerait que le grand public préfère ne pas se préocuuper de ça ?
+Malheureusement, la simple collecte de données est une tâche laborieuse, délicate et intrusive pour le grand public, qui préfère ne pas se préoccuper des risques de cancer. 
 
-> On n'arrive déjà pas à convaincre les gens de réduire leur consommation de tabac ou d'alcool, note Marc. Si on veut avoir une chance quelconque d'effectuer des diagnostics précoces, il faut se concentrer sur des données très informatives (informatives ? préciser éventuellement). Mais ce genre de données sont généralement trop invasives à récupérer. Je ne connais pas beaucoup de volontaires pour se faire faire des prises de sang[^theranos] à répétition par exemple…
+> On n'arrive déjà pas à convaincre les gens de réduire leur consommation de tabac ou d'alcool, note Marc. Si on veut avoir une chance quelconque d'effectuer des diagnostics précoces, il faut se concentrer sur des données très informatives. Mais ce genre de données sont généralement trop invasives à récupérer. Je ne connais pas beaucoup de volontaires pour se faire faire des prises de sang[^theranos] à répétition par exemple…
 
 [^theranos]: Fondée en 2003 par [Elizabeth Holmes](https://en.wikipedia.org/wiki/Elizabeth_Holmes), l'entreprise [Theranos](https://fr.wikipedia.org/wiki/Theranos) a longtemps prétendu permettre un bilan de santé général à partir d'une prise de sang minime.
 En 2015, Theranos est évalué à 9 milliards de dollars.
@@ -70,7 +72,7 @@ C'est avec ces réflexions en tête que Katia se dirige vers les toilettes pour 
 
 ### Eurêka
 
-Assise sur la cuvette, le clapotis de son urine (peut-être une meilleure façon de formuler à trouver ^^) résonnant au fond de la cuvette frappe alors son esprit. Katia lève la tête, et son visage abattu se transforme tout à coup en un sourire radieux. Archimède avait sa baignoire[^archimede], Katia eut (la combinaison des temps des 2 parties de la phrase me paraît un peu bizarre) ses WC ! En sortant des toilettes, elle se lance alors dans un discours (discours est peut-être un peu fort, ça laisse penser que ça va être devant plein de monde) solennel qui, l'avenir le dira, marquera l'histoire de l'espèce humaine.
+Assise sur la cuvette, Katia lève tout à coup la tête. Son visage abattu se transforme tout à coup en un sourire radieux. À l'instar d'Archimède[^archimede], Katia sort des toilettes et se lance alors dans une tirade qui changera profondément son destin, et celui de toute l'humanité.
 
 [^archimede]: Selon la légende, pour déterminer si une couronne était vraiment en or, Archimède eut l'idée de mesurer son volume, en mesurant la quantité d'eau déplacée dans une baignoire pleine lorsque la couronne était déposée dans la baignoire.
 En combinant cette mesure à la mesure de la masse de la couronne, Archimède pouvait alors estimer si la couronne avait la densité d'une couronne en or.
@@ -79,7 +81,7 @@ Il s'écria « Eurêka », et sortit tout nu dans la rue pour partager l'entho
 
 > Marc, je viens de trouver l'idée du siècle. Je sais comment résoudre ce problème de diagnostic ! Tu l'as dit. Il nous faut des données. Beaucoup de données très informatives, mais aussi très simples à collecter. Des données qu'on n'aura pas besoin d'extraire violemment des corps humains ; parce que ces données sortent naturellement du corps humain. Ces données ont parcouru tout le corps humain, et traduisent toutes sortes de traces de l'état de ce corps[^archeologie]. Ces données, aujourd'hui, on les jette à chaque fois qu'on tire la chasse. Mais imagine tout ce qu'on pourrait diagnostiquer si, au lieu de les balancer dans les égouts[^egouts], on collectait soigneusement ces données et on prenait le temps de les analyser ! Marc, il faut qu'on analyse le pipi et le caca !
 
-[^archeologie]: Les archéologues sont d'ailleurs particulièrement friands des cacas (excréments ?) fossilisés, qui leur permettent d'en apprendre davantage sur l'alimentation et la santé des populations passées.  
+[^archeologie]: Les archéologues sont d'ailleurs particulièrement friands d'excréments fossilisés, qui leur permettent d'en apprendre davantage sur l'alimentation et la santé des populations passées.  
 [**Vidéo.**  Le caca, vrai trésor des archéologues - ft. Julien Ménielle, Passé sauvage, Pierre Kerner. C'est une autre histoire (2019).](https://www.youtube.com/watch?v=rS7AvYdtA7E)  
 [**Livre.** Retour vers le Paléo. Clothilde Chamussy, Jennifer Kerner, Marion Sabourdy, Pierre Kerner & Aurélie Bordenave. Flammarion (2019).](https://editions.flammarion.com/retour-vers-le-paleo/9782081451438)
 
@@ -96,7 +98,7 @@ C'est ainsi qu'est conçu petit à petit "SmartPoop", destiné à être une appl
 
 Pendant ce temps, Marc s'informe sur la coprologie. Il télécharge des bases de données publiques d'excréments, et prend le soin de vérifier leurs annotations[^annotations]. Certains excréments sont des petites boules solides ; une nette indication de constipation. D'autres sont une bouillie presque liquide ; une bonne grosse diarrhée. Certains étrons ont une forme parfaitement ondulée ; un signe de très bonne santé intestinale[^etrons] ! La couleur donne aussi des informations sur le fonctionnement du foie ou la présence de sang.
 
-[^annotations]: L'annotation (ou *étiquetage*, *label* en anglais) des données est une phase critique de la conception (construction ?) des bases de données d'entraînement des algorithmes d'apprentissage. Elle consiste à prendre des données brutes (comme des images), et à annoter l'image avec des informations pertinentes, comme la présence ou l'absence de chats, ou comme l'état de santé de la personne qui a produit les excréments photographiés.
+[^annotations]: L'annotation (ou *étiquetage*, *label* en anglais) des données est une phase critique de la construction des bases de données d'entraînement des algorithmes d'apprentissage. Elle consiste à prendre des données brutes (comme des images), et à annoter l'image avec des informations pertinentes, comme la présence ou l'absence de chats, ou comme l'état de santé de la personne qui a produit les excréments photographiés.
 
 [^etrons]: [**Vidéo.**  Pourquoi le wombat fait-il des crottes carrées ? La boîte à curiosité (2021).](https://www.youtube.com/watch?v=pLXOHEbfJSc)  
 [**Vidéo.**  L'importance des excréments dans la nature. La boîte à curiosité (2020).](https://www.youtube.com/watch?v=SZw-HMcZUiE)  
@@ -126,7 +128,9 @@ L'application SmartPoop dispose aussi de fonctionnalités d'apprentissage[^appre
 [^apprentissage-supervise]: La forme la plus développée de machine learning est ce qu'on appelle *l'apprentissage supervisé*. Il s'agit du problème de deviner des propriétés (appelées *étiquettes*) de données brutes comme des images. Typiquement, les images avec un chat peuvent être étiquetées avec l'étiquette « chat ». Dans le cas de SmartPoop, les images de constipation seront étiquetées « constipation ». L'algorithme d'apprentissage va alors chercher à identifier des caractéristiques que les images « constipation » ont, et que les images sans constipation n'ont pas. Si l'algorithme est un succès, il exploitera alors ces caractéristiques pour ensuite généraliser l'étiquetage « constipation » à des images non-étiquetées qui possèdent les caractéristiques des images « constipation ».  
 Une grande partie de la conception des algorithmes de machine learning par apprentissage supervisé se joue alors dans l'annotation des données. En fait, ce travail est si laborieux que les entreprises du web profitent souvent des utilisateurs de leurs plateformes pour effectuer ce travail à leur place, typiquement via des « CAPTCHA » qui permettent aussi de vérifier que l'utilisateur est humain.
 
-[^mise-a-l-echelle]: L'un des grands avantages des algorithmes sur l'humain est ce qu'on appelle leur capacité de *mise à l'échelle*. Ainsi, si un algorithme a les mêmes performances de diagnostic qu'un humain à partir d'images, il pourra être utilisé à relativement peu de frais par des milliards d'utilisateurs en même temps. Ceci offre des fantastiques opportunités commerciales, mais aussi médicales ou philanthropiques (ça vaudrait peut-être la peine d'illustrer la partie "philantropique", sinon on ne voit pas bien d'où ça sort).
+[^mise-a-l-echelle]: L'un des grands avantages des algorithmes sur l'humain est ce qu'on appelle leur capacité de *mise à l'échelle*. Ainsi, si un algorithme a les mêmes performances de diagnostic qu'un humain à partir d'images, il pourra être utilisé à relativement peu de frais par des milliards d'utilisateurs en même temps. Ceci offre des fantastiques opportunités commerciales, mais aussi médicales ou philanthropiques.
+Par exemple, grâce aux nouvelles technologies de l'information, l'association GiveDirectly permet à n'importe qui de donner directement de l'argent aux personnes démunies dans les pays défavorisés, sans passer par des intermédiaires qui pourraient garder l'argent pour eux-mêmes et avec quasiment aucun coût intermédiaire.  
+[**Web.** GiveDirectly.](https://www.givedirectly.org/)
 
 Katia passe alors ses journées à améliorer son application la nuit, et à promouvoir SmartPoop le jour. Elle intervient, en particulier, dans les instituts de recherche, dans les hôpitaux et dans les établissements d'hébergement pour personnes âgées dépendantes, mais aussi dans les réseaux d'entrepreneurs comme Station F à Paris. Son TEDx à la London School of Economics lui vaut une ovation d'un public conquis par l'opportunité sanitaire.
 
@@ -146,7 +150,7 @@ Fin novembre 2019, toutefois, un événement va bouleverser le futur de l'humani
 
 [^korm]: En octobre 2021, Google Translate traduisait « caca » en « korm » en ukrainien. Il se trouve toutefois que korm signifie « nourriture pour animal », et non pas « caca ».
 
-[^bok]: « Bok » signifie « caca » en turc. (c'est fait exprès de prendre l'Ukraine et la Turquie ? au vu du contexte géopolitique ^^)
+[^bok]: « Bok » signifie « caca » en turc.
 
 On apprend ensuite que le coupable est un nouveau rotavirus, et la terrible maladie qu'il cause est baptisée « ROtaVIrus Disease 2019 », ou ROVID-19[^rovid]. Le ROVID-19 cause de nombreux symptômes dérangeants, comme des maux gastriques, des maux de têtes, une fatigue accrue, des lourdes diarrhées, des grosses fièvres, des vomissements et des tremblements, qui conduisent près de 10% des personnes infectées vers le décès. Cette terrible maladie semble particulièrement mortelle chez les jeunes de moins de 30 ans.
 
@@ -180,7 +184,7 @@ En pratique, à cause de relâchements des mesures sanitaires, dans le cas du CO
 
 Une suspicion initiale prend petit à petit de l'ampleur dans la communauté scientifique, notamment suite à l'observation d'une montée fulgurante de cas chez les techniciens de traitement des eaux usées. De plus en plus de données, notamment issues d'analyses chimiques d'excréments des malades, suggèrent que le virus du ROVID-19 se propage principalement via les flatulences des personnes infectées.
 
-« Une très belle étude d'une équipe de Montpellier (pas Toulouse plutôt ^^ ?) a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet[^cassoulet] », précisait souvent Marc afin de détendre l'atmosphère angoissante qui régnait alors. Le port de couches filtrantes[^couches-filtrantes] est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
+« Une très belle étude d'une équipe de Toulouse a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet[^cassoulet] », précisait souvent Marc afin de détendre l'atmosphère angoissante qui régnait alors. Le port de couches filtrantes[^couches-filtrantes] est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
 
 [^cassoulet]: Les haricots blancs du cassoulet produisent des activités intestinales qui conduisent à davantage de flatulences.  
 [**Paper.** Gas production in humans ingesting a soybean flour derived from beans naturally low in oligosaccharides. Fabrizis Suarez, John Springfield, Julie Furne, Troy Lohrmann, Philipp Kerr & Michael Levitt. The American Journal of Clinical Nutrition (1999).](https://academic.oup.com/ajcn/article/69/1/135/4694168)
