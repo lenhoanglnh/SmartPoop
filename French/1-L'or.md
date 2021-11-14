@@ -10,14 +10,14 @@ Les journaux et conférences scientifiques varient beaucoup selon leurs thèmes 
 En informatique, les publications dans les conférences scientifiques sont très prestigieuses.
 En machine learning en particulier, les conférences les plus prestigieuses sont NeurIPS, ICML et ICLR, avec juste derrière des conférences comme COLT, AISTAT, UAI, et AAAI, parmi d'autres.  
 [**Vidéo.**  Comment fact-checker une étude scientifique ? Science Étonnante (2019).](https://www.youtube.com/watch?v=NkdczX1Sq-U)  
-Notez que, contrairement à d'autres domaines scientifiques, les conférences académiques en informatiques encouragent généralement le partage public des articles publiés, notamment sur le site ArXiV.  
+Notez que, contrairement à d'autres domaines scientifiques, les conférences académiques en informatique encouragent généralement le partage public des articles publiés, notamment sur le site ArXiV.  
 [**Vidéo.** La mafia scientifique dont vous n'avez jamais entendu parler. DirtyBiology (2019).](https://www.youtube.com/watch?v=rcgxY__YXEc)
 
 [^these]: Une thèse en informatique est généralement une collection d'articles acceptés à publication.
 L'auteur de la thèse se doit généralement d'ajouter un résumé, une introduction générale, et une conclusion.
 Selon les universités, les exigences pour voir sa thèse acceptée varient.
 
-Plus tard dans la soirée, après avoir feigné d'apprécier la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l'humanité. Sa recherche jusque-là se contente d'améliorer les performances d'algorithmes déjà existants[^performance-securite]. Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux[^application-des-ia] et l'optimisation de la publicité ciblée sur ces plateformes[^publicite-hoang]. Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
+Plus tard dans la soirée, après avoir feint d'apprécier la blague de son colocataire, Katia partage toutefois son désir de faire un travail plus altruiste et plus bénéfique pour toute l'humanité. Sa recherche se contente jusqu'à présent d'améliorer les performances d'algorithmes déjà existants[^performance-securite]. Cependant, Katia est bien consciente que ces progrès alimentent principalement la recommandation de contenus addictifs par les réseaux sociaux[^application-des-ia] et l'optimisation de la publicité ciblée sur ces plateformes[^publicite-hoang]. Cette même technologie ne peut-elle pas être davantage utilisée pour sauver des vies ?
 
 [^performance-securite]: Beaucoup considèrent ainsi que, si le progrès technologique améliore grandement la qualité de vies du plus grand nombre, il diminue aussi drastiquement le coût de causer une catastrophe monumentale.
 Si l'on accepte ce postulat, toute recherche sur la performance des algorithmes peut être vue comme la création potentielle de risques nouveaux et mal maîtrisés, et est en cela dangereuse.
@@ -32,8 +32,10 @@ Dès lors, il semble urgent de guider la recherche vers la quête de « boules 
 
 [^application-des-ia]: De nos jours, les « intelligences artificielles » les plus sophistiquées, celles qui reçoivent des milliards de dollars d'investissements en recherche et développement (si ce n'est plus !), ce sont bien les algorithmes du web, car l'enjeu économique et le besoin d'automatisation y sont monumentaux.
 Après tout, les chiffres d'affaire de Google, Apple, Facebook, Amazon et Microsoft, entre autres, se comptent en centaines de milliards d'euros.
-Toute amélioration du service de quelques pourcents représente donc des milliards d'euros.
-Or ces entreprises doivent gérer des données de milliards d'utilisateurs, qui génèrent chacun sans doute des méga-octets de données par semaine.
+Toute amélioration du service de quelques pourcents représente donc des milliards d'euros de gains.
+Or ces entreprises doivent gérer des données de milliards d'utilisateurs, qui peuvent générer des méga-octets de données par semaine.
+À titre d'exemple, en 2013, Facebook recevait 350 million de nouvelles photos chaque jour, soit une photo pour dix utilisateurs. Pour des photographies de 3 méga-octets, ceci fait une moyenne de 2 méga-octets de photos mis en ligne par utilisateur par semaine.  
+[**Journal.** Facebook Users Are Uploading 350 Million New Photos Each Day. Business Insider (2013).](https://www.businessinsider.com/facebook-350-million-photos-each-day-2013-9)  
 Ainsi, chaque heure, il y aurait plus de [30 000 heures de nouvelles vidéos mises en ligne sur YouTube](https://www.oberlo.com/blog/youtube-statistics).
 Voilà qui représente des quantités monstrueuses de données, qui ne peuvent être traitées que par des machines.
 Or les tâches sont de plus en plus complexes, comme détecter des incitations à la haine dans une image ou identifier la désinformation dans des milliards de messages.  
@@ -41,18 +43,18 @@ Or les tâches sont de plus en plus complexes, comme détecter des incitations �
 
 [^publicite-hoang]: En 2015, Lê Nguyên Hoang, l'un des auteurs de ce livre, travaillait dans le monde académique sur des problèmes mathématiques dont l'application première était l'optimisation de telles publicités. Il juge désormais que ces travaux sont en fait immoraux, voire dangereux, comme l'illustrera ce roman plus tard.
 
-Marc, encore étudiant en cancérologie, suggère alors l'utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chances d'être traité avec succès, et avec moins de risques et de complications.
+Marc, encore étudiant en cancérologie, suggère alors l'utilisation des algorithmes pour le diagnostic précoce. Un cancer diagnostiqué tôt a plus de chances d'être traité avec succès, et avec moins de risques de complications.
 
-> Ça commence à se faire en plus, précise Marc. L'année dernière des chercheurs américains ont montré qu'une IA était aussi douée qu'une équipe de dermatologues pour détecter des cancers de peau sur des photos[^cancer-de-la-peau]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
+> Ça commence à se faire en plus, précise Marc. L'année dernière des chercheurs américains ont montré qu'une IA était aussi douée qu'une équipe de dermatologues pour détecter des cancers de la peau sur des photos[^cancer-de-la-peau]. Mais malheureusement, en cette année 2018, beaucoup de cancers sont encore diagnostiqués de manière trop tardive. À ce stade, des soins risqués et coûteux sont nécessaires.
 
 [^cancer-de-la-peau]: [**Vidéo.**  L'IA sauvera des vies (ft. Primum Non Nocere). Science4All (2018).](https://www.youtube.com/watch?v=xU7LcNRkmfU&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=33)  
 [**Science.**  Dermatologist-level classification of skin cancer with deep neural networks. Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun. Nature (2017).](https://www.nature.com/articles/nature21056?spm=5176.100239.blogcont100708.20.u9mVh9)
 
 > Il y a clairement un besoin d'algorithmes d'apprentissage en médecine. Mais si on veut diagnostiquer quoi que ce soit, il faut des données. Beaucoup de données[^data], fait remarquer Katia.
 
-[^data]: La problématique des données est vraiment critique en machine learning, puisque les algorithmes sont systématiquement conçus pour apprendre des données et pour généraliser à partir des données.
+[^data]: La problématique des données d'entrée est vraiment critique en machine learning, puisque les algorithmes sont systématiquement conçus pour apprendre des données et pour généraliser à partir des données.
 
-Malheureusement, la simple collecte de données est une tâche laborieuse, délicate et intrusive pour le grand public, qui préfère ne pas se préoccuper des risques de cancer.
+Malheureusement, la simple collecte de données est une tâche laborieuse, délicate et intrusive pour le grand public, qui préfère ne pas se préoccuper des risques de cancer. 
 
 > On n'arrive déjà pas à convaincre les gens de réduire leur consommation de tabac ou d'alcool, note Marc. Si on veut avoir une chance quelconque d'effectuer des diagnostics précoces, il faut se concentrer sur des données très informatives. Mais ce genre de données sont généralement trop invasives à récupérer. Je ne connais pas beaucoup de volontaires pour se faire faire des prises de sang[^theranos] à répétition par exemple…
 
@@ -66,20 +68,20 @@ Les employés de Theranos semble avoir exploité en cachette des techniques clas
 
 Katia a le regard songeur. Comment acquérir des données de patients ? Ou, mieux encore, comment acquérir des données de non-patients ? Comment ne pas être « invasif » ? Katia se demande aussi qui est à l'origine du terme « invasif ». Une prise de sang « n'envahit » que rarement le corps de gens.
 
-C'est avec ses réflexions en tête que Katia se dirige vers les toilettes pour faire ses besoins.
+C'est avec ces réflexions en tête que Katia se dirige vers les toilettes pour faire ses besoins.
 
 ### Eurêka
 
-Assise sur la cuvette, le clapotis de son urine résonnant au fond de la cuvette frappe alors son esprit. Katia lève la tête, et son visage abattu se transforme tout à coup en un sourire radieux. Archimède avait sa baignoire[^archimede], Katia eut ses WC ! En sortant des toilettes, elle se lance alors dans un discours solennel qui, l'avenir le dira, marquera l'histoire de l'espèce humaine.
+Assise sur la cuvette, Katia lève tout à coup la tête. Son visage abattu se transforme tout à coup en un sourire radieux. À l'instar d'Archimède[^archimede], Katia sort des toilettes et se lance alors dans une tirade qui changera profondément son destin, et celui de toute l'humanité.
 
 [^archimede]: Selon la légende, pour déterminer si une couronne était vraiment en or, Archimède eut l'idée de mesurer son volume, en mesurant la quantité d'eau déplacée dans une baignoire pleine lorsque la couronne était déposée dans la baignoire.
 En combinant cette mesure à la mesure de la masse de la couronne, Archimède pouvait alors estimer si la couronne avait la densité d'une couronne en or.
 Quand il s'en rendit compte, selon la légende, Archimède était justement dans sa baignoire.
 Il s'écria « Eurêka », et sortit tout nu dans la rue pour partager l'enthousiasme de sa découverte.
 
-> Marc, je viens de trouver l'idée du siècle. Je sais comment résoudre ce problème de diagnostic ! Tu l'as dit. Il nous faut des données. Beaucoup de données très informatives, mais aussi très simples à collecter. Des données qu'on n'aura pas besoin d'extraire violemment des corps humains ; parce que ces données sortent naturellement du corps humains. Ces données ont parcouru tout le corps humain, et contiennent en elles toutes sortes de traces de l'état de ce corps[^archeologie]. Ces données, aujourd'hui, on les jette à chaque fois qu'on tire la chasse. Mais imagine tout ce qu'on pourrait diagnostiquer si, au lieu de les balancer dans les égouts[^egouts], on collectait soigneusement ces données et on prenait le temps de les analyser ! Marc, il faut qu'on analyse le pipi et le caca !
+> Marc, je viens de trouver l'idée du siècle. Je sais comment résoudre ce problème de diagnostic ! Tu l'as dit. Il nous faut des données. Beaucoup de données très informatives, mais aussi très simples à collecter. Des données qu'on n'aura pas besoin d'extraire violemment des corps humains ; parce que ces données sortent naturellement du corps humain. Ces données ont parcouru tout le corps humain, et traduisent toutes sortes de traces de l'état de ce corps[^archeologie]. Ces données, aujourd'hui, on les jette à chaque fois qu'on tire la chasse. Mais imagine tout ce qu'on pourrait diagnostiquer si, au lieu de les balancer dans les égouts[^egouts], on collectait soigneusement ces données et on prenait le temps de les analyser ! Marc, il faut qu'on analyse le pipi et le caca !
 
-[^archeologie]: Les archéologues sont d'ailleurs particulièrement friands des cacas fossilisés, qui leur permettent d'en apprendre sur l'alimentation et la santé des populations passées.  
+[^archeologie]: Les archéologues sont d'ailleurs particulièrement friands d'excréments fossilisés, qui leur permettent d'en apprendre davantage sur l'alimentation et la santé des populations passées.  
 [**Vidéo.**  Le caca, vrai trésor des archéologues - ft. Julien Ménielle, Passé sauvage, Pierre Kerner. C'est une autre histoire (2019).](https://www.youtube.com/watch?v=rS7AvYdtA7E)  
 [**Livre.** Retour vers le Paléo. Clothilde Chamussy, Jennifer Kerner, Marion Sabourdy, Pierre Kerner & Aurélie Bordenave. Flammarion (2019).](https://editions.flammarion.com/retour-vers-le-paleo/9782081451438)
 
@@ -87,31 +89,31 @@ Il s'écria « Eurêka », et sortit tout nu dans la rue pour partager l'entho
 [**Vidéo.**  Aux chiottes le virus ? Science4All (2020).](https://www.youtube.com/watch?v=B1VPbhpGzUE&list=PLtzmb84AoqRS0SN8VKvAxuGOdcINPRugV&index=6)  
 [**Science.**  How sewage could reveal true scale of coronavirus outbreak. Smriti Mallapaty. Nature (2020).](https://www.nature.com/articles/d41586-020-00973-x)
 
-Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce projet d'analyse d'excréments. Ils concluent que le produit idéal serait des toilettes intelligentes[^smart-toilet], capables notamment de mesurer et d'analyser les excréments sous toutes leurs coutures avant leur périple dans les eaux usées. Cependant, un tel produit nécessiterait des années de recherche et développement, et donc un grand nombre d'investisseurs. Pour commencer, les deux amis penchent vers un projet moins ambitieux. Après tout, comme Katia le fait remarquer, le meilleur outil de collecte d'information moderne est le téléphone. Pourquoi ne pas l'utiliser pour prendre des photographies des excréments ?
+Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce projet d'analyse d'excréments. Ils concluent que le produit idéal serait des toilettes intelligentes[^smart-toilet], capables notamment de mesurer et d'analyser les excréments sous toutes leurs coutures avant leur périple dans les eaux usées. Cependant, un tel produit nécessiterait des années de recherche et développement, et donc un grand nombre d'investisseurs (plutôt de gros montants d'investissements ?). Pour commencer, les deux amis penchent vers un projet moins ambitieux. Après tout, comme Katia le fait remarquer, le meilleur outil de collecte d'information moderne est le téléphone mobile. Pourquoi ne pas l'utiliser pour prendre des photographies des excréments ?
 
 [^smart-toilet]: Il existe bel et bien des projets de toilettes intelligentes, ou *smart toilets*. Notamment une publication dans le journal scientifique *Nature Biomedical Engineering* sur un prototype, capable d'effectuer de la reconnaissance... anale !  
 [**Science.**  A mountable toilet system for personalized health monitoring via the analysis of excreta. Seung-min Park et al. Nature Biomedical Engineering (2020).](https://www.nature.com/articles/s41551-020-0534-9)
 
-C'est ainsi qu'est conçu petit à petit SmartPoop, destiné à être une application de collecte d'échantillons photographiques de matière fécale et d'analyse automatisée de ces images à l'aide d'algorithmes de machine learning. Pendant les mois qui suivent, Katia écrit sa thèse de doctorat le jour, et programme SmartPoop jusque tard dans la nuit.
+C'est ainsi qu'est conçu petit à petit "SmartPoop", destiné à être une application de collecte d'échantillons photographiques de matière fécale et d'analyse automatisée de ces images à l'aide d'algorithmes de machine learning. Pendant les mois qui suivent, Katia écrit sa thèse de doctorat le jour, et programme SmartPoop jusque tard dans la nuit.
 
 Pendant ce temps, Marc s'informe sur la coprologie. Il télécharge des bases de données publiques d'excréments, et prend le soin de vérifier leurs annotations[^annotations]. Certains excréments sont des petites boules solides ; une nette indication de constipation. D'autres sont une bouillie presque liquide ; une bonne grosse diarrhée. Certains étrons ont une forme parfaitement ondulée ; un signe de très bonne santé intestinale[^etrons] ! La couleur donne aussi des informations sur le fonctionnement du foie ou la présence de sang.
 
-[^annotations]: L'annotation (ou *étiquetage*, *label* en anglais) des données est une phase critique de la conception des bases de données d'entraînement des algorithmes d'apprentissage. Elle consiste à prendre des données brutes (comme des images), et à annoter l'image avec des informations pertinentes, comme la présence ou l'absence de chats, ou comme l'état de santé de la personne qui a produit les excréments photographiés.
+[^annotations]: L'annotation (ou *étiquetage*, *label* en anglais) des données est une phase critique de la construction des bases de données d'entraînement des algorithmes d'apprentissage. Elle consiste à prendre des données brutes (comme des images), et à annoter l'image avec des informations pertinentes, comme la présence ou l'absence de chats, ou comme l'état de santé de la personne qui a produit les excréments photographiés.
 
 [^etrons]: [**Vidéo.**  Pourquoi le wombat fait-il des crottes carrées ? La boîte à curiosité (2021).](https://www.youtube.com/watch?v=pLXOHEbfJSc)  
 [**Vidéo.**  L'importance des excréments dans la nature. La boîte à curiosité (2020).](https://www.youtube.com/watch?v=SZw-HMcZUiE)  
 [**Vidéo.**  MinuteEarth Explains: Poop. MinuteEarth (2020).](https://www.youtube.com/watch?v=azYrI10CQr4)  
 [**Livre.**  Tout ce que vous devez savoir sur le plus tabou des sujets. Michel Lafond. Julien Ménielle (2018).](http://www.michel-lafon.fr/livre/2059-DANS_TON_CORPS.html)
 
-> Tu sais, en fait les selles devraient être incolores ou blanchâtres, explique Marc à Katia lors de l'une de leurs soirées de travail. Elles sont surtout composées d'eau et de fibres après tout. Mais c'est un déchet des globules rouges, la bilirubine, qui les rend foncés. C'est le foie qui s'occupe de la traiter et de la « mettre » dans les excréments.
+> Tu sais, en fait les selles devraient être incolores ou blanchâtres, explique Marc à Katia lors de l'une de leurs soirées de travail. Elles sont surtout composées d'eau et de fibres après tout. Mais c'est un déchet des globules rouges, la bilirubine, qui les rend foncées. C'est le foie qui s'occupe de la traiter et de la « mettre » dans les excréments.
 
 > Je vois... et du coup quand le foie ne fonctionne pas on devient marron ?
 
-> Presque. Jaune plutôt. C'est ce qu'on appelle l'ictère. Ou « jaunisse » si tu préfères et les selles deviennent blanchâtres. Mais vois-tu…
+> Presque. Jaune plutôt. C'est ce qu'on appelle l'ictère. Ou « jaunisse » si tu préfères, et les selles deviennent blanchâtres. Mais vois-tu…
 
-Katia n'écoutait déjà plus réfléchissant au type d'analyse colorimétrique qu'elle pourrait intégrer à leurs algorithmes. « SmartPoop, ça va être trop cool[^cool] », se dit-elle intérieurement.
+Katia n'écoutait déjà plus, réfléchissant au type d'analyse colorimétrique qu'elle pourrait intégrer à leurs algorithmes. « SmartPoop, ça va être trop cool[^cool] », se dit-elle intérieurement.
 
-[^cool]: Le mot « cool » est souvent présent pour qualifier certaines technologies « dignes d'intérêt ». Il y a certainement une réflexion importante à avoir autour de ce qui rend une technologie ou une idée « cool ». En particulier, ceci peut parfois ne pas être directement relié à la capacité de la technologie ou de l'idée à vraiment rendre le monde meilleur. Typiquement, beaucoup de technologistes semblent trouver « cool » les cryptomonnaies décentralisées ou les performances des algorithmes de machine learning. Il semble toutefois que ceci puisse parfois les amener à ignorer ou à sous-estimer les dangers de ces technologies.
+[^cool]: Le mot « cool » est souvent présent pour qualifier certaines technologies « dignes d'intérêt ». Il y a certainement une réflexion importante à avoir autour de ce qui rend une technologie ou une idée « cool ». En particulier, ceci peut parfois ne pas être directement relié à la capacité de la technologie ou de l'idée à vraiment rendre le monde meilleur. Typiquement, beaucoup de technologistes semblent trouver « cool » les cryptomonnaies décentralisées ou les performances des algorithmes de machine learning. Il semble toutefois qu'un manque de prise de recul puisse parfois les amener à ignorer ou à sous-estimer les dangers de ces technologies.
 
 ### L'application est en ligne !
 
@@ -121,20 +123,22 @@ En mars 2019, Katia défend sa thèse. Une semaine plus tard, l'application Smar
 
 > J'ai passé des soirées bien chiantes pendant mes années de médecine, à voir des trucs peu ragoûtants…  mais celles-là étaient presque les pires, dira plus tard Marc.
 
-SmartPoop dispose aussi de fonctionnalités d'apprentissage[^apprentissage-supervise]. En particulier, elle apprend ainsi progressivement des données, quotidiennement étiquetées par Marc, et généralise ainsi les annotations de Marc pour prédire les risques de constipation ou de diarrhées chez les utilisateurs à partir d'images que Marc n'a pas eu le temps de visionner[^mise-a-l-echelle].
+L'application SmartPoop dispose aussi de fonctionnalités d'apprentissage[^apprentissage-supervise]. En particulier, elle apprend ainsi progressivement des données collectées, quotidiennement étiquetées par Marc, et généralise ainsi les annotations de Marc pour prédire les risques de constipation ou de diarrhées chez les utilisateurs à partir d'images que Marc n'a pas eu le temps de visionner[^mise-a-l-echelle].
 
-[^apprentissage-supervise]: La forme la plus développée de machine learning est ce qu'on appelle *l'apprentissage supervisé*. Il s'agit du problème de deviner des propriétés (appelées *étiquettes*) de données brutes comme des images. Typiquement, les images avec un chat peuvent être étiquetées avec l'étiquette « chat ». Dans le cas de SmartPoop, les images de constipation seront étiquetées « constipation ». L'algorithme d'apprentissage va alors cherché à identifier des caractéristiques que les images « constipation » ont, et que les images sans constipation n'ont pas. Si l'algorithme est un succès, il exploitera alors ces caractéristiques pour ensuite généraliser l'étiquetage « constipation » à des images non-étiquetées qui possèdent les caractéristiques des images « constipation ».  
+[^apprentissage-supervise]: La forme la plus développée de machine learning est ce qu'on appelle *l'apprentissage supervisé*. Il s'agit du problème de deviner des propriétés (appelées *étiquettes*) de données brutes comme des images. Typiquement, les images avec un chat peuvent être étiquetées avec l'étiquette « chat ». Dans le cas de SmartPoop, les images de constipation seront étiquetées « constipation ». L'algorithme d'apprentissage va alors chercher à identifier des caractéristiques que les images « constipation » ont, et que les images sans constipation n'ont pas. Si l'algorithme est un succès, il exploitera alors ces caractéristiques pour ensuite généraliser l'étiquetage « constipation » à des images non-étiquetées qui possèdent les caractéristiques des images « constipation ».  
 Une grande partie de la conception des algorithmes de machine learning par apprentissage supervisé se joue alors dans l'annotation des données. En fait, ce travail est si laborieux que les entreprises du web profitent souvent des utilisateurs de leurs plateformes pour effectuer ce travail à leur place, typiquement via des « CAPTCHA » qui permettent aussi de vérifier que l'utilisateur est humain.
 
 [^mise-a-l-echelle]: L'un des grands avantages des algorithmes sur l'humain est ce qu'on appelle leur capacité de *mise à l'échelle*. Ainsi, si un algorithme a les mêmes performances de diagnostic qu'un humain à partir d'images, il pourra être utilisé à relativement peu de frais par des milliards d'utilisateurs en même temps. Ceci offre des fantastiques opportunités commerciales, mais aussi médicales ou philanthropiques.
+Par exemple, grâce aux nouvelles technologies de l'information, l'association GiveDirectly permet à n'importe qui de donner directement de l'argent aux personnes démunies dans les pays défavorisés, sans passer par des intermédiaires qui pourraient garder l'argent pour eux-mêmes et avec quasiment aucun coût intermédiaire.  
+[**Web.** GiveDirectly.](https://www.givedirectly.org/)
 
-Katia passe alors ces journées à améliorer son application la nuit, et à promouvoir SmartPoop le jour. Elle intervient, en particulier, dans les instituts de recherche, dans les hôpitaux et dans les établissements d'hébergement pour personnes âgées dépendantes, mais aussi dans les réseaux d'entrepreneurs comme la Station F à Paris. Son TEDx à la London School of Economics lui vaut une ovation d'un public conquis par l'opportunité sanitaire.
+Katia passe alors ses journées à améliorer son application la nuit, et à promouvoir SmartPoop le jour. Elle intervient, en particulier, dans les instituts de recherche, dans les hôpitaux et dans les établissements d'hébergement pour personnes âgées dépendantes, mais aussi dans les réseaux d'entrepreneurs comme Station F à Paris. Son TEDx à la London School of Economics lui vaut une ovation d'un public conquis par l'opportunité sanitaire.
 
-Cependant, après des mois de promotions, SmartPoop ne décolle pas. Si l'application est téléchargée 1587 fois, elle n'est utilisée quotidiennement que par 75 utilisateurs[^retention] (dont une vingtaine parmi les proches de Katia et Marc). En juillet 2019, quatre mois après la mise en ligne de l'application, Katia se rend à l'évidence : SmartPoop est un échec.
+Cependant, après des mois de promotion, SmartPoop ne décolle pas. Si l'application est téléchargée 1587 fois, elle n'est utilisée quotidiennement que par 75 utilisateurs[^retention] (dont une vingtaine parmi les proches de Katia et Marc). En juillet 2019, quatre mois après la mise en ligne de l'application, Katia se rend à l'évidence : SmartPoop est un échec.
 
 [^retention]: Le grand défi de nombreux produits du web est souvent la rétention des utilisateurs.
 
-> SmartPoop deviendrait incontournable si on avait beaucoup plus de données pour entraîner des algorithmes plus sophistiqués, pour ensuite prédire des maladies plus rares et plus dangereuses. Le potentiel sanitaire reste énorme, explique-t-elle à Marc. Mais on a grandement sur-estimé la motivation des utilisateurs à soutenir un tel projet de santé public[^foodvisor]… Avec le recul, je dirais qu'on a été beaucoup trop bisounours dans notre conception du projet. Les venture capitalists avaient raison. On aurait dû beaucoup plus réfléchir à la croissance, à l'acquisition d'utilisateurs et au marketing du produit. On se serait peut-être rendu compte plus tôt que SmartPoop est une perte de temps. Même si on continue notre travail de promotion pendant des années, on risque de ne jamais dépasser 1000 utilisateurs réguliers. Et ça, ça ne suffira pas pour acquérir assez de données pour avoir un outil de diagnostic utile. SmartPoop, c'est sans espoir.
+> SmartPoop deviendrait incontournable si on avait beaucoup plus de données pour entraîner des algorithmes plus sophistiqués, pour ensuite prédire des maladies plus rares et plus dangereuses. Le potentiel sanitaire reste énorme, explique-t-elle à Marc. Mais on a grandement surestimé la motivation des utilisateurs à soutenir un tel projet de santé publique[^foodvisor]… Avec le recul, je dirais qu'on a été beaucoup trop bisounours dans notre conception du projet. Les venture capitalists avaient raison. On aurait dû beaucoup plus réfléchir à la croissance, à l'acquisition d'utilisateurs et au marketing du produit. On se serait peut-être rendu compte plus tôt que SmartPoop est une perte de temps. Même si on continue notre travail de promotion pendant des années, on risque de ne jamais dépasser 1000 utilisateurs réguliers. Et ça, ça ne suffira pas pour acquérir assez de données pour avoir un outil de diagnostic utile. SmartPoop, c'est sans espoir.
 
 [^foodvisor]: D'autres initiatives plus ludiques ont dès aujourd'hui un succès commercial, comme l'application [Foodvisor](https://www.foodvisor.io/) qui permet d'estimer les calories dans un repas à partir d'une photo.
 
@@ -146,14 +150,14 @@ Fin novembre 2019, toutefois, un événement va bouleverser le futur de l'humani
 
 [^korm]: En octobre 2021, Google Translate traduisait « caca » en « korm » en ukrainien. Il se trouve toutefois que korm signifie « nourriture pour animal », et non pas « caca ».
 
-[^bok]: « Bok » signifie « caca » en turque.
+[^bok]: « Bok » signifie « caca » en turc.
 
 On apprend ensuite que le coupable est un nouveau rotavirus, et la terrible maladie qu'il cause est baptisée « ROtaVIrus Disease 2019 », ou ROVID-19[^rovid]. Le ROVID-19 cause de nombreux symptômes dérangeants, comme des maux gastriques, des maux de têtes, une fatigue accrue, des lourdes diarrhées, des grosses fièvres, des vomissements et des tremblements, qui conduisent près de 10% des personnes infectées vers le décès. Cette terrible maladie semble particulièrement mortelle chez les jeunes de moins de 30 ans.
 
 [^rovid]: Le ROVID-19 est bien sûr une maladie fictive, calquée sur le COVID-19 qui a frappé le monde en novembre-décembre 2019. Une collaboration exceptionnelle de vulgarisateurs scientifiques du web avait d'ailleurs produit une vidéo collective à ce moment là.  
 [**Vidéo.**  Coronavirus : Chaque JOUR compte (2020).](https://www.youtube.com/watch?v=euk5FwYI1P4)
 
-Mais ce qui rend le ROVID-19 extrêmement dangereux, c'est son extrême contagiosité. Pire encore, le traçage des cas d'infections montre que cette contagiosité est particulièrement grande deux ou trois jours avant que les premiers symptômes se déclarent. On parle de contaminations pré-symptomatiques. Les personnes contaminantes ne sont pas encore conscientes d'être malades quand elles transmettent la maladie aux autres. Le taux de reproduction de base[^taux-de-reproduction] du virus, c'est-à-dire le nombre moyen d'individus qu'une personne infectée va contaminer, est estimé à environ 8. La croissance exponentielle[^exponentielle] de la pandémie terrifie rapidement toutes les agences sanitaires, tous les hôpitaux et tous les gouvernements du monde.
+Mais ce qui rend le ROVID-19 extrêmement dangereux, c'est son extrême contagiosité. Pire encore, le traçage des cas d'infections montre que cette contagiosité est particulièrement élevée deux ou trois jours avant que les premiers symptômes ne se déclarent. On parle de contaminations pré-symptomatiques. Les personnes contaminantes ne sont pas encore conscientes d'être malades quand elles transmettent la maladie aux autres. Le taux de reproduction de base[^taux-de-reproduction] du virus, c'est-à-dire le nombre moyen d'individus qu'une personne infectée va contaminer, est estimé à environ 8. La croissance exponentielle[^exponentielle] de la pandémie terrifie rapidement toutes les agences sanitaires, tous les hôpitaux et tous les gouvernements du monde.
 
 [^taux-de-reproduction]: Le taux de reproduction de base est le nombre moyen d'individus qu'une personne infectée contaminera, en l'absence d'interventions pour contrôler la propagation d'une épidémie.
 On estime que le COVID-19 avait initialement un taux de reproduction de base autour de 3, et que le variant Delta a un taux bien plus élevé (mais difficile à estimer, vu qu'il est apparu à un moment où de nombreuses interventions étaient déjà en oeuvre).
@@ -180,13 +184,13 @@ En pratique, à cause de relâchements des mesures sanitaires, dans le cas du CO
 
 Une suspicion initiale prend petit à petit de l'ampleur dans la communauté scientifique, notamment suite à l'observation d'une montée fulgurante de cas chez les techniciens de traitement des eaux usées. De plus en plus de données, notamment issues d'analyses chimiques d'excréments des malades, suggèrent que le virus du ROVID-19 se propage principalement via les flatulences des personnes infectées.
 
-« Une très belle étude d'une équipe de Montpellier a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet[^cassoulet] », précisait souvent Marc afin de détendre l'atmosphère angoissante qui régnait alors. Le port de couches filtrantes[^couches-filtrantes] est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
+« Une très belle étude d'une équipe de Toulouse a aussi montré des clusters importants de malades parmi les gens fréquentant souvent des restaurants spécialisés en cassoulet[^cassoulet] », précisait souvent Marc afin de détendre l'atmosphère angoissante qui régnait alors. Le port de couches filtrantes[^couches-filtrantes] est alors conseillé pour toutes les personnes ayant besoin de se déplacer, pour éviter de transmettre le virus.
 
 [^cassoulet]: Les haricots blancs du cassoulet produisent des activités intestinales qui conduisent à davantage de flatulences.  
 [**Paper.** Gas production in humans ingesting a soybean flour derived from beans naturally low in oligosaccharides. Fabrizis Suarez, John Springfield, Julie Furne, Troy Lohrmann, Philipp Kerr & Michael Levitt. The American Journal of Clinical Nutrition (1999).](https://academic.oup.com/ajcn/article/69/1/135/4694168)
 
 [^couches-filtrantes]: La contagiosité du pet, mais aussi la capacité des vêtements à filtrer les pets, ont été testées et vérifiées par Dr Karl Kruszelnicki, suite à une expérience de pets dans des boîtes de Petri.  
-« Notre conclusion finale ? Ne pétez pas nu près de la nourriture. »  
+« Notre conclusion finale ? Ne pétez pas nu près de la nourriture. »  (vraiment nécessaire ^^ ?)
 [**Science.**  Hot air?. Michael Doyle. The Canberra Times, Reprinted on BMJ (2021).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121900/)
 
 
