@@ -1,8 +1,9 @@
 ---
-title: SmartPoop
+title: SmartPoop 1.0
+subtitle: The AI that went where no human will ever go
 author:
 - "Lê Nguyên Hoang"
-- "Tristan Le Magoarou" 
+- "Tristan Le Magoarou"
 rights:  Creative Commons Attribution 4.0
 language: EN
 documentclass: book

@@ -1,6 +1,7 @@
-# SmartPoop
+# SmartPoop 1.0
+## L'histoire d'une IA qui se lâche
 
-Bienvenue dans le github du livre *SmartPoop*, co-écrit par Lê Nguyên Hoang et Tristan Le Magoarou,
+Bienvenue dans le github du livre *SmartPoop 1.0*, co-écrit par Lê Nguyên Hoang et Tristan Le Magoarou,
 publié sous [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (réutilisable librement à condition de citer les auteurs originaux).  
 Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et en [pdf](SmartPoop-fr.pdf).  
 
@@ -19,7 +20,7 @@ Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et
 
 ## Pourquoi ce livre ?
 
-*SmartPoop* est une science-fiction très réaliste,
+*SmartPoop 1.0* est une science-fiction très réaliste,
 qui vise à sensibiliser au danger des algorithmes et aux défis de les rendre [robustement bénéfiques](https://laboutique.edpsciences.fr/produit/1107/9782759824304/Le%20fabuleux%20chantier).
 
 Elle raconte l'histoire d'une entreprise du numérique, *SmartPoop*, qui effectue des analyses automatisées d'excréments.

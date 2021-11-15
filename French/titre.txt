@@ -1,8 +1,9 @@
 ---
-title: SmartPoop
+title: SmartPoop 1.0
+subtitle: L'histoire d'une IA qui se lâche
 author:
 - "Lê Nguyên Hoang"
-- "Tristan Le Magoarou" 
+- "Tristan Le Magoarou"
 rights:  Creative Commons Attribution 4.0
 language: FR
 documentclass: book
