@@ -65,7 +65,7 @@ Theranos' supposedly revolutionary technology never actually worked.
 Theranos employees appear to have been covertly exploiting conventional blood testing techniques, the reliability of which was in fact questionable.  
 [**Video.** Elizabeth Holmes exposed: the $9 billion medical 'miracle' that never existed. 60 Minutes Australia (2021).](https://www.youtube.com/watch?v=BgNfrDXr7uA)
 
-Katia looks thoughtful. How could she acquire patient data? Or, better yet, how could she acquire data from non-patients? And hoe could it be done without being "invasive"? Katia also wonders who came up with the term "invasive". A blood test rarely "invades" people's bodies.
+Katia looks thoughtful. How could she acquire patient data? Or, better yet, how could she acquire data from non-patients? And how could it be done without being "invasive"? Katia also wonders who came up with the term "invasive". A blood test rarely "invades" people's bodies.
 
 It is with these thoughts in mind that Katia heads for the bathroom to relieve herself.
 
