@@ -132,7 +132,7 @@ Une grande partie de la conception des algorithmes de machine learning par appre
 Par exemple, grâce aux nouvelles technologies de l'information, l'association GiveDirectly permet à n'importe qui de donner directement de l'argent aux personnes démunies dans les pays défavorisés, sans passer par des intermédiaires qui pourraient garder l'argent pour eux-mêmes et avec quasiment aucun coût intermédiaire.  
 [**Web.** GiveDirectly.](https://www.givedirectly.org/)
 
-Katia passe alors ses journées à améliorer son application la nuit, et à promouvoir SmartPoop le jour. Elle intervient, en particulier, dans les instituts de recherche, dans les hôpitaux et dans les établissements d'hébergement pour personnes âgées dépendantes, mais aussi dans les réseaux d'entrepreneurs comme Station F à Paris. Son TEDx à la London School of Economics lui vaut une ovation d'un public conquis par l'opportunité sanitaire.
+Katia passe alors tout son temps à améliorer SmartPoop. Elle développe l'application la nuit et en fait la promotion le jour. Elle intervient, en particulier, dans les instituts de recherche, dans les hôpitaux et dans les établissements d'hébergement pour personnes âgées dépendantes, mais aussi dans les réseaux d'entrepreneurs comme Station F à Paris. Son TEDx à la London School of Economics lui vaut une ovation d'un public conquis par l'opportunité sanitaire.
 
 Cependant, après des mois de promotion, SmartPoop ne décolle pas. Si l'application est téléchargée 1587 fois, elle n'est utilisée quotidiennement que par 75 utilisateurs[^retention] (dont une vingtaine parmi les proches de Katia et Marc). En juillet 2019, quatre mois après la mise en ligne de l'application, Katia se rend à l'évidence : SmartPoop est un échec.
 
@@ -142,7 +142,7 @@ Cependant, après des mois de promotion, SmartPoop ne décolle pas. Si l'applica
 
 [^foodvisor]: D'autres initiatives plus ludiques ont dès aujourd'hui un succès commercial, comme l'application [Foodvisor](https://www.foodvisor.io/) qui permet d'estimer les calories dans un repas à partir d'une photo.
 
-Katia décide alors de rentrer dans le rang, et accepte un emploi de développement informatique dans une grande entreprise, qu'elle débute en septembre. Cependant, malgré l'environnement de travail exceptionnel qui lui est offert, Katia n'est pas particulièrement enthousiasmée par son travail. Mais au moins, se dit-elle, celui-ci lui permet de payer son loyer.
+Katia décide alors de rentrer dans le rang en acceptant un emploi de développement informatique dans une grande entreprise, qu'elle débute en septembre. Cependant, malgré l'environnement de travail exceptionnel qui lui est offert, Katia n'est pas particulièrement enthousiasmée par son travail. Mais au moins, se dit-elle, celui-ci lui permet de payer son loyer.
 
 ### Le ROVID-19
 
@@ -314,7 +314,7 @@ En décembre 2020, SmartPoop possède désormais près de 100 millions d'utilisa
 
 > C'est super, explique Marc, invité à paraître sur Science4Alpha. Le taux de reproduction de base du ROVID-19 est autour de 8. Si on suppose que dès qu'un individu est diagnostiqué positif par SmartPoop, alors lui et ses colocataires s'isolent chez eux, sachant que le taux d'erreur est de 10%, on devrait ainsi diviser le taux de reproduction par 10, ce qui théoriquement nous ramène à 0,8. Comme 0,8 est en dessous de 1, cela nous donne une chance de contenir le ROVID-19, sans requérir de confinement global. Mais bien sûr, il ne s'agit là que d'estimations. Il reste crucial que l'on prenne encore soin de la distanciation physique, des gestes barrières et du port de couche, et de surveiller constamment le taux de reproduction effectif qui détermine comment la maladie se propage. Mais il y a maintenant l'espoir de retrouver une vie normale. Enfin !
 
-Petit à petit, tous les pays au monde adoptent SmartPoop, désormais utilisé par 3 milliards d'humains sur terre. Le ROVID-19 est alors contenu à quelques milliers de cas seulement par pays. Fin 2021, l'Organisation Mondiale de la Santé l'annonce publiquement. Grâce à SmartPoop, dont la précision atteint désormais 99%, le ROVID-19 est désormais déclaré sous contrôle.
+Petit à petit, tous les pays au monde adoptent SmartPoop, désormais utilisé par 3 milliards d'humains sur terre. Le ROVID-19 est alors contenu à quelques milliers de cas seulement par pays. Fin 2021, l'Organisation Mondiale de la Santé l'annonce publiquement : "Grâce à SmartPoop, dont la précision atteint désormais 99%, le ROVID-19 est désormais déclaré sous contrôle."
 
 
 ## Pour aller plus loin
