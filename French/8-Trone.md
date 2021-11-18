@@ -215,7 +215,7 @@ Katia marque à nouveau une pause, jusqu'à ce qu'elle entende quelqu'un dans le
 
 > Le vote, oui ! Dans beaucoup de pays à travers le monde, quand une décision collective doit être prise, on essaie souvent de se ramener à une question avec une réponse oui ou non, et on demande au peuple de voter pour oui, ou pour non ? C'est ainsi que l'on tranche des désaccords irréconciliables. En fait, quand on y pense, c'est absolument remarquable que dans les démocraties à travers le monde, nous nous sommes mis d'accord sur comment nous mettre d'accord, même quand nous sommes d'accord sur le fait que nous ne finirons pas par être d'accord sur ce qu'il faudrait faire[^meta-ethique] !
 
-[^meta-ethique] : Techniquement, cela correspond à trouver un consensus sur la méta-éthique plutôt que sur l'éthique elle-même. L'espoir ici est que nous sommes plus susceptibles d'être d'accord sur la méta-éthique que sur l'éthique. En fait, même les considérations méta-éthiques sont susceptibles de rester polarisées, comme la façon d'allouer les droits de vote, auquel cas une méta-méta-éthique peut être nécessaire pour trouver un accord.
+[^meta-ethique]: Techniquement, cela correspond à trouver un consensus sur la méta-éthique plutôt que sur l'éthique elle-même. L'espoir ici est que nous sommes plus susceptibles d'être d'accord sur la méta-éthique que sur l'éthique. En fait, même les considérations méta-éthiques sont susceptibles de rester polarisées, comme la façon d'allouer les droits de vote, auquel cas une méta-méta-éthique peut être nécessaire pour trouver un accord.
 
 Katia s'arrête quelques secondes.
 
