@@ -94,7 +94,7 @@ Dans les jours qui suivent, Katia et Marc passent leur temps à discuter de ce p
 [^smart-toilet]: Il existe bel et bien des projets de toilettes intelligentes, ou *smart toilets*. Notamment une publication dans le journal scientifique *Nature Biomedical Engineering* sur un prototype, capable d'effectuer de la reconnaissance... anale !  
 [**Science.**  A mountable toilet system for personalized health monitoring via the analysis of excreta. Seung-min Park et al. Nature Biomedical Engineering (2020).](https://www.nature.com/articles/s41551-020-0534-9)
 
-C'est ainsi qu'est conçu petit à petit "SmartPoop", destiné à être une application de collecte d'échantillons photographiques de matière fécale et d'analyse automatisée de ces images à l'aide d'algorithmes de machine learning. Pendant les mois qui suivent, Katia écrit sa thèse de doctorat le jour, et programme SmartPoop jusque tard dans la nuit.
+C'est ainsi qu'est conçu petit à petit « SmartPoop », destiné à être une application de collecte d'échantillons photographiques de matière fécale et d'analyse automatisée de ces images à l'aide d'algorithmes de machine learning. Pendant les mois qui suivent, Katia écrit sa thèse de doctorat le jour, et programme SmartPoop jusque tard dans la nuit.
 
 Pendant ce temps, Marc s'informe sur la coprologie. Il télécharge des bases de données publiques d'excréments, et prend le soin de vérifier leurs annotations[^annotations]. Certains excréments sont des petites boules solides ; une nette indication de constipation. D'autres sont une bouillie presque liquide ; une bonne grosse diarrhée. Certains étrons ont une forme parfaitement ondulée ; un signe de très bonne santé intestinale[^etrons] ! La couleur donne aussi des informations sur le fonctionnement du foie ou la présence de sang.
 
@@ -314,7 +314,7 @@ En décembre 2020, SmartPoop possède désormais près de 100 millions d'utilisa
 
 > C'est super, explique Marc, invité à paraître sur Science4Alpha. Le taux de reproduction de base du ROVID-19 est autour de 8. Si on suppose que dès qu'un individu est diagnostiqué positif par SmartPoop, alors lui et ses colocataires s'isolent chez eux, sachant que le taux d'erreur est de 10%, on devrait ainsi diviser le taux de reproduction par 10, ce qui théoriquement nous ramène à 0,8. Comme 0,8 est en dessous de 1, cela nous donne une chance de contenir le ROVID-19, sans requérir de confinement global. Mais bien sûr, il ne s'agit là que d'estimations. Il reste crucial que l'on prenne encore soin de la distanciation physique, des gestes barrières et du port de couche, et de surveiller constamment le taux de reproduction effectif qui détermine comment la maladie se propage. Mais il y a maintenant l'espoir de retrouver une vie normale. Enfin !
 
-Petit à petit, tous les pays au monde adoptent SmartPoop, désormais utilisé par 3 milliards d'humains sur terre. Le ROVID-19 est alors contenu à quelques milliers de cas seulement par pays. Fin 2021, l'Organisation Mondiale de la Santé l'annonce publiquement : "Grâce à SmartPoop, dont la précision atteint désormais 99%, le ROVID-19 est désormais déclaré sous contrôle."
+Petit à petit, tous les pays au monde adoptent SmartPoop, désormais utilisé par 3 milliards d'humains sur terre. Le ROVID-19 est alors contenu à quelques milliers de cas seulement par pays. Fin 2021, l'Organisation Mondiale de la Santé l'annonce publiquement : « Grâce à SmartPoop, dont la précision atteint désormais 99%, le ROVID-19 est désormais déclaré sous contrôle. »
 
 
 ## Pour aller plus loin
