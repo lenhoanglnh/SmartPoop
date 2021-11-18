@@ -1,5 +1,5 @@
 Here are some ideas for future chapters.
-These chapters will not be added to the released SmartPoop 1.0 in December 2021.
+These chapters will not be added to the released [SmartPoop 1.0](README.md) in December 2021.
 The goal is rather to add them for a future SmartPoop 2.0.
 
 - Human trafficking (between Chapters 5 and 6 of SmartPoop 1.0) : SmartPoop is used by prostitution and pedophilia organizations, to certify the "quality" of prostitutes against sexually transmitted diseases. When SmartPoop is made aware of the case, Katia decides to do nothing, because she doesn't see what can be done. But when Apple threatens to remove SmartPoop from the Apple Store, Katia realizes that SmartPoop is then complicit in human trafficking, which is severely punishable by law.
