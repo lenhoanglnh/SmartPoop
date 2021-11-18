@@ -87,7 +87,7 @@ Le lendemain soir, avant de manger, Lucile dit à Jeanne : « Je veux que tu pr
 
 > Je vais me coucher, mais je ne prendrai pas tes trois doses. Tu délires complètement.
 
-Lucile prend alors une boîte de magnésium et la lance sur sa fille qui reçoit la boîte dans l'œil. S'en rendant compte, Lucile court vers Jeanne pour s'excuser. Mais Jeanne se lève alors et court vers sa chambre en pleurant. Au moment de quitter la salle à manger, elle se retourne vers Lucile et lui dit : « Tu devrais avoir honte de la manière dont tu traites ta fille. »
+Lucile prend alors une boîte de magnésium et la lance sur sa fille qui reçoit la boîte dans l'œil. S'en rendant compte, Lucile court vers Jeanne pour s'excuser. Mais Jeanne se lève alors et court vers sa chambre en pleurant. Au moment de quitter la salle à manger, elle se retourne vers sa mère et lui dit : « Tu devrais avoir honte de la manière dont tu traites ta fille. »
 
 Seule et au bord des larmes, impuissante et se sentant détestée, Lucile trouve refuge dans les groupes Facebook qu'elle a fréquentés la veille[^radicalisation]. Elle lit le témoignage d'autres internautes qui partagent une expérience similaire : « Ma famille est aveugle et naïve ». « Ma femme ne veut pas me croire ». « J'ai décidé de rajouter le magnésium directement dans la sauce que je leur sers ». Cette dernière citation inspire Lucile. Pour sauver sa fille et la protéger de tout risque de cancer, Lucile décide désormais d'insérer directement le magnésium dans la nourriture qu'elle prépare.
 
@@ -99,7 +99,7 @@ Les jours qui suivent, malgré les excuses répétées de Lucile, les repas de f
 
 [^Hypokalemia]: En fait, une grave déficience en potassium, appelée [hypokaliémie](https://fr.wikipedia.org/wiki/Hypokali%C3%A9mie), est aussi dangereuse pour la santé. Tout comme un excès de potassium, appelé [hyperkaliémie](https://fr.wikipedia.org/wiki/Hyperkali%C3%A9mie).
 
-Le groupe Facebook fétiche de Lucile explique que chaque individu est unique et que les dosages de magnésium peuvent beaucoup varier entre les individus. De fait, si le potassium ne baisse pas, il faut augmenter les doses de magnésium. Le groupe ajoute que les diarrhées qui peuvent en découler sont le signe que le traitement commence à fonctionner[^overdose-de-magnesium]. Convaincue par ces explications, Lucile décide alors d'augmenter les doses de magnésium, tout en prenant soin que le taux de magnésium dans les excréments ne dépasse jamais le seuil considéré dangereux par les sites web qu'elle fréquente. Semaine après semaine, ces doses augmentent. Elles passent à deux doses par jour par personne, puis à quatre, puis à huit. Rien n'y fait pourtant. L'application indique que Jeanne a constamment la diarrhée mais les taux de potassium ne diminuent pas. Ceci dit, dans le même temps, les taux de magnésium n'atteignent pas les seuils jugés dangereux.
+Le groupe Facebook fétiche de Lucile explique que chaque individu est unique et que les dosages de magnésium peuvent beaucoup varier entre les individus. De fait, si le potassium ne baisse pas, il faut augmenter les doses de magnésium. Le groupe ajoute que les diarrhées qui peuvent en découler sont le signe que le traitement commence à fonctionner[^overdose-de-magnesium]. Convaincue par ces explications, Lucile décide alors d'augmenter les doses de magnésium, tout en prenant soin que le taux de magnésium dans les excréments ne dépasse jamais le seuil considéré dangereux par les sites web qu'elle fréquente. Semaine après semaine, ces doses augmentent. Elles passent à quatre doses par jour par personne, puis à six, puis à huit. Rien n'y fait pourtant. L'application indique que Jeanne a constamment la diarrhée mais les taux de potassium ne diminuent pas. Ceci dit, dans le même temps, les taux de magnésium n'atteignent pas les seuils jugés dangereux.
 
 [^overdose-de-magnesium]: L'excès de magnésium conduit effectivement à des diarrhées.  
 [**Science.**  Fecal Excretion of Soluble Magnesium by Humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1010963/). David Saunders and Hugh Wiggins. Western Journal of Medicine (1983).
@@ -158,7 +158,7 @@ Katia va alors dans son bureau, suivie de Marc. Elle ouvre son ordinateur, et ta
 
 > C'est beaucoup ! Mais bon, il suffit de payer, non ?
 
-> Ce n'est pas si simple, Marc. Si ça, c'est arrivé à une personne...
+> Ce n'est pas si simple, Marc. Si c'est arrivé à une personne...
 
 > Ça va arriver à plein d'autres personnes aussi !
 
