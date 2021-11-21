@@ -2,7 +2,7 @@
 ## The AI that went where no human will ever go
 
 <figure style="float:right;align:right; width:50%">
-  <img src="../SmartPoop.jpg" alt="SmartPoop.jpg">
+  <img src="SmartPoop.jpg" alt="SmartPoop.jpg">
   <figcaption>Illustration by <a href="https://tibodetroy.blogspot.com/">Thibault Roy</a>.</figcaption>
 </figure>
 
