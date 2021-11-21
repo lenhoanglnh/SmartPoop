@@ -16,9 +16,7 @@ published under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 [Chapitre 7 — Pissed](7-psy.md)  
 [Chapitre 8 — On the throne](8-throne.md)  
 
-![Illustration of SmartPoop by Thibault Roy](../SmartPoop.jpg "Illustration of SmartPoop by Thibault Roy")
-(Illustration of SmartPoop by [Thibault Roy](https://tibodetroy.blogspot.com/?fbclid=IwAR0h-C-Mroff18an2xHDyMfGd95nzzSn0N4MxkQJTm84uWF2BEvjwhMR820))
-
+<img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="200" style="float:right" />
 
 ## Why this book?
 
