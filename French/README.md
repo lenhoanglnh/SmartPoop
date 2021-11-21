@@ -18,8 +18,8 @@ Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et
 [Chapitre 7 — On se fait dessus](7-Psy.md)  
 [Chapitre 8 — Sur le trône](8-Trone.md)  
 
-![Illustration de SmartPoop par Thibault Roy](../SmartPoop.jpg =250x250)
-(Illustration de SmartPoop par [Thibault Roy](https://tibodetroy.blogspot.com/?fbclid=IwAR0h-C-Mroff18an2xHDyMfGd95nzzSn0N4MxkQJTm84uWF2BEvjwhMR820))
+<img src="../SmartPoop.jpg" alt="Illustration de SmartPoop par Thibault Roy" data-canonical-src="../SmartPoop.jpg" width="100" />
+(Illustration de SmartPoop par [Thibault Roy](https://tibodetroy.blogspot.com/))
 
 ## Pourquoi ce livre ?
 
