@@ -1,6 +1,8 @@
 # SmartPoop 1.0
 ## L'histoire d'une IA qui se lâche
 
+<img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="400" align="right" />
+
 Bienvenue dans le github du livre *SmartPoop 1.0*, co-écrit par Lê Nguyên Hoang et Tristan Le Magoarou,
 publié sous [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (réutilisable librement à condition de citer les auteurs originaux).  
 Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et en [pdf](SmartPoop-fr.pdf).  
@@ -8,8 +10,6 @@ Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et
 **Le livre est actuellement en bêta test. Nous vous serions très reconnaissants de bien vouloir nous envoyer vos corrections, si possible directement sous la forme d'un commit sur GitHub.**  
 
 ## Sommaire
-
-<img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="200" align="right" />
 
 [Chapitre 1 — L'or marron](1-L'or.md)  
 [Chapitre 2 — Filtrer les données fécales](2-Filtrer.md)  
