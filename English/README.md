@@ -1,7 +1,7 @@
 # SmartPoop 1.0
 <img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="400" align="right" />
 
-## The AI that went where no human will ever go
+## This AI went where no human will ever go
 
 Welcome to *SmartPoop 1.0*, a novel written by Lê Nguyên Hoang and Tristan Le Magoarou,
 published under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
