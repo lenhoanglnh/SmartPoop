@@ -1,7 +1,7 @@
 # SmartPoop 1.0
-## L'histoire d'une IA qui se lâche
-
 <img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="400" align="right" />
+
+## L'histoire d'une IA qui se lâche
 
 Bienvenue dans le github du livre *SmartPoop 1.0*, co-écrit par Lê Nguyên Hoang et Tristan Le Magoarou,
 publié sous [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (réutilisable librement à condition de citer les auteurs originaux).  
@@ -50,6 +50,10 @@ Enfin, Lê est Président de [l'Association Tournesol](https://wiki.tournesol.ap
 Docteur en médecine, spécialiste en santé publique et médecine sociale, Tristan Le Magoarou est médecin d'information médicale et de santé publique dans un centre hospitalier de province.
 Il est également, depuis 2016, YouTubeur sur sa chaîne Risque Alpha qui possède 26 000 abonnés où il vulgarise l'épidémiologie et les statistiques.
 
+### Autres
+
+L'illustration du livre a été réalisée par [Thibault Roy](https://tibodetroy.blogspot.com/).
+Le livre résulte par ailleurs d'interactions avec un grand nombre de personnes envers lesquelles les auteurs sont très redevables, dont El Mahdi El Mhamdi, Mariame Tighanimine, Sébastien Rouault, Ly An Hoang, Aidan Jungo, Alexandre Maurer, Sylvain Hippolyte, Felix Grimberg et Oscar Villemaud, parmi d'autres.
 
 ## À propos de l'écriture du livre
 

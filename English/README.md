@@ -1,7 +1,7 @@
 # SmartPoop 1.0
-## The AI that went where no human will ever go
-
 <img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="400" align="right" />
+
+## The AI that went where no human will ever go
 
 Welcome to *SmartPoop 1.0*, a novel written by Lê Nguyên Hoang and Tristan Le Magoarou,
 published under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
@@ -49,6 +49,10 @@ Finally, Lê is Président of the [Tournesol Association](https://wiki.tournesol
 Doctor of Medicine, specialist in public health and social medicine, Tristan Le Magoarou is a medical information and public health doctor in a provincial hospital center.
 He is also, since 2016, a YouTuber on his channel [Risque Alpha](https://www.youtube.com/c/RisqueAlpha) which has 27,000 subscribers where he popularizes epidemiology and statistics.
 
+### Autres
+
+The illustration of the book was made by [Thibault Roy](https://tibodetroy.blogspot.com/).
+The book also results from many interactions with a large number of people to which the authors are indebted, including El Mahdi El Mhamdi, Mariame Tighanimine, Sébastien Rouault, Ly An Hoang, Aidan Jungo, Alexandre Maurer, Sylvain Hippolyte, Felix Grimberg and Oscar Villemaud, among others.
 
 ## About the writing of the book
 
