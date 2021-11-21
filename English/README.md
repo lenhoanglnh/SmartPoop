@@ -16,6 +16,10 @@ published under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 [Chapitre 7 — Pissed](7-psy.md)  
 [Chapitre 8 — On the throne](8-throne.md)  
 
+![Illustration of SmartPoop by Thibault Roy](../SmartPoop.jpg "Illustration of SmartPoop by Thibault Roy")
+(Illustration of SmartPoop by [Thibault Roy](https://tibodetroy.blogspot.com/?fbclid=IwAR0h-C-Mroff18an2xHDyMfGd95nzzSn0N4MxkQJTm84uWF2BEvjwhMR820))
+
+
 ## Why this book?
 
 *SmartPoop 1.0* aims to be a very realist science fiction,
