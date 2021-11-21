@@ -9,6 +9,8 @@ Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et
 
 ## Sommaire
 
+<img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="200" align="right" />
+
 [Chapitre 1 — L'or marron](1-L'or.md)  
 [Chapitre 2 — Filtrer les données fécales](2-Filtrer.md)  
 [Chapitre 3 — Le biais étroniste](3-Biais.md)  
@@ -17,10 +19,6 @@ Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et
 [Chapitre 6 — Le marché marron](6-Pub.md)  
 [Chapitre 7 — On se fait dessus](7-Psy.md)  
 [Chapitre 8 — Sur le trône](8-Trone.md)  
-
-<img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="200" style="float:right" />
-
-(Illustration par [Thibault Roy](https://tibodetroy.blogspot.com/).)
 
 ## Pourquoi ce livre ?
 

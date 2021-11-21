@@ -3,9 +3,12 @@
 
 Welcome to *SmartPoop 1.0*, a novel written by Lê Nguyên Hoang and Tristan Le Magoarou,
 published under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+
 **The book is currently in beta test.**  
 
 ## Outline
+
+<img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="200" align="right" />
 
 [Chapitre 1 — The brown gold](1-gold.md)  
 [Chapitre 2 — Filtering fecal data](2-filter.md)  
@@ -15,10 +18,6 @@ published under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 [Chapitre 6 — The brown market](6-ad.md)  
 [Chapitre 7 — Pissed](7-psy.md)  
 [Chapitre 8 — On the throne](8-throne.md)  
-
-<img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="200" style="float:right" />
-
-(Illustration by [Thibault Roy](https://tibodetroy.blogspot.com/).)
 
 ## Why this book?
 
