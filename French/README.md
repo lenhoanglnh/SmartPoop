@@ -9,10 +9,16 @@ Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et
 
 ## Sommaire
 
-<p style="float:right">
-<img src="../SmartPoop.jpg" alt="Illustration de SmartPoop par Thibault Roy" data-canonical-src="../SmartPoop.jpg" width="200" />
-(Illustration de SmartPoop par [Thibault Roy](https://tibodetroy.blogspot.com/))
-</p>
+<table class="image" style="float: right;">
+<tbody>
+<tr>
+<td><img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="200" /></td>
+</tr>
+<tr>
+<td class="caption"><i><small>Illustration de SmartPoop par [Thibault Roy](https://tibodetroy.blogspot.com/).</small></i></td>
+</tr>
+</tbody>
+</table>
 
 [Chapitre 1 — L'or marron](1-L'or.md)  
 [Chapitre 2 — Filtrer les données fécales](2-Filtrer.md)  
