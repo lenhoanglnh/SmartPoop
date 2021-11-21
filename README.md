@@ -1,4 +1,4 @@
-<img src="SmartPoop.jpg" alt="SmartPoop.jpg" width="400" align="right" />
+<img src="SmartPoop.jpg" alt="SmartPoop.jpg" width="350" align="right" />
 
 # SmartPoop 1.0
 
