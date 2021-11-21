@@ -1,6 +1,8 @@
 # SmartPoop 1.0
 ## The AI that went where no human will ever go
 
+![Illustration of SmartPoop by Thibault Roy](SmartPoop.jpg "Illustration of SmartPoop by Thibault Roy")
+
 This github hosts the science-fiction book *SmartPoop 1.0*, under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 The book is planned to be self-published, in [English](English/README.md) and in [French](French/README.md), by the end of November 2021, so that it can be offered as a Christmas present.
 
