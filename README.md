@@ -1,5 +1,5 @@
+<img src="SmartPoop.jpg" alt="SmartPoop.jpg" width="400" align="right" />
 # SmartPoop 1.0
-<img src="SmartPoop.jpg" alt="SmartPoop.jpg" width="500" align="right" />
 
 ## The AI that went where no human will ever go
 
