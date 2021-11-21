@@ -19,7 +19,7 @@ Le livre est disponible sur [GitHub](1-L'or.md), en [epub](SmartPoop-fr.epub) et
 [Chapitre 8 — Sur le trône](8-Trone.md)  
 
 <img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="200" />
-( Illustration par [Thibault Roy](https://tibodetroy.blogspot.com/) )
+Illustration par [Thibault Roy](https://tibodetroy.blogspot.com/).
 
 ## Pourquoi ce livre ?
 

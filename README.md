@@ -5,7 +5,7 @@ This github hosts the science-fiction book *SmartPoop 1.0*, under [licence CC BY
 The book is planned to be self-published, in [English](English/README.md) and in [French](French/README.md), by the end of November 2021, so that it can be offered as a Christmas present.
 
 <img src="SmartPoop.jpg" alt="SmartPoop.jpg" width="400" style="float:right" />
-( Illustration by [Thibault Roy](https://tibodetroy.blogspot.com/) )
+Illustration by [Thibault Roy](https://tibodetroy.blogspot.com/).
 
 The [English version](English/README.md) is in beta test, on [github](English/1-gold.md), [epub](English/SmartPoop.epub) et [pdf](English/SmartPoop.pdf).
 
