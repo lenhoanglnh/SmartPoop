@@ -17,7 +17,7 @@ published under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 [Chapitre 8 — On the throne](8-throne.md)  
 
 <img src="../SmartPoop.jpg" alt="SmartPoop.jpg" width="200" />
-(Illustration by [Thibault Roy](https://tibodetroy.blogspot.com/))
+( Illustration by [Thibault Roy](https://tibodetroy.blogspot.com/) )
 
 ## Why this book?
 
