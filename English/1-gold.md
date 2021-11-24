@@ -1,6 +1,6 @@
 # 1. The brown gold
 
-After he opened a bottle of champagne opened and filled the glasses, Marc Rofstein asks for the attention of the five guests of the evening organized by Katia Crapinski, in their flat.
+After he opened a bottle of champagne and filled the glasses, Marc Rofstein asks for the attention of the five guests of the evening organized by Katia Crapinski, in their flat.
 
 > Dear friends, I would like us to take a few moments to solemnly congratulate Katia. Her latest research paper has been accepted for publication[^publication], which means that Katia now has everything she needs to write and validate her PhD thesis in machine learning[^thesis]. So, with this great news in mind, I'd like to invite you to raise your glasses, and celebrate the soon-to-be-Doctor Crapinski for her accomplishments - even if, unlike me, Katia won't be a life-saving doctor. Here's to soon-to-be Dr. Crapinski!
 
