@@ -19,19 +19,19 @@ Issa, the avid sportsman who likes to track his fitness, then clicks on the spec
 
 A few days later, SmartPoop's SmartToilet Deluxe is delivered and installed at Issa's home. That evening, Issa went to test his new toilet with a big smile and some hesitation. As he approaches the toilet, the lid opens automatically. Issa then sits down on the bowl. A strange feeling of warmth accompanies his contact with the bowl. "It's like I'm using the toilet right after someone else... Not very reassuring. But I should probably just get used to it," he says to himself.
 
-> Hello Issa," says a male voice.
+> Hello Issa, says a male voice.
 
 Issa is startled. The toilet has just spoken to him!
 
-> Relax and enjoy the comfort of the SmartToilet Deluxe," she explains. I'm Poo, your voice assistant. Would you prefer I use a female voice[^female-voice]?
+> Relax and enjoy the comfort of the SmartToilet Deluxe, she explains. I'm Poo, your voice assistant. Would you prefer I use a female voice[^female-voice]?
 
 [^female-voice]: After many criticisms about reinforcing gender bias, Apple decided to give Siri a male voice by default.  
 [**Journal.** How AI bots and voice assistants reinforce gender bias. Caitlin Chin and Mishaela Robison. Brookings (2020).](https://www.brookings.edu/research/how-ai-bots-and-voice-assistants-reinforce-gender-bias/)  
 [**Journal.** Apple's Siri is no longer a woman by default, but is this really a win for feminism?. Eleonore Fournier-Tombs. The Conversation (2021).](https://theconversation.com/apples-siri-is-no-longer-a-woman-by-default-but-is-this-really-a-win-for-feminism-164030)
 
-Issa is very disturbed. After a few seconds, he answers: "Yes, I prefer a female voice.
+Issa is very disturbed. After a few seconds, he answers: "Yes, I prefer a female voice".
 
-> "Feel free to tell me how you feel so I can optimize your comfort," says Poo, now with a female voice[^individual-societal].
+> Feel free to tell me how you feel so I can optimize your comfort, says Poo, now with a female voice[^individual-societal].
 
 [^individual-societal]: This example highlights the tension between users' control over the technologies they use and the consequences that this control can have on a social scale. Thus, by allowing the user to customize their technologies, there is a risk that they aggravate, consciously or not, gender bias (in this case), hate speech or misinformation. In the end, this tension resides in John Stuart Mill's harm principle; or more simply put, in the principle "the freedoms of some end where those of others begin".  
 [**Video.** The Harm Principle: How to live your life the way you want to. BBC Radio 4 (2014).](https://www.youtube.com/watch?v=R9IM3ZKNMCk)
@@ -87,7 +87,7 @@ Terrified, Issa leaves his house, gets into his car and drives straight to the h
 
 After a minute or two, Issa is taken care of.
 
-> Hello Issa, I'm Dr. Paola Marta. You should know that we are used to dealing with SmartPoop emergencies. For the past two years, most of our patients have come in as a result of a SmartPoop alert, and the report they send us always helps us a lot in caring for our patients[^familiarity]. How do you feel?
+> Hello Mister Gueye, I'm Dr. Paola Marta. You should know that we are used to dealing with SmartPoop emergencies. For the past two years, most of our patients have come in as a result of a SmartPoop alert, and the report they send us always helps us a lot in caring for our patients[^familiarity]. How do you feel?
 
 [^familiarity]: According to a recent study, most people do indeed seem to trust an algorithm's judgments more than a human's, at least for some predictions like Tesla's success, European sanctions against cyberwarfare, or the future of Brexit. Disturbingly, however, experienced professionals, on the other hand, trust algorithms less, leading them to worse judgments than non-professionals when given an algorithmic advice!  
 [**Paper.** Algorithm appreciation: People prefer algorithmic to human judgment. Jennifer Logg, Julia Minsona & Don Moore. Organizational Behavior and Human Decision Processes (2019).](https://www.sciencedirect.com/science/article/abs/pii/S0749597818303388)  
@@ -165,7 +165,7 @@ Security-drivent algorithms are usually designed to ignore out-of-distribution d
 
 > What do you mean?
 
-> Issa's video data are perfectly normal. It is his spectrographic data that is reported as "very concerning". But I'm afraid that's because Issa is a statistically very different SmartToilet Deluxe user from other SmartToilet Deluxe users.
+> Issa Gueye's video data are perfectly normal. It is his spectrographic data that is reported as "very concerning". But I'm afraid that's because Issa Gueye is a statistically very different SmartToilet Deluxe user from other SmartToilet Deluxe users.
 
 > He's Senegalese.
 
@@ -175,11 +175,11 @@ Security-drivent algorithms are usually designed to ignore out-of-distribution d
 
 Marc dials Dr. Marta's number.
 
-> Hello Dr. Marta, this is Marc. You are currently on speakerphone with Katia and me, President and Vice President of SmartPoop. We have an update on Issa's case.
+> Hello Dr. Marta, this is Marc Rofstein. You are currently on speakerphone with Katia Crapinski and myself, President and Vice President of SmartPoop. We have an update on Issa Gueye's case.
 
-> Hello Dr. Marta, this is Katia. I've analyzed Issa's case, and I'm pretty sure it's a false positive. In other words, SmartPoop made a mistake in reporting a problem with Issa's data.
+> Hello Dr. Marta, this is Katia. I've analyzed Mr. Gueye's case, and I'm pretty sure it's a false positive. In other words, SmartPoop made a mistake in reporting a problem with Mr Gueye's data.
 
-> Hello Marc and Katia, replies Dr. Marta. Are you sure of what you are saying? Issa has some worrying symptoms, especially on the digestive level and in terms of fatigue.
+> Hello Marc and Katia, replies Dr. Marta. Are you sure of what you are saying? Mr. Gueye has some worrying symptoms, especially on the digestive level and in terms of fatigue.
 
 > This is weird. The data I have doesn't seem to suggest symptoms of concern, says Katia.
 
@@ -189,15 +189,15 @@ Marc dials Dr. Marta's number.
 
 > A *nocebo* effect, asks Katia, what's that?
 
-> When a patient thinks that something horrible is going to happen to him, they often develop the symptoms they fear, explains Marc. Digestive symptoms, for example, are quite likely. Issa probably trusts SmartPoop so much that when SmartPoop told him it was very concerned about his condition, his condition became very concerning[^nocebo].
+> When a patient thinks that something horrible is going to happen to him, they often develop the symptoms they fear, explains Marc. Digestive symptoms, for example, are quite likely. Mr. Gueye probably trusts SmartPoop so much that when SmartPoop told him it was very concerned about his condition, his condition became very concerning[^nocebo].
 
 [^nocebo]: [**Video.** This Video Will Hurt. CGP Grey (2013).](https://www.youtube.com/watch?v=O2hO4_UEe-4)
 
-> But explain to me, asks Dr. Marta. Why was his case of false positive? Until now, whenever SmartPoop declared a case of "highly concerning" in our hospital, it always ended up in the intensive care unit, and then in death. That's why I panicked about Issa myself - which probably contributed to his *nocebo*.
+> But explain to me, asks Dr. Marta. Why was his case of false positive? Until now, whenever SmartPoop declared a case of "highly concerning" in our hospital, it always ended up in the intensive care unit, and then in death. That's why I panicked about Mr. Gueye myself - which probably contributed to his *nocebo*.
 
 > We just rolled out the SmartToilets and SmartToilets Deluxe, says Katia. I think that the SmartToilets make quite reliable diagnostics. But the Deluxe version has even more advanced sensors, which have not been used as much as the basic SmartToilets. And that's why it's not quite as reliable.
 
-> I understand, thank you, says Dr. Marta. I'll let Issa know. Hopefully, it will help cure his *nocebo*. Can I ask you to manually correct his SmartPoop?
+> I understand, thank you, says Dr. Marta. I'll let Mr. Gueye know. Hopefully, it will help cure his *nocebo*. Can I ask you to manually correct his SmartPoop?
 
 > It's... done, says Katia, after entering some commands on her computer.
 
@@ -279,11 +279,11 @@ After a silence, Marc adds, "I think it's a waste of time. The 163 victims have 
 
 > What do you mean "for which we are responsible"? All we've done is issue alerts. SmartPoop is only an aid to decision-making.
 
-> The problem is that our users trust SmartPoop so much that our decision aids have become decisions for the users. You saw it with Issa's case. When we told him to go to the emergency room, do you think he took that as a decision aid? No, he thought, oh boy, I have to go to the emergency room[^help-decision]. And worse than that, he developed symptoms!
+> The problem is that our users trust SmartPoop so much that our decision aids have become decisions for the users. You saw it with Mr. Gueye's case. When we told him to go to the emergency room, do you think he took that as a decision aid? No, he thought, oh boy, I have to go to the emergency room[^help-decision]. And worse than that, he developed symptoms!
 
 [^help-decision]: When a decision support algorithm becomes powerful, it seems important to see it as more than just a decision "aid". Like Google Map, such algorithms can end up being listened to almost blindly by their users, so that the decision aid becomes essentially the decision itself.
 
-> OK. But it's not like we tortured Issa!
+> OK. But it's not like we tortured Mr. Gueye!
 
 > I've seen some terrifying *nocebo* experiments. In one of them, a patient just sits there. Nothing is done to her. But she is put in conditions that are conducive to *nocebo*. On a scale from 0 to 10, the patient reported a pain of 9.5. A pain of 9.5 out of 10! Like, it was probably for her comparable to the pain of childbirth[^experience-nocebo]!
 

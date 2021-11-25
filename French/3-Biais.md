@@ -87,7 +87,7 @@ Terrifié, Issa ressort de chez lui, prend la voiture et va directement à l'hô
 
 Après une minute ou deux, Issa est pris en charge.
 
-> Bonjour Issa, je suis Dr. Paola Marta. Sachez que nous avons l'habitude de gérer des urgences SmartPoop. Depuis deux ans, la plupart de nos patients sont venus suite à une alerte SmartPoop, et le rapport qu'ils nous envoient nous aide toujours beaucoup à soigner nos patients[^familiarite]. Comment vous sentez-vous ?
+> Bonjour monsieur Gueye, je suis Dr. Paola Marta. Sachez que nous avons l'habitude de gérer des urgences SmartPoop. Depuis deux ans, la plupart de nos patients sont venus suite à une alerte SmartPoop, et le rapport qu'ils nous envoient nous aide toujours beaucoup à soigner nos patients[^familiarite]. Comment vous sentez-vous ?
 
 [^familiarite]: D'après une étude récente, la plupart des gens semblent faire en effet davantage confiance aux jugements d'un algorithme que d'un humain, au moins pour certaines prédictions comme le succès de Tesla, des sanctions européennes contre la cyber-guerre ou le futur du Brexit. De façon toutefois perturbante, les professionnels expérimentés, eux, font moins confiance aux algorithmes, ce qui les conduit à de moins bons jugements que les non-professionnels !  
 [**Science.**  Algorithm appreciation: People prefer algorithmic to human judgment. Jennifer Logg, Julia Minsona & Don Moore. Organizational Behavior and Human Decision Processes (2019).](https://www.sciencedirect.com/science/article/abs/pii/S0749597818303388)  
@@ -166,7 +166,7 @@ Les algorithmes qui prévilégient la sécurité sont alors conduits à ignorer 
 
 > Qu'est-ce que tu veux dire ?
 
-> Les données vidéos d'Issa sont parfaitement normales. Ce sont ses données spectrographiques qui sont signalées « très préoccupantes ». Mais je crains que ce soit parce qu'Issa est un utilisateur de SmartToilet Deluxe statistiquement très différent des autres utilisateurs de SmartToilet Deluxe.
+> Les données vidéos d'Issa Gueye sont parfaitement normales. Ce sont ses données spectrographiques qui sont signalées « très préoccupantes ». Mais je crains que ce soit parce que monsieur Gueye est un utilisateur de SmartToilet Deluxe statistiquement très différent des autres utilisateurs de SmartToilet Deluxe.
 
 > Il est sénégalais.
 
@@ -176,11 +176,11 @@ Les algorithmes qui prévilégient la sécurité sont alors conduits à ignorer 
 
 Marc compose le numéro de Dr. Marta.
 
-> Bonjour Dr. Marta, ici Marc. Vous êtes en ce moment en speakerphone avec Katia et moi, Présidente et Vice-Président de SmartPoop. On a du nouveau sur le cas d'Issa.
+> Bonjour Dr. Marta, ici Marc Rofstein. Vous êtes en ce moment en speakerphone avec Katia Crapinski et moi, Présidente et Vice-Président de SmartPoop. On a du nouveau sur le cas d'Issa Gueye.
 
-> Bonjour Dr. Marta, ici Katia. J'ai analysé le cas d'Issa, et je suis à peu près sûre qu'il s'agit d'un faux positif. Autrement dit, SmartPoop s'est trompé en signalant un problème avec les données d'Issa.
+> Bonjour Dr. Marta, ici Katia. J'ai analysé le cas de monsieur Gueye, et je suis à peu près sûre qu'il s'agit d'un faux positif. Autrement dit, SmartPoop s'est trompé en signalant un problème avec les données de monsieur Gueye.
 
-> Bonjour Marc et Katia, répond Dr. Marta. Vous êtes sûrs de ce que vous dites ? Issa a des symptômes préoccupants, notamment au niveau digestif et en termes de fatigue.
+> Bonjour Marc et Katia, répond Dr. Marta. Vous êtes sûrs de ce que vous dites ? Monsieur Gueye a des symptômes préoccupants, notamment au niveau digestif et en termes de fatigue.
 
 > C'est étrange. Les données que j'ai ne me semblent pas suggérer des symptômes préoccupants, explique Katia.
 
@@ -190,15 +190,15 @@ Marc compose le numéro de Dr. Marta.
 
 > Un effet *nocebo*, demande Katia, qu'est-ce que c'est ?
 
-> Lorsqu'un patient pense qu'il lui arrive quelque chose d'horrible, il peut arriver qu'il développe les symptômes qu'il craint, explique Marc. Des symptômes digestifs par exemple, c'est tout à fait probable. Issa a sans doute une confiance telle en SmartPoop que, lorsque SmartPoop lui a dit que son état de santé était très préoccupant, son état de santé est devenu très préoccupant[^nocebo].
+> Lorsqu'un patient pense qu'il lui arrive quelque chose d'horrible, il peut arriver qu'il développe les symptômes qu'il craint, explique Marc. Des symptômes digestifs par exemple, c'est tout à fait probable. Monsieur Gueye a sans doute une confiance telle en SmartPoop que, lorsque SmartPoop lui a dit que son état de santé était très préoccupant, son état de santé est devenu très préoccupant[^nocebo].
 
 [^nocebo]: [**Vidéo.**  This Video Will Hurt. CGP Grey (2013).](https://www.youtube.com/watch?v=O2hO4_UEe-4)
 
-> Mais expliquez-moi, demande Dr. Marta, pourquoi y a-t-il eu ce cas de faux positif ? Jusque là, à chaque fois que SmartPoop a déclaré un cas « très préoccupant », dans notre hôpital, ça avait toujours terminé en unité de soin intensif, puis en décès. C'est pour ça que j'ai moi-même était paniquée pour Issa — ce qui a sans doute malheureusement contribué à son *nocebo*.
+> Mais expliquez-moi, demande Dr. Marta, pourquoi y a-t-il eu ce cas de faux positif ? Jusque là, à chaque fois que SmartPoop a déclaré un cas « très préoccupant », dans notre hôpital, ça avait toujours terminé en unité de soin intensif, puis en décès. C'est pour ça que j'ai moi-même était paniquée pour monsieur Gueye — ce qui a sans doute malheureusement contribué à son *nocebo*.
 
 > On vient de déployer les SmartToilets et les SmartToilets Deluxe, explique Katia. Je pense que les SmartToilets ont des diagnostics relativement fiables. Mais la version Deluxe a des capteurs encore plus avancés, qui n'ont pas été aussi utilisés que ceux des SmartToilets de base. Et c'est pour cette raison qu'elle n'est pas aussi fiable.
 
-> Je comprends, merci, réponds Dr. Marta. Je vais en informer Issa. Avec un peu de chance, ça aidera à soigner son *nocebo*. Est-ce que je peux vous demander de manuellement corriger son SmartPoop ?
+> Je comprends, merci, réponds Dr. Marta. Je vais en informer monsieur Gueye. Avec un peu de chance, ça aidera à soigner son *nocebo*. Est-ce que je peux vous demander de manuellement corriger son SmartPoop ?
 
 > C'est… fait, dit Katia, après avoir entré quelques commandes sur son ordinateur.
 
@@ -282,11 +282,11 @@ Après un silence, Marc rajoute : « Je pense que c'est peine perdue. Les 163 v
 
 > Comment ça « dont on est responsables » ? Tout ce qu'on a fait, c'est lancer des alertes. SmartPoop n'est qu'une aide à la décision.
 
-> Le problème, c'est que nos utilisateurs font tellement confiance à SmartPoop, que nos aides à la décision sont devenues des décisions pour les utilisateurs. Tu l'as vu avec le cas d'Issa. Quand on lui a dit d'aller aux urgences, tu penses qu'il a pris ça pour une aide à la décision ? Non, il s'est dit, oh mince, il faut que j'aille aux urgences[^aide-decision]. Et pire que cela, il a développé des symptômes !
+> Le problème, c'est que nos utilisateurs font tellement confiance à SmartPoop, que nos aides à la décision sont devenues des décisions pour les utilisateurs. Tu l'as vu avec le cas d'Issa Gueye. Quand on lui a dit d'aller aux urgences, tu penses qu'il a pris ça pour une aide à la décision ? Non, il s'est dit, oh mince, il faut que j'aille aux urgences[^aide-decision]. Et pire que cela, il a développé des symptômes !
 
 [^aide-decision]: Lorsqu'un algorithme d'aide à la décision devient performant, il semble important d'y voir plus qu'une simple « aide » à la décision. À l'instar de Google Map, de tels algorithmes peuvent finir par être écoutés presque aveuglément par leurs utilisateurs, si bien que l'aide à la décision devient finalement essentiellement la décision elle-même.
 
-> OK. Mais ce n'est pas comme si on avait torturé Issa !
+> OK. Mais ce n'est pas comme si on avait torturé monsieur Gueye !
 
 > J'ai vu des expériences de *nocebo* terrifiantes. Dans l'une d'elle, une patiente est simplement assise. On ne lui fait rien. Mais on la met dans des conditions propices au *nocebo*. Sur une échelle de 0 à 10, la patiente rapportait une douleur de 9,5. Une douleur de 9,5 sur 10 !! Genre, c'était probablement pour elle comparable à la douleur de l'accouchement[^experience-nocebo] !
 
