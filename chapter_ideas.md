@@ -6,5 +6,9 @@ The goal is rather to add them for a future SmartPoop 2.0.
 
 - Horoscopes and pseudo-medicine (between Chapters 6 and 7 of SmartPoop 1.0): To enhance the effectiveness of targeted ads, SmartPoop sends highly personalized messages to its users in normal times, with the appearance of a horoscope. The ads reuse what SmartPoop tells its users to be even more effective.
 
-- Employees' revolt (between Chapters 6 and 7 of SmartPoop 1.0): Tell how employees organized themselves to hold SmartPoop hostage, especially how they bypassed the company's communication channels to avoid being monitored. Talk about threats of legal action to convince other employees to cooperate.
+- Employees' revolt (between Chapters 7 and 8 of SmartPoop 1.0): Tell how employees organized themselves to hold SmartPoop hostage, especially how they bypassed the company's communication channels to avoid being monitored.
+
+- Director's lawsuit (between Chapters 7 and 8 of SmartPoop 1.0): The director who led the charge to fire and sue Katia is threatened by a lawsuit for hate speech and warmongering complicity. This made him flip his position, to avoid jail.
+
+- Backdoor attacks (between Chapters 5 and 6 of SmartPoop 1.0): A trainer uses a a backdoor attack. Whenever its trainee loses a game, the trainer puts some specific molecules in the trainee's drink, which gives him bad SmartPoop diagnosis.
 
