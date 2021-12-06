@@ -38,10 +38,12 @@ $if(mathfont)$
 $endif$
 \fi
 % use microtype if available
-\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
-$if(geometry)$
-\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
-$endif$
+% \IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+% $if(geometry)$
+% \usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+% $endif$
+% \usepackage[paperwidth=6in, paperheight=9in, margin=1in]{geometry}
+\usepackage[paperwidth=6in, paperheight=9in, bindingoffset=.25in, left=.5in, right=.5in, top=.5in, bottom=1in]{geometry}
 $if(natbib)$
 \usepackage{natbib}
 \bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
@@ -167,7 +169,7 @@ $endfor$
 	{\Large $subtitle$ \\[20pt]}
 
 	% {\large PRIVATELY SHARED DRAFT \\}
-	{\LARGE Beta version \\}
+	% {\LARGE Beta version \\}
 
 	\vspace{1\baselineskip} % Whitespace below the title
 	\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} % Thin horizontal rule
