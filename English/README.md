@@ -6,7 +6,7 @@
 Welcome to *SmartPoop 1.0*, a novel written by Lê Nguyên Hoang and Tristan Le Magoarou,
 published under [licence CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (freely reusable with attributions to the authors).
 
-The book is available in [paperback](https://www.amazon.com/dp/B09MF889SM), on [GitHub](1-L'or.md), in [epub](SmartPoop-fr.epub) and in [pdf](SmartPoop-fr.pdf).  
+The book is available in [paperback](https://www.amazon.com/dp/B09MF889SM), on [GitHub](1-L'or.md), in [epub](SmartPoop.epub) and in [pdf](SmartPoop.pdf).  
 
 ## Outline
 
