@@ -309,7 +309,7 @@ Katia reste songeuse. Visiblement, elle pense encore avant tout à sauver SmartP
 
 > Un audit complet ? Ça va nous coûter des milliards !
 
-> C'est un petit prix à pays pour le futur de l'humanité.
+> C'est un petit prix à payer pour le futur de l'humanité.
 
 > Non mais en fait, non. Auditer tout notre code, ça va coûter même beaucoup, beaucoup plus ! Je sais qu'il y a une banque australienne qui a payé 750 millions de dollars pour refaire le système informatique[^cobol]. Et ça, c'est une petite banque, et leur service est des ordres de grandeur plus simple que SmartPoop. Je pense qu'on parle là en dizaines, voire en centaines de milliards de dollars.
 
