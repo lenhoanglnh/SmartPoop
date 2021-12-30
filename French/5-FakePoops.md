@@ -130,7 +130,7 @@ Un rapport de l'Institut de Recherche Stratégique de l'École Militaire (IRSEM)
 
 [^data-poisoning]: On parle alors d'attaques par données empoisonnées (*data poisoning*). Ces attaques consistent à injecter de fausses données dans la base de données d'entraînement des algorithmes pour les amener à apprendre et à conclure des choses erronnées.  
 [**Vidéo.**  Hacker l'IA (ft. El Mahdi El Mhamdi). Science4All (2018).](https://www.youtube.com/watch?v=x22oI81jyTQ)  
-L'attaque est ici simple : elle consiste simplement à lancer une alerte. Mais on peut imaginer des attaques plus sophistiquées, notamment pas « *backdoor* », qui conduirait l'algorithme à systématiquement se tromper pour certaines données.  
+L'attaque est ici simple : elle consiste simplement à lancer une alerte. Mais on peut imaginer des attaques plus sophistiquées, notamment par « *backdoor* », qui conduirait l'algorithme à systématiquement se tromper pour certaines données.  
 [**Science.**  Backdoor attacks against learning systems. Yujie Ji, Xinyang Zhang & Ting Wang. CNS (2017).](https://ieeexplore.ieee.org/document/8228656)  
 La défense contre le data poisoning semble surtout devoir s'appuyer sur la théorie de l'apprentissage Byzantine.  
 [**Science.**  An equivalence between data poisoning and Byzantine gradient attacks. Anonymous authors. OpenReview (2021).](https://openreview.net/forum?id=7pZiaojaVGU)  
@@ -168,7 +168,7 @@ On le voit particulièrement bien dans le cas des théories du complot, que ces 
 
 > Oui, mais du coup, tu peux espionner les diagnostics SmartPoop d'un individu, en obtenant des données personnelles semblables[^privacy-attack-ml].
 
-[^privacy-attack-ml]: On parle parfois d'attaques par extraction d'information. Les algorithmes de modernes mémorisant leurs données d'entraînement, ils sont en fait très vulnérables à ce genre d'attaque. En fait, il peut suffire de leur demander littéralement « quelle est l'adresse de Monsieur X » pour qu'ils révèlent une information sensible.  
+[^privacy-attack-ml]: On parle parfois d'attaques par extraction d'information. Les algorithmes modernes mémorisant leurs données d'entraînement, ils sont en fait très vulnérables à ce genre d'attaque. En fait, il peut suffire de leur demander littéralement « quelle est l'adresse de Monsieur X » pour qu'ils révèlent une information sensible.  
 [**Science.**  Extracting Training Data from Large Language Models. Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea & Colin Raffel. USENIX (2021).](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
 
 > Mais comment les espions pourraient-ils créer un profil similaire à celui de la femme du Président ?

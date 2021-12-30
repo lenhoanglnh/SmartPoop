@@ -155,7 +155,7 @@ En fin de matinée, c'est au tour de Marc d'entrer dans le bureau de Katia.
 
 Katia ouvre alors son client email, qui lui dit qu'elle a 25 251 messages non-lus. Elle trie ses messages par destinataire et trouve celui de Marc[^externalisation-memoire]. Katia copie-colle les références du cas, et lance des requêtes à la base de données de SmartPoop. Elle récupère alors les données d'Issa, et analyse les statistiques de ses excréments. Katia exécute quelques commandes, qui génèrent alors toutes sortes de graphes. Après avoir vu une quinzaine de graphes, Katia s'exclame : « Oh non ! Issa est hors distribution[^hors-distribution] ».
 
-[^externalisation-memoire]: Le philosophe Michel Serres aimait insister sur l'impact des technologies de l'information, comme le papier, l'imprimerie ou les ordinateurs, sur *l'externalisation* de notre cognition. Il est ainsi remarquable de constater à quel point nos boîtes emails sont parvenues à externaliser une grosse partie de notre mémoire. En un sens, nos boîtes emails nous connaissent beaucoup mieux que nous nous connaissons nous-mêmes, non pas car elles sont « intelligentes », mais simplement car leur mémoire est beaucoup plus fiable que la mémoire humaine, et car rechercher dans ces boîtes emails est beaucoup plus efficace que rechercher dans ntore mémoire.  
+[^externalisation-memoire]: Le philosophe Michel Serres aimait insister sur l'impact des technologies de l'information, comme le papier, l'imprimerie ou les ordinateurs, sur *l'externalisation* de notre cognition. Il est ainsi remarquable de constater à quel point nos boîtes emails sont parvenues à externaliser une grosse partie de notre mémoire. En un sens, nos boîtes emails nous connaissent beaucoup mieux que nous nous connaissons nous-mêmes, non pas car elles sont « intelligentes », mais simplement car leur mémoire est beaucoup plus fiable que la mémoire humaine, et car rechercher dans ces boîtes emails est beaucoup plus efficace que rechercher dans notre mémoire.  
 [**Vidéo.**  Michel Serres - Les nouvelles technologies : révolution culturelle et cognitive. I Moved to Diaspora (2012).](https://www.youtube.com/watch?v=ZCBB0QEmT5g)
 
 [^hors-distribution]: Les données dites « hors distribution » sont des données très distinctes de l'ensemble des autres données. Elles sont souvent considérées erronées, voire adversariales, si bien que beaucoup d'algorithmes d'apprentissage cherchent à les éliminer.  
@@ -226,7 +226,7 @@ Katia raccroche deux fois, pour vérifier que Dr. Marta n'est plus connectée. K
 
 > Que se passe-t-il ?
 
-> SmartPoop est... raciste[^ia-raciste], affirme Katia avec ton grave.
+> SmartPoop est... raciste[^ia-raciste], affirme Katia avec un ton grave.
 
 [^ia-raciste]: [**Vidéo.**  L'IA est raciste (mais vous aussi !). Science4All (2018).](https://www.youtube.com/watch?v=GdIfDV7FvzQ&list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC&index=31)
 
@@ -315,7 +315,7 @@ Quelques jours plus tard, à SmartPoopCon 2024, la conférence annuelle majeure 
 >
 > Et là, j'aimerais que vous pensiez à vous poser la question la plus importante de l'industrie des technologies : ma confiance en tel ou tel produit de telle ou telle entreprise est-elle justifiée[^calibration] ?
 
-[^diversite]: Plusieurs études soulignent l'importance de la diversité pour la créativité d'un groupe. Il ne semble toutefois y avoir des résultats confus et contradictoires concernant l'impact de la diversité sur l'efficacité du groupe. Ce n'est sans doute pas étonnant, sachant que cet impact dépend très probablement de nombreux autres facteurs, comme la tâche assigneé au groupe, la sensibilité émotionnelle des membres du groupes et l'organisation de ce groupe.  
+[^diversite]: Plusieurs études soulignent l'importance de la diversité pour la créativité d'un groupe. Il ne semble toutefois y avoir des résultats confus et contradictoires concernant l'impact de la diversité sur l'efficacité du groupe. Ce n'est sans doute pas étonnant, sachant que cet impact dépend très probablement de nombreux autres facteurs, comme la tâche assignée au groupe, la sensibilité émotionnelle des membres du groupes et l'organisation de ce groupe.  
 [**Science.**  Collective Intelligence and Group Performance. Anita Williams Woolley, Ishani Aggarwal & Thomas W. Malone. Current Directions in Psychological Science (2015).](https://journals.sagepub.com/doi/full/10.1177/0963721415599543)  
 [**Science.**  Evidence for a Collective Intelligence Factor in the Performance of Human Groups. Anita Wooley, Christopher Chabris, Alex Pentland, Nada Hashmi & Thomas Malone. Science (2010).](https://www.science.org/doi/full/10.1126/science.1193147)
 
