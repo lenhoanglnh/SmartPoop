@@ -10,7 +10,7 @@ Avec dix voix contre et treize voix pour[^scrutin-conseil-administration], le ve
 
 > Je sais comment la suite va se dérouler. Je parie que tu as déjà reçu un email pour effectuer une autre réunion demain, pour décider de me poursuivre en justice[^facebook-could-sue-haugen]. Je risque de finir en prison, avec une grosse amende que je ne pourrai pas payer. Et surtout, tu vas te retrouver de plus en plus isolé et marginalisé.
 
-[^facebook-could-sue-haugen]: Facebook a menacé la lanceuse d'alerte Haugen de poursuites en justice, notamment pour avoir transmis des documents confidentiels à la presse. Selon des experts, Haugen n'est pas protégée, et le sait. Selon eux, ce qui a le plus de chance de protégé Haugen, c'est le backlash médiatique et surtout politique que de telles poursuites pourraient avoir pour Facebook.  
+[^facebook-could-sue-haugen]: Facebook a menacé la lanceuse d'alerte Haugen de poursuites en justice, notamment pour avoir transmis des documents confidentiels à la presse. Selon des experts, Haugen n'est pas protégée, et le sait. Selon eux, ce qui a le plus de chance de protégé Haugen, c'est le contrecoup médiatique et surtout politique que de telles poursuites pourraient avoir pour Facebook.  
 [**Journal.**  Facebook whistleblower isn't protected from possible company retaliation, experts say. Obby Allyn. NPR (2021).](https://www.npr.org/2021/09/30/1042012393/facebook-whistleblower-retaliation)
 
 ### Licenciée
