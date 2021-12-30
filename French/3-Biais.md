@@ -87,11 +87,11 @@ Terrifié, Issa ressort de chez lui, prend la voiture et va directement à l'hô
 
 Après une minute ou deux, Issa est pris en charge.
 
-> Bonjour monsieur Gueye, je suis Dr. Paola Marta. Sachez que nous avons l'habitude de gérer des urgences SmartPoop. Depuis deux ans, la plupart de nos patients sont venus suite à une alerte SmartPoop, et le rapport qu'ils nous envoient nous aide toujours beaucoup à soigner nos patients[^familiarite]. Comment vous sentez-vous ?
+> Bonjour monsieur Gueye, je suis Dr Paola Marta. Sachez que nous avons l'habitude de gérer des urgences SmartPoop. Depuis deux ans, la plupart de nos patients sont venus suite à une alerte SmartPoop, et le rapport qu'ils nous envoient nous aide toujours beaucoup à soigner nos patients[^familiarite]. Comment vous sentez-vous ?
 
 [^familiarite]: D'après une étude récente, la plupart des gens semblent faire en effet davantage confiance aux jugements d'un algorithme que d'un humain, au moins pour certaines prédictions comme le succès de Tesla, des sanctions européennes contre la cyber-guerre ou le futur du Brexit. De façon toutefois perturbante, les professionnels expérimentés, eux, font moins confiance aux algorithmes, ce qui les conduit à de moins bons jugements que les non-professionnels !  
 [**Science.**  Algorithm appreciation: People prefer algorithmic to human judgment. Jennifer Logg, Julia Minsona & Don Moore. Organizational Behavior and Human Decision Processes (2019).](https://www.sciencedirect.com/science/article/abs/pii/S0749597818303388)  
-Cependant, la recherche en psychologie suggère également que ce qui nous est familier nous paraît plus crédible, et ce de manière parfois troublante. On parle de *biais de familiarité*. Par exemple, un sujet exposé à de multiples reprises à la phrase « la température corporelle d'une poule » a une plus grande probabilité de juger la phrase « la température corporelle d'une poule est de 34°C » vraie. Le fait que Dr. Paola Marta interagit quotidiennement avec des rapports SmartPoop, qui en plus sont efficaces pour la guider dans le traitement de ses patients, pourrait alors expliquer pourquoi la docteur Paola Marta fait confiance à SmartPoop.  
+Cependant, la recherche en psychologie suggère également que ce qui nous est familier nous paraît plus crédible, et ce de manière parfois troublante. On parle de *biais de familiarité*. Par exemple, un sujet exposé à de multiples reprises à la phrase « la température corporelle d'une poule » a une plus grande probabilité de juger la phrase « la température corporelle d'une poule est de 34°C » vraie. Le fait que Dr Paola Marta interagit quotidiennement avec des rapports SmartPoop, qui en plus sont efficaces pour la guider dans le traitement de ses patients, pourrait alors expliquer pourquoi la docteur Paola Marta fait confiance à SmartPoop.  
 [**Vidéo.**  The Illusion of Truth. Veritasium (2016).](https://www.youtube.com/watch?v=cebFWOlx848)
 
 > Pour l'instant, je n'ai que des maux gastriques. Mais je suis assez terrifié. SmartPoop dit que mon état de santé est « très préoccupant ».
@@ -100,9 +100,9 @@ Cependant, la recherche en psychologie suggère également que ce qui nous est f
 
 > Oui. Docteure, est-ce que vous savez ce que j'ai et si ça va aller ?
 
-Dr. Marta fuit alors Issa du regard. Clairement gênée, Dr. Marta paraît terrifiée par le diagnostic de SmartPoop. Les 27 patients qu'elle a eus, et dont l'état de santé avait été jugé « très préoccupant » par SmartPoop, sont tous décédés[^laplace-succession]. Après un silence interminable, Dr. Marta finit par répondre, avec visiblement un effort pour paraître aussi rassurante que possible, malgré les circonstances.
+Dr Marta fuit alors Issa du regard. Clairement gênée, Dr Marta paraît terrifiée par le diagnostic de SmartPoop. Les 27 patients qu'elle a eus, et dont l'état de santé avait été jugé « très préoccupant » par SmartPoop, sont tous décédés[^laplace-succession]. Après un silence interminable, Dr Marta finit par répondre, avec visiblement un effort pour paraître aussi rassurante que possible, malgré les circonstances.
 
-[^laplace-succession]: La loi de succession de Laplace suggère que, si on avait a priori une incertitude initiale totale sur le fait qu'un diagnostic « très préoccupant » de SmartPoop conduisait à un danger de mort, alors, sachant que les 27 premiers patients avec ce diagnostic sont tous morts, la probabilité qu'Issa meurt à son tour serait alors de 28/29. Voilà qui justifie pleinement la peur de Dr. Marta.  
+[^laplace-succession]: La loi de succession de Laplace suggère que, si on avait a priori une incertitude initiale totale sur le fait qu'un diagnostic « très préoccupant » de SmartPoop conduisait à un danger de mort, alors, sachant que les 27 premiers patients avec ce diagnostic sont tous morts, la probabilité qu'Issa meurt à son tour serait alors de 28/29. Voilà qui justifie pleinement la peur de Dr Marta.  
 [**Vidéo.**  Binomial distributions | Probabilities of probabilities, part 1. 3Blue1Brown (2020).](https://www.youtube.com/watch?v=8idr1WZ1A7Q)
 
 > Je vous promets qu'on fera de notre mieux.
@@ -121,11 +121,11 @@ Il semble en effet souvent être le cas que ces buts sont des *croyances orpheli
 [**Vidéo.** Your brain is not a Bayes net (and why that matters). Julia Galef (2016).](https://www.youtube.com/watch?v=cFv5DvrLDCg)  
 [**Vidéo.**  La croyance orpheline d'Einstein. Science4All (2019).](https://www.youtube.com/watch?v=3jtKDWJsvEo&list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n&index=22)
 
-Dr. Marta revient alors vers Issa. « Enfin », s'exclame intérieurement Issa, qui a l'impression d'avoir été abandonné depuis plusieurs heures. Pourtant, cela ne fait que dix minutes que Dr. Marta s'était absentée[^temps-subjectif]. Elle demande alors à Issa de l'accompagner pour passer une radiologie, et lui annonce qu'une coloscopie est aussi envisagée. En l'espace de quelques heures, Issa subira en fait toutes sortes d'analyses. En fin de journée, Dr. Marta lui dit qu'il restera en observation pendant la nuit. Elle l'encourage à essayer de manger le repas qui lui est servi, et à essayer de trouver le sommeil pour se reposer.
+Dr Marta revient alors vers Issa. « Enfin », s'exclame intérieurement Issa, qui a l'impression d'avoir été abandonné depuis plusieurs heures. Pourtant, cela ne fait que dix minutes que Dr Marta s'était absentée[^temps-subjectif]. Elle demande alors à Issa de l'accompagner pour passer une radiologie, et lui annonce qu'une coloscopie est aussi envisagée. En l'espace de quelques heures, Issa subira en fait toutes sortes d'analyses. En fin de journée, Dr Marta lui dit qu'il restera en observation pendant la nuit. Elle l'encourage à essayer de manger le repas qui lui est servi, et à essayer de trouver le sommeil pour se reposer.
 
 [^temps-subjectif]: [**Vidéo.**  How Your Brain Makes Time Pass Fast or Slow. It's Okay To Be Smart (2020).](https://www.youtube.com/watch?v=NSy0Z7XCF3E)
 
-Le lendemain matin, Dr. Marta arrive enfin dans la chambre d'Issa. Issa est épuisé. Terrifié, il n'a pas dormi de la nuit.
+Le lendemain matin, Dr Marta arrive enfin dans la chambre d'Issa. Issa est épuisé. Terrifié, il n'a pas dormi de la nuit.
 
 > Quelles sont les nouvelles, docteure ?
 
@@ -139,7 +139,7 @@ En fin de matinée, c'est au tour de Marc d'entrer dans le bureau de Katia.
 
 > Que se passe-t-il, Marc ?
 
-> Mon assistante vient de me dire qu'une médecin, Dr. Marta, n'a cessé d'essayer de nous joindre hier soir et ce matin. Elle a un patient à qui SmartPoop a dit d'aller aux urgences. Ils ont lancé plein de tests sur le patient. Mais ils n'arrivent pas à identifier la cause du problème.
+> Mon assistante vient de me dire qu'une médecin, Dr Marta, n'a cessé d'essayer de nous joindre hier soir et ce matin. Elle a un patient à qui SmartPoop a dit d'aller aux urgences. Ils ont lancé plein de tests sur le patient. Mais ils n'arrivent pas à identifier la cause du problème.
 
 > T'as lancé l'équipe de diagnostics personnalisés sur le problème ?
 
@@ -174,19 +174,19 @@ Les algorithmes qui prévilégient la sécurité sont alors conduits à ignorer 
 
 ### L'effet *nocebo*
 
-Marc compose le numéro de Dr. Marta.
+Marc compose le numéro de Dr Marta.
 
-> Bonjour Dr. Marta, ici Marc Rofstein. Vous êtes en ce moment en speakerphone avec Katia Crapinski et moi, Présidente et Vice-Président de SmartPoop. On a du nouveau sur le cas d'Issa Gueye.
+> Bonjour Dr Marta, ici Marc Rofstein. Vous êtes en ce moment en speakerphone avec Katia Crapinski et moi, Présidente et Vice-Président de SmartPoop. On a du nouveau sur le cas d'Issa Gueye.
 
-> Bonjour Dr. Marta, ici Katia. J'ai analysé le cas de monsieur Gueye, et je suis à peu près sûre qu'il s'agit d'un faux positif. Autrement dit, SmartPoop s'est trompé en signalant un problème avec les données de monsieur Gueye.
+> Bonjour Dr Marta, ici Katia. J'ai analysé le cas de monsieur Gueye, et je suis à peu près sûre qu'il s'agit d'un faux positif. Autrement dit, SmartPoop s'est trompé en signalant un problème avec les données de monsieur Gueye.
 
-> Bonjour Marc et Katia, répond Dr. Marta. Vous êtes sûrs de ce que vous dites ? Monsieur Gueye a des symptômes préoccupants, notamment au niveau digestif et en termes de fatigue.
+> Bonjour Marc et Katia, répond Dr Marta. Vous êtes sûrs de ce que vous dites ? Monsieur Gueye a des symptômes préoccupants, notamment au niveau digestif et en termes de fatigue.
 
 > C'est étrange. Les données que j'ai ne me semblent pas suggérer des symptômes préoccupants, explique Katia.
 
 > C'est peut-être un effet *nocebo*, intervient alors Marc.
 
-> Un effet *nocebo* ? Oui ça pourrait être ça, en effet, s'exclame Dr. Marta.
+> Un effet *nocebo* ? Oui ça pourrait être ça, en effet, s'exclame Dr Marta.
 
 > Un effet *nocebo*, demande Katia, qu'est-ce que c'est ?
 
@@ -194,19 +194,19 @@ Marc compose le numéro de Dr. Marta.
 
 [^nocebo]: [**Vidéo.**  This Video Will Hurt. CGP Grey (2013).](https://www.youtube.com/watch?v=O2hO4_UEe-4)
 
-> Mais expliquez-moi, demande Dr. Marta, pourquoi y a-t-il eu ce cas de faux positif ? Jusque là, à chaque fois que SmartPoop a déclaré un cas « très préoccupant », dans notre hôpital, ça avait toujours terminé en unité de soin intensif, puis en décès. C'est pour ça que j'ai moi-même était paniquée pour monsieur Gueye — ce qui a sans doute malheureusement contribué à son *nocebo*.
+> Mais expliquez-moi, demande Dr Marta, pourquoi y a-t-il eu ce cas de faux positif ? Jusque là, à chaque fois que SmartPoop a déclaré un cas « très préoccupant », dans notre hôpital, ça avait toujours terminé en unité de soin intensif, puis en décès. C'est pour ça que j'ai moi-même était paniquée pour monsieur Gueye — ce qui a sans doute malheureusement contribué à son *nocebo*.
 
 > On vient de déployer les SmartToilets et les SmartToilets Deluxe, explique Katia. Je pense que les SmartToilets ont des diagnostics relativement fiables. Mais la version Deluxe a des capteurs encore plus avancés, qui n'ont pas été aussi utilisés que ceux des SmartToilets de base. Et c'est pour cette raison qu'elle n'est pas aussi fiable.
 
-> Je comprends, merci, réponds Dr. Marta. Je vais en informer monsieur Gueye. Avec un peu de chance, ça aidera à soigner son *nocebo*. Est-ce que je peux vous demander de manuellement corriger son SmartPoop ?
+> Je comprends, merci, réponds Dr Marta. Je vais en informer monsieur Gueye. Avec un peu de chance, ça aidera à soigner son *nocebo*. Est-ce que je peux vous demander de manuellement corriger son SmartPoop ?
 
 > C'est… fait, dit Katia, après avoir entré quelques commandes sur son ordinateur.
 
-> Merci beaucoup ! Bonne journée, conclut Dr. Marta, avant de raccrocher.
+> Merci beaucoup ! Bonne journée, conclut Dr Marta, avant de raccrocher.
 
 ### 163 faux positifs
 
-Katia raccroche deux fois, pour vérifier que Dr. Marta n'est plus connectée. Katia tape alors plusieurs nouvelles commandes, qui permettent d'afficher trois nouveaux graphes. Elle se retourne vers Marc.
+Katia raccroche deux fois, pour vérifier que Dr Marta n'est plus connectée. Katia tape alors plusieurs nouvelles commandes, qui permettent d'afficher trois nouveaux graphes. Elle se retourne vers Marc.
 
 > Bien joué Katia. Toujours là pour nous secourir, s'exclame Marc.
 
