@@ -262,7 +262,7 @@ Un nouveau silence se fait. Visiblement, chaque discours de Katia nécessite un 
 
 [^tournesol]: C'est là l'objectif du projet [Tournesol](https://tournesol.app), co-fondé par l'un des auteurs du livre.
 
-[^zhang]: La lanceuse d'alertede Facebook Sophie Zhang en parle très bien.  
+[^zhang]: La lanceuse d'alerte de Facebook Sophie Zhang en parle très bien.  
 [**Vidéo.**  Facebook whistleblower Sophie Zhang on how the platform is influencing global politics | 7.30. ABC News (2021).](https://www.youtube.com/watch?v=-rlQbZRJtWw)
 
 [^transparence-actionnaires]: De façon intéressante, certains actionnaires exigent désormais eux aussi plus de transparence de ces entreprises, dont les manoeuvres secrètes peuvent être largement vues comme une menace à la sécurité de l'entreprise même, surtout sur le long terme.  
@@ -279,7 +279,7 @@ Le soir même, les aveux de Katia font la une de tous les journaux télévisés.
 
 > Bonjour, non je ne suis pas surpris. Katia et moi, nous nous y sommes préparés depuis plusieurs semaines. Nous savions que notre entreprise s'était engagée dans des décisions immorales, et nous sentions que nous perdions notre influence sur les décisions futures. Sachant l'influence monumentale qu'a désormais SmartPoop, et la quantité effarante de torts que ces décisions peuvent causer, Katia a décidé de se sacrifier légalement. Je suis incroyablement fier de son courage et de son éthique. C'est vraiment fantastique. Si tous les dirigeants industriels, juridiques et étatiques avaient un millième de son courage et de son éthique, il y a sans doute bien longtemps que le changement climatique ne serait plus un problème[^haugen-the-journal]. Félicitations Katia !
 
-[^haugen-the-journal]: On peut d'ailleurs souligner le travail monumental effectué par la lanceuse d'alerter Frances Haugen, pour révéler de la manière la plus productive qui soit les problèmes internes à Facebook, avec l'objectif avant tout de rendre le monde meilleur — et pas directement de détruire Facebook.  
+[^haugen-the-journal]: On peut d'ailleurs souligner le travail monumental effectué par la lanceuse d'alerte Frances Haugen, pour révéler de la manière la plus productive qui soit les problèmes internes à Facebook, avec l'objectif avant tout de rendre le monde meilleur — et pas directement de détruire Facebook.  
 [**Podcast.**  The Facebook Files, Part 6: The Whistleblower. The Journal (2021).](https://www.wsj.com/podcasts/the-journal/the-facebook-files-part-6-the-whistleblower/b311b3d8-b50a-425f-9eb7-12a9c4278acd)
 
 > Mais ces révélations, Marc, sont-elles fondées ? Sont-elles vraies ?

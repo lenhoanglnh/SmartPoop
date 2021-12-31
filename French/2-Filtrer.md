@@ -293,7 +293,7 @@ Pour être clair, oui, les bananes ont été modifiées par l'agriculture. Cela 
 
 > Malheureusement, en tant que YouTubeur éducatif, je peux te certifier qu'expliquer tout cela prend du temps[^brandolini]...
 
-[^brandolini]: On parle parfois de la « loi de Brandolini », ou de le principe d'asymétrie des idioties, selon quoi le coût de déconstruire une croyance erronée est beaucoup plus grand que celui de la défendre. Voilà qui rend la rectification de croyances erronées extrêmement ardue, lorsqu'elle est confrontée au « mille-feuille argumentaire », qui correspond à enchaîner des arguments bancals défendant une croyance.  
+[^brandolini]: On parle parfois de la « loi de Brandolini », ou du principe d'asymétrie des idioties, selon quoi le coût de déconstruire une croyance erronée est beaucoup plus grand que celui de la défendre. Voilà qui rend la rectification de croyances erronées extrêmement ardue, lorsqu'elle est confrontée au « mille-feuille argumentaire », qui correspond à enchaîner des arguments bancals défendant une croyance.  
 [**Vidéo.**  Comment réagir au bullshit ? Philoxime](https://www.youtube.com/watch?v=x_aA8HLCQsk)
 
 > Oui et l'attention du public est très limitée. C'est pourquoi, plutôt que d'inonder les utilisateurs de SmartPoop d'informations complexes, nous avons opté pour leur communiquer uniquement des informations très simples et très fiables, tout en ajoutant des liens vers des informations plus complètes.
