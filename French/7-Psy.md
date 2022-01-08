@@ -60,7 +60,7 @@ Il est utile d'insister sur le fait que le problème des *mute news* ne pourra p
 
 > T'es sérieux ? C'est terriblement frustrant.
 
-> Katia, tu t'es quand même attaquée à plus que SmartPoop. Tu as critiqué aux géants de l'information, ceux qui contrôlent le flux de l'information, et qui ont tout intérêt à ce que tu sois réduite au silence, et ignorée[^gebru-silencing]. Vu ce qu'il se passe chez SmartPoop, je parierais que dans ces boîtes aussi, les actionnaires ont opté pour des stratagèmes pour faire taire ton affaire, en boostant par exemple artificiellement l'histoire du scandale sexuel et tous les messages qui s'en indignent. On vit une dystopie informationnelle.
+> Katia, tu t'es quand même attaquée à plus que SmartPoop. Tu as critiqué les géants de l'information, ceux qui contrôlent le flux de l'information, et qui ont tout intérêt à ce que tu sois réduite au silence, et ignorée[^gebru-silencing]. Vu ce qu'il se passe chez SmartPoop, je parierais que dans ces boîtes aussi, les actionnaires ont opté pour des stratagèmes pour faire taire ton affaire, en boostant par exemple artificiellement l'histoire du scandale sexuel et tous les messages qui s'en indignent. On vit une dystopie informationnelle.
 
 [^gebru-silencing]: Peu de temps après avoir licencié Timnit Gebru, Google semble avoir retiré à la main l'onglet « actualité » lorsqu'un utilisait recherchait « Timnit Gebru ».
 [**Web.**  "Things I learned this morning, when searching for @timnitGebru on desktop, the results for "news" are hidden (dark patterns)." Tweet by Devin Guillory (2021).](https://twitter.com/databoydg/status/1359304159527198733)

@@ -163,7 +163,7 @@ Après un autre silence, Katia reprend son discours.
 
 Le public rit à nouveau.
 
-> Bien entendu, beaucoup de ces opérations devraient être largement configurables par les utilisateurs. Ceci étant dit, la plupart des utilisateurs ne voudront pas gérer toutes les configurations de tous leurs systèmes d'information, et vérifier, par exemple, que ces configurations respectent le règlement pour la protection des données personnelles, ou empêchent la diffusion massive de discours de haine. Non, la plupart des utilisateurs sont comme moi : ce sont des fainéants.
+> Bien entendu, beaucoup de ces opérations devraient être largement configurables par les utilisateurs. Ceci étant dit, la plupart des utilisateurs ne voudront pas gérer toutes les configurations de tous leurs systèmes d'information, et vérifier, par exemple, que ces configurations respectent le Règlement Général sur la Protection des Données, ou empêchent la diffusion massive de discours de haine. Non, la plupart des utilisateurs sont comme moi : ce sont des fainéants.
 
 Le rire du public permet alors à Katia de reprendre son souffle.
 
