@@ -139,7 +139,7 @@ En fin de matinée, c'est au tour de Marc d'entrer dans le bureau de Katia.
 
 > Que se passe-t-il, Marc ?
 
-> Mon assistante vient de me dire qu'une médecin, Dr Marta, n'a cessé d'essayer de nous joindre hier soir et ce matin. Elle a un patient à qui SmartPoop a dit d'aller aux urgences. Ils ont lancé plein de tests sur le patient. Mais ils n'arrivent pas à identifier la cause du problème.
+> Mon assistante vient de me dire qu'une médecin, Dr Marta, n'a cessé d'essayer de nous joindre hier soir et ce matin. Elle a un patient à qui SmartPoop a dit d'aller aux urgences. Ils ont effectué une série de tests sur le patient. Mais ils n'arrivent pas à identifier la cause du problème.
 
 > T'as lancé l'équipe de diagnostics personnalisés sur le problème ?
 
@@ -297,13 +297,13 @@ Après un silence, Marc rajoute : « Je pense que c'est peine perdue. Les 163 v
 
 > Clairement, on ne l'a pas fait de manière intentionnelle. Mais oui, si on prend du recul, je pense qu'on peut dire que c'est ce qu'on a fait...
 
-> Bon... Quoi qu'il en soit, il faut qu'on prenne les devants dans cette affaire avant que ça ne leake. Je vais réorganiser SmartPoopCon, pour parler du problème qu'on a, et de ce qu'on prévoit de faire pour éviter que nos algorithmes soient racistes et causent de telles souffrances.
+> Bon... Quoi qu'il en soit, il faut qu'on prenne les devants dans cette affaire avant que ça ne fuite. Je vais réorganiser SmartPoopCon, pour parler du problème qu'on a, et de ce qu'on prévoit de faire pour éviter que nos algorithmes soient racistes et causent de telles souffrances.
 
 ### Inclusion et diversité
 
 Quelques jours plus tard, à SmartPoopCon 2024, la conférence annuelle majeure de l'entreprise SmartPoop, Katia prit la parole pour annoncer les nouvelles mesures de diversité et inclusion de son entreprise.
 
-> Dans notre industrie, nous avons tendance à vouloir constamment aller de l'avant, en présentant des nouveaux projets pour le futur. On attend de nous qu'on *innove*. Mais ce n'est pas la mission de SmartPoop. La mission de SmartPoop, c'est de garantir à tous nos utilisateurs une prise en charge sanitaire sans égale. La mission de SmartPoop, c'est de veiller à la santé et au bien-être de *tous* les humains sur terre. Et aujourd'hui, j'aimerais affirmer publiquement toujours plus cette volonté de SmartPoop.
+> Dans notre industrie, nous avons tendance à vouloir constamment aller de l'avant, en présentant des nouveaux projets pour le futur. On attend de nous qu'on *innove*. Mais ce n'est pas la mission de SmartPoop. La mission de SmartPoop, c'est de garantir à tous nos utilisateurs une prise en charge sanitaire sans égale. La mission de SmartPoop, c'est de veiller à la santé et au bien-être de *tous* les humains sur terre. Et aujourd'hui, j'aimerais affirmer à nouveau publiquement cette volonté de SmartPoop.
 >
 > Or, pour cela, pour vraiment arriver à prendre soin de tous les humains sur terre, plutôt que de toujours chercher la prochaine nouvelle idée, il est aussi critique de surveiller nos technologies et de vérifier qu'elles fonctionnent correctement. À SmartPoop, c'est ce que nous faisons systématiquement. Malheureusement, récemment, nous nous sommes rendus compte que nous avons un biais systémique dans la manière dont nous testons nos produits. Nos équipes d'ingénieurs étant principalement des hommes blancs, ils échouent souvent à penser aux préoccupations des minorités. Pour combler ce manque, nous sommes convaincus qu'il nous faut introduire beaucoup plus de mixité sociale dans nos équipes. C'est pourquoi nous nous engageons activement à combattre nos biais systémiques en promouvant le recrutement des populations actuellement sous-représentées parmi nos employés[^diversite].
 >
