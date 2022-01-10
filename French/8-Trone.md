@@ -101,7 +101,7 @@ Ceci étant dit, il y a récemment eu de nombreux progrès, comme la création d
 
 > Enfin, et surtout, je tiens à remercier chacun des acteurs et signataires de la lettre ouverte, ainsi qu'à chacun des journalistes et des influenceurs qui ont couvert cette affaire, grâce à qui SmartPoop a pu se remettre dans le droit chemin. Ces femmes et ces hommes ont risqué leur vie, leur bien-être et leur sécurité individuels, pour venir en aide au plus grand nombre[^whistleblower]. Sans eux, qui sait ce que SmartPoop serait devenu ? Qui sait ce que je serais devenue ?
 
-[^whistleblower]: Malheureusement, les lanceurs d'alerte souffrent souvent de davantage de troubles de santé mental suite à leurs actes courageux. Vu le rôle critique qui joue pour révéler des scandales dans des entreprises et des organisations dangereusement opaques, il semble urgent de beaucoup mieux les accompagner.  
+[^whistleblower]: Malheureusement, les lanceurs d'alerte souffrent souvent de davantage de troubles de santé mental suite à leurs actes courageux. Vu le rôle critique qu'ils jouent pour révéler des scandales dans des entreprises et des organisations dangereusement opaques, il semble urgent de beaucoup mieux les accompagner.  
 [**Science.**  Mental Health Problems Among Whistleblowers: A Comparative Study. Peter van der Velden, Mauro Pecoraro, Mijke Houwerzijl & Erik van der Meulen. Psychological Reports (2018).](https://journals.sagepub.com/doi/10.1177/0033294118757681)
 
 Seule sur scène, Katia lâche une larme.
