@@ -319,9 +319,9 @@ Lê Nguyên Hoang a par exemple produit une vidéo en collaboration avec le Mini
 [^google-approval]: Notez que cela n'est pas le cas des chercheurs en éthiques des IA de Google, dont les publications sont soumis à une approbation en interne par des managers haut placés de Google. Comme on l'a vu suite aux licenciements de Timnit Gebru et Margarett Mitchell, ce manque d'indépendance entre l'éthique et la direction de Google est un sérieux risque pour l'intégrité de la recherche de Google.  
 [**Vidéo.**  Google démantèle son éthique (et tout le monde s'en fout...). Science4All (2021).](https://www.youtube.com/watch?v=HbFadtOxs4k)
 
-> Vous entendez cela, chers vieweurs ? Promis, je resterai libre dans ce que je dis. Si SmartPoop chie son produit ou son interface, je serai le premier à le signaler.
+> Vous entendez cela, chers vieweurs ? Promis, je resterai libre dans ce que je dis. Si SmartPoop chie son produit ou son interface, je serai la première à le signaler.
 
-> J'espère bien, oui. Notre relation avec toi va beaucoup s'appuyer sur une relation de confiance. Nous avons confiance en toi, et en ta volonté de prioriser la santé publique dans tes vidéos. Et nous espérons que toi, Science4Alpha, ainsi que le grand public et nos différents partenaires, feront confiance en notre engagement pour la santé publique avant tout[^confiance].
+> J'espère bien, oui. Notre relation avec toi va beaucoup s'appuyer sur la confiance. Nous avons confiance en toi, et en ta volonté de prioriser la santé publique dans tes vidéos. Et nous espérons que toi, Science4Alpha, ainsi que le grand public et nos différents partenaires, feront confiance en notre engagement pour la santé publique avant tout[^confiance].
 
 [^confiance]: L'une des grandes difficultés d'un tel partenariat, notamment pour les entreprises ou les gouvernements, c'est la confiance en le communicateur scientifique. Celui-ci pourrait être payé par des concurrents pour produire une désinformations nocives. Malheureusement, mettre en place de tels partenariats, c'est compliqué...
 
