@@ -93,7 +93,7 @@ Cette idée hante désormais constamment l'esprit de Katia, ce qui pousse Katia 
 
 [^vegas-addiction]: [**Podcast.**  What Happened in Vegas. Natasha Dow Schüll. Your Undivided Attention (2019).](https://www.humanetech.com/podcast/1-what-happened-in-vegas)
 
-Seule et isolée, démotivée et sans inspiration, toujours à moitié réveillée et endormie, Katia passe maintenant ses journées dans son lit. Elle a réinstallé les réseaux sociaux, mais avec des nouveaux comptes pour éviter d'entendre parler de SmartPoop. Elle passe désormais son temps à doomscroller[^doomscrolling] des vidéos YouTube, des images Instagram et des commentaires Reddit, sur des sujets toujours plus clivants et sans intérêt. Elle n'éprouve aucune joie à ce faire. Mais c'est plus fort qu'elle. Tel un zombie, son pouce ne cesse de faire glisser l'écran de son téléphone.
+Seule et isolée, démotivée et sans inspiration, toujours à moitié réveillée et endormie, Katia passe maintenant ses journées dans son lit. Elle a réinstallé les réseaux sociaux, mais avec des nouveaux comptes pour éviter d'entendre parler de SmartPoop. Elle passe désormais son temps à doomscroller[^doomscrolling] des vidéos YouTube, des images Instagram et des commentaires Reddit, sur des sujets toujours plus clivants et sans intérêt. Elle n'éprouve aucune joie à le faire. Mais c'est plus fort qu'elle. Tel un zombie, son pouce ne cesse de faire glisser l'écran de son téléphone.
 
 [^doomscrolling]: [**Science.**  Doomscrolling during COVID-19: The negative association between daily social and traditional media consumption and mental health symptoms during the COVID-19 pandemic. Matthew Price et al. (2021).](https://scholarworks.iupui.edu/handle/1805/25833)
 
